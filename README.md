@@ -7,8 +7,9 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Books
 
 * [Getting Started with Magento Extension Development](https://www.packtpub.com/web-development/getting-started-magento-extension-development) by Ajzele Branko
-* [Grokking Magento](https://shop.vinaikopp.com/grokking-magento) by Vinai Kopp
+* [Grokking Magento - Book 1: Basics & Request Flow](https://shop.vinaikopp.com/grokking-magento) by Vinai Kopp
 * [Magento PHP Developer's Guide](https://www.packtpub.com/web-development/magento-php-developer’s-guide) by Allan Mac Gregor
+* [Magento Product Types: Developer's Guide](https://leanpub.com/magentoproducttypesdevelopersguide) by Oleg Ishenko
 * [No Frills Command Line Magento](https://leanpub.com/command-line-magento/) by Alan Storm
 * [No Frills Magento Layout](http://store.pulsestorm.net/products/no-frills-magento-layout) by Alan Storm
 
@@ -26,3 +27,9 @@ If you want to contribute you are welcome: fork the project and submit your pull
 
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
+
+## Misc
+
+* [MageHero](http://magehero.com/) - Awesome Magento Developers
+* [MageKarma](http://www.magekarma.com/) - Magento Extensions Reviewed by Community
+* [MageUnity](https://mageunity.com/)  Community-powered Discourse forum for members of the Magento community
