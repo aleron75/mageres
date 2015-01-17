@@ -17,10 +17,12 @@ If you want to contribute you are welcome: fork the project and submit your pull
 
 * [Alan Storm](http://alanstorm.com/category/magento)
 * [Belvg](http://blog.belvg.com/category/magento-news)
+* [Ben Marks](http://bhmarks.com/blog/)
 * [EcomDev](http://www.ecomdev.org/blog)
 * [Inchoo](http://inchoo.net/category/magento/)
 * [Magebase](http://magebase.com/)
 * [Magenticians](http://magenticians.com/)
+* [Magento Blog](http://magento.com/blog)
 * [Magestore](http://blog.magestore.com/)
 * [Solving Magento](http://www.solvingmagento.com/)
 
@@ -32,6 +34,8 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Misc (Forum, Communities)
 
 * [MageHero](http://magehero.com/) - Awesome Magento Developers
+* [Magento Forum](http://www.magentocommerce.com/boards/) - Read only Magento forum
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform.
 * [MageKarma](http://www.magekarma.com/) - Magento Extensions Reviewed by Community
 * [MageUnity](https://mageunity.com/) - Community-powered Discourse forum for members of the Magento community
+* [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
