@@ -29,8 +29,9 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
 
-## Misc
+## Misc (Forum, Communities)
 
 * [MageHero](http://magehero.com/) - Awesome Magento Developers
+* [Magento Stack Exchange](http://magento.stackexchange.com/) - Question and answer site for users of the Magento e-Commerce platform.
 * [MageKarma](http://www.magekarma.com/) - Magento Extensions Reviewed by Community
-* [MageUnity](https://mageunity.com/)  Community-powered Discourse forum for members of the Magento community
+* [MageUnity](https://mageunity.com/) - Community-powered Discourse forum for members of the Magento community
