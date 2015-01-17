@@ -20,6 +20,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [EcomDev](http://www.ecomdev.org/blog)
 * [Inchoo](http://inchoo.net/category/magento/)
 * [Magebase](http://magebase.com/)
+* [Magenticians](http://magenticians.com/)
 * [Magestore](http://blog.magestore.com/)
 * [Solving Magento](http://www.solvingmagento.com/)
 
