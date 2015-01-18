@@ -34,6 +34,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Misc (Forum, Communities)
 
 * [MageHero](http://magehero.com/) - Awesome Magento Developers
+* [MageTalk](http://magetalk.com/) - A Magento Podcast
 * [Magento Forum](http://www.magentocommerce.com/boards/) - Read only Magento forum
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform.
 * [MageKarma](http://www.magekarma.com/) - Magento Extensions Reviewed by Community
