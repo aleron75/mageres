@@ -31,12 +31,23 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
 
-## Misc (Forum, Communities)
+## Podcasts
+
+* [MageTalk](http://magetalk.com/) - A Magento Podcast
+
+## Forums
+
+* [Magento Forum](http://www.magentocommerce.com/boards/) - Read only Magento forum
+* [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
+* [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
+
+## Communities
 
 * [MageHero](http://magehero.com/) - Awesome Magento Developers
-* [MageTalk](http://magetalk.com/) - A Magento Podcast
-* [Magento Forum](http://www.magentocommerce.com/boards/) - Read only Magento forum
-* [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform.
 * [MageKarma](http://www.magekarma.com/) - Magento Extensions Reviewed by Community
 * [MageUnity](https://mageunity.com/) - Community-powered Discourse forum for members of the Magento community
-* [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
+
+## Hackathons
+
+* [Mage Hackathon](https://www.mage-hackathon.de/)
+* [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
