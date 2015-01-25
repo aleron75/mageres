@@ -4,6 +4,11 @@ Resources are listed alphabetically within each category.
 
 If you want to contribute you are welcome: fork the project and submit your pull request.
 
+## Official Documentation
+
+* [Magento Technical Resources](https://magento.com/resources/technical)
+* [Magento 2 Developer Hub](https://magento.com/developers/magento2)
+
 ## Books
 
 * [Getting Started with Magento Extension Development](https://www.packtpub.com/web-development/getting-started-magento-extension-development) by Ajzele Branko
