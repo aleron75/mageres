@@ -4,16 +4,22 @@ Resources are listed alphabetically within each category.
 
 If you want to contribute you are welcome: fork the project and submit your pull request.
 
-## Official Documentation
+## Official Resources
 
 * [Magento Technical Resources](https://magento.com/resources/technical)
+* [Magento Knowledge Base](http://www.magentocommerce.com/knowledge-base/)
 * [Magento 2 Developer Hub](https://magento.com/developers/magento2)
+
+## Certification
+
+* [Magento Certification](http://magento.com/training/catalog/certification)
+* [Magento Certified Developer study guide](http://magestudyguide.com/)
 
 ## Books
 
 * [Getting Started with Magento Extension Development](https://www.packtpub.com/web-development/getting-started-magento-extension-development) by Ajzele Branko
 * [Grokking Magento - Book 1: Basics & Request Flow](https://shop.vinaikopp.com/grokking-magento) by Vinai Kopp
-* [Magento PHP Developer's Guide](https://www.packtpub.com/web-development/magento-php-developer’s-guide) by Allan Mac Gregor
+* [Magento PHP Developer's Guide](http://magedevguide.com/) by Allan Mac Gregor
 * [Magento Product Types: Developer's Guide](https://leanpub.com/magentoproducttypesdevelopersguide) by Oleg Ishenko
 * [No Frills Command Line Magento](https://leanpub.com/command-line-magento/) by Alan Storm
 * [No Frills Magento Layout](http://store.pulsestorm.net/products/no-frills-magento-layout) by Alan Storm
@@ -21,18 +27,26 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Blogs
 
 * [Alan Storm](http://alanstorm.com/category/magento)
+* [Ashley Schroder](http://www.aschroder.com/category/magento/)
 * [Belvg](http://blog.belvg.com/category/magento-news)
 * [Ben Marks](http://bhmarks.com/blog/)
+* [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
 * [EcomDev](http://www.ecomdev.org/blog)
+* [ESchrade](http://www.eschrade.com/page/category/magento-2/)
+* [Excellence Technologies](http://excellencemagentoblog.com/)
+* [Fabrizio Branca](http://fbrnc.net/)
 * [Inchoo](http://inchoo.net/category/magento/)
 * [Magebase](http://magebase.com/)
 * [Magenticians](http://magenticians.com/)
 * [Magento Blog](http://magento.com/blog)
 * [Magestore](http://blog.magestore.com/)
+* [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Solving Magento](http://www.solvingmagento.com/)
 
-## Quickies
+## Quickies and Tutorials
 
+* [Demac Media Tutorials](http://www.demacmedia.com/category/magento-tutorials/)
+* [Fishpig's Magento Tutorials](http://fishpig.co.uk/magento/tutorials/)
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
 
