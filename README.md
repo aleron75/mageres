@@ -43,6 +43,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magento Blog](http://magento.com/blog)
 * [Magestore](http://blog.magestore.com/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
+* [Phillip Jackson](http://blog.philwinkle.com/)
 * [Solving Magento](http://www.solvingmagento.com/)
 
 ## Quickies and Tutorials
@@ -55,6 +56,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Podcasts
 
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
+* [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
 
 ## Forums
 
