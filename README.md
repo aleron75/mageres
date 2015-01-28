@@ -22,6 +22,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magento Best Practices Handbook](https://leanpub.com/magebp) by Alessandro Ronchi - *still unpublished*
 * [Magento PHP Developer's Guide](http://magedevguide.com/) by Allan MacGregor
 * [Magento Product Types: Developer's Guide](https://leanpub.com/magentoproducttypesdevelopersguide) by Oleg Ishenko
+* [Mastering Magento Theme Design](https://www.packtpub.com/web-development/mastering-magento-theme-design) by Andrea Saccà
 * [No Frills Command Line Magento](https://leanpub.com/command-line-magento/) by Alan Storm
 * [No Frills Magento Layout](http://store.pulsestorm.net/products/no-frills-magento-layout) by Alan Storm
 * [Test Driven Magento Extension Development](https://leanpub.com/tdd-magento-extension) by Allan MacGregor - *still unpublished*
