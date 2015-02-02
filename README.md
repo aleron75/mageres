@@ -29,6 +29,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 
 ## Blogs
 
+* [Alan Kent](https://alankent.wordpress.com)
 * [Alan Storm](http://alanstorm.com/category/magento)
 * [Ashley Schroder](http://www.aschroder.com/category/magento/)
 * [Belvg](http://blog.belvg.com/category/magento-news)
