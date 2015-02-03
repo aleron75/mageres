@@ -9,6 +9,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magento Technical Resources](https://magento.com/resources/technical)
 * [Magento Knowledge Base](http://www.magentocommerce.com/knowledge-base/)
 * [Magento 2 Developer Hub](https://magento.com/developers/magento2)
+* [Magento 2 Github Repository](https://github.com/magento/magento2)
 
 ## Certification
 
@@ -34,6 +35,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Ashley Schroder](http://www.aschroder.com/category/magento/)
 * [Belvg](http://blog.belvg.com/category/magento-news)
 * [Ben Marks](http://bhmarks.com/blog/)
+* [Cyrill Schumacher](http://cyrillschumacher.com/)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
 * [EcomDev](http://www.ecomdev.org/blog)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
@@ -74,7 +76,11 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [MageKarma](http://www.magekarma.com/) - Magento Extensions Reviewed by Community
 * [MageUnity](https://mageunity.com/) - Community-powered Discourse forum for members of the Magento community
 
-## Hackathons
+## Events
+
+* [Mage-Stammtisch](http://www.magento-stammtisch.de/) - Magento Meetups ("Stammtisch") in the DACH-region (Germany, Austria, Switzerland)
+
+### Hackathons
 
 * [Mage Hackathon](https://www.mage-hackathon.de/)
 * [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
