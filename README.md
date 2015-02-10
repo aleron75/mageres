@@ -80,6 +80,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Events
 
 * [Mage-Stammtisch](http://www.magento-stammtisch.de/) - Magento Meetups ("Stammtisch") in the DACH-region (Germany, Austria, Switzerland)
+* [Manchester Magento Meetup](Manchester Magento Meetup)
 * [Meet Magento](http://www.meet-magento.com/)
 
 ### Hackathons
