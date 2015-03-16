@@ -90,13 +90,16 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Ann Arbor Magento Developers Meetup](Ann Arbor Magento Developers Meetup)
 * [ATX Magento Group](ATX Magento Group)
 * [Auckland Magento User Group](http://www.meetup.com/Auckland-Magento-User-Group/)
+* [Dallas Magento Meetup Group](http://www.meetup.com/Dallas-Magento/)
 * [Los Angeles Magento Group](http://www.meetup.com/lamagento/)
 * [Magento Meetup Ireland](http://www.meetup.com/Magento-Meetup-Ireland/)
+* [Magento User Group Rotterdam](http://www.meetup.com/Rotterdam-Magento-Meetup/)
 * [Magento User Group 's-Hertogenbosch ](http://www.meetup.com/Magento-User-Group-s-Hertogenbosch/)
 * [Mage-Stammtisch](http://www.magento-stammtisch.de/) - Magento Meetups ("Stammtisch") in the DACH-region (Germany, Austria, Switzerland)
 * [Manchester Magento User Group](http://www.meetup.com/manchestermagento/)
 * [New York Magento Meetup - NY Group - by harapartners.com](http://www.meetup.com/New-York-Magento-Group/)
 * [NYC Magento Meetup](http://www.meetup.com/New-York-Magento-Group/)
+* [Sydney Magento Meetup Group](http://www.meetup.com/The-Sydney-Magento-Meetup/)
 * [South Florida Magento Meetup](http://www.meetup.com/South-Florida-Magento-Developers/)
 
 ### Hackathons
