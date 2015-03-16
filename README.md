@@ -84,6 +84,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Mage-Stammtisch](http://www.magento-stammtisch.de/) - Magento Meetups ("Stammtisch") in the DACH-region (Germany, Austria, Switzerland)
 * [Mage Titans](http://www.magetitans.co.uk/) - an event for Magento developers
 * [Manchester Magento Meetup](http://www.meetup.com/manchestermagento/events/219693828/)
+* [South Florida Magento Meetup](http://www.meetup.com/South-Florida-Magento-Developers/)
 * [Meet Magento](http://www.meet-magento.com/)
 
 ### Hackathons
