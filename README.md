@@ -66,9 +66,9 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
 * [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
 
-## Forums
+## Forum
 
-* [Magento Forum](http://www.magentocommerce.com/boards/) - Read only Magento forum
+* [Magento Forum](http://www.magentocommerce.com/boards/) - Magento forum
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
 
