@@ -68,7 +68,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 
 ## Forum
 
-* [Magento Forum](http://www.magentocommerce.com/boards/) - Magento forum
+* [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
 
