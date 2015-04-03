@@ -1,11 +1,11 @@
-# Magento Resources
+m# Magento Resources
 A list of useful Magento technical resources.
 Resources are listed alphabetically within each category.
 
 If you want to contribute you are welcome: fork the project and submit your pull request.
 
 ## Official Resources
-* [Magebto Blog](http://magento.com/blog)
+* [Magento Blog](http://magento.com/blog)
 * [Magento CE User Guide](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html)
 * [Magento EE User Guide](http://merch.docs.magento.com/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html)
 * [Magento Technical Resources](https://magento.com/resources/technical)
