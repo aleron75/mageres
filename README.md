@@ -1,4 +1,4 @@
-m# Magento Resources
+# Magento Resources
 A list of useful Magento technical resources.
 Resources are listed alphabetically within each category.
 
