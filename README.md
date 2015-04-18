@@ -82,6 +82,8 @@ If you want to contribute you are welcome: fork the project and submit your pull
 
 ## Events
 
+*  [Magento Events Calendar](https://www.google.com/calendar/embed?src=9ns1e12ucfd84tpnsehekkc6g0%40group.calendar.google.com) - a publicly available Google calendar which contains all Magento events around the world
+
 ### Conferences
 
 * [Magento Imagine](http://imagine.magento.com) - The Magento event
