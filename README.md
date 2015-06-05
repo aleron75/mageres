@@ -123,6 +123,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magento User Group Rotterdam](http://www.meetup.com/Rotterdam-Magento-Meetup/)
 * [Magento WA](http://www.meetup.com/MagentoWA/)
 * [Magento User Group Amsterdam](http://www.meetup.com/Magento-user-Group-Amsterdam/)
+* [Magento Stammtisch Germany](http://www.magento-stammtisch.de/)
 * [Magento-Stammtisch Wien](http://www.meetup.com/magento-stammtisch-wien/)
 * [Manchester Magento User Group](http://www.meetup.com/manchestermagento/)
 * [Meet E-commerce](http://www.meetup.com/Meet-E-commerce/)
