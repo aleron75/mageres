@@ -158,3 +158,10 @@ If you want to contribute you are welcome: fork the project and submit your pull
 
 * [Mage Hackathon](https://www.mage-hackathon.de/)
 * [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
+
+### Module Repositories
+
+* [Magento Connect](http://www.magentocommerce.com/magento-connect/)
+* [Magento's Composer Repository](http://packages.magento.com/)
+* [Firegento Composer Repository](http://packages.firegento.com/)
+* [nr-apps](http://www.nr-apps.com/store/app-store.html)
