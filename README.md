@@ -81,7 +81,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Associations
 
 *  [Firegento](http://firegento.com/)
-*  [Meet Magento Associacion](http://www.meet-magento.com/meet-magento-association/)
+*  [Meet Magento Association](http://www.meet-magento.com/meet-magento-association/)
 
 ## Events
 
