@@ -69,17 +69,14 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
 * [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
 
-## Forum
+## Forum/Communities
 
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
-* [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
-* [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
-
-## Communities
-
 * [MageHero](http://magehero.com/) - Awesome Magento Developers
 * [MageKarma](http://www.magekarma.com/) - Magento Extensions Reviewed by Community
+* [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [MageUnity](https://mageunity.com/) - Community-powered Discourse forum for members of the Magento community
+* [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
 
 ## Events
 
