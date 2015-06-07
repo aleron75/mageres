@@ -1,6 +1,6 @@
 # Magento Resources
 A list of useful Magento technical resources.
-Resources are listed alphabetically within each category.
+Resources are listed **alphabetically** within each category.
 
 If you want to contribute you are welcome: fork the project and submit your pull request.
 
@@ -47,13 +47,13 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
 * [Magebase](http://magebase.com/)
 * [Mage Dev Weekly](http://magedevweekly.com/)
+* [Mage News](http://www.mage-news.de/) - A Magento Blog Aggregator
 * [Magenticians](http://magenticians.com/)
 * [Magento Blog](http://magento.com/blog)
 * [Magestore](http://blog.magestore.com/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Solving Magento](http://www.solvingmagento.com/)
-* [Mage News](http://www.mage-news.de/) - A Magento Blog Aggregator
 
 ## Quickies and Tutorials
 
