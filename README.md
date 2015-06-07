@@ -53,6 +53,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Solving Magento](http://www.solvingmagento.com/)
+* [Mage News](http://www.mage-news.de/) - A Magento Blog Aggregator
 
 ## Quickies and Tutorials
 
@@ -132,7 +133,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Meet E-commerce](http://www.meetup.com/Meet-E-commerce/)
 * [Melbourne Ecommerce Meet Up](http://www.meetup.com/MelbourneEcommerce/)
 * [Midwest Magento Meetup](http://www.meetup.com/The-Midwest-Magento-Meetup/)
-* [Munich Magento Development Meetup](http://www.meetup.com/Munich-Magento-Development-Meetup/)
+* [Munich Magento Meetup](http://www.meetup.com/de/magento-e-commerce-meetup-muenchen/)
 * [NYC Magento Meetup](http://www.meetup.com/NYC-Magento-Developers/)
 * [NYC Magento Merchant Group](http://www.meetup.com/NYC-Magento-Merchant-Group/)
 * [Nagpur Magento Meetup](http://www.meetup.com/Nagpur-Magento-Meetup/)
