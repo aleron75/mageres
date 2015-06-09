@@ -44,6 +44,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
 * [Fabrizio Branca](http://fbrnc.net/)
+* [Firebear Studio Blog](http://firebearstudio.com/blog/)
 * [Inchoo](http://inchoo.net/category/magento/)
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
 * [Magebase](http://magebase.com/)
