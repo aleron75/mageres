@@ -16,7 +16,9 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Certification
 
 * [Magento Certification](http://magento.com/training/catalog/certification)
-* [Magento Certified Developer study guide](http://magestudyguide.com/)
+* Magento Developer Certification study guides
+  * [MageCert](http://magecert.com/)
+  * [MageStudyGuide](http://magestudyguide.com/)
 
 ## Books
 
