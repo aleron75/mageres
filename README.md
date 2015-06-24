@@ -55,6 +55,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magenticians](http://magenticians.com/)
 * [Magento Blog](http://magento.com/blog)
 * [Magestore](http://blog.magestore.com/)
+* [Nexcess Blog](https://blog.nexcess.net/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Solving Magento](http://www.solvingmagento.com/)
