@@ -80,6 +80,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Forum/Communities
 
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
+* [Magento Community Digest](http://community.magento.com/t5/forums/searchpage/tab/message?location=forum-board%3Anewsannouncements&q=MagentoMonday&filter=labels%2Clocation) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [MageHero](http://magehero.com/) - Awesome Magento Developers
 * [MageKarma](http://www.magekarma.com/) - Magento Extensions Reviewed by Community
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
