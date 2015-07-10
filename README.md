@@ -40,6 +40,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Atwix blog](http://www.atwix.com/blog/)
 * [Belvg](http://blog.belvg.com/category/magento-news)
 * [Ben Marks](http://bhmarks.com/blog/)
+* [Classyllama](http://www.classyllama.com/blog/category/magento)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
 * [EcomDev](http://www.ecomdev.org/blog)
