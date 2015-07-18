@@ -19,6 +19,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * Magento Developer Certification study guides
   * [MageCert](http://magecert.com/)
   * [MageStudyGuide](http://magestudyguide.com/)
+  * [Magento Certified Front End Developer Exam Study Guide](http://info.demacmedia.com/magento-certified-front-end-exam-study-guide) by Demac Media
 
 ## Books
 
