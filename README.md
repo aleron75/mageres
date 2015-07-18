@@ -76,6 +76,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Podcasts
 
 * [MageCasts.io](http://www.magecasts.io/) - Rockstar Magento screecasts!
+* [MageClass](http://mageclass.com/) - Thoughts on Magento 2
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
 * [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
