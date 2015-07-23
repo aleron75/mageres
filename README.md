@@ -55,6 +55,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
 * [Magebase](http://magebase.com/)
 * [Mage Dev Weekly](http://magedevweekly.com/)
+* [Mage Inferno](http://mageinferno.com/blog) - Blog dedicated to Magento 2
 * [Mage News](http://www.mage-news.de/) - A Magento Blog Aggregator
 * [Magenticians](http://magenticians.com/)
 * [Magento Blog](http://magento.com/blog)
