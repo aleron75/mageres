@@ -107,6 +107,13 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Mage Titans](http://www.magetitans.co.uk/) - an event for Magento developers
 * [Meet Magento](http://www.meet-magento.com/)
 
+### Tools
+
+* [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
+* [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
+* [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
+* [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
+
 ### Meetups
 * [ATX Magento Group](http://www.meetup.com/atx-magento/)
 * [Ann Arbor Magento Developers Meetup](http://www.meetup.com/a2magento/)
