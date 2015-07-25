@@ -60,6 +60,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magenticians](http://magenticians.com/)
 * [Magento Blog](http://magento.com/blog)
 * [Magestore](http://blog.magestore.com/)
+* [Mark Shust](http://markshust.com/tags/magento) - Mark Shust on Magento
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
