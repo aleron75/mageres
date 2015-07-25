@@ -31,7 +31,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Mastering Magento Theme Design](https://www.packtpub.com/web-development/mastering-magento-theme-design) by Andrea Saccà
 * [No Frills Command Line Magento](https://leanpub.com/command-line-magento/) by Alan Storm
 * [No Frills Magento Layout](http://store.pulsestorm.net/products/no-frills-magento-layout) by Alan Storm
-* [Test Driven Magento Extension Development](https://leanpub.com/tdd-magento-extension) by Allan MacGregor - *still unpublished*
+* [Test Driven Magento Extension Development - Part 1](http://coderoncode.com/books/magetdd.html) by Allan MacGregor
 
 ## Blogs
 
