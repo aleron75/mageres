@@ -182,6 +182,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 
 ### Hackathons
 
+* [Mage::Hack](http://www.magehack.com/)
 * [Mage Hackathon](https://www.mage-hackathon.de/)
 * [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
 
