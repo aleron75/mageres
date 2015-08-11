@@ -193,3 +193,9 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Firegento Composer Repository](http://packages.firegento.com/)
 * [nr-apps](http://www.nr-apps.com/store/app-store.html)
 * [Xtension Galaxy](https://xtensiongalaxy.com/)
+ 
+### Prebuild VMs and Containers
+
+ * Magento 2 - Vagrant
+   * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) 
+
