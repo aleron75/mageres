@@ -61,6 +61,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Mage News](http://www.mage-news.de/) - A Magento Blog Aggregator
 * [Magenticians](http://magenticians.com/)
 * [Magento Blog](http://magento.com/blog)
+* [MageComp Magento Blog](http://magecomp.com/blog/)
 * [Magestore](http://blog.magestore.com/)
 * [Mark Shust](http://markshust.com/tags/magento) - Mark Shust on Magento
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
