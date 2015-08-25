@@ -199,5 +199,6 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ### Prebuild VMs and Containers
 
  * Magento 2 - Vagrant
-   * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) 
-
+   * [chadrien/magento2](https://hub.docker.com/r/chadrien/magento2) - Magento 2 Docker images
+   * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) - Magento 2 Vagrant Box
+   
