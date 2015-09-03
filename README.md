@@ -197,8 +197,9 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Xtension Galaxy](https://xtensiongalaxy.com/)
  
 ### Prebuild VMs and Containers
-
- * Magento 2 - Vagrant
+ * Docker
+   * [https://hub.docker.com/u/mageinferno/](https://hub.docker.com/u/mageinferno/) - Docker Hub by Mage Inferno
    * [chadrien/magento2](https://hub.docker.com/r/chadrien/magento2) - Magento 2 Docker images
+ * Vagrant
    * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) - Magento 2 Vagrant Box
    
