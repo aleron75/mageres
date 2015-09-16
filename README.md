@@ -116,6 +116,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
+* [MAGEREVERSE](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 
 ### Meetups
@@ -200,7 +201,6 @@ If you want to contribute you are welcome: fork the project and submit your pull
  * Docker
    * [https://hub.docker.com/u/mageinferno/](https://hub.docker.com/u/mageinferno/) - Docker Hub by Mage Inferno
    * [chadrien/magento2](https://hub.docker.com/r/chadrien/magento2) - Magento 2 Docker images
-   * [ilampirai/docker-magento2](https://github.com/ilampirai/docker-magento2)
  * Vagrant
    * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) - Magento 2 Vagrant Box
    
