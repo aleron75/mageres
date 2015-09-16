@@ -200,6 +200,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
  * Docker
    * [https://hub.docker.com/u/mageinferno/](https://hub.docker.com/u/mageinferno/) - Docker Hub by Mage Inferno
    * [chadrien/magento2](https://hub.docker.com/r/chadrien/magento2) - Magento 2 Docker images
+   * [ilampirai/docker-magento2](https://github.com/ilampirai/docker-magento2)
  * Vagrant
    * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) - Magento 2 Vagrant Box
    
