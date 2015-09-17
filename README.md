@@ -12,6 +12,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magento Knowledge Base](http://www.magentocommerce.com/knowledge-base/)
 * [Magento 2 Developer Hub](https://magento.com/developers/magento2)
 * [Magento 2 Github Repository](https://github.com/magento/magento2)
+* [Magento Security News](http://magento.com/security/news/)
 
 ## Certification
 
