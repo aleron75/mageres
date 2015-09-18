@@ -12,6 +12,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magento Knowledge Base](http://www.magentocommerce.com/knowledge-base/)
 * [Magento 2 Developer Hub](https://magento.com/developers/magento2)
 * [Magento 2 Github Repository](https://github.com/magento/magento2)
+* [Magento Security Center](http://magento.com/security/) - a dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
 
 ## Certification
 
@@ -64,10 +65,12 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [MageComp Magento Blog](http://magecomp.com/blog/)
 * [Magestore](http://blog.magestore.com/)
 * [Mark Shust](http://markshust.com/tags/magento) - Mark Shust on Magento
+* [Max Yekaterynenko](https://maxyek.wordpress.com/)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Solving Magento](http://www.solvingmagento.com/)
+* [Siteground](https://www.siteground.com/tutorials/magento/)
 
 ## Quickies and Tutorials
 
@@ -91,7 +94,6 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
 * [Magento Community Digest](http://community.magento.com/t5/forums/searchpage/tab/message?q=MagentoMonday&filter=labels%2Clocation&location=forum-board%3Anewsannouncements&search_type=thread) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [MageHero](http://magehero.com/) - Awesome Magento Developers
-* [MageKarma](http://www.magekarma.com/) - Magento Extensions Reviewed by Community
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [MageUnity](https://mageunity.com/) - Community-powered Discourse forum for members of the Magento community
 * [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
@@ -115,7 +117,9 @@ If you want to contribute you are welcome: fork the project and submit your pull
 
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
+* [MageReport.com](https://www.magereport.com/) - gives you a quick insight in the security status of your Magento shop
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
+* [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 
 ### Meetups
@@ -200,6 +204,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
  * Docker
    * [https://hub.docker.com/u/mageinferno/](https://hub.docker.com/u/mageinferno/) - Docker Hub by Mage Inferno
    * [chadrien/magento2](https://hub.docker.com/r/chadrien/magento2) - Magento 2 Docker images
+   * [ilampirai/docker-magento2](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager
  * Vagrant
    * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) - Magento 2 Vagrant Box
    
