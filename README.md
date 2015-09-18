@@ -70,6 +70,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Solving Magento](http://www.solvingmagento.com/)
+* [Siteground](https://www.siteground.com/tutorials/magento/)
 
 ## Quickies and Tutorials
 
@@ -117,6 +118,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
+* [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 
 ### Meetups
