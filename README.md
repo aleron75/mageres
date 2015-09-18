@@ -117,6 +117,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
+* [MageReport.com](https://www.magereport.com/) - gives you a quick insight in the security status of your Magento shop
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
