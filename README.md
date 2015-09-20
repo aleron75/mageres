@@ -204,6 +204,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
  
 ### Prebuild VMs and Containers
  * Docker
+   * [https://github.com/magento/magento2-docker] (https://github.com/magento/magento2-docker) - Docker container for Magento 2 (CentOS)
    * [https://hub.docker.com/u/mageinferno/](https://hub.docker.com/u/mageinferno/) - Docker Hub by Mage Inferno
    * [chadrien/magento2](https://hub.docker.com/r/chadrien/magento2) - Magento 2 Docker images
    * [ilampirai/docker-magento2](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager
