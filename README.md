@@ -7,6 +7,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Official Resources
 * [Magento Blog](http://magento.com/blog)
 * [Magento CE User Guide](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html)
+* [Magento Documentation (phpdoc)](http://docs.magentocommerce.com/)
 * [Magento EE User Guide](http://merch.docs.magento.com/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html)
 * [Magento Technical Resources](https://magento.com/resources/technical)
 * [Magento Knowledge Base](http://www.magentocommerce.com/knowledge-base/)
