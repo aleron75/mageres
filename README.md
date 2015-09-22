@@ -66,6 +66,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [MageComp Magento Blog](http://magecomp.com/blog/)
 * [Magestore](http://blog.magestore.com/)
 * [Mark Shust](http://markshust.com/tags/magento) - Mark Shust on Magento
+* [Max Pronko](http://www.maxpronko.com/)
 * [Max Yekaterynenko](https://maxyek.wordpress.com/)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
@@ -203,9 +204,11 @@ If you want to contribute you are welcome: fork the project and submit your pull
  
 ### Prebuild VMs and Containers
  * Docker
+   * [https://github.com/magento/magento2-docker] (https://github.com/magento/magento2-docker) - Docker container for Magento 2 (CentOS)
    * [https://hub.docker.com/u/mageinferno/](https://hub.docker.com/u/mageinferno/) - Docker Hub by Mage Inferno
    * [chadrien/magento2](https://hub.docker.com/r/chadrien/magento2) - Magento 2 Docker images
    * [ilampirai/docker-magento2](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager
  * Vagrant
+   * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
    * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) - Magento 2 Vagrant Box
    
