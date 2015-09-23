@@ -48,6 +48,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Cool Ryan](http://www.coolryan.com/category/magento/)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
+* [E-commerce Gorilla](http://www.ecommercegorilla.com/how-to-set-up-multiple-store-fronts-with-magento/)
 * [EcomDev](http://www.ecomdev.org/blog)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
