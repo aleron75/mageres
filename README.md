@@ -75,6 +75,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Solving Magento](http://www.solvingmagento.com/)
 * [Siteground](https://www.siteground.com/tutorials/magento/)
+* [TutorialMagento](http://tutorialmagento.com/)
 
 ## Quickies and Tutorials
 
