@@ -48,7 +48,6 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Cool Ryan](http://www.coolryan.com/category/magento/)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
-* [E-commerce Gorilla](http://www.ecommercegorilla.com/how-to-set-up-multiple-store-fronts-with-magento/)
 * [EcomDev](http://www.ecomdev.org/blog)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
@@ -75,16 +74,17 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Solving Magento](http://www.solvingmagento.com/)
 * [Siteground](https://www.siteground.com/tutorials/magento/)
-* [TutorialMagento](http://tutorialmagento.com/)
 
 ## Quickies and Tutorials
 
 * [Demac Media Tutorials](http://www.demacmedia.com/category/magento-tutorials/)
+* [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](http://fishpig.co.uk/magento/tutorials/)
 * [MageDaily Tips](http://www.magedaily.com/category/tips/)
 * [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
+* [TutorialMagento](http://tutorialmagento.com/)
 
 ## Podcasts
 
