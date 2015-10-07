@@ -53,6 +53,7 @@ If you want to contribute you are welcome: fork the project and submit your pull
 * [Excellence Technologies](http://excellencemagentoblog.com/)
 * [Fabrizio Branca](http://fbrnc.net/)
 * [Firebear Studio Blog](http://firebearstudio.com/blog/)
+* [Ibnab Blog](http://ibnab.com/en/blog/magento-2) - Ibnab's Magento 2 related blog posts
 * [Inchoo](http://inchoo.net/category/magento/)
 * [integer_net Blog](http://www.integer-net.com/blog/)
 * [Kalpesh Mehta](http://ka.lpe.sh/)
