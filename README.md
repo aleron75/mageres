@@ -79,11 +79,13 @@ If you want to contribute you are welcome: fork the project and submit your pull
 ## Quickies and Tutorials
 
 * [Demac Media Tutorials](http://www.demacmedia.com/category/magento-tutorials/)
+* [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](http://fishpig.co.uk/magento/tutorials/)
 * [MageDaily Tips](http://www.magedaily.com/category/tips/)
 * [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
+* [TutorialMagento](http://tutorialmagento.com/)
 
 ## Podcasts
 
