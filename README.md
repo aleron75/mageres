@@ -1,8 +1,8 @@
 # Magento Resources
-A list of useful Magento technical resources.
+A curated list of useful Magento technical resources.
 Resources are listed **alphabetically** within each category.
 
-If you want to contribute you are welcome: fork the project and submit your pull request.
+Contributions are very welcome: fork the project and submit your pull request, open an issue or drop me a line on aleron75[at]gmail.com
 
 ## Official Resources
 * [Magento Blog](http://magento.com/blog)
