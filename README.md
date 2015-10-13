@@ -214,5 +214,6 @@ If you want to contribute you are welcome: fork the project and submit your pull
    * [ilampirai/docker-magento2](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager
  * Vagrant
    * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
+   * [https://github.com/paliarush/vagrant-magento](https://github.com/paliarush/vagrant-magento) - Vagrant for Magento CE, optimized for Windows hosts
    * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) - Magento 2 Vagrant Box
    
