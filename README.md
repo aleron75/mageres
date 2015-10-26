@@ -128,6 +128,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
 * [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - a.k.a. n98-magerun or simply magerun, provides some handy tools to work with Magento from command line
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
+* [Magento patches finder](http://fabrizioballiano.net/magento-patches/) - tool to show needed patches by version of Magento
 
 ### Meetups
 * [ATX Magento Group](http://www.meetup.com/atx-magento/)
