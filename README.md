@@ -73,8 +73,9 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
-* [Solving Magento](http://www.solvingmagento.com/)
 * [Siteground](https://www.siteground.com/tutorials/magento/)
+* [Solving Magento](http://www.solvingmagento.com/)
+* [Sonassi](https://www.sonassi.com/blog/)
 
 ## Quickies and Tutorials
 
