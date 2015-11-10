@@ -21,6 +21,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * Magento Developer Certification study guides and tools
   * [Magento Certification Practice Test](http://magento-quiz.magestore.com/) by Magestore
   * [MageCert](http://magecert.com/)
+  * [Magento Certified Solution Specialist](https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/) by Quizlet
   * [MageStudyGuide](http://magestudyguide.com/)
   * [Magento Certified Front End Developer Exam Study Guide](http://info.demacmedia.com/magento-certified-front-end-exam-study-guide) by Demac Media
 
