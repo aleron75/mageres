@@ -75,6 +75,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Session Digital on Magento](http://www.sessiondigital.com/blog/category/magento/) - all SD's Magento posts
+* [Session Digital DE on Magento](http://www.sessiondigital.de/blog/category/magento/) - all SD's DE Magento posts (mainly in English language)
 * [Session Digital on Magento 2](http://www.sessiondigital.com/blog/category/magento-2/) - all SD's Magento 2 posts
 * [Siteground](https://www.siteground.com/tutorials/magento/)
 * [Solving Magento](http://www.solvingmagento.com/)
