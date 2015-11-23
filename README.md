@@ -41,6 +41,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 
 * [Alan Kent](https://alankent.wordpress.com)
 * [Alan Storm](http://alanstorm.com/category/magento)
+* [Anna Völkl](http://anna.voelkl.at/)
 * [Ashley Schroder](http://www.aschroder.com/category/magento/)
 * [Atwix blog](http://www.atwix.com/blog/)
 * [Belvg](http://blog.belvg.com/category/magento-news)
