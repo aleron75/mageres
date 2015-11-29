@@ -49,7 +49,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Classyllama](http://www.classyllama.com/blog/category/magento)
 * [Cool Ryan](http://www.coolryan.com/category/magento/)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
-* [David Algen](http://davidalger.com/category/development/magento/)cl
+* [David Algen](http://davidalger.com/category/development/magento/)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
 * [EcomDev](http://www.ecomdev.org/blog)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
