@@ -54,6 +54,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [EcomDev](http://www.ecomdev.org/blog)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
+* [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
 * [Fabrizio Branca](http://fbrnc.net/)
 * [Firebear Studio Blog](http://firebearstudio.com/blog/)
 * [Ibnab Blog](http://ibnab.com/en/blog/magento-2) - Ibnab's Magento 2 related blog posts
