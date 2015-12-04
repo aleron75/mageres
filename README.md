@@ -39,6 +39,11 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Test Driven Magento Extension Development - Part 1](http://coderoncode.com/books/magetdd.html) by Allan MacGregor
 * [The Definitive Guide to Magento](http://www.amazon.co.uk/Definitive-Guide-Magento-Experts-Source-x/dp/1430272295/ref=sr_1_1?ie=UTF8&qid=1449236093&sr=8-1&keywords=apress+definitive+guide+to+magento) by Adam McCombs and Robert Banh
 
+Magento 2:
+* [Magento 2 Developers Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) by Branko Ajzele (pre-order)
+* [Magento 2 Development Cookbook ](https://www.packtpub.com/web-development/magento-2-development-cookbook) by Bart Delvaux (pre-order)
+
+
 ## Blogs
 
 * [Alan Kent](https://alankent.wordpress.com)
