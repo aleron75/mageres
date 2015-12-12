@@ -234,4 +234,5 @@ Magento 2:
    * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
    * [https://github.com/paliarush/vagrant-magento](https://github.com/paliarush/vagrant-magento) - Vagrant for Magento CE, optimized for Windows hosts
    * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) - Magento 2 Vagrant Box
+   * [https://github.com/roman204/vagrant-magento-php7](https://github.com/roman204/vagrant-magento-php7) - Vagrant + Magento (1.9.2.2) + PHP-7.0.0
    
