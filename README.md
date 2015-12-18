@@ -131,7 +131,9 @@ Magento 2:
 ### Conferences
 
 * [Magento Imagine](http://imagine.magento.com) - The Magento event
-* [Mage Titans](http://www.magetitans.co.uk/) - an event for Magento developers
+* [Magento Unconference](http://www.mageunconference.org/)
+* [Mage Titans](http://www.magetitans.co.uk/) - an event for Magento developers in UK
+* [Mage Titans Italia](http://www.magetitans.it/) - an event for Magento developers in a warmer Country :)
 * [Meet Magento](http://www.meet-magento.com/)
 
 ### Tools
