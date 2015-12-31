@@ -232,6 +232,7 @@ Magento 2:
    * [chadrien/magento2](https://hub.docker.com/r/chadrien/magento2) - Magento 2 Docker images
    * [ilampirai/docker-magento2](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager
    * [https://github.com/wsakaren/m2SimpleDocker](https://github.com/wsakaren/m2SimpleDocker) - Magento 2 simple docker build by Karen Baker
+   * [https://github.com/fballiano/docker-magento2](https://github.com/fballiano/docker-magento2) - Magento2 (Varnish + PHP7 + Redis) cluster ready docker-compose infrastructure
  * Vagrant
    * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
    * [https://github.com/paliarush/vagrant-magento](https://github.com/paliarush/vagrant-magento) - Vagrant for Magento CE, optimized for Windows hosts
