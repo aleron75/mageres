@@ -8,7 +8,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Magento Blog](http://magento.com/blog)
 * [Magento CE User Guide](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html)
 * [Magento Documentation (phpdoc)](http://docs.magentocommerce.com/)
-* [Magento EE User Guide](http://merch.docs.magento.com/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html)
+* [Magento EE User Guitutde](http://merch.docs.magento.com/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html)
 * [Magento Technical Resources](https://magento.com/resources/technical)
 * [Magento Knowledge Base](http://www.magentocommerce.com/knowledge-base/)
 * [Magento 2 Developer Hub](https://magento.com/developers/magento2)
@@ -101,6 +101,7 @@ Magento 2:
 * [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
+* [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html) by Firebear Studio
 * [TutorialMagento](http://tutorialmagento.com/)
 
 ## Podcasts
