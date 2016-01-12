@@ -115,7 +115,7 @@ Magento 2:
 ## Forum/Communities
 
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
-* [Magento Community Digest](http://community.magento.com/t5/forums/searchpage/tab/message?q=MagentoMonday&filter=labels%2Clocation&location=forum-board%3Anewsannouncements&search_type=thread) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
+* [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?filter=labels&q=%23MagentoMonday&sort_by=-topicPostDate&search_type=thread) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [MageHero](http://magehero.com/) - Awesome Magento Developers
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [MageUnity](https://mageunity.com/) - Community-powered Discourse forum for members of the Magento community
