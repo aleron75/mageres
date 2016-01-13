@@ -82,6 +82,7 @@ Magento 2:
 * [Mark Shust](http://markshust.com/tags/magento) - Mark Shust on Magento
 * [Max Pronko](http://www.maxpronko.com/)
 * [Max Yekaterynenko](https://maxyek.wordpress.com/)
+* [Newsgento](http://newsgento.com/) - eCommerce community news and events
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
