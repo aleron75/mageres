@@ -148,8 +148,34 @@ Magento 2:
 * [MageReport.com](https://www.magereport.com/) - gives you a quick insight in the security status of your Magento shop
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
 * [Magicento](http://magicento.com/) - PHPStorm plugin for Magento developers
+* [Modman](https://github.com/colinmollenhour/modman) - Magento Module Manager
 * [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - a.k.a. n98-magerun or simply magerun, provides some handy tools to work with Magento from command line
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
+
+### Extensions - #mostpopular, #opensource, #development
+* [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler)
+* [AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler)
+* [AOE Template Hints](https://github.com/AOEpeople/Aoe_TemplateHints)
+* [AvS Fast Simple Import](https://github.com/avstudnitz/AvS_FastSimpleImport) - Wrapper for Magento ImportExport functionality which imports data from arrays
+* [b-responsive](https://github.com/interactiv4/b-responsive) - Magento Responsive Theme built with Twitter Bootstrap v3
+* [Compressed Magento 1.9 Sample Data](https://github.com/Vinai/compressed-magento-sample-data) by Vinai Kopp
+* [Danslo AoP](https://github.com/danslo/Danslo_Aop) - Enables Aspect-Oriented Programming in Magento
+* [Danslo ApiImport](https://github.com/danslo/ApiImport) - Wrapper for Magento ImportExport
+* [EcomDev Layout Compiler](https://github.com/EcomDev/EcomDev_LayoutCompiler) - Transforms recursive layout xml files into simple one level php code
+* [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration
+* [Firegento Debug](https://github.com/firegento/firegento-debug) - Provides some debbuging functionality for Magento
+* [Firegento Logger](https://github.com/firegento/firegento-logger) - Provides a simple framework for different logging adapters
+* [Firegento PDF](https://github.com/firegento/firegento-pdf) - Overwrites standard PDF layouts for invoices, shipments and creditmemos
+* [LimeSoda Environment Configuration](https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration)
+* [LimeSoda Sample Data Generator](https://github.com/LimeSoda/LimeSoda_SampleDataGenerator) - Generate Magento websites, stores, categories, products, customers etc.
+* [Magento Composer Installer](https://github.com/Cotya/magento-composer-installer) - Enable composer to install Magento modules
+* [Magento Project Mess Detector](https://github.com/AOEpeople/mpmd) - n98-magerun addon to find out how messed up a Magento instance is
+* [Magento PSR-0 Autoloader](https://github.com/magento-hackathon/Magento-PSR-0-Autoloader) - Adds a PSR-0 Autoloader before the Magento Autoloader
+* [Magento SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Must-have tool to apply SUPEE-6788 patch
+* [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - A small shell script by Alan Storm to automatically package tar archives into Magento's Connect 2.0 format
+* [Mageploy](https://github.com/pug-more/mageploy) - Keep track of changes and deploy synchronization between different Magento environments
+* [Philwinkl Applied Patches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - See a list of all applied patches from within the Magento admin panel
+* [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Magento extension that lets you create other magento CRUD modules for your own entities
 
 ### Meetups
 * [ATX Magento Group](http://www.meetup.com/atx-magento/)
