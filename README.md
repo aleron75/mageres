@@ -138,6 +138,7 @@ Magento 2:
 * [Mage Titans](http://www.magetitans.co.uk/) - an event for Magento developers in UK
 * [Mage Titans Italia](http://www.magetitans.it/) - an event for Magento developers in a warmer Country :)
 * [Mage Unconference](http://www.mageunconference.org/)
+* [Magento Live](http://magentolive.com/)
 * [Meet Magento](http://www.meet-magento.com/)
 
 ### Tools
