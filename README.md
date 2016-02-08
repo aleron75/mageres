@@ -108,11 +108,15 @@ Magento 2:
 
 ## Podcasts
 
-* [MageCasts.io](http://www.magecasts.io/) - Rockstar Magento screecasts!
-* [MageClass](http://mageclass.com/) - Thoughts on Magento 2
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
 * [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
+
+## Screencasts
+
+* [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
+* [MageCasts.io](http://www.magecasts.io/) - Rockstar Magento screecasts!
+* [MageClass](http://mageclass.com/) - Thoughts on Magento 2
 
 ## Forum/Communities
 
