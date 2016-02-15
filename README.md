@@ -274,6 +274,7 @@ Magento 2:
  * Vagrant
    * [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - designed by AOE with Magento in mind but usable for every LAMP stack based applications
    * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
+   * [Magestead](http://www.magestead.com/) - Vagrant LEMP stack for Magento developers
    * [https://github.com/paliarush/vagrant-magento](https://github.com/paliarush/vagrant-magento) - Vagrant for Magento CE, optimized for Windows hosts
    * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) - Magento 2 Vagrant Box
    * [https://github.com/roman204/vagrant-magento-php7](https://github.com/roman204/vagrant-magento-php7) - Vagrant + Magento (1.9.2.2) + PHP-7.0.0
