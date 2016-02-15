@@ -69,6 +69,7 @@ Magento 2:
 * [Ibnab Blog](http://ibnab.com/en/blog/magento-2) - Ibnab's Magento 2 related blog posts
 * [Inchoo](http://inchoo.net/category/magento/)
 * [integer_net Blog](http://www.integer-net.com/blog/)
+* [James Cowie](http://jcowie.co.uk/)
 * [Kalpesh Mehta](http://ka.lpe.sh/)
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
 * [Magebase](http://magebase.com/)
