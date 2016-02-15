@@ -4,7 +4,7 @@ Resources are listed **alphabetically** within each category.
 
 Contributions are very welcome: fork the project and submit your pull request, open an issue or drop me a line on aleron75[at]gmail.com
 
-## Official Resources
+## Official Resourcesc
 * [Magento Blog](http://magento.com/blog)
 * [Magento CE User Guide](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html)
 * [Magento Documentation (phpdoc)](http://docs.magentocommerce.com/)
@@ -40,6 +40,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [The Definitive Guide to Magento](http://www.amazon.co.uk/Definitive-Guide-Magento-Experts-Source-x/dp/1430272295/ref=sr_1_1?ie=UTF8&qid=1449236093&sr=8-1&keywords=apress+definitive+guide+to+magento) by Adam McCombs and Robert Banh
 
 Magento 2:
+* [Magento 2 Cookbook](https://www.packtpub.com/web-development/magento-2-cookbook) by Ray Bogman, Vladimir Kerkhoff
 * [Magento 2 Developers Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) by Branko Ajzele
 * [Magento 2 Development Cookbook ](https://www.packtpub.com/web-development/magento-2-development-cookbook) by Bart Delvaux
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) by Viktor Khliupko
