@@ -27,6 +27,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 
 ## Books
 
+Magento 1:
 * [Getting Started with Magento Extension Development](https://www.packtpub.com/web-development/getting-started-magento-extension-development) by Ajzele Branko
 * [Grokking Magento - Book 1: Basics & Request Flow](https://shop.vinaikopp.com/grokking-magento) by Vinai Kopp
 * [Magento Best Practices Handbook](https://leanpub.com/magebp) by Alessandro Ronchi
