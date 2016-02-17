@@ -14,7 +14,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Magento 2 Developer Hub](https://magento.com/developers/magento2)
 * [Magento 2 Github Repository](https://github.com/magento/magento2)
 * [Magento Security Center](http://magento.com/security/) - a dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
-
+t
 ## Certification
 
 * [Magento Certification](http://magento.com/training/catalog/certification)
@@ -184,6 +184,12 @@ Magento 2:
 * [Mageploy](https://github.com/pug-more/mageploy) - Keep track of changes and deploy synchronization between different Magento environments
 * [Philwinkl Applied Patches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - See a list of all applied patches from within the Magento admin panel
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Magento extension that lets you create other magento CRUD modules for your own entities
+
+### Testing
+
+* [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration
+* [Magium](https://github.com/magium/Magium) - A PHPUnit/Webdriver (Selenium) based test framework
+* [xtest](http://xtest-mage.com/) - Simple Magento Testing Framework
 
 ### Meetups
 * [ATX Magento Group](http://www.meetup.com/atx-magento/)
