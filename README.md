@@ -81,7 +81,7 @@ Magento 2:
 * [Magento Project Mess Detector](https://github.com/AOEpeople/mpmd) - n98-magerun addon to find out how messed up a Magento instance is
 * [Magento PSR-0 Autoloader](https://github.com/magento-hackathon/Magento-PSR-0-Autoloader) - Adds a PSR-0 Autoloader before the Magento Autoloader
 * [Magento SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Must-have tool to apply SUPEE-6788 patch
-* [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - A small shell script by Alan Storm to automatically package tar archives into Magento's Connect 2.0 format
+* [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
 * [Mageploy](https://github.com/pug-more/mageploy) - Keep track of changes and deploy synchronization between different Magento environments
 * [Philwinkl Applied Patches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - See a list of all applied patches from within the Magento admin panel
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Magento extension that lets you create other magento CRUD modules for your own entities
