@@ -4,7 +4,7 @@ Resources are listed **alphabetically** within each category.
 
 Contributions are very welcome: fork the project and submit your pull request, open an issue or drop me a line on aleron75[at]gmail.com
 
-## Official Resourcesc
+## Official Resources
 * [Magento Blog](http://magento.com/blog)
 * [Magento CE User Guide](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html)
 * [Magento Documentation (phpdoc)](http://docs.magentocommerce.com/)
@@ -14,7 +14,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Magento 2 Developer Hub](https://magento.com/developers/magento2)
 * [Magento 2 Github Repository](https://github.com/magento/magento2)
 * [Magento Security Center](http://magento.com/security/) - a dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
-t
+
 ## Certification
 
 * [Magento Certification](http://magento.com/training/catalog/certification)
