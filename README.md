@@ -55,8 +55,10 @@ Magento 2:
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
 * [MageReport.com](https://www.magereport.com/) - gives you a quick insight in the security status of your Magento shop
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
+* [Magneto Debug](https://github.com/madalinoprea/magneto-debug) - Magento 1.x developer debug toolbar
 * [Magicento](http://magicento.com/) - PHPStorm plugin for Magento developers
 * [Modman](https://github.com/colinmollenhour/modman) - Magento Module Manager
+* [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin)
 * [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - a.k.a. n98-magerun or simply magerun, provides some handy tools to work with Magento from command line
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 
