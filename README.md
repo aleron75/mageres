@@ -153,6 +153,7 @@ Magento 2:
 * [MageDaily Tips](http://www.magedaily.com/category/tips/)
 * [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
+* [Magento Snippets and Code Samples](https://makandracards.com/magento)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html) by Firebear Studio
 * [TutorialMagento](http://tutorialmagento.com/)
