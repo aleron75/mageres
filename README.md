@@ -27,7 +27,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 
 ## Books
 
-Magento 1:
+Magento 1
 * [Getting Started with Magento Extension Development](https://www.packtpub.com/web-development/getting-started-magento-extension-development) by Ajzele Branko
 * [Grokking Magento - Book 1: Basics & Request Flow](https://shop.vinaikopp.com/grokking-magento) by Vinai Kopp
 * [Magento Best Practices Handbook](https://leanpub.com/magebp) by Alessandro Ronchi
@@ -40,13 +40,17 @@ Magento 1:
 * [Test Driven Magento Extension Development - Part 1](http://coderoncode.com/books/magetdd.html) by Allan MacGregor
 * [The Definitive Guide to Magento](http://www.amazon.co.uk/Definitive-Guide-Magento-Experts-Source-x/dp/1430272295/ref=sr_1_1?ie=UTF8&qid=1449236093&sr=8-1&keywords=apress+definitive+guide+to+magento) by Adam McCombs and Robert Banh
 
-Magento 2:
+Magento 2
+* [Learning Magento 2 Administration](https://www.packtpub.com/web-development/learning-magento-2-administration) by Bret Williams , Cyndi Williams
 * [Magento 2 Cookbook](https://www.packtpub.com/web-development/magento-2-cookbook) by Ray Bogman, Vladimir Kerkhoff
-* [Magento 2 Developers Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) by Branko Ajzele
+* [Magento 2 Developer's Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) by Branko Ajzele
 * [Magento 2 Development Cookbook ](https://www.packtpub.com/web-development/magento-2-development-cookbook) by Bart Delvaux
+* [Magento 2 Development Essentials](https://www.packtpub.com/web-development/magento-2-development-essentials) by Fernando J. Miguel
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) by Viktor Khliupko
 * [Magento 2 Primer: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Primer-Getting-Stuff-Done-ebook/dp/B019PCMJ7A/) by Alan Kent
-
+* [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) by Bret Williams , Jonathan Bownds
+* [Theme Web Page Assets: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Theme-Assets-Getting-Stuff-ebook/dp/B01COQPQG0/) by Alan Kent
+* 
 ### Tools
 
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
