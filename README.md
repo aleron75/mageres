@@ -141,6 +141,7 @@ Magento 2
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
+* [Phuc Vo](http://www.thienphucvx.com/)
 * [Rebecca Troth](http://rebeccatroth.co.uk/category/posts/magento/)
 * [Session Digital on Magento](http://www.sessiondigital.com/blog/category/magento/) - all SD's Magento posts
 * [Session Digital DE on Magento](http://www.sessiondigital.de/blog/category/magento/) - all SD's DE Magento posts (mainly in English language)
