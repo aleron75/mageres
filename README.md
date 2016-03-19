@@ -100,6 +100,7 @@ Magento 2
 
 ## Blogs
 
+* [Adam Moss](https://adammoss.co.uk)
 * [Alan Kent](https://alankent.wordpress.com)
 * [Alan Storm](http://alanstorm.com/category/magento)
 * [Anna Völkl](http://anna.voelkl.at/)
