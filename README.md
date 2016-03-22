@@ -54,6 +54,7 @@ Magento 2
 ### Tools
 
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
+* [M2Install](https://github.com/yvoronoy/m2install) - a tool to restore backups or support dumps and install vanilla Magento 
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
 * [Magento patches finder](http://fabrizioballiano.net/magento-patches/) - tool to show needed patches by version of Magento
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
