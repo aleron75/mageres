@@ -282,18 +282,19 @@ Magento 2
  
 ### Prebuild VMs and Containers
  * Docker
-   * [https://hub.docker.com/r/alankent/gsd/](https://hub.docker.com/r/alankent/gsd/) - Alan Kent's "Getting Stuff Done with Magento 2" Docker image
-   * [https://github.com/magento/magento2-docker] (https://github.com/magento/magento2-docker) - Docker container for Magento 2 (CentOS)
-   * [https://hub.docker.com/u/mageinferno/](https://hub.docker.com/u/mageinferno/) - Docker Hub by Mage Inferno
-   * [chadrien/magento2](https://hub.docker.com/r/chadrien/magento2) - Magento 2 Docker images
-   * [ilampirai/docker-magento2](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager
-   * [https://github.com/wsakaren/m2SimpleDocker](https://github.com/wsakaren/m2SimpleDocker) - Magento 2 simple docker build by Karen Baker
-   * [https://github.com/fballiano/docker-magento2](https://github.com/fballiano/docker-magento2) - Magento2 (Varnish + PHP7 + Redis) cluster ready docker-compose infrastructure
+   * [Alan Kent's "Getting Stuff Done with Magento 2" Docker image](https://hub.docker.com/r/alankent/gsd/)
+   * [Docker container for Magento 2 (CentOS)] (https://github.com/magento/magento2-docker)
+   * [Docker Hub by Mage Inferno](https://hub.docker.com/u/mageinferno/)
+   * [Magento 2 Docker images](https://hub.docker.com/r/chadrien/magento2)
+   * [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2)
+   * [Karen Baker's Magento 2 simple docker build](https://github.com/wsakaren/m2SimpleDocker)
+   * [Fabrizio Balliano's Magento2 (Varnish + PHP7 + Redis) cluster ready docker-compose infrastructure](https://github.com/fballiano/docker-magento2)
  * Vagrant
    * [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - designed by AOE with Magento in mind but usable for every LAMP stack based applications
    * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
+   * [Magento 2 Vagrant Box](https://github.com/rgranadino/mage2_vagrant)
    * [Magestead](http://www.magestead.com/) - Vagrant LEMP stack for Magento developers
-   * [https://github.com/paliarush/vagrant-magento](https://github.com/paliarush/vagrant-magento) - Vagrant for Magento CE, optimized for Windows hosts
-   * [rgranadino/mage2_vagrant](https://github.com/rgranadino/mage2_vagrant) - Magento 2 Vagrant Box
-   * [https://github.com/roman204/vagrant-magento-php7](https://github.com/roman204/vagrant-magento-php7) - Vagrant + Magento (1.9.2.2) + PHP-7.0.0
+   * [Vagrant Magento 2 Demo](https://github.com/davidalger/m2demo) - A complete demo environment powered by Vagrant using either Digital Ocean or Virtual Box as a provider
+   * [Vagrant + Magento (1.9.2.2) + PHP-7.0.0](https://github.com/roman204/vagrant-magento-php7)
+   * [Vagrant for Magento CE, optimized for Windows hosts](https://github.com/paliarush/vagrant-magento)
    
