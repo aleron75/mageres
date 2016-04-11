@@ -120,6 +120,7 @@ Magento 2
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
 * [Fabrizio Branca](http://fbrnc.net/)
 * [Firebear Studio Blog](http://firebearstudio.com/blog/)
+* [Fooman](http://store.fooman.co.nz/blog)
 * [Ibnab Blog](http://ibnab.com/en/blog/magento-2) - Ibnab's Magento 2 related blog posts
 * [Inchoo](http://inchoo.net/category/magento/)
 * [integer_net Blog](http://www.integer-net.com/blog/)
