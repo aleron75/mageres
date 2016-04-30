@@ -108,6 +108,7 @@ Magento 2
 * [Atwix blog](http://www.atwix.com/blog/)
 * [Belvg](http://blog.belvg.com/category/magento-news)
 * [Ben Marks](http://bhmarks.com/blog/)
+* [bitExpert AG](https://blog.bitexpert.de/blog/)
 * [Brideo](http://brideo.co.uk/blog/)
 * [Classyllama](http://www.classyllama.com/blog/category/magento)
 * [Cool Ryan](http://www.coolryan.com/category/magento/)
