@@ -188,8 +188,9 @@ Magento 2
 
 ## Associations
 
-*  [Firegento](http://firegento.com/)
-*  [Meet Magento Association](http://www.meet-magento.com/meet-magento-association/)
+* [ExtDN](https://extdn.org/)
+* [Firegento](http://firegento.com/)
+* [Meet Magento Association](http://www.meet-magento.com/meet-magento-association/)
 
 ## Events
 
