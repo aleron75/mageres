@@ -55,6 +55,7 @@ Magento 2
 
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
+* [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform?c=0&w=1) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 * [Magento patches finder](http://fabrizioballiano.net/magento-patches/) - tool to show needed patches by version of Magento
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
 * [MageReport.com](https://www.magereport.com/) - gives you a quick insight in the security status of your Magento shop
@@ -152,6 +153,7 @@ Magento 2
 * [Siteground](https://www.siteground.com/tutorials/magento/)
 * [Solving Magento](http://www.solvingmagento.com/)
 * [Sonassi](https://www.sonassi.com/blog/)
+* [Talesh Seeparsan](http://www.seeparsan.net/magento-blog/)
 
 ## Quickies and Tutorials
 
