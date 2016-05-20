@@ -141,6 +141,8 @@ Magento 2
 * [Mark Shust](http://markshust.com/tags/magento) - Mark Shust on Magento
 * [Max Pronko](http://www.maxpronko.com/)
 * [Max Yekaterynenko](https://maxyek.wordpress.com/)
+* [Maxime Huran](http://www.maximehuran.fr/en/category/magento-one/) - Magento 1
+* [Maxime Huran](http://www.maximehuran.fr/en/category/magento-two/) - Magento 2
 * [Newsgento](http://newsgento.com/) - eCommerce community news and events
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
