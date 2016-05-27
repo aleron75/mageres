@@ -173,6 +173,7 @@ Magento 2
 ## Podcasts
 
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
+* [Mage Roundtable](http://mageroundtable.com/) - The Magento podcast where everyone chimes in
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
 * [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
 
