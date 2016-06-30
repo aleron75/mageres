@@ -49,8 +49,9 @@ Magento 2
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) by Viktor Khliupko
 * [Magento 2 Primer: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Primer-Getting-Stuff-Done-ebook/dp/B019PCMJ7A/) by Alan Kent
 * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) by Bret Williams , Jonathan Bownds
+* [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) by Ryan Street
 * [Theme Web Page Assets: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Theme-Assets-Getting-Stuff-ebook/dp/B01COQPQG0/) by Alan Kent
-* 
+*
 ### Tools
 
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
@@ -105,6 +106,7 @@ Magento 2
 * [Alan Kent](https://alankent.wordpress.com)
 * [Alan Storm](http://alanstorm.com/category/magento)
 * [Anna Völkl](http://anna.voelkl.at/)
+* [Ash Smith](https://www.ashsmith.io/blog/)
 * [Ashley Schroder](http://www.aschroder.com/category/magento/)
 * [Atwix blog](http://www.atwix.com/blog/)
 * [Belvg](http://blog.belvg.com/category/magento-news)
@@ -130,7 +132,6 @@ Magento 2
 * [Kalpesh Mehta](http://ka.lpe.sh/)
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
 * [Magebase](http://magebase.com/)
-* [Mage Dev Weekly](http://magedevweekly.com/)
 * [Mage Inferno](http://mageinferno.com/blog) - Blog dedicated to Magento 2
 * [Mage News](http://www.mage-news.de/) - A Magento Blog Aggregator
 * [Magenticians](http://magenticians.com/)
@@ -177,11 +178,15 @@ Magento 2
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
 * [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
 
+## Newsletters
+* [The Devletter](https://www.maxpronko.com/blog/the-devletter) - free weekly email by Max Pronko
+
 ## Screencasts
 
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [MageCasts.io](http://www.magecasts.io/) - Rockstar Magento screecasts!
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2
+* [Rebecca's Magento Channel](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ) - YouTube channel for fun & helpful Magento videos
 
 ## Forum/Communities
 
@@ -287,7 +292,7 @@ Magento 2
 * [Firegento Composer Repository](http://packages.firegento.com/)
 * [nr-apps](http://www.nr-apps.com/store/app-store.html)
 * [Xtension Galaxy](https://xtensiongalaxy.com/)
- 
+
 ### Prebuild VMs and Containers
  * Docker
    * [Alan Kent's "Getting Stuff Done with Magento 2" Docker image](https://hub.docker.com/r/alankent/gsd/)
