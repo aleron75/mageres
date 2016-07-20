@@ -51,7 +51,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
     * [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) by Ryan Street
     * [Theme Web Page Assets: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Theme-Assets-Getting-Stuff-ebook/dp/B01COQPQG0/) by Alan Kent
 
-### Tools
+## Tools
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform?c=0&w=1) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
@@ -66,7 +66,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - a.k.a. n98-magerun or simply magerun, provides some handy tools to work with Magento from command line
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 
-### Extensions - #mostpopular, #opensource, #development
+## Extensions - #mostpopular, #opensource, #development
 * [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler)
 * [AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler)
 * [AOE Template Hints](https://github.com/AOEpeople/Aoe_TemplateHints)
@@ -91,7 +91,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Philwinkl Applied Patches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - See a list of all applied patches from within the Magento admin panel
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Magento extension that lets you create other magento CRUD modules for your own entities
 
-### Testing
+## Testing
 * [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration
 * [Magium](https://github.com/magium/Magium) - A PHPUnit/Webdriver (Selenium) based test framework
 * [xtest](http://xtest-mage.com/) - Simple Magento Testing Framework
@@ -211,14 +211,14 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Mage Hackathon](https://www.mage-hackathon.de/)
 * [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
 
-### Module Repositories/Marketplaces
+## Module Repositories/Marketplaces
 * [Magento Connect](http://www.magentocommerce.com/magento-connect/)
 * [Magento's Composer Repository](http://packages.magento.com/)
 * [Firegento Composer Repository](http://packages.firegento.com/)
 * [nr-apps](http://www.nr-apps.com/store/app-store.html)
 * [Xtension Galaxy](https://xtensiongalaxy.com/)
 
-### Prebuild VMs and Containers
+## Prebuild VMs and Containers
  * Docker
    * [Alan Kent's "Getting Stuff Done with Magento 2" Docker image](https://hub.docker.com/r/alankent/gsd/)
    * [Docker container for Magento 2 (CentOS)] (https://github.com/magento/magento2-docker)
