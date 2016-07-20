@@ -16,7 +16,6 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Magento Security Center](http://magento.com/security/) - a dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
 
 ## Certification
-
 * [Magento Certification](http://magento.com/training/catalog/certification)
 * Magento Developer Certification study guides and tools
   * [Magento Certification Practice Test](http://magento-quiz.magestore.com/) by Magestore
@@ -27,33 +26,32 @@ Contributions are very welcome: fork the project and submit your pull request, o
 
 ## Books
 
-Magento 1
-* [Getting Started with Magento Extension Development](https://www.packtpub.com/web-development/getting-started-magento-extension-development) by Ajzele Branko
-* [Grokking Magento - Book 1: Basics & Request Flow](https://shop.vinaikopp.com/grokking-magento) by Vinai Kopp
-* [Magento Best Practices Handbook](https://leanpub.com/magebp) by Alessandro Ronchi
-* [Magento PHP Developer's Guide](http://magedevguide.com/) by Allan MacGregor
-* [Magento Product Types: Developer's Guide](https://leanpub.com/magentoproducttypesdevelopersguide) by Oleg Ishenko
-* [Magento Search Engine Optimization](https://www.packtpub.com/web-development/magento-search-engine-optimization) by Robert Kent
-* [Mastering Magento Theme Design](https://www.packtpub.com/web-development/mastering-magento-theme-design) by Andrea Saccà
-* [No Frills Command Line Magento](https://leanpub.com/command-line-magento/) by Alan Storm
-* [No Frills Magento Layout](http://store.pulsestorm.net/products/no-frills-magento-layout) by Alan Storm
-* [Test Driven Magento Extension Development - Part 1](http://coderoncode.com/books/magetdd.html) by Allan MacGregor
-* [The Definitive Guide to Magento](http://www.amazon.co.uk/Definitive-Guide-Magento-Experts-Source-x/dp/1430272295/ref=sr_1_1?ie=UTF8&qid=1449236093&sr=8-1&keywords=apress+definitive+guide+to+magento) by Adam McCombs and Robert Banh
+* Magento 1
+    * [Getting Started with Magento Extension Development](https://www.packtpub.com/web-development/getting-started-magento-extension-development) by Ajzele Branko
+    * [Grokking Magento - Book 1: Basics & Request Flow](https://shop.vinaikopp.com/grokking-magento) by Vinai Kopp
+    * [Magento Best Practices Handbook](https://leanpub.com/magebp) by Alessandro Ronchi
+    * [Magento PHP Developer's Guide](http://magedevguide.com/) by Allan MacGregor
+    * [Magento Product Types: Developer's Guide](https://leanpub.com/magentoproducttypesdevelopersguide) by Oleg Ishenko
+    * [Magento Search Engine Optimization](https://www.packtpub.com/web-development/magento-search-engine-optimization) by Robert Kent
+    * [Mastering Magento Theme Design](https://www.packtpub.com/web-development/mastering-magento-theme-design) by Andrea Saccà
+    * [No Frills Command Line Magento](https://leanpub.com/command-line-magento/) by Alan Storm
+    * [No Frills Magento Layout](http://store.pulsestorm.net/products/no-frills-magento-layout) by Alan Storm
+    * [Test Driven Magento Extension Development - Part 1](http://coderoncode.com/books/magetdd.html) by Allan MacGregor
+    * [The Definitive Guide to Magento](http://www.amazon.co.uk/Definitive-Guide-Magento-Experts-Source-x/dp/1430272295/ref=sr_1_1?ie=UTF8&qid=1449236093&sr=8-1&keywords=apress+definitive+guide+to+magento) by Adam McCombs and Robert Banh
 
-Magento 2
-* [Learning Magento 2 Administration](https://www.packtpub.com/web-development/learning-magento-2-administration) by Bret Williams , Cyndi Williams
-* [Magento 2 Cookbook](https://www.packtpub.com/web-development/magento-2-cookbook) by Ray Bogman, Vladimir Kerkhoff
-* [Magento 2 Developer's Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) by Branko Ajzele
-* [Magento 2 Development Cookbook ](https://www.packtpub.com/web-development/magento-2-development-cookbook) by Bart Delvaux
-* [Magento 2 Development Essentials](https://www.packtpub.com/web-development/magento-2-development-essentials) by Fernando J. Miguel
-* [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) by Viktor Khliupko
-* [Magento 2 Primer: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Primer-Getting-Stuff-Done-ebook/dp/B019PCMJ7A/) by Alan Kent
-* [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) by Bret Williams , Jonathan Bownds
-* [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) by Ryan Street
-* [Theme Web Page Assets: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Theme-Assets-Getting-Stuff-ebook/dp/B01COQPQG0/) by Alan Kent
-*
+* Magento 2
+    * [Learning Magento 2 Administration](https://www.packtpub.com/web-development/learning-magento-2-administration) by Bret Williams , Cyndi Williams
+    * [Magento 2 Cookbook](https://www.packtpub.com/web-development/magento-2-cookbook) by Ray Bogman, Vladimir Kerkhoff
+    * [Magento 2 Developer's Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) by Branko Ajzele
+    * [Magento 2 Development Cookbook ](https://www.packtpub.com/web-development/magento-2-development-cookbook) by Bart Delvaux
+    * [Magento 2 Development Essentials](https://www.packtpub.com/web-development/magento-2-development-essentials) by Fernando J. Miguel
+    * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) by Viktor Khliupko
+    * [Magento 2 Primer: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Primer-Getting-Stuff-Done-ebook/dp/B019PCMJ7A/) by Alan Kent
+    * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) by Bret Williams , Jonathan Bownds
+    * [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) by Ryan Street
+    * [Theme Web Page Assets: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Theme-Assets-Getting-Stuff-ebook/dp/B01COQPQG0/) by Alan Kent
+
 ### Tools
-
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform?c=0&w=1) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
@@ -69,7 +67,6 @@ Magento 2
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 
 ### Extensions - #mostpopular, #opensource, #development
-
 * [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler)
 * [AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler)
 * [AOE Template Hints](https://github.com/AOEpeople/Aoe_TemplateHints)
@@ -95,13 +92,11 @@ Magento 2
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Magento extension that lets you create other magento CRUD modules for your own entities
 
 ### Testing
-
 * [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration
 * [Magium](https://github.com/magium/Magium) - A PHPUnit/Webdriver (Selenium) based test framework
 * [xtest](http://xtest-mage.com/) - Simple Magento Testing Framework
 
 ## Blogs
-
 * [Adam Moss](https://adammoss.co.uk)
 * [Alan Kent](https://alankent.wordpress.com)
 * [Alan Storm](http://alanstorm.com/category/magento)
@@ -159,7 +154,6 @@ Magento 2
 * [Talesh Seeparsan](http://www.seeparsan.net/magento-blog/)
 
 ## Quickies and Tutorials
-
 * [Demac Media Tutorials](http://www.demacmedia.com/category/magento-tutorials/)
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](http://fishpig.co.uk/magento/tutorials/)
@@ -172,7 +166,6 @@ Magento 2
 * [TutorialMagento](http://tutorialmagento.com/)
 
 ## Podcasts
-
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
 * [Mage Roundtable](http://mageroundtable.com/) - The Magento podcast where everyone chimes in
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
@@ -182,14 +175,12 @@ Magento 2
 * [The Devletter](https://www.maxpronko.com/blog/the-devletter) - free weekly email by Max Pronko
 
 ## Screencasts
-
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [MageCasts.io](http://www.magecasts.io/) - Rockstar Magento screecasts!
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2
 * [Rebecca's Magento Channel](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ) - YouTube channel for fun & helpful Magento videos
 
 ## Forum/Communities
-
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
 * [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?filter=labels&q=%23MagentoMonday&sort_by=-topicPostDate&search_type=thread) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [MageHero](http://magehero.com/) - Awesome Magento Developers
@@ -197,17 +188,14 @@ Magento 2
 * [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
 
 ## Associations
-
 * [ExtDN](https://extdn.org/)
 * [Firegento](http://firegento.com/)
 * [Meet Magento Association](http://www.meet-magento.com/meet-magento-association/)
 
 ## Events
-
 *  [Magento Events Calendar](https://www.google.com/calendar/embed?src=9ns1e12ucfd84tpnsehekkc6g0%40group.calendar.google.com) - a publicly available Google calendar which contains all Magento events around the world
 
 ### Conferences
-
 * [Magento Imagine](http://imagine.magento.com) - The Magento event
 * [Mage Titans](http://www.magetitans.co.uk/) - an event for Magento developers in UK
 * [Mage Titans Italia](http://www.magetitans.it/) - an event for Magento developers in a warmer Country :)
@@ -219,13 +207,11 @@ Magento 2
 * [All official Magento Meetups around the World](http://www.meetup.com/it-IT/pro/magento/)
 
 ### Hackathons
-
 * [Mage::Hack](http://www.magehack.com/)
 * [Mage Hackathon](https://www.mage-hackathon.de/)
 * [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
 
 ### Module Repositories/Marketplaces
-
 * [Magento Connect](http://www.magentocommerce.com/magento-connect/)
 * [Magento's Composer Repository](http://packages.magento.com/)
 * [Firegento Composer Repository](http://packages.firegento.com/)
