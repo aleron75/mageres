@@ -92,6 +92,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Magento extension that lets you create other magento CRUD modules for your own entities
 
 ## Testing
+* [Digital Pianism Test Framework](https://github.com/digitalpianism/testframework) - A simple framework to be used to create unit and integration tests on Magento 1
 * [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration
 * [Magium](https://github.com/magium/Magium) - A PHPUnit/Webdriver (Selenium) based test framework
 * [xtest](http://xtest-mage.com/) - Simple Magento Testing Framework
@@ -232,6 +233,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
  * Vagrant
    * [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - designed by AOE with Magento in mind but usable for every LAMP stack based applications
    * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
+   * [Magento 2 SE box](https://github.com/studioemma/vagrant-mage2)
    * [Magento 2 Vagrant Box](https://github.com/rgranadino/mage2_vagrant)
    * [MageScotch Box](https://github.com/joshuaswarren/magescotch)
    * [Magestead](http://www.magestead.com/) - Vagrant LEMP stack for Magento developers
