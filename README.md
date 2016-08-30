@@ -51,7 +51,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
     * [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) by Ryan Street
     * [Theme Web Page Assets: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Theme-Assets-Getting-Stuff-ebook/dp/B01COQPQG0/) by Alan Kent
 
-## Tools
+## Tools (free)
 * [Judge](http://judge.nr-apps.com/) - a tool to examine Magento extensions regarding their quality and compatibility
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform?c=0&w=1) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
@@ -65,6 +65,9 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin)
 * [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - a.k.a. n98-magerun or simply magerun, provides some handy tools to work with Magento from command line
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
+
+## Tools (freemium + commercial)
+* [MageCloud](http://www.magecloud.net/) - a tool that allows store owners and developers to deploy Magento instances automatically
 
 ## Extensions - #mostpopular, #opensource, #development
 * [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler)
