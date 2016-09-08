@@ -102,6 +102,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 
 ## Blogs
 * [Adam Moss](https://adammoss.co.uk)
+* [AionHill blog](https://aionhill.com/category/magento-development-tips)
 * [Alan Kent](https://alankent.wordpress.com)
 * [Alan Storm](http://alanstorm.com/category/magento)
 * [Anna Völkl](http://anna.voelkl.at/)
