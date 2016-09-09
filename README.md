@@ -68,6 +68,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 ## Tools (freemium/trial + commercial)
 * [Commerce Bug](http://store.pulsestorm.net/products/commerce-bug-3) - Magento debugging extension
 * [MageCloud](http://www.magecloud.net/) - a tool that allows store owners and developers to deploy Magento instances automatically
+* [MageFlow](https://mageflow.com/) - Magento extension for migrating content between development, staging and production environments
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
 * [Magicento](http://magicento.com/) - PHPStorm plugin for Magento developers
 
