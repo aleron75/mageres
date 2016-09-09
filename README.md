@@ -65,7 +65,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - a.k.a. n98-magerun or simply magerun, provides some handy tools to work with Magento from command line
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 
-## Tools (freemium + commercial)
+## Tools (freemium/trial + commercial)
 * [Commerce Bug](http://store.pulsestorm.net/products/commerce-bug-3) - Magento debugging extension
 * [MageCloud](http://www.magecloud.net/) - a tool that allows store owners and developers to deploy Magento instances automatically
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
