@@ -56,18 +56,20 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform?c=0&w=1) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 * [Magento patches finder](http://fabrizioballiano.net/magento-patches/) - tool to show needed patches by version of Magento
-* [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
+* [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion)
 * [MageReport.com](https://www.magereport.com/) - gives you a quick insight in the security status of your Magento shop
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
 * [Magneto Debug](https://github.com/madalinoprea/magneto-debug) - Magento 1.x developer debug toolbar
-* [Magicento](http://magicento.com/) - PHPStorm plugin for Magento developers
 * [Modman](https://github.com/colinmollenhour/modman) - Magento Module Manager
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin)
 * [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - a.k.a. n98-magerun or simply magerun, provides some handy tools to work with Magento from command line
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 
 ## Tools (freemium + commercial)
+* [Commerce Bug](http://store.pulsestorm.net/products/commerce-bug-3) - Magento debugging extension
 * [MageCloud](http://www.magecloud.net/) - a tool that allows store owners and developers to deploy Magento instances automatically
+* [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
+* [Magicento](http://magicento.com/) - PHPStorm plugin for Magento developers
 
 ## Extensions - #mostpopular, #opensource, #development
 * [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler)
