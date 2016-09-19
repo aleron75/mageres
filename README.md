@@ -222,7 +222,6 @@ Contributions are very welcome: fork the project and submit your pull request, o
 
 ## Module Repositories/Marketplaces
 * [Magento Connect](http://www.magentocommerce.com/magento-connect/)
-* [Magento's Composer Repository](http://packages.magento.com/)
 * [Firegento Composer Repository](http://packages.firegento.com/)
 * [nr-apps](http://www.nr-apps.com/store/app-store.html)
 * [Xtension Galaxy](https://xtensiongalaxy.com/)
