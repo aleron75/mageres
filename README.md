@@ -240,6 +240,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
  * Vagrant
    * [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - designed by AOE with Magento in mind but usable for every LAMP stack based applications
    * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
+   * [Fast Hypernode Vagrant Box](https://github.com/ecomdev/fast-hypernode/)
    * [Magento 2 SE box](https://github.com/studioemma/vagrant-mage2)
    * [Magento 2 Vagrant Box](https://github.com/rgranadino/mage2_vagrant)
    * [MageScotch Box](https://github.com/joshuaswarren/magescotch)
