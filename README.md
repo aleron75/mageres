@@ -191,8 +191,9 @@ Contributions are very welcome: fork the project and submit your pull request, o
 ## Forum/Communities
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
 * [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?filter=labels&q=%23MagentoMonday&sort_by=-topicPostDate&search_type=thread) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
-* [MageHero](http://magehero.com/) - Awesome Magento Developers
+* [Magento Freelance Directory](http://magento-freelance-directory.velocv.com/)
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
+* [MageHero](http://magehero.com/) - Awesome Magento Developers
 * [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
 
 ## Associations
