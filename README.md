@@ -186,6 +186,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [MageCasts.io](http://www.magecasts.io/) - Rockstar Magento screecasts!
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2
+* [Nomad Mage](https://nomadmage.com/) - Commercial webinars
 * [Rebecca's Magento Channel](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ) - YouTube channel for fun & helpful Magento videos
 
 ## Forum/Communities
