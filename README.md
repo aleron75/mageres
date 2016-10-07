@@ -46,6 +46,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
     * [Magento 2 Development Cookbook ](https://www.packtpub.com/web-development/magento-2-development-cookbook) by Bart Delvaux
     * [Magento 2 Development Essentials](https://www.packtpub.com/web-development/magento-2-development-essentials) by Fernando J. Miguel
     * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) by Viktor Khliupko
+    * [Magento 2 Extensions Development](https://www.packtpub.com/web-development/magento-extensions-development) by Jérémie Bouchet
     * [Magento 2 Primer: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Primer-Getting-Stuff-Done-ebook/dp/B019PCMJ7A/) by Alan Kent
     * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) by Bret Williams , Jonathan Bownds
     * [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) by Ryan Street
@@ -190,6 +191,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Rebecca's Magento Channel](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ) - YouTube channel for fun & helpful Magento videos
 
 ## Forum/Communities
+* [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
 * [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?filter=labels&q=%23MagentoMonday&sort_by=-topicPostDate&search_type=thread) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [Magento Freelance Directory](http://magento-freelance-directory.velocv.com/)
