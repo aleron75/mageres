@@ -122,7 +122,6 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [David Alger](http://davidalger.com/category/development/magento/)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
 * [Digital Pianism](http://www.digital-pianism.com/en/blog/)
-* [EcomDev](http://www.ecomdev.org/blog)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
