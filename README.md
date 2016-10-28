@@ -135,12 +135,13 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Kalpesh Mehta](http://ka.lpe.sh/)
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
 * [Magebase](http://magebase.com/)
+* [MageComp Magento Blog](http://magecomp.com/blog/)
 * [Mage Inferno](http://mageinferno.com/blog) - Blog dedicated to Magento 2
 * [Mage News](http://www.mage-news.de/) - A Magento Blog Aggregator
 * [Magenticians](http://magenticians.com/)
 * [Magento Blog](http://magento.com/blog)
 * [Magento Garden Blog](http://www.magentogarden.com/blog/)
-* [MageComp Magento Blog](http://magecomp.com/blog/)
+* [MagePsycho](http://www.blog.magepsycho.com/)
 * [Magestore](http://blog.magestore.com/)
 * [Mark Shust](http://markshust.com/tags/magento) - Mark Shust on Magento
 * [Max Pronko](http://www.maxpronko.com/)
