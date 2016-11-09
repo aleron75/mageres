@@ -38,6 +38,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
     * [No Frills Magento Layout](http://store.pulsestorm.net/products/no-frills-magento-layout) by Alan Storm
     * [Test Driven Magento Extension Development - Part 1](http://coderoncode.com/books/magetdd.html) by Allan MacGregor
     * [The Definitive Guide to Magento](http://www.amazon.co.uk/Definitive-Guide-Magento-Experts-Source-x/dp/1430272295/ref=sr_1_1?ie=UTF8&qid=1449236093&sr=8-1&keywords=apress+definitive+guide+to+magento) by Adam McCombs and Robert Banh
+    * [Magento 1.8 Development Cookbook](https://www.packtpub.com/web-development/magento-18-development-cookbook) by Bart Delvaux and Nurul Ferdous
 
 * Magento 2
     * [Learning Magento 2 Administration](https://www.packtpub.com/web-development/learning-magento-2-administration) by Bret Williams , Cyndi Williams
