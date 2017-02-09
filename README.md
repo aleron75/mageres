@@ -62,6 +62,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
 * [Magneto Debug](https://github.com/madalinoprea/magneto-debug) - Magento 1.x developer debug toolbar
 * [Modman](https://github.com/colinmollenhour/modman) - Magento Module Manager
+* [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magetno 2 code generator
 * [MageSpecialist DevTools for Magento 1](https://github.com/magespecialist/m1-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin)
