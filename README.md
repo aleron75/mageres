@@ -62,12 +62,15 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
 * [Magneto Debug](https://github.com/madalinoprea/magneto-debug) - Magento 1.x developer debug toolbar
 * [Modman](https://github.com/colinmollenhour/modman) - Magento Module Manager
+* [MageSpecialist DevTools for Magento 1](https://github.com/magespecialist/m1-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
+* [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin)
 * [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - a.k.a. n98-magerun or simply magerun, provides some handy tools to work with Magento from command line
 * [Triplecheck.io](http://triplecheck.io/) - tool to test and rank most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 
 ## Tools (freemium/trial + commercial)
 * [Commerce Bug](http://store.pulsestorm.net/products/commerce-bug-3) - Magento debugging extension
+* [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator
 * [MageCloud](http://www.magecloud.net/) - a tool that allows store owners and developers to deploy Magento instances automatically
 * [MageFlow](https://mageflow.com/) - Magento extension for migrating content between development, staging and production environments
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
@@ -106,9 +109,12 @@ Contributions are very welcome: fork the project and submit your pull request, o
 
 ## Blogs
 * [Adam Moss](https://adammoss.co.uk)
+* [Aheadworks Blog](https://blog.aheadworks.com/category/magento-2/)
 * [AionHill blog](https://aionhill.com/category/magento-development-tips)
 * [Alan Kent](https://alankent.wordpress.com)
 * [Alan Storm](http://alanstorm.com/category/magento)
+* [Amasty Blog](https://blog.amasty.com/category/magento-2/)
+* [Andrew Smart](https://www.smartiehastheanswer.co.uk/)
 * [Anna Völkl](http://anna.voelkl.at/)
 * [Ash Smith](https://www.ashsmith.io/blog/)
 * [Ashley Schroder](http://www.aschroder.com/category/magento/)
@@ -117,10 +123,14 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Ben Marks](http://bhmarks.com/blog/)
 * [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
 * [Brideo](http://brideo.co.uk/blog/)
+* [C3Media Blog](https://www.c3media.co.uk/blog/)
 * [Classyllama](http://www.classyllama.com/blog/category/magento)
+* [Cloudways Blog](https://www.cloudways.com/blog/category/magento/)
 * [Cool Ryan](http://www.coolryan.com/category/magento/)
+* [Creare Blog](http://www.creare.co.uk/blog/magento)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
 * [David Alger](http://davidalger.com/category/development/magento/)
+* [DCKAP Blog](http://www.dckap.com/blog)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
 * [Digital Pianism](http://www.digital-pianism.com/en/blog/)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
@@ -132,6 +142,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Ibnab Blog](http://ibnab.com/en/blog/magento-2) - Ibnab's Magento 2 related blog posts
 * [Inchoo](http://inchoo.net/category/magento/)
 * [integer_net Blog](http://www.integer-net.com/blog/)
+* [InteractOne Blog](http://www.interactone.com/category/magento-news/)
 * [James Cowie](http://jcowie.co.uk/)
 * [Kalpesh Mehta](http://ka.lpe.sh/)
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
@@ -140,15 +151,19 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Mage Inferno](http://mageinferno.com/blog) - Blog dedicated to Magento 2
 * [Mage News](http://www.mage-news.de/) - A Magento Blog Aggregator
 * [Magenticians](http://magenticians.com/)
+* [Magently Blog](https://magently.com/blog/)
 * [Magento Blog](http://magento.com/blog)
 * [Magento Garden Blog](http://www.magentogarden.com/blog/)
 * [MagePsycho](http://www.blog.magepsycho.com/)
 * [Magestore](http://blog.magestore.com/)
+* [Magetraining Blog](http://www.magetraining.com/blog/)
+* Mageworx on [Magento 1](http://blog.mageworx.com/magento/) and [Magento 2](http://blog.mageworx.com/magento-2/)
 * [Mark Shust](http://markshust.com/tags/magento) - Mark Shust on Magento
 * [Max Pronko](http://www.maxpronko.com/)
 * [Max Yekaterynenko](https://maxyek.wordpress.com/)
 * [Maxime Huran](http://www.maximehuran.fr/en/category/magento-one/) - Magento 1
 * [Maxime Huran](http://www.maximehuran.fr/en/category/magento-two/) - Magento 2
+* [Meanbee](https://meanbee.com/developers.html) - Articles for developers
 * [Newsgento](http://newsgento.com/) - eCommerce community news and events
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
@@ -158,10 +173,14 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Session Digital on Magento](http://www.sessiondigital.com/blog/category/magento/) - all SD's Magento posts
 * [Session Digital DE on Magento](http://www.sessiondigital.de/blog/category/magento/) - all SD's DE Magento posts (mainly in English language)
 * [Session Digital on Magento 2](http://www.sessiondigital.com/blog/category/magento-2/) - all SD's Magento 2 posts
+* [Shero Blog](https://www.sherodesigns.com/blog/) - Tips, Tricks and Tutorials for Magento and More!
 * [Siteground](https://www.siteground.com/tutorials/magento/)
 * [Solving Magento](http://www.solvingmagento.com/)
+* [Space48 Blog](http://www.space48.com/category/magento/)
 * [Sonassi](https://www.sonassi.com/blog/)
+* [Swapnil Bhavsar](https://swapnil.co/blog/category/magento)
 * [Talesh Seeparsan](http://www.seeparsan.net/magento-blog/)
+* [Yireo Blog](https://www.yireo.com/blog)
 
 ## Quickies and Tutorials
 * [Demac Media Tutorials](http://www.demacmedia.com/category/magento-tutorials/)
@@ -242,6 +261,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
    * [Magento 2 Docker images](https://hub.docker.com/r/chadrien/magento2)
    * [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2)
    * [Magento 2 DevBox](https://github.com/magento/magento2devbox-web)
+   * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - development environment for Magento 2 builds
 
  * Vagrant
    * [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - designed by AOE with Magento in mind but usable for every LAMP stack based applications
