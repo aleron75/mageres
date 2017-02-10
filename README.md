@@ -131,6 +131,7 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Creare Blog](http://www.creare.co.uk/blog/magento)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
 * [David Alger](http://davidalger.com/category/development/magento/)
+* [Darko Poposki](http://darkopoposki.com/articles) - Developer blog
 * [DCKAP Blog](http://www.dckap.com/blog)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
 * [Digital Pianism](http://www.digital-pianism.com/en/blog/)
