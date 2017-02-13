@@ -239,7 +239,7 @@ Resources are listed **alphabetically** within each category.
 * [Meet Magento](http://www.meet-magento.com/) - Meet Magento events website
 
 ### Hackathons
-* [Mage Hackathon](https://www.mage-hackathon.de/) - Hackathons for Mageto developers
+* [Mage Hackathon](https://www.mage-hackathon.de/) - Hackathons for Magento developers
 * [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
 * [Magento Hackathon](https://www.eventbrite.com/e/5th-annual-pre-imagine-magehackathon-2017-las-vegas-tickets-31167451687) - 5th Annual Pre-Imagine MageHackathon 2017 - Las Vegas
 
