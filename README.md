@@ -194,6 +194,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Phuc Vo](http://www.thienphucvx.com/)
+* [Pierre Fay](https://www.pierrefay.com/en/tag/magento2.html)
 * [Rebecca Troth](http://rebeccatroth.co.uk/category/posts/magento/)
 * [Session Digital DE on Magento](http://www.sessiondigital.de/blog/category/magento/)
 * [Session Digital on Magento](http://www.sessiondigital.com/blog/category/magento/)
