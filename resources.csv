@@ -50,30 +50,30 @@ Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows 
 Tools,Commercial with freemium/trial,MageFlow,https://mageflow.com/,"Magento extension for migrating content between development, staging and production environments"
 Tools,Commercial with freemium/trial,Magento Speed Test,http://www.magespeedtest.com/,Magento Speed Test with Siege
 Tools,Commercial with freemium/trial,Magicento,http://magicento.com/,PHPStorm plugin for both Magento 1 and Magento 2 developers
-"Extensions - #mostpopular, #opensource, #development",,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
-"Extensions - #mostpopular, #opensource, #development",,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
-"Extensions - #mostpopular, #opensource, #development",,AOE Template Hints,https://github.com/AOEpeople/Aoe_TemplateHints,"Extends the default Magento ""Template Hints"" developer functionality by adding more information for each block"
-"Extensions - #mostpopular, #opensource, #development",,AvS Fast Simple Import,https://github.com/avstudnitz/AvS_FastSimpleImport,Wrapper for Magento 1 Import/Export functionality which imports data from arrays
-"Extensions - #mostpopular, #opensource, #development",,b-responsive,https://github.com/interactiv4/b-responsive,Magento Responsive Theme built with Twitter Bootstrap v3
-"Extensions - #mostpopular, #opensource, #development",,Compressed Magento 1.9 Sample Data,https://github.com/Vinai/compressed-magento-sample-data,A reduced sample data archive for Magento 1 by Vinai Kopp
-"Extensions - #mostpopular, #opensource, #development",,Danslo AoP,https://github.com/danslo/Danslo_Aop,Enables Aspect-Oriented Programming in Magento
-"Extensions - #mostpopular, #opensource, #development",,Danslo ApiImport,https://github.com/danslo/ApiImport,Wrapper for Magento Import/Export
-"Extensions - #mostpopular, #opensource, #development",,EcomDev Layout Compiler,https://github.com/EcomDev/EcomDev_LayoutCompiler,Transforms recursive Magento 1 XML ayout files into simple one level php code
-"Extensions - #mostpopular, #opensource, #development",,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration
-"Extensions - #mostpopular, #opensource, #development",,Firegento Debug,https://github.com/firegento/firegento-debug,Provides some debbuging functionality for Magento
-"Extensions - #mostpopular, #opensource, #development",,Magemonolog,https://github.com/aleron75/magemonolog,Provides a custom writer model to transparently use Monolog as logging library
-"Extensions - #mostpopular, #opensource, #development",,Firegento Logger,https://github.com/firegento/firegento-logger,Provides a simple framework for different logging adapters
-"Extensions - #mostpopular, #opensource, #development",,Firegento PDF,https://github.com/firegento/firegento-pdf,"Overwrites standard PDF layouts for invoices, shipments and creditmemos"
-"Extensions - #mostpopular, #opensource, #development",,LimeSoda Environment Configuration,https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration,
-"Extensions - #mostpopular, #opensource, #development",,LimeSoda Sample Data Generator,https://github.com/LimeSoda/LimeSoda_SampleDataGenerator,"Generate Magento websites, stores, categories, products, customers etc."
-"Extensions - #mostpopular, #opensource, #development",,Magento Composer Installer,https://github.com/Cotya/magento-composer-installer,Enable composer to install Magento modules
-"Extensions - #mostpopular, #opensource, #development",,Magento Project Mess Detector,https://github.com/AOEpeople/mpmd,n98-magerun addon to find out how messed up a Magento instance is
-"Extensions - #mostpopular, #opensource, #development",,Magento PSR-0 Autoloader,https://github.com/magento-hackathon/Magento-PSR-0-Autoloader,Adds a PSR-0 Autoloader before the Magento Autoloader
-"Extensions - #mostpopular, #opensource, #development",,Magento SUPEE-6788 Developer Toolbox,https://github.com/rhoerr/supee-6788-toolbox,Must-have tool to apply SUPEE-6788 patch
-"Extensions - #mostpopular, #opensource, #development",,MagentoTarToConnect,https://github.com/astorm/MagentoTarToConnect,Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
-"Extensions - #mostpopular, #opensource, #development",,Mageploy,https://github.com/pug-more/mageploy,Keep track of changes and deploy synchronization between different Magento environments
-"Extensions - #mostpopular, #opensource, #development",,Philwinkl Applied Patches,https://github.com/philwinkle/Philwinkle_AppliedPatches,See a list of all applied patches from within the Magento admin panel
-"Extensions - #mostpopular, #opensource, #development",,Ultimate Module Creator,https://github.com/tzyganu/UMC1.9,Magento extension that lets you create other magento CRUD modules for your own entities
+Extensions,,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
+Extensions,,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
+Extensions,,AOE Template Hints,https://github.com/AOEpeople/Aoe_TemplateHints,"Extends the default Magento ""Template Hints"" developer functionality by adding more information for each block"
+Extensions,,AvS Fast Simple Import,https://github.com/avstudnitz/AvS_FastSimpleImport,Wrapper for Magento 1 Import/Export functionality which imports data from arrays
+Extensions,,b-responsive,https://github.com/interactiv4/b-responsive,Magento Responsive Theme built with Twitter Bootstrap v3
+Extensions,,Compressed Magento 1.9 Sample Data,https://github.com/Vinai/compressed-magento-sample-data,A reduced sample data archive for Magento 1 by Vinai Kopp
+Extensions,,Danslo AoP,https://github.com/danslo/Danslo_Aop,Enables Aspect-Oriented Programming in Magento
+Extensions,,Danslo ApiImport,https://github.com/danslo/ApiImport,Wrapper for Magento Import/Export
+Extensions,,EcomDev Layout Compiler,https://github.com/EcomDev/EcomDev_LayoutCompiler,Transforms recursive Magento 1 XML ayout files into simple one level php code
+Extensions,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration
+Extensions,,Firegento Debug,https://github.com/firegento/firegento-debug,Provides some debbuging functionality for Magento
+Extensions,,Magemonolog,https://github.com/aleron75/magemonolog,Provides a custom writer model to transparently use Monolog as logging library
+Extensions,,Firegento Logger,https://github.com/firegento/firegento-logger,Provides a simple framework for different logging adapters
+Extensions,,Firegento PDF,https://github.com/firegento/firegento-pdf,"Overwrites standard PDF layouts for invoices, shipments and creditmemos"
+Extensions,,LimeSoda Environment Configuration,https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration,
+Extensions,,LimeSoda Sample Data Generator,https://github.com/LimeSoda/LimeSoda_SampleDataGenerator,"Generate Magento websites, stores, categories, products, customers etc."
+Extensions,,Magento Composer Installer,https://github.com/Cotya/magento-composer-installer,Enable composer to install Magento modules
+Extensions,,Magento Project Mess Detector,https://github.com/AOEpeople/mpmd,n98-magerun addon to find out how messed up a Magento instance is
+Extensions,,Magento PSR-0 Autoloader,https://github.com/magento-hackathon/Magento-PSR-0-Autoloader,Adds a PSR-0 Autoloader before the Magento Autoloader
+Extensions,,Magento SUPEE-6788 Developer Toolbox,https://github.com/rhoerr/supee-6788-toolbox,Must-have tool to apply SUPEE-6788 patch
+Extensions,,MagentoTarToConnect,https://github.com/astorm/MagentoTarToConnect,Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
+Extensions,,Mageploy,https://github.com/pug-more/mageploy,Keep track of changes and deploy synchronization between different Magento environments
+Extensions,,Philwinkl Applied Patches,https://github.com/philwinkle/Philwinkle_AppliedPatches,See a list of all applied patches from within the Magento admin panel
+Extensions,,Ultimate Module Creator,https://github.com/tzyganu/UMC1.9,Magento extension that lets you create other magento CRUD modules for your own entities
 Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration
 Testing frameworks,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
