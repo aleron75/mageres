@@ -182,6 +182,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento Garden Blog](http://www.magentogarden.com/blog/)
 * [Magestore](http://blog.magestore.com/)
 * [Magetraining Blog](http://www.magetraining.com/blog/)
+* [Marcel Hauri](https://blog.hauri.me/)
 * [Mark Shust](http://markshust.com/tags/magento)
 * [Max Pronko](http://www.maxpronko.com/)
 * [Max Yekaterynenko](https://maxyek.wordpress.com/)
