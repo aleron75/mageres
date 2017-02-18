@@ -58,7 +58,7 @@ foreach ($contents as $topic => $subtopics)
     if (NO_SUBTOPIC != $subtopic) {
       $content .= sprintf(PHP_EOL . "### %s" . PHP_EOL, $subtopic);
     }
-    ksort($subtopicdata);
+    uksort($subtopicdata, 'strnatcasecmp');
     foreach ($subtopicdata as $name => $data) {
       $content .= sprintf("* [%s](%s)%s%s" . PHP_EOL, $name, $data['url'], empty($data['description']) ? '' : ' - ', $data['description']);
     }

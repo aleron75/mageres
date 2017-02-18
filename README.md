@@ -63,10 +63,10 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ### Magento 2
 * [Learning Magento 2 Administration](https://www.packtpub.com/web-development/learning-magento-2-administration) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
 * [Magento 2 Cookbook](https://www.packtpub.com/web-development/magento-2-cookbook) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
-* [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
 * [Magento 2 Developer's Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
 * [Magento 2 Development Cookbook](https://www.packtpub.com/web-development/magento-2-development-cookbook) - Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015
 * [Magento 2 Development Essentials](https://www.packtpub.com/web-development/magento-2-development-essentials) - A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016
+* [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
 * [Magento 2 Extensions Development](https://www.packtpub.com/web-development/magento-extensions-development) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
 * [Magento 2 Primer: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Primer-Getting-Stuff-Done-ebook/dp/B019PCMJ7A/) - An introduction to the Magento 2 architecture and terminology; by Alan Kent, December 2015
 * [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) - A book that teaches you the concepts and immediately shows you how to implement them.; by Ryan Street, February 2017
@@ -84,25 +84,26 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Free
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
-* [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
-* [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
-* [MageSpecialist DevTools for Magento 1](https://github.com/magespecialist/m1-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
-* [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 * [Magento patches finder](http://fabrizioballiano.net/magento-patches/) - Tool to look for needed patches by Magento version
+* [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
+* [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
+* [MageSpecialist DevTools for Magento 1](https://github.com/magespecialist/m1-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
+* [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Magneto Debug](https://github.com/madalinoprea/magneto-debug) - Magento 1.x developer debug toolbar
 * [Modman (Module Manager)](https://github.com/colinmollenhour/modman) - Allows you to separate your Magento 1 files from core files and keep different extensions under version control
+* [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
 * [Triplecheck.io](http://triplecheck.io/) - Tests and ranks most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
-* [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
 
 ## Extensions
 * [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler) - A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 * [AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler) - Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes
 * [AOE Template Hints](https://github.com/AOEpeople/Aoe_TemplateHints) - Extends the default Magento "Template Hints" developer functionality by adding more information for each block
 * [AvS Fast Simple Import](https://github.com/avstudnitz/AvS_FastSimpleImport) - Wrapper for Magento 1 Import/Export functionality which imports data from arrays
+* [b-responsive](https://github.com/interactiv4/b-responsive) - Magento Responsive Theme built with Twitter Bootstrap v3
 * [Compressed Magento 1.9 Sample Data](https://github.com/Vinai/compressed-magento-sample-data) - A reduced sample data archive for Magento 1 by Vinai Kopp
 * [Danslo AoP](https://github.com/danslo/Danslo_Aop) - Enables Aspect-Oriented Programming in Magento
 * [Danslo ApiImport](https://github.com/danslo/ApiImport) - Wrapper for Magento Import/Export
@@ -115,14 +116,13 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [LimeSoda Sample Data Generator](https://github.com/LimeSoda/LimeSoda_SampleDataGenerator) - Generate Magento websites, stores, categories, products, customers etc.
 * [Magemonolog](https://github.com/aleron75/magemonolog) - Provides a custom writer model to transparently use Monolog as logging library
 * [Magento Composer Installer](https://github.com/Cotya/magento-composer-installer) - Enable composer to install Magento modules
-* [Magento PSR-0 Autoloader](https://github.com/magento-hackathon/Magento-PSR-0-Autoloader) - Adds a PSR-0 Autoloader before the Magento Autoloader
 * [Magento Project Mess Detector](https://github.com/AOEpeople/mpmd) - n98-magerun addon to find out how messed up a Magento instance is
+* [Magento PSR-0 Autoloader](https://github.com/magento-hackathon/Magento-PSR-0-Autoloader) - Adds a PSR-0 Autoloader before the Magento Autoloader
 * [Magento SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Must-have tool to apply SUPEE-6788 patch
 * [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
 * [Mageploy](https://github.com/pug-more/mageploy) - Keep track of changes and deploy synchronization between different Magento environments
 * [Philwinkl Applied Patches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - See a list of all applied patches from within the Magento admin panel
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Magento extension that lets you create other magento CRUD modules for your own entities
-* [b-responsive](https://github.com/interactiv4/b-responsive) - Magento Responsive Theme built with Twitter Bootstrap v3
 
 ## Testing frameworks
 * [Digital Pianism Test Framework](https://github.com/digitalpianism/testframework) - A simple framework to be used to create unit and integration tests on Magento 1
@@ -138,11 +138,12 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Amasty Blog](https://blog.amasty.com/category/magento-2/)
 * [Andrew Smart](https://www.smartiehastheanswer.co.uk/)
 * [Anna Völkl](http://anna.voelkl.at/)
-* [Ash Smith](https://www.ashsmith.io/blog/)
 * [Ashley Schroder](http://www.aschroder.com/category/magento/)
+* [Ash Smith](https://www.ashsmith.io/blog/)
 * [Atwix blog](http://www.atwix.com/blog/)
 * [Belvg](http://blog.belvg.com/category/magento-news)
 * [Ben Marks](http://bhmarks.com/blog/)
+* [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
 * [Brideo](http://brideo.co.uk/blog/)
 * [C3Media Blog](https://www.c3media.co.uk/blog/)
 * [Classyllama](http://www.classyllama.com/blog/category/magento)
@@ -150,9 +151,9 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Cool Ryan](http://www.coolryan.com/category/magento/)
 * [Creare Blog](http://www.creare.co.uk/blog/magento)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
-* [DCKAP Blog](http://www.dckap.com/blog)
 * [Darko Poposki](http://darkopoposki.com/articles)
 * [David Alger](http://davidalger.com/category/development/magento/)
+* [DCKAP Blog](http://www.dckap.com/blog)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
 * [Dev98](https://dev98.de/)
 * [Digital Pianism](http://www.digital-pianism.com/en/blog/)
@@ -164,30 +165,31 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Fooman](http://store.fooman.co.nz/blog)
 * [Ibnab Blog](http://ibnab.com/en/blog/magento-2)
 * [Inchoo](http://inchoo.net/category/magento/)
+* [integer_net Blog](http://www.integer-net.com/blog/)
 * [InteractOne Blog](http://www.interactone.com/category/magento-news/)
 * [James Cowie](http://jcowie.co.uk/)
 * [Kalpesh Mehta](http://ka.lpe.sh/)
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
+* [Magebase](http://magebase.com/)
+* [MageComp Magento Blog](http://magecomp.com/blog/)
 * [Mage Inferno](http://mageinferno.com/blog)
 * [Mage News](http://www.mage-news.de/)
-* [MageComp Magento Blog](http://magecomp.com/blog/)
-* [MagePsycho](http://www.blog.magepsycho.com/)
-* [MageWorx on Magento 1](http://blog.mageworx.com/magento/)
-* [MageWorx on Magento 2](http://blog.mageworx.com/magento/)
-* [Magebase](http://magebase.com/)
 * [Magenticians](http://magenticians.com/)
 * [Magently Blog](https://magently.com/blog/)
 * [Magento Blog](http://magento.com/blog)
 * [Magento Fox Blog](https://adammoss.co.uk/magentofox/)
 * [Magento Garden Blog](http://www.magentogarden.com/blog/)
+* [MagePsycho](http://www.blog.magepsycho.com/)
 * [Magestore](http://blog.magestore.com/)
 * [Magetraining Blog](http://www.magetraining.com/blog/)
+* [MageWorx on Magento 1](http://blog.mageworx.com/magento/)
+* [MageWorx on Magento 2](http://blog.mageworx.com/magento/)
 * [Marcel Hauri](https://blog.hauri.me/)
 * [Mark Shust](http://markshust.com/tags/magento)
-* [Max Pronko](http://www.maxpronko.com/)
-* [Max Yekaterynenko](https://maxyek.wordpress.com/)
 * [Maxime Huran on Magento 1](http://www.maximehuran.fr/en/category/magento-one/)
 * [Maxime Huran on Magento 2](http://www.maximehuran.fr/en/category/magento-two/)
+* [Max Pronko](http://www.maxpronko.com/)
+* [Max Yekaterynenko](https://maxyek.wordpress.com/)
 * [Meanbee](https://meanbee.com/developers.html)
 * [Newsgento](http://newsgento.com/)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
@@ -207,26 +209,24 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Swapnil Bhavsar](https://swapnil.co/blog/category/magento)
 * [Talesh Seeparsan](http://www.seeparsan.net/magento-blog/)
 * [Yireo Blog](https://www.yireo.com/blog)
-* [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
-* [integer_net Blog](http://www.integer-net.com/blog/)
 
 ## Quickies & Tutorials
 * [Demac Media Tutorials](http://www.demacmedia.com/category/magento-tutorials/)
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](http://fishpig.co.uk/magento/tutorials/)
 * [MageDaily Tips](http://www.magedaily.com/category/tips/)
+* [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
-* [Magento: The Right Way](https://magentotherightway.com/)
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
 * [TutorialMagento](http://tutorialmagento.com/)
 
 ## Podcasts
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
+* [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
 * [Mage Roundtable](http://mageroundtable.com/) - The Magento podcast where everyone chimes in
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
-* [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
 
 ## Newsletters
 * [The Devletter](https://www.maxpronko.com/blog/the-devletter) - free weekly email by Max Pronko
@@ -256,20 +256,20 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento Events Calendar](https://www.google.com/calendar/embed) - A publicly available Google calendar with almost all Magento events around the world
 
 ### Conferences
+* [Magento Imagine](http://imagine.magento.com) - The Magento event
+* [Magento Live](http://magentolive.com/) - A complement to Magento annual Imagine conference
 * [Mage Titans Italy](http://www.magetitans.it/) - A non-profit event for Magento developers in Italy
 * [Mage Titans Mexico](http://magetitans.mx/) - A non-profit event for Magento developers in Mexico
 * [Mage Titans Spain](http://www.magetitans.es/en/) - A non-profit event for Magento developers in Spain
 * [Mage Titans UK](http://www.magetitans.co.uk/) - A non-profit event for Magento developers in UK
 * [Mage Titans USA](http://www.magetitans.com/) - A non-profit event for Magento developers in USA
 * [Mage Unconference](http://www.mageunconference.org/) - A unique Magento community event
-* [Magento Imagine](http://imagine.magento.com) - The Magento event
-* [Magento Live](http://magentolive.com/) - A complement to Magento annual Imagine conference
 * [Meet Magento](http://www.meet-magento.com/) - Meet Magento events website
 
 ### Hackathons
 * [Mage Hackathon](https://www.mage-hackathon.de/) - Hackathons for Magento developers
-* [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
 * [Magento Hackathon](https://www.eventbrite.com/e/5th-annual-pre-imagine-magehackathon-2017-las-vegas-tickets-31167451687) - 5th Annual Pre-Imagine MageHackathon 2017 - Las Vegas
+* [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
 
 ### Meetups
 * [All official Magento Meetups around the World](http://www.meetup.com/it-IT/pro/magento/)
@@ -297,11 +297,11 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
 * [Fast Hypernode Vagrant Box](https://github.com/ecomdev/fast-hypernode/) - The fastest Magento Vagrant VM Fast Byte Hypernode Box
-* [MageScotch Box (PHP 5)](https://github.com/joshuaswarren/magescotch5) - The (deprecated) PHP 5-based version of Magescotch
-* [MageScotch Box (PHP 7)](https://github.com/joshuaswarren/magescotch) - The PHP 7-based version of Magescotch
 * [Magento 2 SE box](https://github.com/studioemma/vagrant-mage2) - A box coming with two flavours (PHP 7.0 and PHP 7.1)
 * [Magento 2 Vagrant Box](https://github.com/rgranadino/mage2_vagrant) - A simple way to get Magento 2 up and running
+* [MageScotch Box (PHP 5)](https://github.com/joshuaswarren/magescotch5) - The (deprecated) PHP 5-based version of Magescotch
+* [MageScotch Box (PHP 7)](https://github.com/joshuaswarren/magescotch) - The PHP 7-based version of Magescotch
 * [Magestead](http://www.magestead.com/) - Vagrant LEMP stack for Magento developers
 * [Vagrant + Magento (1.9.2.2) + PHP-7.0.0](https://github.com/roman204/vagrant-magento-php7) - This Vagrantbox will build a Virtual Server for Virtualbox based on Ubuntu 14.04
-* [Vagrant Magento 2 Demo](https://github.com/davidalger/m2demo) - A complete demo environment powered by Vagrant using either Digital Ocean or Virtual Box as a provider
 * [Vagrant for Magento 2 CE](https://github.com/paliarush/vagrant-magento) - Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)
+* [Vagrant Magento 2 Demo](https://github.com/davidalger/m2demo) - A complete demo environment powered by Vagrant using either Digital Ocean or Virtual Box as a provider
