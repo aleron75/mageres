@@ -78,7 +78,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 OUT;
 
-$toc = PHP_EOL . ' ## Table of Contents' . PHP_EOL . $toc;
+$toc = PHP_EOL . '## Table of Contents' . PHP_EOL . $toc;
 
 $out = $introduction . $toc . $content;
 
