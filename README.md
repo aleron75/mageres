@@ -198,6 +198,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Phuc Vo](http://www.thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/en/tag/magento2.html)
 * [Rebecca Troth](http://rebeccatroth.co.uk/category/posts/magento/)
+* [Revampix](https://www.revampix.com/)
 * [Session Digital DE on Magento](http://www.sessiondigital.de/blog/category/magento/)
 * [Session Digital on Magento](http://www.sessiondigital.com/blog/category/magento/)
 * [Session Digital on Magento 2](http://www.sessiondigital.com/blog/category/magento-2/)
