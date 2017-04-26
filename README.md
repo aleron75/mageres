@@ -294,6 +294,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 Docker image](https://hub.docker.com/r/chadrien/magento2)
 * [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager running easily in just one build / run
 * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7 + NGINX + MySql
+* [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
 
 ### Vagrant
 * [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - Designed by AOE with Magento in mind but usable for every LAMP stack based applications

@@ -215,6 +215,7 @@ Dev boxes,Docker,Magento 2 Docker image,https://hub.docker.com/r/chadrien/magent
 Dev boxes,Docker,Magento 2 with DB manager,https://github.com/ilampirai/docker-magento2,Magento 2 with DB manager running easily in just one build / run
 Dev boxes,Docker,Magento 2 DevBox,https://github.com/magento/magento2devbox-web,Official Magento 2 DevBox repository
 Dev boxes,Docker,Meanbee Environment Example,https://github.com/meanbee/magento2-environment,Development environment for Magento 2 builds based on PHP 7 + NGINX + MySql
+Dev boxes,Docker,MGT Development Environment,https://www.mgt-commerce.com/cms/mgt-development-environment,Local Development Environment for Magento 1 and Magento 2 based on Docker
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 Dev boxes,Vagrant,Development Environment,https://github.com/davidalger/devenv,Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
 Dev boxes,Vagrant,Fast Hypernode Vagrant Box,https://github.com/ecomdev/fast-hypernode/,The fastest Magento Vagrant VM Fast Byte Hypernode Box
