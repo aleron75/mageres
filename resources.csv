@@ -42,7 +42,8 @@ Tools,Free,MageSpecialist CodeMonkey,https://github.com/magespecialist/m2-MSP_Co
 Tools,Free,MageSpecialist DevTools for Magento 1,https://github.com/magespecialist/m1-MSP_DevTools,intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 Tools,Free,MageSpecialist DevTools for Magento 2,https://github.com/magespecialist/m2-MSP_DevTools,intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 Tools,Free,PhpStorm Magento 2 Plugin,https://github.com/dkvashninbay/magento2plugin,A plugin for Magento 2 development in the PhpStorm IDE
-Tools,Free,netz98 magerun CLI tools,https://github.com/netz98/n98-magerun,Provides some handy tools to work with Magento from command line
+Tools,Free,netz98 magerun CLI tools for Magento 1,https://github.com/netz98/n98-magerun,Provides some handy tools to work with Magento from command line
+Tools,Free,netz98 magerun CLI tools for Magento 2,https://github.com/netz98/n98-magerun2,The swiss army knife for Magento 2 developers
 Tools,Free,Triplecheck.io,http://triplecheck.io/,Tests and ranks most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 Tools,Free,Mgt Developer Toolbar for Magento 2,https://github.com/mgtcommerce/Mgt_Developertoolbar,A dev toolbar that shows all important information for performance optimisation and Magento development.
 Tools,Free,Mgt Developer Toolbar for Magento 1,https://www.mgt-commerce.com/magento-developer-toolbar.html,"Magento 1 developer toolbar with profiling, database queries, handles, event/observer overview, block nesting, requests and caching."

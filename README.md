@@ -96,7 +96,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Mgt Developer Toolbar for Magento 1](https://www.mgt-commerce.com/magento-developer-toolbar.html) - Magento 1 developer toolbar with profiling, database queries, handles, event/observer overview, block nesting, requests and caching.
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) - A dev toolbar that shows all important information for performance optimisation and Magento development.
 * [Modman (Module Manager)](https://github.com/colinmollenhour/modman) - Allows you to separate your Magento 1 files from core files and keep different extensions under version control
-* [netz98 magerun CLI tools](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
+* [netz98 magerun CLI tools for Magento 1](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
+* [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
 * [Triplecheck.io](http://triplecheck.io/) - Tests and ranks most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 
