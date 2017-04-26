@@ -191,6 +191,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Max Pronko](http://www.maxpronko.com/)
 * [Max Yekaterynenko](https://maxyek.wordpress.com/)
 * [Meanbee](https://meanbee.com/developers.html)
+* [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/category/magento/)
 * [Newsgento](http://newsgento.com/)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
 * [Nick Jones](https://www.nicksays.co.uk/magento/)
@@ -234,9 +235,11 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [The Devletter](https://www.maxpronko.com/blog/the-devletter) - free weekly email by Max Pronko
 
 ## Screencasts
+* [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [MageCasts.io](http://www.magecasts.io/) - Rockstar Magento screecasts!
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2
+* [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
 * [Magentube with Rebecca Troth](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ) - YouTube channel for fun & helpful Magento videos
 * [Nomad Mage](https://nomadmage.com/) - Commercial webinars
 
