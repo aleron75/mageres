@@ -155,6 +155,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Creare Blog](http://www.creare.co.uk/blog/magento)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
 * [Darko Poposki](http://darkopoposki.com/articles)
+* [Dave Macaulay](http://davemacaulay.com/blog/)
 * [David Alger](http://davidalger.com/category/development/magento/)
 * [DCKAP Blog](http://www.dckap.com/blog)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
