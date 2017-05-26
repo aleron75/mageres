@@ -213,6 +213,7 @@ Module Repositories & Marketplaces,,Magento Marketplace,https://marketplace.mage
 Module Repositories & Marketplaces,,Magento Connect,http://www.magentocommerce.com/magento-connect/,The old Magento 1 marketplace
 Module Repositories & Marketplaces,,Firegento Composer Repository,http://packages.firegento.com/,Magento Module Composer Repository
 Module Repositories & Marketplaces,,Xtension Galaxy,https://xtensiongalaxy.com/,The only Magento Extension Platform that allows you to create a full demo store on your exact version of Magento to fully try any extension before buying it
+Module Repositories & Marketplaces,,Packagento,https://repo.packagento.com/,A curated list of open source Magento 2 modules
 Dev boxes,Docker,Alan Kent's Docker image,https://hub.docker.com/r/alankent/gsd/,"Docker image for use with the book series ""Getting Stuff Done with Magento 2"""
 Dev boxes,Docker,Docker Hub by Mage Inferno,https://hub.docker.com/u/mageinferno/,Magento 2 Docker containers by Mage Inferno
 Dev boxes,Docker,Dockerize Magento 2,https://github.com/andreaskoch/dockerize-magento2,A composer package for dockerizing Magento 2

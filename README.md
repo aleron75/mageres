@@ -287,6 +287,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Firegento Composer Repository](http://packages.firegento.com/) - Magento Module Composer Repository
 * [Magento Connect](http://www.magentocommerce.com/magento-connect/) - The old Magento 1 marketplace
 * [Magento Marketplace](https://marketplace.magento.com/) - The new Magento extension marketplace
+* [Packagento](https://repo.packagento.com/) - A curated list of open source Magento 2 modules
 * [Xtension Galaxy](https://xtensiongalaxy.com/) - The only Magento Extension Platform that allows you to create a full demo store on your exact version of Magento to fully try any extension before buying it
 
 ## Dev boxes
