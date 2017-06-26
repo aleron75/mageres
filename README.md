@@ -31,6 +31,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
 * [Magento Documentation and Resources](https://magento.com/resources/technical) - Everything you need to build and manage a customized Magento storefront
 * [Magento Security Center](http://magento.com/security/) - A dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
+* [MagentoU Videos](https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40) - MagentoU playlist on YouTube
 
 ### Magento 1
 * [Magento CE User Guide](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html) - Where you’ll find the most up-to-date documentation for the current release, written with merchants in mind
