@@ -247,6 +247,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [MageCasts.io](http://www.magecasts.io/) - Rockstar Magento screecasts!
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2
+* [MageMinute](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Magento News & Discussions from Jamersan
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
 * [Magentube with Rebecca Troth](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ) - YouTube channel for fun & helpful Magento videos
 * [Nomad Mage](https://nomadmage.com/) - Commercial webinars
