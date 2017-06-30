@@ -158,6 +158,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Cloudways Blog](https://www.cloudways.com/blog/category/magento/)
 * [Cool Ryan](http://www.coolryan.com/category/magento/)
 * [Creare Blog](http://www.creare.co.uk/blog/magento)
+* [Customer Paradigm](http://www.customerparadigm.com/blog/)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
 * [Darko Poposki](http://darkopoposki.com/articles)
 * [Dave Macaulay](http://davemacaulay.com/blog/)
