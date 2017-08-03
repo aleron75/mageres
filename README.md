@@ -257,7 +257,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ## Communities
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
 * [MageHero](http://magehero.com/) - Awesome Magento Developers
-* [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
+* [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?q=%23MagentoMonday&sort_by=-topicPostDate&collapse_discussion=true) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
 * [Magento Freelance Directory](http://magento-freelance-directory.velocv.com/) - Magento Freelance Directory on VeloCV
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
