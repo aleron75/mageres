@@ -151,6 +151,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Atwix blog](http://www.atwix.com/blog/)
 * [Belvg](http://blog.belvg.com/category/magento-news)
 * [Ben Marks](http://bhmarks.com/blog/)
+* [Bitbull](https://www.bitbull.it/en/blog/)
 * [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
 * [Brideo](http://brideo.co.uk/blog/)
 * [C3Media Blog](https://www.c3media.co.uk/blog/)
