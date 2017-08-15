@@ -311,6 +311,9 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7 + NGINX + MySql
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
 
+### Other
+* [Valet+](https://github.com/weprovide/valet-plus) - A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file.
+
 ### Vagrant
 * [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
