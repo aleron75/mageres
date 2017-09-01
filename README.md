@@ -174,6 +174,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Fabrizio Branca](http://fbrnc.net/)
 * [Firebear Studio Blog](http://firebearstudio.com/blog/)
 * [Fooman](http://store.fooman.co.nz/blog)
+* [Giel Berkers](https://gielberkers.com/)
 * [Ibnab Blog](http://ibnab.com/en/blog/magento-2)
 * [Inchoo](http://inchoo.net/category/magento/)
 * [integer_net Blog](http://www.integer-net.com/blog/)
