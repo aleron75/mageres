@@ -107,10 +107,11 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Pre Patched files for installing Magento Security Patches without SSH.
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 * [Magento patches finder](http://fabrizioballiano.net/magento-patches/) - Tool to look for needed patches by Magento version
-* [Magento Security Center](The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes) - http://magento.com/security/
-* [Magento® SUPEE-6788 Developer Toolbox](Must-have tool to apply SUPEE-6788 patch) - https://github.com/rhoerr/supee-6788-toolbox
+* [Magento Security Center](http://magento.com/security/) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
+* [Magento® SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox
+) - Must-have tool to apply SUPEE-6788 patch
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
-* [Philwinkle_AppliedPatches](Useful extension to see a list of all applied patches from within the Magento admin panel) - https://github.com/philwinkle/Philwinkle_AppliedPatches
+* [Philwinkle_AppliedPatches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - Useful extension to see a list of all applied patches from within the Magento admin panel
 
 ## Extensions
 * [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler) - A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
