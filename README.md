@@ -214,7 +214,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Phuc Vo](http://www.thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/en/tag/magento2.html)
-* [Rebecca Troth](http://rebeccatroth.co.uk/category/posts/magento/)
+* [Rebecca Brocton](http://rebeccabrocton.com/category/posts/magento/)
 * [Revampix](https://www.revampix.com/)
 * [Sergii Ivashchenko](http://www.sivaschenko.com/)
 * [Session Digital DE on Magento](http://www.sessiondigital.de/blog/category/magento/)
@@ -256,7 +256,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2
 * [MageMinute](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Magento News & Discussions from Jamersan
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
-* [Magentube with Rebecca Troth](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ) - YouTube channel for fun & helpful Magento videos
+* [Magentube with Rebecca Brocton](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ) - YouTube channel for fun & helpful Magento videos
 * [Nomad Mage](https://nomadmage.com/) - Commercial webinars
 
 ## Communities
