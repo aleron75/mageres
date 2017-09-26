@@ -13,6 +13,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Certification](#certification)
 * [Books](#books)
 * [Tools](#tools)
+* [Security](#security)
 * [Extensions](#extensions)
 * [Testing frameworks](#testing-frameworks)
 * [Blogs](#blogs)
@@ -30,7 +31,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento Blog](http://magento.com/blog) - Get the latest in Magento News
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
 * [Magento Documentation and Resources](https://magento.com/resources/technical) - Everything you need to build and manage a customized Magento storefront
-* [Magento Security Center](http://magento.com/security/) - A dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
 * [MagentoU Videos](https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40) - MagentoU playlist on YouTube
 
 ### Magento 1
@@ -90,9 +90,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ### Free
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
-* [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
-* [Magento patches finder](http://fabrizioballiano.net/magento-patches/) - Tool to look for needed patches by Magento version
-* [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
 * [MageSpecialist DevTools for Magento 1](https://github.com/magespecialist/m1-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
@@ -105,6 +102,15 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
 * [Triplecheck.io](http://triplecheck.io/) - Tests and ranks most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
+
+## Security
+* [http://magento.com/security/](Magento Security Center, the dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes)
+* [https://github.com/philwinkle/Philwinkle_AppliedPatches](Philwinkle’s extension to see a list of all applied patches from within the Magento admin panel)
+* [https://github.com/rhoerr/supee-6788-toolbox](Must-have tool to apply SUPEE-6788 patch)
+* [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Pre Patched files for installing Magento Security Patches without SSH.
+* [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
+* [Magento patches finder](http://fabrizioballiano.net/magento-patches/) - Tool to look for needed patches by Magento version
+* [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 
 ## Extensions
 * [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler) - A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
@@ -126,10 +132,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento Composer Installer](https://github.com/Cotya/magento-composer-installer) - Enable composer to install Magento modules
 * [Magento Project Mess Detector](https://github.com/AOEpeople/mpmd) - n98-magerun addon to find out how messed up a Magento instance is
 * [Magento PSR-0 Autoloader](https://github.com/magento-hackathon/Magento-PSR-0-Autoloader) - Adds a PSR-0 Autoloader before the Magento Autoloader
-* [Magento SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Must-have tool to apply SUPEE-6788 patch
 * [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
 * [Mageploy](https://github.com/pug-more/mageploy) - Keep track of changes and deploy synchronization between different Magento environments
-* [Philwinkl Applied Patches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - See a list of all applied patches from within the Magento admin panel
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Magento extension that lets you create other magento CRUD modules for your own entities
 
 ## Testing frameworks
