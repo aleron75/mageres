@@ -42,6 +42,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## Certification
 * [MageCert](http://magecert.com/) - Revision notes for the Magento Developer Certification exam
+* [Magento 2 Certified Solution Specialist Exam Study Guide](https://swiftotter.com/technical/magento-2-certified-solution-specialist-exam-study-guide) - A free study guide by SwiftOtter for Magento2 Certified Solution Specialist exam
+* [Magento 2 Certified Solution Specialist Practice Test](https://swiftotter.com/technical/magento-2-certified-solution-specialist-practice-test#take-test) - Sample practice test for the M2CSS exam by SwiftOtter
 * [Magento Certification](http://magento.com/training/catalog/certification) - The catalog of all Magento certifications
 * [Magento Certification Practice Test](http://magento-quiz.magestore.com/) - Test your skill with Magento Certification Quiz by MageStore
 * [Magento Certified Front End Developer Exam Study Guide](http://info.demacmedia.com/magento-certified-front-end-exam-study-guide) - A free ebook by Demac Media for anyone who is planning on taking the exam and is in the process of preparing for it
@@ -226,6 +228,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Sonassi](https://www.sonassi.com/blog/)
 * [Space48 Blog](http://www.space48.com/category/magento/)
 * [Swapnil Bhavsar](https://swapnil.co/blog/category/magento)
+* [SwiftOtter](https://swiftotter.com/technical)
 * [Talesh Seeparsan](http://www.seeparsan.net/magento-blog/)
 * [Yireo Blog](https://www.yireo.com/blog)
 
