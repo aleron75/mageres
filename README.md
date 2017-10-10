@@ -92,6 +92,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ### Free
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
+* [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
 * [MageSpecialist DevTools for Magento 1](https://github.com/magespecialist/m1-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)

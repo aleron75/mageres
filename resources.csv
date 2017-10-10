@@ -50,6 +50,7 @@ Tools,Free,netz98 magerun CLI tools for Magento 2,https://github.com/netz98/n98-
 Tools,Free,Triplecheck.io,http://triplecheck.io/,Tests and ranks most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
 Tools,Free,Mgt Developer Toolbar for Magento 2,https://github.com/mgtcommerce/Mgt_Developertoolbar,A dev toolbar that shows all important information for performance optimisation and Magento development.
 Tools,Free,Mgt Developer Toolbar for Magento 1,https://www.mgt-commerce.com/magento-developer-toolbar.html,"Magento 1 developer toolbar with profiling, database queries, handles, event/observer overview, block nesting, requests and caching."
+Tools,Free,Magento 2 Cron Job Manager,https://github.com/Ethan3600/magento2-CronjobManager,A Cron Job Manager Module by Ethan Yehuda
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
