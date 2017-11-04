@@ -8,7 +8,7 @@ Official Resources,,MagentoU Videos,https://www.youtube.com/playlist?list=PLZur_
 Certification,,Magento Certification,http://magento.com/training/catalog/certification,The catalog of all Magento certifications
 Certification,,Magento Certification Practice Test,http://magento-quiz.magestore.com/,Test your skill with Magento Certification Quiz by MageStore
 Certification,,MageCert,http://magecert.com/,Revision notes for the Magento Developer Certification exam
-Certification,,Magento on Quizlet,https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/,Magento Certified Solution Specialist study set by Thomas Clunan 
+Certification,,Magento on Quizlet,https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/,Magento Certified Solution Specialist study set by Thomas Clunan
 Certification,,Magento Certified Front End Developer Exam Study Guide,http://info.demacmedia.com/magento-certified-front-end-exam-study-guide,A free ebook by Demac Media for anyone who is planning on taking the exam and is in the process of preparing for it
 Certification,,Magento 2 Certified Solution Specialist Practice Test,https://swiftotter.com/technical/magento-2-certified-solution-specialist-practice-test#take-test,Sample practice test for the M2CSS exam by SwiftOtter
 Certification,,Magento 2 Certified Solution Specialist Exam Study Guide,https://swiftotter.com/technical/magento-2-certified-solution-specialist-exam-study-guide,A free study guide by SwiftOtter for Magento2 Certified Solution Specialist exam
@@ -233,6 +233,7 @@ Dev boxes,Docker,Dockerize Magento 2,https://github.com/andreaskoch/dockerize-ma
 Dev boxes,Docker,Fabrizio Balliano's Magento2,https://github.com/fballiano/docker-magento2,Varnish + PHP7 + Redis cluster ready docker-compose infrastructure
 Dev boxes,Docker,Karen Baker's Magento 2 simple docker build,https://github.com/wsakaren/m2SimpleDocker,A simple and “get things done” Magento 2 local docker build.
 Dev boxes,Docker,Magento 2 Docker image,https://hub.docker.com/r/chadrien/magento2,
+Dev boxes,Docker,Magento 2 Docker to development,https://github.com/clean-docker/Magento2,Docker image optimized to develop in Mac, Windows and Linux.
 Dev boxes,Docker,Magento 2 with DB manager,https://github.com/ilampirai/docker-magento2,Magento 2 with DB manager running easily in just one build / run
 Dev boxes,Docker,Magento 2 DevBox,https://github.com/magento/magento2devbox-web,Official Magento 2 DevBox repository
 Dev boxes,Docker,Meanbee Environment Example,https://github.com/meanbee/magento2-environment,Development environment for Magento 2 builds based on PHP 7 + NGINX + MySql
