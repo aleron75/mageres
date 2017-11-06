@@ -47,7 +47,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento Certification](http://magento.com/training/catalog/certification) - The catalog of all Magento certifications
 * [Magento Certification Practice Test](http://magento-quiz.magestore.com/) - Test your skill with Magento Certification Quiz by MageStore
 * [Magento Certified Front End Developer Exam Study Guide](http://info.demacmedia.com/magento-certified-front-end-exam-study-guide) - A free ebook by Demac Media for anyone who is planning on taking the exam and is in the process of preparing for it
-* [Magento on Quizlet](https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/) - Magento Certified Solution Specialist study set by Thomas Clunan 
+* [Magento on Quizlet](https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/) - Magento Certified Solution Specialist study set by Thomas Clunan
 
 ## Books
 
@@ -316,6 +316,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Karen Baker's Magento 2 simple docker build](https://github.com/wsakaren/m2SimpleDocker) - A simple and “get things done” Magento 2 local docker build.
 * [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Official Magento 2 DevBox repository
 * [Magento 2 Docker image](https://hub.docker.com/r/chadrien/magento2)
+* [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) - Docker image optimized to develop in Mac
 * [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager running easily in just one build / run
 * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7 + NGINX + MySql
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
