@@ -125,7 +125,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Danslo AoP](https://github.com/danslo/Danslo_Aop) - Enables Aspect-Oriented Programming in Magento
 * [Danslo ApiImport](https://github.com/danslo/ApiImport) - Wrapper for Magento Import/Export
 * [EcomDev Layout Compiler](https://github.com/EcomDev/EcomDev_LayoutCompiler) - Transforms recursive Magento 1 XML ayout files into simple one level php code
-* [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration
 * [Firegento Debug](https://github.com/firegento/firegento-debug) - Provides some debbuging functionality for Magento
 * [Firegento Logger](https://github.com/firegento/firegento-logger) - Provides a simple framework for different logging adapters
 * [Firegento PDF](https://github.com/firegento/firegento-pdf) - Overwrites standard PDF layouts for invoices, shipments and creditmemos
@@ -141,7 +140,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## Testing frameworks
 * [Digital Pianism Test Framework](https://github.com/digitalpianism/testframework) - A simple framework to be used to create unit and integration tests on Magento 1
-* [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration
 * [Magium](https://github.com/magium/Magium) - A PHPUnit/Webdriver (Selenium) based test framework
 * [xtest](http://xtest-mage.com/) - Simple Magento Testing Framework
 
