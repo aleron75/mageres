@@ -105,6 +105,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
 * [Triplecheck.io](http://triplecheck.io/) - Tests and ranks most of the extensions available in Magento Connect based on PHPCS and the Magento ECG Coding Standards
+* [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
 
 ## Security
 * [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Pre Patched files for installing Magento Security Patches without SSH.
@@ -262,6 +263,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
 * [Magentube with Rebecca Brocton](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ) - YouTube channel for fun & helpful Magento videos
 * [Nomad Mage](https://nomadmage.com/) - Commercial webinars
+* [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 
 ## Communities
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
