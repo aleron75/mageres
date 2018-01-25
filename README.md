@@ -90,8 +90,10 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magicento](http://magicento.com/) - PHPStorm plugin for both Magento 1 and Magento 2 developers
 
 ### Free
+* [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
+* [Magento 2 Bash Install/Restore Script](https://github.com/yvoronoy/m2install) - A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
@@ -113,6 +115,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento® SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox
 ) - Must-have tool to apply SUPEE-6788 patch
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
+* [Mage Security Patcher](https://github.com/magesec/magesecuritypatcher) - An effective alternative to the standard magento patches.
 * [Philwinkle_AppliedPatches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - Useful extension to see a list of all applied patches from within the Magento admin panel
 
 ## Extensions
@@ -125,7 +128,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Danslo AoP](https://github.com/danslo/Danslo_Aop) - Enables Aspect-Oriented Programming in Magento
 * [Danslo ApiImport](https://github.com/danslo/ApiImport) - Wrapper for Magento Import/Export
 * [EcomDev Layout Compiler](https://github.com/EcomDev/EcomDev_LayoutCompiler) - Transforms recursive Magento 1 XML ayout files into simple one level php code
-* [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration
 * [Firegento Debug](https://github.com/firegento/firegento-debug) - Provides some debbuging functionality for Magento
 * [Firegento Logger](https://github.com/firegento/firegento-logger) - Provides a simple framework for different logging adapters
 * [Firegento PDF](https://github.com/firegento/firegento-pdf) - Overwrites standard PDF layouts for invoices, shipments and creditmemos
@@ -137,11 +139,11 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento PSR-0 Autoloader](https://github.com/magento-hackathon/Magento-PSR-0-Autoloader) - Adds a PSR-0 Autoloader before the Magento Autoloader
 * [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
 * [Mageploy](https://github.com/pug-more/mageploy) - Keep track of changes and deploy synchronization between different Magento environments
-* [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Magento extension that lets you create other magento CRUD modules for your own entities
+* [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Extension that lets you create other Magento 1 CRUD modules for your own entities **unmaintained**
 
 ## Testing frameworks
 * [Digital Pianism Test Framework](https://github.com/digitalpianism/testframework) - A simple framework to be used to create unit and integration tests on Magento 1
-* [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration
+* [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration **unmaintained**
 * [Magium](https://github.com/magium/Magium) - A PHPUnit/Webdriver (Selenium) based test framework
 * [xtest](http://xtest-mage.com/) - Simple Magento Testing Framework
 
@@ -255,6 +257,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## Screencasts
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
+* [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [MageCasts.io](http://www.magecasts.io/) - Rockstar Magento screecasts!
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2

@@ -51,6 +51,8 @@ Tools,Free,Triplecheck.io,http://triplecheck.io/,Tests and ranks most of the ext
 Tools,Free,Mgt Developer Toolbar for Magento 2,https://github.com/mgtcommerce/Mgt_Developertoolbar,A dev toolbar that shows all important information for performance optimisation and Magento development.
 Tools,Free,Mgt Developer Toolbar for Magento 1,https://www.mgt-commerce.com/magento-developer-toolbar.html,"Magento 1 developer toolbar with profiling, database queries, handles, event/observer overview, block nesting, requests and caching."
 Tools,Free,Magento 2 Cron Job Manager,https://github.com/Ethan3600/magento2-CronjobManager,A Cron Job Manager Module by Ethan Yehuda
+Tools,Free,Mage.coach,https://mage.coach/,Your Magento Performance Coach
+Tools,Free,Magento 2 Bash Install/Restore Script,https://github.com/yvoronoy/m2install,A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -64,6 +66,7 @@ Security,,Magento Security Center,http://magento.com/security/,"The dedicated re
 Security,,MageReport.com,https://www.magereport.com/,Scan your Magento shop for known security vulnerabilities
 Security,,Magento Extension Security research,https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform,Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 Security,,Magento-Pre-Patched-Files,https://github.com/magecomp/Magento-Pre-Patched-Files,Pre Patched files for installing Magento Security Patches without SSH.
+Security,,Mage Security Patcher,https://github.com/magesec/magesecuritypatcher,An effective alternative to the standard magento patches.
 Extensions,,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 Extensions,,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
 Extensions,,AOE Template Hints,https://github.com/AOEpeople/Aoe_TemplateHints,"Extends the default Magento ""Template Hints"" developer functionality by adding more information for each block"
@@ -73,7 +76,6 @@ Extensions,,Compressed Magento 1.9 Sample Data,https://github.com/Vinai/compress
 Extensions,,Danslo AoP,https://github.com/danslo/Danslo_Aop,Enables Aspect-Oriented Programming in Magento
 Extensions,,Danslo ApiImport,https://github.com/danslo/ApiImport,Wrapper for Magento Import/Export
 Extensions,,EcomDev Layout Compiler,https://github.com/EcomDev/EcomDev_LayoutCompiler,Transforms recursive Magento 1 XML ayout files into simple one level php code
-Extensions,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration
 Extensions,,Firegento Debug,https://github.com/firegento/firegento-debug,Provides some debbuging functionality for Magento
 Extensions,,Magemonolog,https://github.com/aleron75/magemonolog,Provides a custom writer model to transparently use Monolog as logging library
 Extensions,,Firegento Logger,https://github.com/firegento/firegento-logger,Provides a simple framework for different logging adapters
@@ -85,9 +87,9 @@ Extensions,,Magento Project Mess Detector,https://github.com/AOEpeople/mpmd,n98-
 Extensions,,Magento PSR-0 Autoloader,https://github.com/magento-hackathon/Magento-PSR-0-Autoloader,Adds a PSR-0 Autoloader before the Magento Autoloader
 Extensions,,MagentoTarToConnect,https://github.com/astorm/MagentoTarToConnect,Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
 Extensions,,Mageploy,https://github.com/pug-more/mageploy,Keep track of changes and deploy synchronization between different Magento environments
-Extensions,,Ultimate Module Creator,https://github.com/tzyganu/UMC1.9,Magento extension that lets you create other magento CRUD modules for your own entities
+Extensions,,Ultimate Module Creator,https://github.com/tzyganu/UMC1.9,Extension that lets you create other Magento 1 CRUD modules for your own entities **unmaintained**
 Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
-Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration
+Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing frameworks,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
 Testing frameworks,,xtest,http://xtest-mage.com/,Simple Magento Testing Framework
 Blogs,,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
@@ -198,6 +200,7 @@ Screencasts,,Magentube with Rebecca Brocton,https://www.youtube.com/channel/UCOt
 Screencasts,,Magento DevChannel,https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q,YouTube channel by Max Pronko
 Screencasts,,Kalen Jordan,https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg,YouTube channel by Kalen Jordan
 Screencasts,,MageMinute,https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw,Magento News & Discussions from Jamersan
+Screencasts,,Mage2.tv,https://www.mage2.tv/,Magento 2 Developer Screencasts
 Communities,,Commerce Hero,https://commercehero.io,Good Magento Developers at your fingertips
 Communities,,Magento Forum,http://www.magentocommerce.com/boards/,"The ""brand new"" Magento forum"
 Communities,,Magento Community Digest,https://community.magento.com/t5/forums/searchpage/tab/message?q=%23MagentoMonday&sort_by=-topicPostDate&collapse_discussion=true,#MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
