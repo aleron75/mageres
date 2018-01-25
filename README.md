@@ -195,6 +195,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magebase](http://magebase.com/)
 * [MageComp Magento Blog](http://magecomp.com/blog/)
 * [Mage Inferno](http://mageinferno.com/blog)
+* [Magenable](https://magenable.com.au/category/magento-ecommerce/)
 * [Mage News](http://www.mage-news.de/)
 * [Magenticians](http://magenticians.com/)
 * [Magently Blog](https://magently.com/blog/)
