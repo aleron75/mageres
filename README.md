@@ -90,6 +90,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magicento](http://magicento.com/) - PHPStorm plugin for both Magento 1 and Magento 2 developers
 
 ### Free
+* [ElasticSuite for Magento 2 ](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
 * [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
