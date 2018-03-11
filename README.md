@@ -284,9 +284,11 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
 
 ## Associations
+* [Dutchento](https://www.dutchento.org/) - The Magento community in the Netherlands
 * [ExtDN](https://extdn.org/) - A network of leading Magento extension developers
 * [Firegento](http://firegento.com/) - A group of Magento enthusiasts developing open source modules and organising Hackathons and other events
 * [Meet Magento Association](http://www.meet-magento.com/meet-magento-association/) - A non-profit organization, which handles all activities around the world wide Meet Magento events and the localized Magento editions
+* [OpenGento](https://www.opengento.fr/) - The Magento community in France
 
 ## Events
 * [Magento Events Calendar](https://www.google.com/calendar/embed) - A publicly available Google calendar with almost all Magento events around the world
