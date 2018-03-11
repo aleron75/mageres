@@ -41,13 +41,19 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
 
 ## Certification
-* [MageCert](http://magecert.com/) - Revision notes for the Magento Developer Certification exam
-* [Magento 2 Certified Solution Specialist Exam Study Guide](https://swiftotter.com/technical/magento-2-certified-solution-specialist-exam-study-guide) - A free study guide by SwiftOtter for Magento2 Certified Solution Specialist exam
-* [Magento 2 Certified Solution Specialist Practice Test](https://swiftotter.com/technical/magento-2-certified-solution-specialist-practice-test#take-test) - Sample practice test for the M2CSS exam by SwiftOtter
 * [Magento Certification](http://magento.com/training/catalog/certification) - The catalog of all Magento certifications
+
+### Magento 1
+* [MageCert](http://magecert.com/) - Revision notes for the Magento Developer Certification exam
 * [Magento Certification Practice Test](http://magento-quiz.magestore.com/) - Test your skill with Magento Certification Quiz by MageStore
 * [Magento Certified Front End Developer Exam Study Guide](http://info.demacmedia.com/magento-certified-front-end-exam-study-guide) - A free ebook by Demac Media for anyone who is planning on taking the exam and is in the process of preparing for it
 * [Magento on Quizlet](https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/) - Magento Certified Solution Specialist study set by Thomas Clunan
+
+### Magento 2
+* [Magento 2 Certified Professional Developer Practice Test](https://swiftotter.com/technical/magento-2-certified-developer-practice-test) - Sample practice test for the Magento 2 Certified Professional Developer exam by SwiftOtter
+* [Magento 2 Certified Professional Developer Study Guide](https://swiftotter.com/technical/magento-2-certified-developer-study-guide) - A free study guide by SwiftOtter for Magento 2 Certified Professional Developer exam
+* [Magento 2 Certified Solution Specialist Exam Study Guide](https://swiftotter.com/technical/magento-2-certified-solution-specialist-exam-study-guide) - A free study guide by SwiftOtter for Magento 2 Certified Solution Specialist exam
+* [Magento 2 Certified Solution Specialist Practice Test](https://swiftotter.com/technical/magento-2-certified-solution-specialist-practice-test#take-test) - Sample practice test for the Magento 2 Certified Solution Specialist exam by SwiftOtter
 
 ## Books
 
