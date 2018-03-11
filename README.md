@@ -291,7 +291,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [OpenGento](https://www.opengento.fr/) - The Magento community in France
 
 ## Events
-* [Magento Events Calendar](https://www.google.com/calendar/embed) - A publicly available Google calendar with almost all Magento events around the world
+* [Magento Event Listing](https://magento.com/events) - List of Magento Events on Magento site
+* [Magento Events Google Calendar](https://calendar.google.com/calendar/embed?src=9ns1e12ucfd84tpnsehekkc6g0@group.calendar.google.com) - A publicly available Google calendar with almost all Magento events around the world
 
 ### Conferences
 * [Magento Imagine](http://imagine.magento.com) - The Magento event
