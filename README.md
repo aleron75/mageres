@@ -120,8 +120,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Pre Patched files for installing Magento Security Patches without SSH.
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 * [Magento Security Center](http://magento.com/security/) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
-* [Magento® SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox
-) - Must-have tool to apply SUPEE-6788 patch
+* [Magento® SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Must-have tool to apply SUPEE-6788 patch
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Mage Security Patcher](https://github.com/magesec/magesecuritypatcher) - An effective alternative to the standard magento patches.
 * [Philwinkle_AppliedPatches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - Useful extension to see a list of all applied patches from within the Magento admin panel
@@ -130,6 +129,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler) - A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 * [AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler) - Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes
 * [AOE Template Hints](https://github.com/AOEpeople/Aoe_TemplateHints) - Extends the default Magento "Template Hints" developer functionality by adding more information for each block
+* [Aschroder SMTPPro](https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension) - Full SMTP and Gmail/Google Apps Email support for Magento 1
 * [AvS Fast Simple Import](https://github.com/avstudnitz/AvS_FastSimpleImport) - Wrapper for Magento 1 Import/Export functionality which imports data from arrays
 * [b-responsive](https://github.com/interactiv4/b-responsive) - Magento Responsive Theme built with Twitter Bootstrap v3
 * [Compressed Magento 1.9 Sample Data](https://github.com/Vinai/compressed-magento-sample-data) - A reduced sample data archive for Magento 1 by Vinai Kopp
@@ -139,6 +139,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Firegento Debug](https://github.com/firegento/firegento-debug) - Provides some debbuging functionality for Magento
 * [Firegento Logger](https://github.com/firegento/firegento-logger) - Provides a simple framework for different logging adapters
 * [Firegento PDF](https://github.com/firegento/firegento-pdf) - Overwrites standard PDF layouts for invoices, shipments and creditmemos
+* [Flagbit ChangeAttributeSet](https://github.com/Flagbit/Magento-ChangeAttributeSet) - Extension that lets you change attribute set for every product
 * [LimeSoda Environment Configuration](https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration)
 * [LimeSoda Sample Data Generator](https://github.com/LimeSoda/LimeSoda_SampleDataGenerator) - Generate Magento websites, stores, categories, products, customers etc.
 * [Magemonolog](https://github.com/aleron75/magemonolog) - Provides a custom writer model to transparently use Monolog as logging library
