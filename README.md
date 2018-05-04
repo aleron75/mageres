@@ -126,6 +126,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Philwinkle_AppliedPatches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - Useful extension to see a list of all applied patches from within the Magento admin panel
 
 ## Extensions
+
+### M1
 * [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler) - A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 * [AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler) - Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes
 * [AOE Template Hints](https://github.com/AOEpeople/Aoe_TemplateHints) - Extends the default Magento "Template Hints" developer functionality by adding more information for each block
@@ -149,6 +151,9 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
 * [Mageploy](https://github.com/pug-more/mageploy) - Keep track of changes and deploy synchronization between different Magento environments
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Extension that lets you create other Magento 1 CRUD modules for your own entities **unmaintained**
+
+### M2
+* [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 
 ## Testing frameworks
 * [Digital Pianism Test Framework](https://github.com/digitalpianism/testframework) - A simple framework to be used to create unit and integration tests on Magento 1
