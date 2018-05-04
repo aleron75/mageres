@@ -127,7 +127,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## Extensions
 
-### M1
+### Magento 1
 * [AOE Profiler](https://github.com/AOEpeople/Aoe_Profiler) - A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 * [AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler) - Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes
 * [AOE Template Hints](https://github.com/AOEpeople/Aoe_TemplateHints) - Extends the default Magento "Template Hints" developer functionality by adding more information for each block
@@ -152,7 +152,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Mageploy](https://github.com/pug-more/mageploy) - Keep track of changes and deploy synchronization between different Magento environments
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Extension that lets you create other Magento 1 CRUD modules for your own entities **unmaintained**
 
-### M2
+### Magento 2
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 
 ## Testing frameworks
