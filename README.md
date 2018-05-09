@@ -51,6 +51,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Magento 2
 * [M2 Certification Study Guides](https://github.com/df2k2/m2cert) - Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
+* [Magento 2 Certified Professional Developer notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
 * [Magento 2 Certified Professional Developer Practice Test](https://swiftotter.com/technical/magento-2-certified-developer-practice-test) - Sample practice test for the Magento 2 Certified Professional Developer exam by SwiftOtter
 * [Magento 2 Certified Professional Developer Study Guide](https://swiftotter.com/technical/magento-2-certified-developer-study-guide) - A free study guide by SwiftOtter for Magento 2 Certified Professional Developer exam
 * [Magento 2 Certified Solution Specialist Exam Study Guide](https://swiftotter.com/technical/magento-2-certified-solution-specialist-exam-study-guide) - A free study guide by SwiftOtter for Magento 2 Certified Solution Specialist exam
