@@ -150,9 +150,11 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento PSR-0 Autoloader](https://github.com/magento-hackathon/Magento-PSR-0-Autoloader) - Adds a PSR-0 Autoloader before the Magento Autoloader
 * [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
 * [Mageploy](https://github.com/pug-more/mageploy) - Keep track of changes and deploy synchronization between different Magento environments
+* [No Flash Image Uploader](https://github.com/openstream/No-Flash-Image-Uploader) - This Magento module allows the upload of images without having the Flash player installed
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Extension that lets you create other Magento 1 CRUD modules for your own entities **unmaintained**
 
 ### Magento 2
+* [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) -  A drop-in replacement for the Magento 2 checkout
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 
 ## Testing frameworks
