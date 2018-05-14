@@ -66,7 +66,8 @@ foreach ($contents as $topic => $subtopics)
 }
 
 $introduction = <<<OUT
-# Magento Resources
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
+
 A curated list of useful Magento technical resources.
 Resources are listed **alphabetically** within each category.
 
