@@ -96,6 +96,7 @@ Extensions,Magento 1,MagentoTarToConnect,https://github.com/astorm/MagentoTarToC
 Extensions,Magento 1,Mageploy,https://github.com/pug-more/mageploy,Keep track of changes and deploy synchronization between different Magento environments,
 Extensions,Magento 1,Ultimate Module Creator,https://github.com/tzyganu/UMC1.9,Extension that lets you create other Magento 1 CRUD modules for your own entities **unmaintained**,
 Extensions,Magento 1,No Flash Image Uploader,https://github.com/openstream/No-Flash-Image-Uploader,This Magento module allows the upload of images without having the Flash player installed,
+Extensions,Magento 1,N98_LayoutHelper,https://github.com/netz98/N98_LayoutHelper,Helpful methods to be called in layout actions to allow more customizations via local.xml without touching the original layout files,
 Extensions,Magento 2,Yireo GoogleTagManager2,https://github.com/yireo/Yireo_GoogleTagManager2,Add Google Tag Manager to Magento2,
 Extensions,Magento 2,Danslo CleanCheckout,https://github.com/danslo/CleanCheckout, A drop-in replacement for the Magento 2 checkout,
 Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1,
