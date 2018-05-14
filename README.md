@@ -10,6 +10,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## Table of Contents
 * [Official Resources](#official-resources)
+* [Other Resources](#other-resources)
 * [Certification](#certification)
 * [Books](#books)
 * [Tools](#tools)
@@ -39,6 +40,11 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Magento 2
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
+
+## Other Resources
+
+### Magento 2
+* [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2/) - A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 
 ## Certification
 * [Magento Certification](http://magento.com/training/catalog/certification) - The catalog of all Magento certifications
@@ -344,6 +350,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager running easily in just one build / run
 * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7 + NGINX + MySql
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
+* [The Devilbox](https://github.com/cytopia/devilbox) - A modern dockerized LAMP and MEAN stack alternative to XAMPP
 
 ### Other
 * [Valet+](https://github.com/weprovide/valet-plus) - A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file.
