@@ -177,6 +177,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [AionHill blog](https://aionhill.com/category/magento-development-tips)
 * [Alan Kent](https://alankent.wordpress.com)
 * [Alan Storm](http://alanstorm.com/category/magento)
+* [Alessandro Ronchi](http://aleron75.com)
 * [Amasty Blog](https://blog.amasty.com/category/magento-2/)
 * [Andrew Smart](https://www.smartiehastheanswer.co.uk/)
 * [Anna Völkl](http://anna.voelkl.at/)
