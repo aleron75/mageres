@@ -265,6 +265,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Demac Media Tutorials](http://www.demacmedia.com/category/magento-tutorials/)
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](http://fishpig.co.uk/magento/tutorials/)
+* [Magento 2 Cheat Sheet](https://www.cheatography.com/latmiz/cheat-sheets/magento-2/) - A quick reference guide for Magento2, command line, xml snippets, template file snippets, Models and other useful bits of information
 * [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
