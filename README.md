@@ -93,6 +93,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
 * [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) - A book that teaches you the concepts and immediately shows you how to implement them.; by Ryan Street, February 2017
 * [Theme Web Page Assets: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Theme-Assets-Getting-Stuff-ebook/dp/B01COQPQG0/) - This volume focuses on CSS, HTML, and JavaScript page assets for themes; by Alan Kent, March 2016
+* [Magento 2, guida allo sviluppo](https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551) (only Italian version) - This book focuses on module developing best practices; by Michele Fantetti, May 2018
 
 ## Tools
 
