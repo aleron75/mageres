@@ -80,7 +80,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Magento 2
 * [Learning Magento 2 Administration](https://www.packtpub.com/web-development/learning-magento-2-administration) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
-* [Magento 2]( guida allo sviluppo) - https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551
 * [Magento 2 - Build World-Class online stores](https://www.packtpub.com/web-development/magento-2-build-world-class-online-stores) - A guide on how to develop rich and compelling Magento 2 solutions, themes, and extensions; by Fernando J Miguel et al, March 2017
 * [Magento 2 Beginners Guide](https://www.packtpub.com/web-development/magento-2-beginners-guide) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
 * [Magento 2 Cookbook](https://www.packtpub.com/web-development/magento-2-cookbook) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
@@ -89,6 +88,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 Development Essentials](https://www.packtpub.com/web-development/magento-2-development-essentials) - A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
 * [Magento 2 Extensions Development](https://www.packtpub.com/web-development/magento-extensions-development) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
+* [Magento 2 Guida allo sviluppo](https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
 * [Magento 2 Primer: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Primer-Getting-Stuff-Done-ebook/dp/B019PCMJ7A/) - An introduction to the Magento 2 architecture and terminology; by Alan Kent, December 2015
 * [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/web-development/magento-2-theme-design-second-edition) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
 * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
