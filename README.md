@@ -80,6 +80,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Magento 2
 * [Learning Magento 2 Administration](https://www.packtpub.com/web-development/learning-magento-2-administration) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
+* [Magento 2]( guida allo sviluppo) - https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551
 * [Magento 2 - Build World-Class online stores](https://www.packtpub.com/web-development/magento-2-build-world-class-online-stores) - A guide on how to develop rich and compelling Magento 2 solutions, themes, and extensions; by Fernando J Miguel et al, March 2017
 * [Magento 2 Beginners Guide](https://www.packtpub.com/web-development/magento-2-beginners-guide) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
 * [Magento 2 Cookbook](https://www.packtpub.com/web-development/magento-2-cookbook) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
