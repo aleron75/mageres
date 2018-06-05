@@ -101,6 +101,7 @@ Extensions,Magento 1,N98_LayoutHelper,https://github.com/netz98/N98_LayoutHelper
 Extensions,Magento 2,Yireo GoogleTagManager2,https://github.com/yireo/Yireo_GoogleTagManager2,Add Google Tag Manager to Magento2,
 Extensions,Magento 2,Danslo CleanCheckout,https://github.com/danslo/CleanCheckout,A drop-in replacement for the Magento 2 checkout,
 Extensions,Magento 2,MageMojo cron project,https://github.com/magemojo/m2-ce-cron,"This module for Magento 2 overrides base magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.",
+Extensions,Magento 2,MSP_SMTP,https://github.com/magespecialist/m2-MSP_SMTP,"MSP_SMTP is a module for Magento 2 allowing send mail via SMTP",
 Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1,
 Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**,
 Testing frameworks,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework,
