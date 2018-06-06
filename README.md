@@ -166,6 +166,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ### Magento 2
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) - This module for Magento 2 overrides base magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
+* [MSP_SMTP](https://github.com/magespecialist/m2-MSP_SMTP) - MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 
 ## Testing frameworks
