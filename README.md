@@ -175,7 +175,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Digital Pianism Test Framework](https://github.com/digitalpianism/testframework) - A simple framework to be used to create unit and integration tests on Magento 1
 * [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration **unmaintained**
 * [Magium](https://github.com/magium/Magium) - A PHPUnit/Webdriver (Selenium) based test framework
-* [xtest](http://xtest-mage.com/) - Simple Magento Testing Framework
+* [xtest](https://github.com/code-x/magento-xtest) - Simple Magento Testing Framework
 
 ## Blogs
 * [Aheadworks Blog](https://blog.aheadworks.com/category/magento-2/)

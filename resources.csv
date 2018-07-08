@@ -107,7 +107,7 @@ Extensions,Magento 2,Magento 2 Deployer Plus,https://github.com/jalogut/magento2
 Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing frameworks,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
-Testing frameworks,,xtest,http://xtest-mage.com/,Simple Magento Testing Framework
+Testing frameworks,,xtest,https://github.com/code-x/magento-xtest,Simple Magento Testing Framework
 Blogs,,Alessandro Ronchi,http://aleron75.com,
 Blogs,,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
