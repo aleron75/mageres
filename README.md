@@ -322,13 +322,16 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ### Conferences
 * [Magento Imagine](http://imagine.magento.com) - The Magento event
 * [Magento Live](http://magentolive.com/) - A complement to Magento annual Imagine conference
+* [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.
 * [Mage Titans Italy](http://www.magetitans.it/) - A non-profit event for Magento developers in Italy
 * [Mage Titans Mexico](http://magetitans.mx/) - A non-profit event for Magento developers in Mexico
+* [Mage Titans NL](http://grq.magetitans.com/) - A non-profit event for Magento developers in NL
 * [Mage Titans Spain](http://www.magetitans.es/en/) - A non-profit event for Magento developers in Spain
 * [Mage Titans UK](http://www.magetitans.co.uk/) - A non-profit event for Magento developers in UK
 * [Mage Titans USA](http://www.magetitans.com/) - A non-profit event for Magento developers in USA
 * [Mage Unconference](http://www.mageunconference.org/) - A unique Magento community event
 * [Meet Magento](http://www.meet-magento.com/) - Meet Magento events website
+* [Reacticon](https://reacticon.org/) - The Magento Frontend Development Conference
 
 ### Hackathons
 * [Mage Hackathon](https://www.mage-hackathon.de/) - Hackathons for Magento developers
