@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![280 resources](https://img.shields.io/badge/resources-280-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![284 resources](https://img.shields.io/badge/resources-284-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -220,6 +220,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Inchoo](http://inchoo.net/category/magento/)
 * [integer_net Blog](http://www.integer-net.com/blog/)
 * [InteractOne Blog](http://www.interactone.com/category/magento-news/)
+* [Inviqa](https://inviqa.com/blog)
 * [James Cowie](http://jamescowie.me/)
 * [Kalpesh Mehta](http://ka.lpe.sh/)
 * [Konstantin Gerasimov](https://www.goivvy.com/blog)
@@ -252,8 +253,11 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Phuc Vo](http://www.thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/en/tag/magento2.html)
+* [Quaisar Satti](http://blog.qaisarsatti.com/)
+* [Rakesh Jesadiya](http://www.rakeshjesadiya.com/)
 * [Rebecca Brocton](http://rebeccabrocton.com/category/posts/magento/)
 * [Revampix](https://www.revampix.com/)
+* [Rocket Web](https://rocketweb.com/blog)
 * [Sergii Ivashchenko](http://www.sivaschenko.com/)
 * [Session Digital DE on Magento](http://www.sessiondigital.de/blog/category/magento/)
 * [Session Digital on Magento](http://www.sessiondigital.com/blog/category/magento/)
