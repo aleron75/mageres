@@ -104,6 +104,7 @@ Extensions,Magento 2,MageSpecialist CodeMonkey,https://github.com/magespecialist
 Extensions,Magento 2,MageSpecialist DevTools for Magento 2,https://github.com/magespecialist/m2-MSP_DevTools,intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 Extensions,Magento 2,Mgt Developer Toolbar for Magento 2,https://github.com/mgtcommerce/Mgt_Developertoolbar,A dev toolbar that shows all important information for performance optimisation and Magento development.
 Extensions,Magento 2,Magento 2 Deployer Plus,https://github.com/jalogut/magento2-deployer-plus,Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
+Extensions,Magento 2,Magento 2 Cache Clean,https://github.com/mage2tv/magento-cache-clean,A faster drop in replacement for bin/magento cache:clean with file watcher
 Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing frameworks,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
