@@ -51,6 +51,7 @@ Tools,Free,PhpStorm Magento 2 Plugin,https://github.com/dkvashninbay/magento2plu
 Tools,Free,netz98 magerun CLI tools for Magento 1,https://github.com/netz98/n98-magerun,Provides some handy tools to work with Magento from command line
 Tools,Free,netz98 magerun CLI tools for Magento 2,https://github.com/netz98/n98-magerun2,The swiss army knife for Magento 2 developers
 Tools,Free,Mage.coach,https://mage.coach/,Your Magento Performance Coach
+Tools,Free,Magento 2 PHPStorm Preferences,https://github.com/staempfli/magento2-phpstorm-templates,PHPStorm Live template preferences for Magento 2 Projects
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -105,6 +106,7 @@ Extensions,Magento 2,MageSpecialist DevTools for Magento 2,https://github.com/ma
 Extensions,Magento 2,Mgt Developer Toolbar for Magento 2,https://github.com/mgtcommerce/Mgt_Developertoolbar,A dev toolbar that shows all important information for performance optimisation and Magento development.
 Extensions,Magento 2,Magento 2 Deployer Plus,https://github.com/jalogut/magento2-deployer-plus,Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
 Extensions,Magento 2,Magento 2 Cache Clean,https://github.com/mage2tv/magento-cache-clean,A faster drop in replacement for bin/magento cache:clean with file watcher
+Extensions,Magento 2,AvS_DisableModules,https://github.com/avstudnitz/AvS_DisableModules,Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
 Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing frameworks,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
