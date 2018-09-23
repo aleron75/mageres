@@ -44,6 +44,7 @@ Books,Magento 2,Magento 2 Beginners Guide,https://www.packtpub.com/web-developme
 Books,Magento 2,Magento 2 Theme Design – Second Edition,https://www.packtpub.com/web-development/magento-2-theme-design-second-edition,"A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016"
 Books,Magento 2,Magento 2 - Build World-Class online stores,https://www.packtpub.com/web-development/magento-2-build-world-class-online-stores,"A guide on how to develop rich and compelling Magento 2 solutions, themes, and extensions; by Fernando J Miguel et al, March 2017"
 Books,Magento 2,Magento 2 Guida allo sviluppo,https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551,"This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018"
+Books,Magento 2,Magento 2 Development Quick Start Guide,https://www.packtpub.com/web-development/magento-2-development-quick-start-guide,"This book guides you through Magento development; by Branko Ajzele, September 2018"
 Tools,Free,MageMeter,http://www.magemeter.com/,Magento Benchmarks metered using official Magento Performance Toolkit
 Tools,Free,Magereverse,http://www.magereverse.com/,MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
 Tools,Free,Modman (Module Manager),https://github.com/colinmollenhour/modman,Allows you to separate your Magento 1 files from core files and keep different extensions under version control
@@ -66,6 +67,7 @@ Security,,Magento Extension Security research,https://docs.google.com/forms/d/1g
 Security,,Magento-Pre-Patched-Files,https://github.com/magecomp/Magento-Pre-Patched-Files,Pre Patched files for installing Magento Security Patches without SSH.
 Security,,Mage Security Patcher,https://github.com/magesec/magesecuritypatcher,An effective alternative to the standard magento patches.
 Security,,Magento Malware Scanner,https://github.com/gwillem/magento-malware-scanner,"Scanner, signatures and the largest Magento malware collection on earth"
+Security,,Magento Security Scan Tool,https://account.magento.com/scanner/,"Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account)."
 Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
 Extensions,Magento 1,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 Extensions,Magento 1,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"

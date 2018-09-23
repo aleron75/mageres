@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![289 resources](https://img.shields.io/badge/resources-289-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![291 resources](https://img.shields.io/badge/resources-291-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -88,6 +88,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 Developer's Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
 * [Magento 2 Development Cookbook](https://www.packtpub.com/web-development/magento-2-development-cookbook) - Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015
 * [Magento 2 Development Essentials](https://www.packtpub.com/web-development/magento-2-development-essentials) - A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016
+* [Magento 2 Development Quick Start Guide](https://www.packtpub.com/web-development/magento-2-development-quick-start-guide) - This book guides you through Magento development; by Branko Ajzele, September 2018
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
 * [Magento 2 Extensions Development](https://www.packtpub.com/web-development/magento-extensions-development) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
 * [Magento 2 Guida allo sviluppo](https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
@@ -122,6 +123,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 * [Magento Malware Scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest Magento malware collection on earth
 * [Magento Security Center](http://magento.com/security/) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
+* [Magento Security Scan Tool](https://account.magento.com/scanner/) - Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account).
 * [Magento SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Must-have tool to apply SUPEE-6788 patch
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Mage Security Patcher](https://github.com/magesec/magesecuritypatcher) - An effective alternative to the standard magento patches.
