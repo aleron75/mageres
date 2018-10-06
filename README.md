@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![291 resources](https://img.shields.io/badge/resources-291-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![292 resources](https://img.shields.io/badge/resources-292-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -70,6 +70,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Magento 1
 * [Getting Started with Magento Extension Development](https://www.packtpub.com/web-development/getting-started-magento-extension-development) - A practical guide to building Magento modules from scratch; by Branko Ajzele, September 2013
+* [Grokking Magento](http://vinaikopp.com/grokking/) - Advanced Magento 1 development; by Vinai Kopp, March 2014
 * [Magento 1.8 Development Cookbook](https://www.packtpub.com/web-development/magento-18-development-cookbook) - A book that helps you build a truly impressive customized online store; by Bart Delvaux & Nurul Ferdous, February 2014
 * [Magento Best Practices Handbook](https://leanpub.com/magebp) - A collection of practical advices to develop with Magento the right way; by Alessandro Ronchi, September 2015
 * [Magento PHP Developer's Guide](http://magedevguide.com/) - A giude that helps new developers to quickly pickup the fundamentals of Magento system; by Allan MacGregor, April 2013
