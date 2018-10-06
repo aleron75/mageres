@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![292 resources](https://img.shields.io/badge/resources-292-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![291 resources](https://img.shields.io/badge/resources-291-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -314,7 +314,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## Communities
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
-* [MageHero](http://magehero.com/) - Awesome Magento Developers
 * [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?q=%23MagentoMonday&sort_by=-topicPostDate&collapse_discussion=true) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
 * [Magento Freelance Directory](http://magento-freelance-directory.velocv.com/) - Magento Freelance Directory on VeloCV
