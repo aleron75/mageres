@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![291 resources](https://img.shields.io/badge/resources-291-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![292 resources](https://img.shields.io/badge/resources-292-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -112,6 +112,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ### Free
 * [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
+* [Magento 2 cache clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
 * [Modman (Module Manager)](https://github.com/colinmollenhour/modman) - Allows you to separate your Magento 1 files from core files and keep different extensions under version control
