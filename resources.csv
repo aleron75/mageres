@@ -51,6 +51,7 @@ Tools,Free,Modman (Module Manager),https://github.com/colinmollenhour/modman,All
 Tools,Free,PhpStorm Magento 2 Plugin,https://github.com/dkvashninbay/magento2plugin,A plugin for Magento 2 development in the PhpStorm IDE
 Tools,Free,netz98 magerun CLI tools for Magento 1,https://github.com/netz98/n98-magerun,Provides some handy tools to work with Magento from command line
 Tools,Free,netz98 magerun CLI tools for Magento 2,https://github.com/netz98/n98-magerun2,The swiss army knife for Magento 2 developers
+Tools,Free,Magento 2 cache clean,https://github.com/mage2tv/magento-cache-clean,A faster drop in replacement for bin/magento cache:clean with file watcher
 Tools,Free,Mage.coach,https://mage.coach/,Your Magento Performance Coach
 Tools,Free,Magento 2 PHPStorm Preferences,https://github.com/staempfli/magento2-phpstorm-templates,PHPStorm Live template preferences for Magento 2 Projects
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
