@@ -277,6 +277,7 @@ Dev boxes,Docker,The Devilbox,https://github.com/cytopia/devilbox,A modern docke
 Dev boxes,Docker,Magento 2 Docker,https://github.com/meanbee/docker-magento2,A collection of Docker images for running Magento 2 through nginx and on the command line
 Dev boxes,Docker,Magento Cloud Docker,https://github.com/magento/magento-cloud-docker,A collection of build configurations for Magento Cloud Docker images
 Dev boxes,Docker,Magento 2 Dockergento,https://github.com/ModestCoders/magento2-dockergento,Magento 2 docker setup for development optimised for Mac
+Dev boxes,Docker,Mark Shust's Docker Configuration for Magento,https://github.com/markoshust/docker-magento,
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 Dev boxes,Vagrant,Development Environment,https://github.com/davidalger/devenv,Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
 Dev boxes,Vagrant,Fast Hypernode Vagrant Box,https://github.com/ecomdev/fast-hypernode/,The fastest Magento Vagrant VM Fast Byte Hypernode Box

@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![291 resources](https://img.shields.io/badge/resources-291-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![292 resources](https://img.shields.io/badge/resources-292-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -370,6 +370,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) - Docker image optimized to develop in Mac, Windows, and Linux
 * [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager running easily in just one build / run
 * [Magento Cloud Docker](https://github.com/magento/magento-cloud-docker) - A collection of build configurations for Magento Cloud Docker images
+* [Mark Shust's Docker Configuration for Magento](https://github.com/markoshust/docker-magento)
 * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7  NGINX  MySql
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
 * [The Devilbox](https://github.com/cytopia/devilbox) - A modern dockerized LAMP and MEAN stack alternative to XAMPP
