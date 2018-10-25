@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![292 resources](https://img.shields.io/badge/resources-292-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![291 resources](https://img.shields.io/badge/resources-291-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -93,11 +93,9 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
 * [Magento 2 Extensions Development](https://www.packtpub.com/web-development/magento-extensions-development) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
 * [Magento 2 Guida allo sviluppo](https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
-* [Magento 2 Primer: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Primer-Getting-Stuff-Done-ebook/dp/B019PCMJ7A/) - An introduction to the Magento 2 architecture and terminology; by Alan Kent, December 2015
 * [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/web-development/magento-2-theme-design-second-edition) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
 * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
 * [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) - A book that teaches you the concepts and immediately shows you how to implement them.; by Ryan Street, February 2017
-* [Theme Web Page Assets: Getting Stuff Done with Magento 2](http://www.amazon.com/Magento-Theme-Assets-Getting-Stuff-ebook/dp/B01COQPQG0/) - This volume focuses on CSS, HTML, and JavaScript page assets for themes; by Alan Kent, March 2016
 
 ## Tools
 
@@ -204,6 +202,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
 * [Brideo](http://brideo.co.uk/blog/)
 * [C3Media Blog](https://www.c3media.co.uk/blog/)
+* [Chirag Dodia](www.codextblog.com )
 * [Classyllama](http://www.classyllama.com/blog/category/magento)
 * [Cloudways Blog](https://www.cloudways.com/blog/category/magento/)
 * [Cool Ryan](http://www.coolryan.com/category/magento/)
