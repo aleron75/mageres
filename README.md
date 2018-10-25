@@ -202,7 +202,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
 * [Brideo](http://brideo.co.uk/blog/)
 * [C3Media Blog](https://www.c3media.co.uk/blog/)
-* [Chirag Dodia](www.codextblog.com )
+* [Chirag Dodia](http://www.codextblog.com )
 * [Classyllama](http://www.classyllama.com/blog/category/magento)
 * [Cloudways Blog](https://www.cloudways.com/blog/category/magento/)
 * [Cool Ryan](http://www.coolryan.com/category/magento/)
