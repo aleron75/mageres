@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![291 resources](https://img.shields.io/badge/resources-291-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![294 resources](https://img.shields.io/badge/resources-294-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -46,6 +46,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Magento 2
 * [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2/) - A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
+* [Community Resources](https://devdocs.magento.com/community/resources/resources.html) - Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics.
 
 ## Certification
 * [Magento Certification](http://magento.com/training/catalog/certification) - The catalog of all Magento certifications
@@ -111,6 +112,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
+* [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
 * [Modman (Module Manager)](https://github.com/colinmollenhour/modman) - Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 * [netz98 magerun CLI tools for Magento 1](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
@@ -362,6 +364,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Dockerize Magento 2](https://github.com/andreaskoch/dockerize-magento2) - A composer package for dockerizing Magento 2
 * [Fabrizio Balliano's Magento2](https://github.com/fballiano/docker-magento2) - Varnish  PHP7  Redis cluster ready docker-compose infrastructure
 * [Karen Baker's Magento 2 simple docker build](https://github.com/wsakaren/m2SimpleDocker) - A simple and “get things done” Magento 2 local docker build
+* [Magedev](https://github.com/teamneusta/php-cli-magedev) - A shell tool for local Magento 1 & 2 development.
 * [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Official Magento 2 DevBox repository
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) - A collection of Docker images for running Magento 2 through nginx and on the command line
 * [Magento 2 Dockergento](https://github.com/ModestCoders/magento2-dockergento) - Magento 2 docker setup for development optimised for Mac
