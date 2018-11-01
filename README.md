@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![295 resources](https://img.shields.io/badge/resources-295-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![296 resources](https://img.shields.io/badge/resources-296-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -319,6 +319,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?q=%23MagentoMonday&sort_by=-topicPostDate&collapse_discussion=true) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
 * [Magento Freelance Directory](http://magento-freelance-directory.velocv.com/) - Magento Freelance Directory on VeloCV
+* [Magento Speaker Directory](https://magento.mobilize.io) - To connect speakers with event organizers.
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
 
