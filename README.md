@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![294 resources](https://img.shields.io/badge/resources-294-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![295 resources](https://img.shields.io/badge/resources-295-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -279,6 +279,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Swapnil Bhavsar](https://swapnil.co/blog/category/magento)
 * [SwiftOtter](https://swiftotter.com/technical)
 * [Talesh Seeparsan](http://www.seeparsan.net/magento-blog/)
+* [Timon de Groot](https://blog.timpack.org/)
 * [Yireo Blog](https://www.yireo.com/blog)
 
 ## Quickies & Tutorials
