@@ -69,6 +69,7 @@ Security,,Magento-Pre-Patched-Files,https://github.com/magecomp/Magento-Pre-Patc
 Security,,Mage Security Patcher,https://github.com/magesec/magesecuritypatcher,An effective alternative to the standard magento patches.
 Security,,Magento Malware Scanner,https://github.com/gwillem/magento-malware-scanner,"Scanner, signatures and the largest Magento malware collection on earth"
 Security,,Magento Security Scan Tool,https://account.magento.com/scanner/,"Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account)."
+Security,,mage-one.com,https://www.mage-one.com/,"A company which offers Paid security support for Magento 1 after its official End of Support"
 Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
 Extensions,Magento 1,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 Extensions,Magento 1,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
