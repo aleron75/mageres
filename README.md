@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![298 resources](https://img.shields.io/badge/resources-298-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![294 resources](https://img.shields.io/badge/resources-294-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -59,13 +59,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Magento 2
 * [M2 Certification Study Guides](https://github.com/df2k2/m2cert) - Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
-* [Magento 2 Certified Frontend Developer Practice Test](https://swiftotter.com/technical/certifications/magento-2-certified-associate-developer-practice-test) - Sample practice test for the Magento 2 Certified Frontend Developer exam by SwiftOtter
-* [Magento 2 Certified Frontend Developer Study Guide](https://swiftotter.com/technical/certifications/magento-2-frontend-developer-study-guide) - A free study guide by SwiftOtter for Magento 2 Certified Frontend Developer exam
 * [Magento 2 Certified Professional Developer notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
-* [Magento 2 Certified Professional Developer Practice Test](https://swiftotter.com/technical/magento-2-certified-developer-practice-test) - Sample practice test for the Magento 2 Certified Professional Developer exam by SwiftOtter
-* [Magento 2 Certified Professional Developer Study Guide](https://swiftotter.com/technical/magento-2-certified-developer-study-guide) - A free study guide by SwiftOtter for Magento 2 Certified Professional Developer exam
-* [Magento 2 Certified Solution Specialist Exam Study Guide](https://swiftotter.com/technical/magento-2-certified-solution-specialist-exam-study-guide) - A free study guide by SwiftOtter for Magento 2 Certified Solution Specialist exam
-* [Magento 2 Certified Solution Specialist Practice Test](https://swiftotter.com/technical/magento-2-certified-solution-specialist-practice-test#take-test) - Sample practice test for the Magento 2 Certified Solution Specialist exam by SwiftOtter
+* [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
 
 ## Books
 
@@ -117,6 +112,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Modman (Module Manager)](https://github.com/colinmollenhour/modman) - Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 * [netz98 magerun CLI tools for Magento 1](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
+* [Oh My ZSH Plugin - Magento 2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) - Magento 2 auto complete plugin for oh-my-zsh
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
 
 ## Security
