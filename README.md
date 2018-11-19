@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![294 resources](https://img.shields.io/badge/resources-294-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![295 resources](https://img.shields.io/badge/resources-295-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -163,6 +163,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
 * [ElasticSuite for Magento 2 ](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
+* [Elgento’s Regenerate Catalog URLs](https://github.com/elgentos/regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) - This module for Magento 2 overrides base magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
