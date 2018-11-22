@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![295 resources](https://img.shields.io/badge/resources-295-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![294 resources](https://img.shields.io/badge/resources-294-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -327,7 +327,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [ExtDN](https://extdn.org/) - A network of leading Magento extension developers
 * [Firegento](http://firegento.com/) - A group of Magento enthusiasts developing open source modules and organising Hackathons and other events
 * [Meet Magento Association](http://www.meet-magento.com/meet-magento-association/) - A non-profit organization, which handles all activities around the world wide Meet Magento events and the localized Magento editions
-* [OpenGento](https://www.opengento.fr/) - The Magento community in France
+* [OpenGento](https://opengento.fr/) - The Magento community in France
 
 ## Events
 * [Magento Event Listing](https://magento.com/events) - List of Magento Events on Magento site
@@ -352,9 +352,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## Module Repositories & Marketplaces
 * [Firegento Composer Repository](http://packages.firegento.com/) - Magento Module Composer Repository
-* [Magento Connect](http://www.magentocommerce.com/magento-connect/) - The old Magento 1 marketplace
 * [Magento Marketplace](https://marketplace.magento.com/) - The new Magento extension marketplace
-* [Packagento](https://repo.packagento.com/) - A curated list of open source Magento 2 modules
+* [Packagento](https://packagento.com/) - A curated list of open source Magento 2 modules
 * [Xtension Galaxy](https://xtensiongalaxy.com/) - The only Magento Extension Platform that allows you to create a full demo store on your exact version of Magento to fully try any extension before buying it
 
 ## Dev boxes
