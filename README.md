@@ -260,7 +260,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Phuc Vo](http://www.thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/en/tag/magento2.html)
-* [Quaisar Satti](http://blog.qaisarsatti.com/)
+* [Qaisar Satti](http://blog.qaisarsatti.com/)
 * [Rakesh Jesadiya](http://www.rakeshjesadiya.com/)
 * [Rebecca Brocton](http://rebeccabrocton.com/category/posts/magento/)
 * [Revampix](https://www.revampix.com/)
