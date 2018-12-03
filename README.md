@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![297 resources](https://img.shields.io/badge/resources-297-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![298 resources](https://img.shields.io/badge/resources-298-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -104,6 +104,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magicento](http://magicento.com/) - PHPStorm plugin for both Magento 1 and Magento 2 developers
 
 ### Free
+* [Ampersand Magento2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper scripts to aid upgrading Magento 2 websites by detecting overrides
 * [M2IF – Magento 2 Import Framework](https://m2if.com/) - A library supporting generic Magento 2 import functionality
 * [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
