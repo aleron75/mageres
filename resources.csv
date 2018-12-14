@@ -53,6 +53,7 @@ Tools,Free,Oh My ZSH Plugin - Magento 2,https://github.com/dambrogia/oh-my-zsh-p
 Tools,Free,M2IF – Magento 2 Import Framework,https://m2if.com/,A library supporting generic Magento 2 import functionality
 Tools,Free,Magento 2 Ultimate Module Creator,https://github.com/UltimateModuleCreator/umc,A standalone application for creating Magento 2 CRUD modules
 Tools,Free,Ampersand Magento2 Upgrade Patch Helper,https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper,Helper scripts to aid upgrading Magento 2 websites by detecting overrides
+Tools,Free,Vaimo Composer Patches,https://github.com/vaimo/composer-patches,Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
