@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![300 resources](https://img.shields.io/badge/resources-300-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![301 resources](https://img.shields.io/badge/resources-301-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -112,6 +112,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
 * [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
+* [Mage Scan](https://github.com/steverobbins/magescan) - Scan a Magento site for information
 * [Modman (Module Manager)](https://github.com/colinmollenhour/modman) - Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 * [netz98 magerun CLI tools for Magento 1](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
