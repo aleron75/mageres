@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![301 resources](https://img.shields.io/badge/resources-301-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![293 resources](https://img.shields.io/badge/resources-293-orange.svg?style=flat) [![Build Status](https://travis-ci.org/aleron75/mageres.svg?branch=master)](https://travis-ci.org/aleron75/mageres)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -200,7 +200,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Andrew Smart](https://www.smartiehastheanswer.co.uk/)
 * [Anna Völkl](http://anna.voelkl.at/)
 * [Ashley Schroder](http://www.aschroder.com/category/magento/)
-* [Ash Smith](https://www.ashsmith.io/blog/)
 * [Atwix blog](http://www.atwix.com/blog/)
 * [Belvg](http://blog.belvg.com/category/magento-news)
 * [Ben Marks](http://bhmarks.com/blog/)
@@ -240,7 +239,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
 * [Magebase](http://magebase.com/)
 * [MageComp Magento Blog](http://magecomp.com/blog/)
-* [Mage Inferno](http://mageinferno.com/blog)
 * [Magenable](https://magenable.com.au/category/magento-ecommerce/)
 * [Mage News](http://www.mage-news.de/)
 * [Magenticians](http://magenticians.com/)
@@ -262,8 +260,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/category/magento/)
 * [Newsgento](http://newsgento.com/)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
-* [Nick Jones](https://www.nicksays.co.uk/magento/)
-* [Phillip Jackson](http://blog.philseattlekle.com/)
 * [Phuc Vo](http://www.thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/en/tag/magento2.html)
 * [Qaisar Satti](http://blog.qaisarsatti.com/)
@@ -280,7 +276,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Solving Magento](http://www.solvingmagento.com/)
 * [Sonassi](https://www.sonassi.com/blog/)
 * [Space48 Blog](http://www.space48.com/category/magento/)
-* [Swapnil Bhavsar](https://swapnil.co/blog/category/magento)
 * [SwiftOtter](https://swiftotter.com/technical)
 * [Talesh Seeparsan](http://www.seeparsan.net/magento-blog/)
 * [Tiago Sampaio](https://tiagosampaio.com/)
@@ -297,7 +292,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
-* [TutorialMagento](http://tutorialmagento.com/)
 
 ## Podcasts
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
@@ -312,7 +306,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
-* [MageCasts.io](http://www.magecasts.io/) - Rockstar Magento screecasts!
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2
 * [MageMinute](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Magento News & Discussions from Jamersan
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
@@ -350,7 +343,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Reacticon](https://reacticon.org/) - The Magento Frontend Development Conference
 
 ### Hackathons
-* [Mage Hackathon](https://www.mage-hackathon.de/) - Hackathons for Magento developers
 * [Magento Hackathon](https://www.eventbrite.com/e/5th-annual-pre-imagine-magehackathon-2017-las-vegas-tickets-31167451687) - 5th Annual Pre-Imagine MageHackathon 2017 - Las Vegas
 * [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
 

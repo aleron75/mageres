@@ -131,7 +131,6 @@ Blogs,,Alan Storm,http://alanstorm.com/category/magento,
 Blogs,,Amasty Blog,https://blog.amasty.com/category/magento-2/,
 Blogs,,Andrew Smart,https://www.smartiehastheanswer.co.uk/,
 Blogs,,Anna Völkl,http://anna.voelkl.at/,
-Blogs,,Ash Smith,https://www.ashsmith.io/blog/,
 Blogs,,Ashley Schroder,http://www.aschroder.com/category/magento/,
 Blogs,,Atwix blog,http://www.atwix.com/blog/,
 Blogs,,Belvg,http://blog.belvg.com/category/magento-news,
@@ -166,7 +165,6 @@ Blogs,,Kalpesh Mehta,http://ka.lpe.sh/,
 Blogs,,LexiConn,http://www.lexiconn.com/blog/category/magento/,
 Blogs,,Magebase,http://magebase.com/,
 Blogs,,MageComp Magento Blog,http://magecomp.com/blog/,
-Blogs,,Mage Inferno,http://mageinferno.com/blog,
 Blogs,,Mage News,http://www.mage-news.de/,
 Blogs,,Magenticians,http://magenticians.com/,
 Blogs,,Magently Blog,https://magently.com/blog/,
@@ -184,8 +182,6 @@ Blogs,,Maxime Huran on Magento 2,http://www.maximehuran.fr/en/category/magento-t
 Blogs,,Meanbee,https://meanbee.com/developers.html,
 Blogs,,Newsgento,http://newsgento.com/,
 Blogs,,Nexcess Blog,https://blog.nexcess.net/category/magento-2/,
-Blogs,,Nick Jones,https://www.nicksays.co.uk/magento/,
-Blogs,,Phillip Jackson,http://blog.philseattlekle.com/,
 Blogs,,Phuc Vo,http://www.thienphucvx.com/,
 Blogs,,Rebecca Brocton,http://rebeccabrocton.com/category/posts/magento/,
 Blogs,,Rocket Web,https://rocketweb.com/blog,
@@ -197,7 +193,6 @@ Blogs,,Siteground,https://www.siteground.com/tutorials/magento/,
 Blogs,,Solving Magento,http://www.solvingmagento.com/,
 Blogs,,Space48 Blog,http://www.space48.com/category/magento/,
 Blogs,,Sonassi,https://www.sonassi.com/blog/,
-Blogs,,Swapnil Bhavsar,https://swapnil.co/blog/category/magento,
 Blogs,,Talesh Seeparsan,http://www.seeparsan.net/magento-blog/,
 Blogs,,Yireo Blog,https://www.yireo.com/blog,
 Blogs,,Dev98,https://dev98.de/,
@@ -224,7 +219,6 @@ Quickies & Tutorials,,Magento Quickies,http://magento-quickies.alanstorm.com/,
 Quickies & Tutorials,,Magento Snippets and Code Samples,https://makandracards.com/magento,
 Quickies & Tutorials,,Magento Tweetorials,http://tweetorials.tumblr.com/,
 Quickies & Tutorials,,The Ultimate Magento 2 Tutorial,https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html,
-Quickies & Tutorials,,TutorialMagento,http://tutorialmagento.com/,
 Quickies & Tutorials,,Magento 2 Cheat Sheet,https://www.cheatography.com/latmiz/cheat-sheets/magento-2/,"A quick reference guide for Magento2, command line, xml snippets, template file snippets, Models and other useful bits of information"
 Podcasts,,Mage Engage,https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ,Video interviews of Magento people on YouTube
 Podcasts,,Mage Roundtable,http://mageroundtable.com/,The Magento podcast where everyone chimes in
@@ -232,7 +226,6 @@ Podcasts,,MageTalk,http://magetalk.com/,A Magento Podcast
 Podcasts,,Magento Podcast DE,http://magentopodcast.de/,German-language podcast (ended 2012)
 Newsletters,,The Devletter,https://www.maxpronko.com/blog/the-devletter,free weekly email by Max Pronko
 Screencasts,,Mage2Katas,http://www.mage2katas.com,TDD practice sessions for Magento 2 development by Vinai Kopp
-Screencasts,,MageCasts.io,http://www.magecasts.io/,Rockstar Magento screecasts!
 Screencasts,,MageClass,http://mageclass.com/,Thoughts on Magento 2
 Screencasts,,Nomad Mage,https://nomadmage.com/,Commercial webinars
 Screencasts,,Magentube with Rebecca Brocton,https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ,YouTube channel for fun & helpful Magento videos
@@ -264,7 +257,6 @@ Events,Conferences,Reacticon,https://reacticon.org/,The Magento Frontend Develop
 Events,Conferences,MageTestFest,https://magetestfest.com/,Magento. Software Testing. Party.
 Events,Meetups,All official Magento Meetups around the World,http://www.meetup.com/it-IT/pro/magento/,
 Events,Hackathons,Magento Hackathon,https://www.eventbrite.com/e/5th-annual-pre-imagine-magehackathon-2017-las-vegas-tickets-31167451687,5th Annual Pre-Imagine MageHackathon 2017 - Las Vegas
-Events,Hackathons,Mage Hackathon,https://www.mage-hackathon.de/,Hackathons for Magento developers
 Events,Hackathons,MageStackDay,http://magestackday.com/,Online hackathon dedicated to questions on magento.stackexchange.com
 Module Repositories & Marketplaces,,Magento Marketplace,https://marketplace.magento.com/,The new Magento extension marketplace
 Module Repositories & Marketplaces,,Firegento Composer Repository,http://packages.firegento.com/,Magento Module Composer Repository
