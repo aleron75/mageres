@@ -121,7 +121,9 @@ Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpia
 Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing frameworks,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
 Testing frameworks,,xtest,https://github.com/code-x/magento-xtest,Simple Magento Testing Framework
-Blogs,,Alessandro Ronchi,http://aleron75.com,
+PWA,,PWA Studio,https://github.com/magento-research/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
+PWA,,Deity Falcon,https://github.com/deity-io/falcon,"An Open Source, platform agnostic, PWA front-end library for building any type of website."
+PWA,,Vue Storefront,https://github.com/DivanteLtd/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API."
 Blogs,,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
 Blogs,,Aheadworks Blog,https://blog.aheadworks.com/category/magento-2/,
