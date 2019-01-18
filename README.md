@@ -1,6 +1,6 @@
 # Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![293 resources](https://img.shields.io/badge/resources-293-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
-![mageres logo](https://raw.githubusercontent.com/aleron75/mageres/master/megia/mageres.png)
+![mageres logo](https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png)
 
 
 A curated list of **useful Magento resources**.
