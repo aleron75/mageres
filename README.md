@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![294 resources](https://img.shields.io/badge/resources-294-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![293 resources](https://img.shields.io/badge/resources-293-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -273,7 +273,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Pierre Fay](https://www.pierrefay.com/en/tag/magento2.html)
 * [Qaisar Satti](http://blog.qaisarsatti.com/)
 * [Rakesh Jesadiya](http://www.rakeshjesadiya.com/)
-* [Rebecca Brocton](http://rebeccabrocton.com/category/posts/magento/)
 * [Revampix](https://www.revampix.com/)
 * [Rocket Web](https://rocketweb.com/blog)
 * [Session Digital DE on Magento](http://www.sessiondigital.de/blog/category/magento/)
@@ -311,13 +310,13 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [The Devletter](https://www.maxpronko.com/blog/the-devletter) - free weekly email by Max Pronko
 
 ## Screencasts
+* [Ecommerce Forest by Rebecca Brocton](https://www.youtube.com/c/rebeccabrocton) - YouTube channel for fun & helpful Magento videos
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2
 * [MageMinute](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Magento News & Discussions from Jamersan
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
-* [Magentube with Rebecca Brocton](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ) - YouTube channel for fun & helpful Magento videos
 * [Nomad Mage](https://nomadmage.com/) - Commercial webinars
 
 ## Communities
