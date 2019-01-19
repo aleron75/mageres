@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![293 resources](https://img.shields.io/badge/resources-293-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![294 resources](https://img.shields.io/badge/resources-294-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -65,6 +65,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ### Magento 2
 * [M2 Certification Study Guides](https://github.com/df2k2/m2cert) - Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
 * [Magento 2 Certified Professional Developer notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
+* [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 * [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
 
 ## Books
