@@ -8,7 +8,6 @@ Official Resources,,MagentoU Videos,https://www.youtube.com/playlist?list=PLZur_
 Other Resources,Magento 2,Awesome Magento 2,https://github.com/DavidLambauer/awesome-magento2/,A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
 Certification,,Magento Certification,http://magento.com/training/catalog/certification,The catalog of all Magento certifications
-Certification,Magento 1,Magento Certification Practice Test,http://magento-quiz.magestore.com/,Test your skill with Magento Certification Quiz by MageStore
 Certification,Magento 1,MageCert,http://magecert.com/,Revision notes for the Magento Developer Certification exam
 Certification,Magento 1,Magento on Quizlet,https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/,Magento Certified Solution Specialist study set by Thomas Clunan
 Certification,Magento 1,Magento Certified Front End Developer Exam Study Guide,http://info.demacmedia.com/magento-certified-front-end-exam-study-guide,A free ebook by Demac Media for anyone who is planning on taking the exam and is in the process of preparing for it
@@ -42,7 +41,6 @@ Books,Magento 2,Magento 2 - Build World-Class online stores,https://www.packtpub
 Books,Magento 2,Magento 2 Guida allo sviluppo,https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551,"This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018"
 Books,Magento 2,Magento 2 Development Quick Start Guide,https://www.packtpub.com/web-development/magento-2-development-quick-start-guide,"This book guides you through Magento development; by Branko Ajzele, September 2018"
 Tools,Free,MageMeter,http://www.magemeter.com/,Magento Benchmarks metered using official Magento Performance Toolkit
-Tools,Free,Magereverse,http://www.magereverse.com/,MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
 Tools,Free,Modman (Module Manager),https://github.com/colinmollenhour/modman,Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 Tools,Free,PhpStorm Magento 2 Plugin,https://github.com/dkvashninbay/magento2plugin,A plugin for Magento 2 development in the PhpStorm IDE
 Tools,Free,netz98 magerun CLI tools for Magento 1,https://github.com/netz98/n98-magerun,Provides some handy tools to work with Magento from command line
@@ -125,6 +123,7 @@ Testing frameworks,,xtest,https://github.com/code-x/magento-xtest,Simple Magento
 PWA,,PWA Studio,https://github.com/magento-research/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 PWA,,Deity Falcon,https://github.com/deity-io/falcon,"An Open Source, platform agnostic, PWA front-end library for building any type of website."
 PWA,,Vue Storefront,https://github.com/DivanteLtd/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API."
+PWA,,Fallback Studio,https://github.com/Jordaneisenburger/fallback-studio,Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 Blogs,,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
 Blogs,,Aheadworks Blog,https://blog.aheadworks.com/category/magento-2/,

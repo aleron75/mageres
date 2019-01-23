@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![294 resources](https://img.shields.io/badge/resources-294-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![293 resources](https://img.shields.io/badge/resources-293-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -58,7 +58,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Magento 1
 * [MageCert](http://magecert.com/) - Revision notes for the Magento Developer Certification exam
-* [Magento Certification Practice Test](http://magento-quiz.magestore.com/) - Test your skill with Magento Certification Quiz by MageStore
 * [Magento Certified Front End Developer Exam Study Guide](http://info.demacmedia.com/magento-certified-front-end-exam-study-guide) - A free ebook by Demac Media for anyone who is planning on taking the exam and is in the process of preparing for it
 * [Magento on Quizlet](https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/) - Magento Certified Solution Specialist study set by Thomas Clunan
 
@@ -117,7 +116,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
-* [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
 * [Mage Scan](https://github.com/steverobbins/magescan) - Scan a Magento site for information
 * [Modman (Module Manager)](https://github.com/colinmollenhour/modman) - Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 * [netz98 magerun CLI tools for Magento 1](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
@@ -198,6 +196,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## PWA
 * [Deity Falcon](https://github.com/deity-io/falcon) - An Open Source, platform agnostic, PWA front-end library for building any type of website.
+* [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 * [PWA Studio](https://github.com/magento-research/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
 
