@@ -72,6 +72,7 @@ Security,,Magento Malware Scanner,https://github.com/gwillem/magento-malware-sca
 Security,,Magento Security Scan Tool,https://account.magento.com/scanner/,"Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account)."
 Security,,mage-one.com,https://www.mage-one.com/,A company which offers Paid security support for Magento 1 after its official End of Support
 Security,,Magento 1 Module Blacklist,https://github.com/gwillem/magento-module-blacklist,Central repository for third party Magento 1 extensions with known security issues.
+Security,,Magento Patches,https://github.com/brentwpeterson/magento-patches,As many Magento patches as Brent Peterson can find!
 Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
 Extensions,Magento 1,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 Extensions,Magento 1,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
@@ -118,6 +119,7 @@ Extensions,Magento 2,Fisheye_UrlRewriteOptimiser,https://github.com/fisheyehq/mo
 Extensions,Magento 2,MX Phinx Migrations,https://github.com/inviqa/MX_PhinxMigrations,"Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments."
 Extensions,Magento 2,Elgento’s Regenerate Catalog URLs,https://github.com/elgentos/regenerate-catalog-urls,Set of console commands to regenerate catalog URLs.
 Extensions,Magento 2,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration testframework in less than 300ms when caches are primed.
+Extensions,Magento 2,Yireo ExtensionChecker,https://github.com/yireo/Yireo_ExtensionChecker,Magento 2 module to check upon the code of Magento 2 modules from the CLI
 Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing frameworks,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
