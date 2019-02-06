@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![297 resources](https://img.shields.io/badge/resources-297-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![298 resources](https://img.shields.io/badge/resources-298-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -337,6 +337,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Dutchento](https://www.dutchento.org/) - The Magento community in the Netherlands
 * [ExtDN](https://extdn.org/) - A network of leading Magento extension developers
 * [Firegento](http://firegento.com/) - A group of Magento enthusiasts developing open source modules and organising Hackathons and other events
+* [Magento Association](https://www.magentoassociation.org/) - The open and powerful Magento ecosystem
 * [Meet Magento Association](http://www.meet-magento.com/) - A non-profit organization, which handles all activities around the world wide Meet Magento events and the localized Magento editions
 * [OpenGento](https://opengento.fr/) - The Magento community in France
 
