@@ -73,6 +73,7 @@ Security,,Magento Security Scan Tool,https://account.magento.com/scanner/,"Monit
 Security,,mage-one.com,https://www.mage-one.com/,A company which offers Paid security support for Magento 1 after its official End of Support
 Security,,Magento 1 Module Blacklist,https://github.com/gwillem/magento-module-blacklist,Central repository for third party Magento 1 extensions with known security issues.
 Security,,Magento Patches,https://github.com/brentwpeterson/magento-patches,As many Magento patches as Brent Peterson can find!
+Security,,Magento Vulnerability Database,https://github.com/gwillem/magevulndb,Central repository for third party Magento 1 extensions with known security issues.
 Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
 Extensions,Magento 1,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 Extensions,Magento 1,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
