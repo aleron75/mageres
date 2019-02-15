@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![300 resources](https://img.shields.io/badge/resources-300-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![301 resources](https://img.shields.io/badge/resources-301-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -26,7 +26,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Blogs](#blogs)
 * [Quickies & Tutorials](#quickies--tutorials)
 * [Podcasts](#podcasts)
-* [Newsletters](#newsletters)
+* [Newsletters & Digests](#newsletters--digests)
 * [Screencasts](#screencasts)
 * [Communities](#communities)
 * [Associations](#associations)
@@ -311,8 +311,10 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Mage Roundtable](http://mageroundtable.com/) - The Magento podcast where everyone chimes in
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
 
-## Newsletters
-* [The Devletter](https://www.maxpronko.com/blog/the-devletter) - free weekly email by Max Pronko
+## Newsletters & Digests
+* [Atwix MageNews](https://www.atwix.com/tag/magenews/) - A selection of the most interesting and important topics that popped up in Magento Community
+* [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?q=%23MagentoMonday&sort_by=-topicPostDate&collapse_discussion=true) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
+* [The Devletter](https://www.maxpronko.com/blog/the-devletter) - Free weekly email digest by Max Pronko
 
 ## Screencasts
 * [Ecommerce Forest by Rebecca Brocton](https://www.youtube.com/c/rebeccabrocton) - YouTube channel for fun & helpful Magento videos
@@ -326,7 +328,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## Communities
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
-* [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?q=%23MagentoMonday&sort_by=-topicPostDate&collapse_discussion=true) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [Magento Community Portal](https://opensource.magento.com/) - Join thousands of community developers working on different projects
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
 * [Magento Freelance Directory](http://magento-freelance-directory.velocv.com/) - Magento Freelance Directory on VeloCV
