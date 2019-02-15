@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![301 resources](https://img.shields.io/badge/resources-301-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![300 resources](https://img.shields.io/badge/resources-300-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -330,7 +330,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
 * [Magento Community Portal](https://opensource.magento.com/) - Join thousands of community developers working on different projects
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
-* [Magento Freelance Directory](http://magento-freelance-directory.velocv.com/) - Magento Freelance Directory on VeloCV
 * [Magento Speaker Directory](https://magento.mobilize.io) - To connect speakers with event organizers.
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
