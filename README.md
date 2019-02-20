@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![300 resources](https://img.shields.io/badge/resources-300-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![301 resources](https://img.shields.io/badge/resources-301-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -178,6 +178,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [ElasticSuite for Magento 2 ](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
 * [Elgento’s Regenerate Catalog URLs](https://github.com/elgentos/regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
+* [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) - This module for Magento 2 overrides base magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
 * [Magento 2 Bash Install/Restore Script](https://github.com/yvoronoy/m2install) - A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
