@@ -122,6 +122,7 @@ Extensions,Magento 2,Elgento’s Regenerate Catalog URLs,https://github.com/elge
 Extensions,Magento 2,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration testframework in less than 300ms when caches are primed.
 Extensions,Magento 2,Yireo ExtensionChecker,https://github.com/yireo/Yireo_ExtensionChecker,Magento 2 module to check upon the code of Magento 2 modules from the CLI
 Extensions,Magento 2,Integer_Net Session Unblocker,https://github.com/integer-net/magento2-session-unblocker,Module for Magento 2 that prevents session blocking between concurrent AJAX requests
+Extensions,Magento 2,Extension Dashboard,https://github.com/extdn/extension-dashboard-m2,A Magento 2 dashboard to display installed extensions.
 Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing frameworks,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -147,7 +148,7 @@ Blogs,,bitExpert AG,https://blog.bitexpert.de/blog/tag/magento,
 Blogs,,Bitbull,https://www.bitbull.it/en/blog/,
 Blogs,,Brideo,http://brideo.co.uk/blog/,
 Blogs,,C3Media Blog,https://www.c3media.co.uk/blog/,
-Blogs,,Classyllama,http://www.classyllama.com/blog/category/magento,
+Blogs,,Classyllama,https://www.classyllama.com/blog/category/development,
 Blogs,,Cloudways Blog,https://www.cloudways.com/blog/category/magento/,
 Blogs,,Cool Ryan,http://www.coolryan.com/category/magento/,
 Blogs,,Creare Blog,http://www.creare.co.uk/blog/magento,
