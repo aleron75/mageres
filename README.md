@@ -199,6 +199,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 
 ## Testing
+
+### Magento 1
 * [Digital Pianism Test Framework](https://github.com/digitalpianism/testframework) - A simple framework to be used to create unit and integration tests on Magento 1
 * [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration **unmaintained**
 * [Magium](https://github.com/magium/Magium) - A PHPUnit/Webdriver (Selenium) based test framework

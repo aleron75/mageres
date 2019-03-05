@@ -123,10 +123,10 @@ Extensions,Magento 2,Elgento’s Regenerate Catalog URLs,https://github.com/elge
 Extensions,Magento 2,Yireo ExtensionChecker,https://github.com/yireo/Yireo_ExtensionChecker,Magento 2 module to check upon the code of Magento 2 modules from the CLI
 Extensions,Magento 2,Integer_Net Session Unblocker,https://github.com/integer-net/magento2-session-unblocker,Module for Magento 2 that prevents session blocking between concurrent AJAX requests
 Extensions,Magento 2,Extension Dashboard,https://github.com/extdn/extension-dashboard-m2,A Magento 2 dashboard to display installed extensions.
-Testing,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
-Testing,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
-Testing,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
-Testing,,xtest,https://github.com/code-x/magento-xtest,Simple Magento Testing Framework
+Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
+Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
+Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
+Testing,Magento 1,xtest,https://github.com/code-x/magento-xtest,Simple Magento Testing Framework
 Testing,Magento 2,TddWizard Fixture library,https://github.com/tddwizard/magento2-fixtures/blob/master/README.md,An alternative to the procedural script based fixtures in Magento 2 integration tests.
 Testing,Magento 2,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration testframework in less than 300ms when caches are primed.
 PWA,,PWA Studio,https://github.com/magento-research/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
