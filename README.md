@@ -116,7 +116,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Free
 * [Ampersand Magento2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper scripts to aid upgrading Magento 2 websites by detecting overrides
-* [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer
+* [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer - usage guide: https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit
 * [M2IF – Magento 2 Import Framework](https://m2if.com/) - A library supporting generic Magento 2 import functionality
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
