@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![300 resources](https://img.shields.io/badge/resources-300-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![302 resources](https://img.shields.io/badge/resources-302-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -18,10 +18,11 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Other Resources](#other-resources)
 * [Certification](#certification)
 * [Books](#books)
+* [Performance](#performance)
 * [Tools](#tools)
 * [Security](#security)
 * [Extensions](#extensions)
-* [Testing frameworks](#testing-frameworks)
+* [Testing](#testing)
 * [PWA](#pwa)
 * [Blogs](#blogs)
 * [Quickies & Tutorials](#quickies--tutorials)
@@ -98,6 +99,12 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
 * [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) - A book that teaches you the concepts and immediately shows you how to implement them.; by Ryan Street, February 2017
 
+## Performance
+* [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
+* [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
+* [Magento default mysql settings](https://github.com/magenx/Magento-mysql) - Default/startup settings for mysql database.
+* [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
+
 ## Tools
 
 ### Commercial with freemium/trial
@@ -105,14 +112,11 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator
 * [MageCloud](http://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
 * [MageFlow](https://mageflow.com/) - Magento extension for migrating content between development, staging and production environments
-* [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
 * [Magicento](http://magicento.com/) - PHPStorm plugin for both Magento 1 and Magento 2 developers
 
 ### Free
 * [Ampersand Magento2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper scripts to aid upgrading Magento 2 websites by detecting overrides
 * [M2IF – Magento 2 Import Framework](https://m2if.com/) - A library supporting generic Magento 2 import functionality
-* [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
-* [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
@@ -191,15 +195,18 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) - A dev toolbar that shows all important information for performance optimisation and Magento development.
 * [MSP_SMTP](https://github.com/magespecialist/m2-MSP_SMTP) - MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
 * [MX Phinx Migrations](https://github.com/inviqa/MX_PhinxMigrations) - Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments.
-* [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) - Boots up the integration testframework in less than 300ms when caches are primed.
 * [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker) - Magento 2 module to check upon the code of Magento 2 modules from the CLI
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 
-## Testing frameworks
+## Testing
 * [Digital Pianism Test Framework](https://github.com/digitalpianism/testframework) - A simple framework to be used to create unit and integration tests on Magento 1
 * [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration **unmaintained**
 * [Magium](https://github.com/magium/Magium) - A PHPUnit/Webdriver (Selenium) based test framework
 * [xtest](https://github.com/code-x/magento-xtest) - Simple Magento Testing Framework
+
+### Magento 2
+* [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) - Boots up the integration testframework in less than 300ms when caches are primed.
+* [TddWizard Fixture library](https://github.com/tddwizard/magento2-fixtures/blob/master/README.md) - An alternative to the procedural script based fixtures in Magento 2 integration tests.
 
 ## PWA
 * [Deity Falcon](https://github.com/deity-io/falcon) - An Open Source, platform agnostic, PWA front-end library for building any type of website.
