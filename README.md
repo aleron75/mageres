@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![302 resources](https://img.shields.io/badge/resources-302-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![300 resources](https://img.shields.io/badge/resources-300-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -211,7 +211,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Aheadworks Blog](https://blog.aheadworks.com/category/magento-2/)
 * [AionHill blog](https://aionhill.com/category/magento-development-tips)
 * [Alan Kent](https://alankent.wordpress.com)
-* [Alan Storm](http://alanstorm.com/category/magento)
+* [Alan Storm](https://alanstorm.com/category/magento/)
 * [Amasty Blog](https://blog.amasty.com/category/magento-2/)
 * [Andrew Smart](https://www.smartiehastheanswer.co.uk/)
 * [Anna Völkl](http://anna.voelkl.at/)
@@ -230,8 +230,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Creare Blog](http://www.creare.co.uk/blog/magento)
 * [Customer Paradigm](http://www.customerparadigm.com/blog/)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
-* [Darko Poposki](http://darkopoposki.com/articles)
-* [Dave Macaulay](http://davemacaulay.com/blog/)
 * [David Alger](http://davidalger.com/category/development/magento/)
 * [DCKAP Blog](http://www.dckap.com/blog)
 * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
@@ -273,6 +271,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Max Pronko](http://www.maxpronko.com/)
 * [Max Yekaterynenko](https://maxyek.wordpress.com/)
 * [Meanbee](https://meanbee.com/developers.html)
+* [Meetanshi Magento Blog](https://meetanshi.com/blog/)
 * [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/category/magento/)
 * [Newsgento](http://newsgento.com/)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
@@ -310,7 +309,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ## Podcasts
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
 * [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
-* [Mage Roundtable](http://mageroundtable.com/) - The Magento podcast where everyone chimes in
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
 
 ## Newsletters & Digests
