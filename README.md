@@ -382,8 +382,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ## Dev boxes
 
 ### Docker
+* [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) - Magento 1 & 2 support on Linux and Mac
 * [Alan Kent's Docker image](https://hub.docker.com/r/alankent/gsd/) - Docker image for use with the book series "Getting Stuff Done with Magento 2"
-* [Docker Hub by Mage Inferno](https://hub.docker.com/u/mageinferno/) - Magento 2 Docker containers by Mage Inferno
 * [Dockerize Magento 2](https://github.com/andreaskoch/dockerize-magento2) - A composer package for dockerizing Magento 2
 * [Fabrizio Balliano's Magento2](https://github.com/fballiano/docker-magento2) - Varnish  PHP7  Redis cluster ready docker-compose infrastructure
 * [Karen Baker's Magento 2 simple docker build](https://github.com/wsakaren/m2SimpleDocker) - A simple and “get things done” Magento 2 local docker build
@@ -395,7 +395,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) - Docker image optimized to develop in Mac, Windows, and Linux
 * [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager running easily in just one build / run
 * [Magento Cloud Docker](https://github.com/magento/magento-cloud-docker) - A collection of build configurations for Magento Cloud Docker images
-* [Mark Shust's Docker Configuration for Magento](https://github.com/markoshust/docker-magento)
 * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7  NGINX  MySql
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
 * [The Devilbox](https://github.com/cytopia/devilbox) - A modern dockerized LAMP and MEAN stack alternative to XAMPP
