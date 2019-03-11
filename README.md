@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![303 resources](https://img.shields.io/badge/resources-303-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![304 resources](https://img.shields.io/badge/resources-304-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -383,6 +383,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Docker
 * [Alan Kent's Docker image](https://hub.docker.com/r/alankent/gsd/) - Docker image for use with the book series "Getting Stuff Done with Magento 2"
+* [Docker for Magento2](https://github.com/EmakinaFR/docker-magento2) - Environment for a Magento2 application using Docker.
 * [Docker Hub by Mage Inferno](https://hub.docker.com/u/mageinferno/) - Magento 2 Docker containers by Mage Inferno
 * [Dockerize Magento 2](https://github.com/andreaskoch/dockerize-magento2) - A composer package for dockerizing Magento 2
 * [Fabrizio Balliano's Magento2](https://github.com/fballiano/docker-magento2) - Varnish  PHP7  Redis cluster ready docker-compose infrastructure
