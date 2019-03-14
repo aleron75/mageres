@@ -243,6 +243,7 @@ Screencasts,,Magento DevChannel,https://www.youtube.com/channel/UCxbWGz6h6KNQsi2
 Screencasts,,Kalen Jordan,https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg,YouTube channel by Kalen Jordan
 Screencasts,,MageMinute,https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw,Magento News & Discussions from Jamersan
 Screencasts,,Mage2.tv,https://www.mage2.tv/,Magento 2 Developer Screencasts
+Screencasts,,Mark Shust’s ,https://learnm2.com/,Setup a Magento 2 Development Environment with Docker – will be released soon!
 Communities,,Commerce Hero,https://commercehero.io,Good Magento Developers at your fingertips
 Communities,,Magento Forum,http://www.magentocommerce.com/boards/,"The ""brand new"" Magento forum"
 Communities,,Magento Stack Exchange,http://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform
@@ -287,7 +288,7 @@ Dev boxes,Docker,The Devilbox,https://github.com/cytopia/devilbox,A modern docke
 Dev boxes,Docker,Magento 2 Docker,https://github.com/meanbee/docker-magento2,A collection of Docker images for running Magento 2 through nginx and on the command line
 Dev boxes,Docker,Magento Cloud Docker,https://github.com/magento/magento-cloud-docker,A collection of build configurations for Magento Cloud Docker images
 Dev boxes,Docker,Magento 2 Dockergento,https://github.com/ModestCoders/magento2-dockergento,Magento 2 docker setup for development optimised for Mac
-Dev boxes,Docker,Mark Shust's Docker Configuration for Magento,https://github.com/markoshust/docker-magento,
+Dev boxes,Docker,Mark Shust's Docker Configuration for Magento,https://github.com/markshust/docker-magento,Magento 1 & 2 support on Linux and Mac
 Dev boxes,Docker,Magedev,https://github.com/teamneusta/php-cli-magedev,A shell tool for local Magento 1 & 2 development.
 Dev boxes,Docker,Docker for Magento2,https://github.com/EmakinaFR/docker-magento2,Environment for a Magento2 application using Docker.
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications
