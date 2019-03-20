@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![306 resources](https://img.shields.io/badge/resources-306-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![307 resources](https://img.shields.io/badge/resources-307-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -309,6 +309,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Demac Media Tutorials](http://www.demacmedia.com/category/magento-tutorials/)
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](http://fishpig.co.uk/magento/tutorials/)
+* [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
 * [Magento 2 Cheat Sheet](https://www.cheatography.com/latmiz/cheat-sheets/magento-2/) - A quick reference guide for Magento2, command line, xml snippets, template file snippets, Models and other useful bits of information
 * [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
