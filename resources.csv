@@ -58,6 +58,7 @@ Tools,Free,Vaimo Composer Patches,https://github.com/vaimo/composer-patches,Appl
 Tools,Free,Composer Patches,https://github.com/cweagans/composer-patches,Simple patches plugin for Composer - usage guide: https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit
 Tools,Free,Mage Scan,https://github.com/steverobbins/magescan,Scan a Magento site for information
 Tools,Free,Magento Coding Standard,https://github.com/magento/magento-coding-standard,A set of Magento rules for PHP_CodeSniffer tool.
+Tools,Free,Magento 2 DevTools,https://github.com/magento/m2-devtools,Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
