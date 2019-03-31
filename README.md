@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![309 resources](https://img.shields.io/badge/resources-309-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![307 resources](https://img.shields.io/badge/resources-307-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -59,7 +59,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Magento 1
 * [MageCert](http://magecert.com/) - Revision notes for the Magento Developer Certification exam
-* [Magento Certified Front End Developer Exam Study Guide](http://info.demacmedia.com/magento-certified-front-end-exam-study-guide) - A free ebook by Demac Media for anyone who is planning on taking the exam and is in the process of preparing for it
 * [Magento on Quizlet](https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/) - Magento Certified Solution Specialist study set by Thomas Clunan
 
 ### Magento 2
@@ -244,7 +243,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
 * [David Alger](http://davidalger.com/category/development/magento/)
 * [DCKAP Blog](http://www.dckap.com/blog)
-* [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
 * [Dev98](https://dev98.de/)
 * [Digital Pianism](http://www.digital-pianism.com/en/blog/)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
@@ -278,6 +276,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [MageWorx on Magento 2](https://www.mageworx.com/blog/magento-2/)
 * [Marcel Hauri](https://blog.hauri.me/)
 * [Mark Shust](http://markshust.com/tags/magento)
+* [Max Chadwick](https://maxchadwick.xyz/blog/)
 * [Maxime Huran on Magento 1](http://www.maximehuran.fr/en/category/magento-one/)
 * [Maxime Huran on Magento 2](http://www.maximehuran.fr/en/category/magento-two/)
 * [Max Pronko](http://www.maxpronko.com/)
@@ -308,7 +307,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Yireo Blog](https://www.yireo.com/blog)
 
 ## Quickies & Tutorials
-* [Demac Media Tutorials](http://www.demacmedia.com/category/magento-tutorials/)
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](http://fishpig.co.uk/magento/tutorials/)
 * [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
