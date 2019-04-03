@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![307 resources](https://img.shields.io/badge/resources-307-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![308 resources](https://img.shields.io/badge/resources-308-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -123,6 +123,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
+* [Magento PhpStorm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
 * [Mage Scan](https://github.com/steverobbins/magescan) - Scan a Magento site for information
 * [Modman (Module Manager)](https://github.com/colinmollenhour/modman) - Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 * [netz98 magerun CLI tools for Magento 1](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line

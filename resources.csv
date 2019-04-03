@@ -45,6 +45,7 @@ Performance,,Magento default mysql settings,https://github.com/magenx/Magento-my
 Performance,,Magento Speed Test,http://www.magespeedtest.com/,Magento Speed Test with Siege
 Tools,Free,Modman (Module Manager),https://github.com/colinmollenhour/modman,Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 Tools,Free,PhpStorm Magento 2 Plugin,https://github.com/dkvashninbay/magento2plugin,A plugin for Magento 2 development in the PhpStorm IDE
+Tools,Free,Magento PhpStorm,https://plugins.jetbrains.com/plugin/8024-magento-phpstorm,"Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2"
 Tools,Free,netz98 magerun CLI tools for Magento 1,https://github.com/netz98/n98-magerun,Provides some handy tools to work with Magento from command line
 Tools,Free,netz98 magerun CLI tools for Magento 2,https://github.com/netz98/n98-magerun2,The swiss army knife for Magento 2 developers
 Tools,Free,Magento 2 PHPStorm Preferences,https://github.com/staempfli/magento2-phpstorm-templates,PHPStorm Live template preferences for Magento 2 Projects
