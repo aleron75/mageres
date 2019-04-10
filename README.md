@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![308 resources](https://img.shields.io/badge/resources-308-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![306 resources](https://img.shields.io/badge/resources-306-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -368,10 +368,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Mage Unconference](http://www.mageunconference.org/) - A unique Magento community event
 * [Meet Magento](http://www.meet-magento.com/) - Meet Magento events website
 * [Reacticon](https://reacticon.org/) - The Magento Frontend Development Conference
-
-### Hackathons
-* [Magento Hackathon](https://www.eventbrite.com/e/5th-annual-pre-imagine-magehackathon-2017-las-vegas-tickets-31167451687) - 5th Annual Pre-Imagine MageHackathon 2017 - Las Vegas
-* [MageStackDay](http://magestackday.com/) - Online hackathon dedicated to questions on magento.stackexchange.com
 
 ### Meetups
 * [All official Magento Meetups around the World](http://www.meetup.com/it-IT/pro/magento/)
