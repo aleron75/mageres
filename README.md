@@ -403,7 +403,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [The Devilbox](https://github.com/cytopia/devilbox) - A modern dockerized LAMP and MEAN stack alternative to XAMPP
 
 ### Other
-* [Valet](https://github.com/weprovide/valet-plus) - A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file.
+* [Valet+](https://github.com/weprovide/valet-plus) - A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file. Refer to this article by Dave Macaulay for an easy installation on MacOs: https://davemacaulay.com/the-easiest-way-to-install-magento-2-on-macos-using-valet-plus/
 
 ### Vagrant
 * [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - Designed by AOE with Magento in mind but usable for every LAMP stack based applications
