@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![306 resources](https://img.shields.io/badge/resources-306-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![307 resources](https://img.shields.io/badge/resources-307-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -332,6 +332,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [The Devletter](https://www.maxpronko.com/blog/the-devletter) - Free weekly email digest by Max Pronko
 
 ## Screencasts
+* [eCommerceAholic](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Discussions about Magento eCommerce platform by TJ Gamble
 * [Ecommerce Forest by Rebecca Brocton](https://www.youtube.com/c/rebeccabrocton) - YouTube channel for fun & helpful Magento videos
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
