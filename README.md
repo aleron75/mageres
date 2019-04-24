@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![307 resources](https://img.shields.io/badge/resources-307-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![310 resources](https://img.shields.io/badge/resources-310-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -290,6 +290,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/category/magento/)
 * [Newsgento](http://newsgento.com/)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
+* [Onilab](https://onilab.com/blog/)
 * [Phuc Vo](http://www.thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/en/tag/magento2.html)
 * [Qaisar Satti](http://blog.qaisarsatti.com/)
@@ -315,10 +316,12 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Fishpig's Magento Tutorials](http://fishpig.co.uk/magento/tutorials/)
 * [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
 * [Magento 2 Cheat Sheet](https://www.cheatography.com/latmiz/cheat-sheets/magento-2/) - A quick reference guide for Magento2, command line, xml snippets, template file snippets, Models and other useful bits of information
+* [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
 * [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)
+* [PHP Storm Live Templates for Magento 2](https://github.com/brideo/phpstorm-live-templates-magento-2) - A bunch of Magento 2 Live Templates for PHP Storm
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
 
 ## Podcasts
