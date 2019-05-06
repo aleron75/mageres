@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![312 resources](https://img.shields.io/badge/resources-312-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![314 resources](https://img.shields.io/badge/resources-314-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -215,6 +215,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### Magento 2
 * [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) - Boots up the integration testframework in less than 300ms when caches are primed.
 * [TddWizard Fixture library](https://github.com/tddwizard/magento2-fixtures/blob/master/README.md) - An alternative to the procedural script based fixtures in Magento 2 integration tests.
+* [Yireo Codeception utilities for Magento 2](https://github.com/yireo/magento2-codeception-utilities) - A package containing utilities for using Codeception in Magento 2.
 
 ## PWA
 * [Deity Falcon](https://github.com/deity-io/falcon) - An Open Source, platform agnostic, PWA front-end library for building any type of website.
@@ -320,6 +321,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Cheat Sheet](https://www.cheatography.com/latmiz/cheat-sheets/magento-2/) - A quick reference guide for Magento2, command line, xml snippets, template file snippets, Models and other useful bits of information
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
 * [Magento: The Right Way](https://magentotherightway.com/)
+* [Magento Postman repository](https://github.com/nuzil/magento-postman/) - A storage of Postman collections for Magento
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
 * [Magento Tweetorials](http://tweetorials.tumblr.com/)

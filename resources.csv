@@ -133,6 +133,7 @@ Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (S
 Testing,Magento 1,xtest,https://github.com/code-x/magento-xtest,Simple Magento Testing Framework
 Testing,Magento 2,TddWizard Fixture library,https://github.com/tddwizard/magento2-fixtures/blob/master/README.md,An alternative to the procedural script based fixtures in Magento 2 integration tests.
 Testing,Magento 2,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration testframework in less than 300ms when caches are primed.
+Testing,Magento 2,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
 PWA,,PWA Studio,https://github.com/magento-research/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 PWA,,Deity Falcon,https://github.com/deity-io/falcon,"An Open Source, platform agnostic, PWA front-end library for building any type of website."
 PWA,,Vue Storefront,https://github.com/DivanteLtd/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API."
@@ -237,6 +238,7 @@ Quickies & Tutorials,,Magento 2 Cheat Sheet,https://www.cheatography.com/latmiz/
 Quickies & Tutorials,,Magento 2 Cache Cheat Sheet,https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b,
 Quickies & Tutorials,,PHP Storm Live Templates for Magento 2,https://github.com/brideo/phpstorm-live-templates-magento-2,A bunch of Magento 2 Live Templates for PHP Storm
 Quickies & Tutorials,,Magento 2 Repository Example,https://github.com/pronkoconsulting/magento-2-repository-example,Example on how Magento 2 project should look like in a repository
+Quickies & Tutorials,,Magento Postman repository,https://github.com/nuzil/magento-postman/,A storage of Postman collections for Magento
 Podcasts,,Mage Engage,https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ,Video interviews of Magento people on YouTube
 Podcasts,,MageTalk,http://magetalk.com/,A Magento Podcast
 Podcasts,,Magento Podcast DE,http://magentopodcast.de/,German-language podcast (ended 2012)
