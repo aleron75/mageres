@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![314 resources](https://img.shields.io/badge/resources-314-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![315 resources](https://img.shields.io/badge/resources-315-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -409,6 +409,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7  NGINX  MySql
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
 * [The Devilbox](https://github.com/cytopia/devilbox) - A modern dockerized LAMP and MEAN stack alternative to XAMPP
+
+### Kubernetes
+* [Magento 2 Kubernetes DevBox](https://github.com/magento/magento2-kubernetes-devbox) - DevBox supporting multi-service deployment in one click, optimized for development scenarios using local environment.
 
 ### Other
 * [Valet+](https://github.com/weprovide/valet-plus) - A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file. Refer to this article by Dave Macaulay for an easy installation on MacOs: https://davemacaulay.com/the-easiest-way-to-install-magento-2-on-macos-using-valet-plus/
