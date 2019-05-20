@@ -43,6 +43,7 @@ Performance,,Mage.coach,https://mage.coach/,Your Magento Performance Coach
 Performance,,MageMeter,http://www.magemeter.com/,Magento Benchmarks metered using official Magento Performance Toolkit
 Performance,,Magento default mysql settings,https://github.com/magenx/Magento-mysql,Default/startup settings for mysql database.
 Performance,,Magento Speed Test,http://www.magespeedtest.com/,Magento Speed Test with Siege
+Performance,,Blackfire.io,https://blackfire.io,Commercial code profiler (free tier available) which proveides Magento-specific metrics and recommendations
 Tools,Free,Modman (Module Manager),https://github.com/colinmollenhour/modman,Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 Tools,Free,PhpStorm Magento 2 Plugin,https://github.com/dkvashninbay/magento2plugin,A plugin for Magento 2 development in the PhpStorm IDE
 Tools,Free,Magento PhpStorm,https://plugins.jetbrains.com/plugin/8024-magento-phpstorm,"Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2"
@@ -138,6 +139,7 @@ PWA,,PWA Studio,https://github.com/magento-research/pwa-studio,A collection of t
 PWA,,Deity Falcon,https://github.com/deity-io/falcon,"An Open Source, platform agnostic, PWA front-end library for building any type of website."
 PWA,,Vue Storefront,https://github.com/DivanteLtd/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API."
 PWA,,Fallback Studio,https://github.com/Jordaneisenburger/fallback-studio,Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
+PWA,,ScandiPWA,https://github.com/scandipwa,Progressive Web App for Magento by ScandiWeb
 Blogs,,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
 Blogs,,Aheadworks Blog,https://blog.aheadworks.com/category/magento-2/,

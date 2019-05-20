@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![315 resources](https://img.shields.io/badge/resources-315-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![317 resources](https://img.shields.io/badge/resources-317-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -101,6 +101,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) - A book that teaches you the concepts and immediately shows you how to implement them.; by Ryan Street, February 2017
 
 ## Performance
+* [Blackfire.io](https://blackfire.io) - Commercial code profiler (free tier available) which proveides Magento-specific metrics and recommendations
 * [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
 * [Magento default mysql settings](https://github.com/magenx/Magento-mysql) - Default/startup settings for mysql database.
@@ -221,6 +222,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Deity Falcon](https://github.com/deity-io/falcon) - An Open Source, platform agnostic, PWA front-end library for building any type of website.
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 * [PWA Studio](https://github.com/magento-research/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
+* [ScandiPWA](https://github.com/scandipwa) - Progressive Web App for Magento by ScandiWeb
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
 
 ## Blogs
