@@ -36,7 +36,6 @@ Books,Magento 2,Mastering Magento PHP Development,https://www.packtpub.com/web-d
 Books,Magento 2,Mastering Magento 2 - Second Edition,https://www.packtpub.com/web-development/mastering-magento-2-second-edition,"This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016"
 Books,Magento 2,Magento 2 Beginners Guide,https://www.packtpub.com/web-development/magento-2-beginners-guide,"An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017"
 Books,Magento 2,Magento 2 Theme Design – Second Edition,https://www.packtpub.com/web-development/magento-2-theme-design-second-edition,"A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016"
-Books,Magento 2,Magento 2 - Build World-Class online stores,https://www.packtpub.com/web-development/magento-2-build-world-class-online-stores,"A guide on how to develop rich and compelling Magento 2 solutions, themes, and extensions; by Fernando J Miguel et al, March 2017"
 Books,Magento 2,Magento 2 Guida allo sviluppo,https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551,"This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018"
 Books,Magento 2,Magento 2 Development Quick Start Guide,https://www.packtpub.com/web-development/magento-2-development-quick-start-guide,"This book guides you through Magento development; by Branko Ajzele, September 2018"
 Performance,,Mage.coach,https://mage.coach/,Your Magento Performance Coach
@@ -80,6 +79,7 @@ Security,,mage-one.com,https://www.mage-one.com/,A company which offers Paid sec
 Security,,Magento 1 Module Blacklist,https://github.com/gwillem/magento-module-blacklist,Central repository for third party Magento 1 extensions with known security issues.
 Security,,Magento Patches,https://github.com/brentwpeterson/magento-patches,As many Magento patches as Brent Peterson can find!
 Security,,Magento Vulnerability Database,https://github.com/gwillem/magevulndb,Central repository for third party Magento 1 extensions with known security issues.
+Security,,Magento Security Checklist,https://github.com/talesh/magento-security-checklist,A Magento community sourced security pre-flight checklist.
 Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
 Extensions,Magento 1,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 Extensions,Magento 1,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
@@ -130,6 +130,7 @@ Extensions,Magento 2,Integer_Net Session Unblocker,https://github.com/integer-ne
 Extensions,Magento 2,Extension Dashboard,https://github.com/extdn/extension-dashboard-m2,A Magento 2 dashboard to display installed extensions.
 Extensions,Magento 2,Magento 2 Interceptor classes generator,https://github.com/creatuity/magento2-interceptors,New interceptors approach for Magento 2
 Extensions,Magento 2,Yireo LinkPreload,https://github.com/yireo/Yireo_LinkPreload,Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
+Extensions,Magento 2,ProductGridExport,https://github.com/aykodigital/ProductGridExport,Module to add CSV export capability to the product grid in Magento 2 admin panel.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -257,7 +258,7 @@ Screencasts,,Magento DevChannel,https://www.youtube.com/channel/UCxbWGz6h6KNQsi2
 Screencasts,,Kalen Jordan,https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg,YouTube channel by Kalen Jordan
 Screencasts,,MageMinute,https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw,Magento News & Discussions from Jamersan
 Screencasts,,Mage2.tv,https://www.mage2.tv/,Magento 2 Developer Screencasts
-Screencasts,,Mark Shust’s ,https://learnm2.com/,Setup a Magento 2 Development Environment with Docker
+Screencasts,,Mark Shust’s ,https://m.academy/,Level Up Your Magento 2 Skills
 Screencasts,,eCommerceAholic,https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw,Discussions about Magento eCommerce platform by TJ Gamble
 Communities,,Commerce Hero,https://commercehero.io,Good Magento Developers at your fingertips
 Communities,,Magento Forum,http://www.magentocommerce.com/boards/,"The ""brand new"" Magento forum"

@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![320 resources](https://img.shields.io/badge/resources-320-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![321 resources](https://img.shields.io/badge/resources-321-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -86,7 +86,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Magento 2
 * [Learning Magento 2 Administration](https://www.packtpub.com/web-development/learning-magento-2-administration) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
-* [Magento 2 - Build World-Class online stores](https://www.packtpub.com/web-development/magento-2-build-world-class-online-stores) - A guide on how to develop rich and compelling Magento 2 solutions, themes, and extensions; by Fernando J Miguel et al, March 2017
 * [Magento 2 Beginners Guide](https://www.packtpub.com/web-development/magento-2-beginners-guide) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
 * [Magento 2 Cookbook](https://www.packtpub.com/web-development/magento-2-cookbook) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
 * [Magento 2 Developer's Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
@@ -144,6 +143,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Malware Scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest Magento malware collection on earth
 * [Magento Patches](https://github.com/brentwpeterson/magento-patches) - As many Magento patches as Brent Peterson can find!
 * [Magento Security Center](http://magento.com/security/) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
+* [Magento Security Checklist](https://github.com/talesh/magento-security-checklist) - A Magento community sourced security pre-flight checklist.
 * [Magento Security Scan Tool](https://account.magento.com/scanner/) - Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account).
 * [Magento SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Must-have tool to apply SUPEE-6788 patch
 * [Magento Vulnerability Database](https://github.com/gwillem/magevulndb) - Central repository for third party Magento 1 extensions with known security issues.
@@ -203,6 +203,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) - A dev toolbar that shows all important information for performance optimisation and Magento development.
 * [MSP_SMTP](https://github.com/magespecialist/m2-MSP_SMTP) - MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
 * [MX Phinx Migrations](https://github.com/inviqa/MX_PhinxMigrations) - Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments.
+* [ProductGridExport](https://github.com/aykodigital/ProductGridExport) - Module to add CSV export capability to the product grid in Magento 2 admin panel.
 * [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker) - Magento 2 module to check upon the code of Magento 2 modules from the CLI
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
@@ -352,7 +353,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2
 * [MageMinute](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Magento News & Discussions from Jamersan
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
-* [Mark Shust’s ](https://learnm2.com/) - Setup a Magento 2 Development Environment with Docker
+* [Mark Shust’s ](https://m.academy/) - Level Up Your Magento 2 Skills
 
 ## Communities
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
