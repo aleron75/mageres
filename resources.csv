@@ -131,6 +131,7 @@ Extensions,Magento 2,Extension Dashboard,https://github.com/extdn/extension-dash
 Extensions,Magento 2,Magento 2 Interceptor classes generator,https://github.com/creatuity/magento2-interceptors,New interceptors approach for Magento 2
 Extensions,Magento 2,Yireo LinkPreload,https://github.com/yireo/Yireo_LinkPreload,Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
 Extensions,Magento 2,ProductGridExport,https://github.com/aykodigital/ProductGridExport,Module to add CSV export capability to the product grid in Magento 2 admin panel.
+Extensions,Magento 2,CLI Plugin List for Magento 2,https://github.com/magento-hackathon/cli-plugin-list,Get a good overview of plugins installed and be aware about their influence on your Magento 2 instance.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -260,6 +261,7 @@ Screencasts,,MageMinute,https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw
 Screencasts,,Mage2.tv,https://www.mage2.tv/,Magento 2 Developer Screencasts
 Screencasts,,Mark Shust’s ,https://m.academy/,Level Up Your Magento 2 Skills
 Screencasts,,eCommerceAholic,https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw,Discussions about Magento eCommerce platform by TJ Gamble
+Screencasts,,Matheus Gontijo,https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ,Matheus Gontijo’s YouTube channel
 Communities,,Commerce Hero,https://commercehero.io,Good Magento Developers at your fingertips
 Communities,,Magento Forum,http://www.magentocommerce.com/boards/,"The ""brand new"" Magento forum"
 Communities,,Magento Stack Exchange,http://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform
