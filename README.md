@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![323 resources](https://img.shields.io/badge/resources-323-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![326 resources](https://img.shields.io/badge/resources-326-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -52,9 +52,13 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Other Resources
 
+### Magento 1
+* [GravDept’s Magento 1 Manuals](https://manuals.gravitydept.com/frameworks/magento-1)
+
 ### Magento 2
 * [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2/) - A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 * [Community Resources](https://devdocs.magento.com/community/resources/resources.html) - Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics.
+* [GravDept’s Magento 2 Manuals](https://manuals.gravitydept.com/frameworks/magento-2)
 
 ## Certification
 * [Magento Certification](http://magento.com/training/catalog/certification) - The catalog of all Magento certifications
@@ -225,6 +229,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ## PWA
 * [Deity Falcon](https://github.com/deity-io/falcon) - An Open Source, platform agnostic, PWA front-end library for building any type of website.
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
+* [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [PWA Studio](https://github.com/magento-research/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 * [ScandiPWA](https://github.com/scandipwa) - Progressive Web App for Magento by ScandiWeb
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.

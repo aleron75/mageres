@@ -7,6 +7,8 @@ Official Resources,,Magento DevBlog,https://community.magento.com/t5/Magento-Dev
 Official Resources,,MagentoU Videos,https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40,MagentoU playlist on YouTube
 Other Resources,Magento 2,Awesome Magento 2,https://github.com/DavidLambauer/awesome-magento2/,A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
+Other Resources,Magento 2,GravDept’s Magento 2 Manuals,https://manuals.gravitydept.com/frameworks/magento-2,
+Other Resources,Magento 1,GravDept’s Magento 1 Manuals,https://manuals.gravitydept.com/frameworks/magento-1,
 Certification,,Magento Certification,http://magento.com/training/catalog/certification,The catalog of all Magento certifications
 Certification,Magento 1,MageCert,http://magecert.com/,Revision notes for the Magento Developer Certification exam
 Certification,Magento 1,Magento on Quizlet,https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/,Magento Certified Solution Specialist study set by Thomas Clunan
@@ -144,6 +146,7 @@ PWA,,Deity Falcon,https://github.com/deity-io/falcon,"An Open Source, platform a
 PWA,,Vue Storefront,https://github.com/DivanteLtd/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API."
 PWA,,Fallback Studio,https://github.com/Jordaneisenburger/fallback-studio,Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 PWA,,ScandiPWA,https://github.com/scandipwa,Progressive Web App for Magento by ScandiWeb
+PWA,,GravDept’s PWA Studio Manuals,https://manuals.gravitydept.com/frameworks/magento-pwa-studio,
 Blogs,,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
 Blogs,,Aheadworks Blog,https://blog.aheadworks.com/category/magento-2/,
