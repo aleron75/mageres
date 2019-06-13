@@ -63,6 +63,7 @@ Tools,Free,Magento Coding Standard,https://github.com/magento/magento-coding-sta
 Tools,Free,Magento 2 DevTools,https://github.com/magento/m2-devtools,Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 Tools,Free,Magento 2 Database Backup Manager,https://github.com/meanbee/magedbm2,A database backup manager for Magento 2 written with developers in mind.
 Tools,Free,Database Anonymizer,https://github.com/mpchadwick/dbanon,"A run-anywhere, dependency-less database anonymizer."
+Tools,Free,Optimize Composer for Magento 2 projects,https://github.com/fooman/composer-magento2-optimizations,A composer-plugin that contains a set of improvements that makes running heavy duty composer commands (i.e. composer update or composer require) much faster.
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically

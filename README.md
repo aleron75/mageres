@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![327 resources](https://img.shields.io/badge/resources-327-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![328 resources](https://img.shields.io/badge/resources-328-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -136,6 +136,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [netz98 magerun CLI tools for Magento 1](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
 * [Oh My ZSH Plugin - Magento 2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) - Magento 2 auto complete plugin for oh-my-zsh
+* [Optimize Composer for Magento 2 projects](https://github.com/fooman/composer-magento2-optimizations) - A composer-plugin that contains a set of improvements that makes running heavy duty composer commands (i.e. composer update or composer require) much faster.
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
 * [Vaimo Composer Patches](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
 
