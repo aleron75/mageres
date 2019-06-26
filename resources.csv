@@ -134,7 +134,6 @@ Extensions,Magento 2,Integer_Net Session Unblocker,https://github.com/integer-ne
 Extensions,Magento 2,Extension Dashboard,https://github.com/extdn/extension-dashboard-m2,A Magento 2 dashboard to display installed extensions.
 Extensions,Magento 2,Magento 2 Interceptor classes generator,https://github.com/creatuity/magento2-interceptors,New interceptors approach for Magento 2
 Extensions,Magento 2,Yireo LinkPreload,https://github.com/yireo/Yireo_LinkPreload,Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
-Extensions,Magento 2,ProductGridExport,https://github.com/aykodigital/ProductGridExport,Module to add CSV export capability to the product grid in Magento 2 admin panel.
 Extensions,Magento 2,CLI Plugin List for Magento 2,https://github.com/magento-hackathon/cli-plugin-list,Get a good overview of plugins installed and be aware about their influence on your Magento 2 instance.
 Extensions,Magento 2,Yireo DevHacks,https://github.com/yireo/Yireo_DevHacks,Magento 2 module with various hacks and solutions for custom development
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
