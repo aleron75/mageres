@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![329 resources](https://img.shields.io/badge/resources-329-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![330 resources](https://img.shields.io/badge/resources-330-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -392,6 +392,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.
 * [Mage Titans](http://www.magetitans.com/) - A non-profit event for Magento developers in NL
 * [Mage Unconference](http://www.mageunconference.org/) - A unique Magento community event
+* [MageX](http://magex.wagento.com/) - Formerly knows as MageTitans Austin, same commitment, expanded content.
 * [Meet Magento](http://www.meet-magento.com/) - Meet Magento events website
 * [Reacticon](https://reacticon.org/) - The Magento Frontend Development Conference
 
