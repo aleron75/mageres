@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![330 resources](https://img.shields.io/badge/resources-330-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![334 resources](https://img.shields.io/badge/resources-334-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -49,6 +49,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Magento 2
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
+* [Magento Commerce 2.3 User Guide](https://docs.magento.com/m2/ee/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
+* [Magento Commerce for B2B 2.3 User Guide](https://docs.magento.com/m2/b2b/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
+* [Magento Open Source 2.3 User Guide](https://docs.magento.com/m2/ce/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
 
 ## Other Resources
 
@@ -204,6 +207,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Bash Install/Restore Script](https://github.com/yvoronoy/m2install) - A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
 * [Magento 2 Cache Clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
+* [Magento2 Defer Javascripts](https://github.com/fballiano/magento2-defer-javascripts) - Defer Javascripts module for Magento 2
 * [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
 * [Magento 2 Interceptor classes generator](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator

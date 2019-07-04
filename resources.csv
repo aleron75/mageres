@@ -5,6 +5,9 @@ Official Resources,Magento 1,Magento EE User Guide,http://merch.docs.magento.com
 Official Resources,Magento 2,Magento 2 code repository,https://github.com/magento/magento2,Official Magento 2 GitHub repository
 Official Resources,,Magento DevBlog,https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog,The official Magento developers blog
 Official Resources,,MagentoU Videos,https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40,MagentoU playlist on YouTube
+Official Resources,Magento 2,Magento Open Source 2.3 User Guide,https://docs.magento.com/m2/ce/user_guide/,Merchant documentation and tutorials to help you manage a Magento store
+Official Resources,Magento 2,Magento Commerce 2.3 User Guide,https://docs.magento.com/m2/ee/user_guide/,Merchant documentation and tutorials to help you manage a Magento store
+Official Resources,Magento 2,Magento Commerce for B2B 2.3 User Guide,https://docs.magento.com/m2/b2b/user_guide/,Merchant documentation and tutorials to help you manage a Magento store
 Other Resources,Magento 2,Awesome Magento 2,https://github.com/DavidLambauer/awesome-magento2/,A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
 Other Resources,Magento 2,GravDept’s Magento 2 Manuals,https://manuals.gravitydept.com/frameworks/magento-2,
@@ -137,6 +140,7 @@ Extensions,Magento 2,Yireo LinkPreload,https://github.com/yireo/Yireo_LinkPreloa
 Extensions,Magento 2,CLI Plugin List for Magento 2,https://github.com/magento-hackathon/cli-plugin-list,Get a good overview of plugins installed and be aware about their influence on your Magento 2 instance.
 Extensions,Magento 2,Yireo DevHacks,https://github.com/yireo/Yireo_DevHacks,Magento 2 module with various hacks and solutions for custom development
 Extensions,Magento 2,BitExpert_ForceCustomerLogin,https://github.com/bitExpert/magento2-force-login,Magento 2 module that force customer login to see website pages.
+Extensions,Magento 2,Magento2 Defer Javascripts,https://github.com/fballiano/magento2-defer-javascripts,Defer Javascripts module for Magento 2
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
