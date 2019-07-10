@@ -60,6 +60,8 @@ Tools,Free,Magento administrative tool,https://github.com/magento-architects/mag
 Tools,Free,Oh My ZSH Plugin - Magento 2,https://github.com/dambrogia/oh-my-zsh-plugin-magento-2,Magento 2 auto complete plugin for oh-my-zsh
 Tools,Free,M2IF – Magento 2 Import Framework,https://m2if.com/,A library supporting generic Magento 2 import functionality
 Tools,Free,Magento 2 Ultimate Module Creator,https://github.com/UltimateModuleCreator/umc,A standalone application for creating Magento 2 CRUD modules
+Tools,Free,Magento 2 Code + DB Backup,https://github.com/MagePsycho/magento2-db-code-backup-bash-script,An utility SSH script to backup the code + database of Magento 2
+Tools,Free,Magento 2 Simplistic Installer,https://github.com/MagePsycho/magento2-installer-bash-script,A simplistic tool to install Magento 2 from different sources like tar & composer
 Tools,Free,Ampersand Magento2 Upgrade Patch Helper,https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper,Helper scripts to aid upgrading Magento 2 websites by detecting overrides
 Tools,Free,Vaimo Composer Patches,https://github.com/vaimo/composer-patches,Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
 Tools,Free,Composer Patches,https://github.com/cweagans/composer-patches,Simple patches plugin for Composer - usage guide: https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit
@@ -130,6 +132,7 @@ Extensions,Magento 2,MageSpecialist CodeMonkey,https://github.com/magespecialist
 Extensions,Magento 2,MageSpecialist DevTools for Magento 2,https://github.com/magespecialist/m2-MSP_DevTools,intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 Extensions,Magento 2,Mgt Developer Toolbar for Magento 2,https://github.com/mgtcommerce/Mgt_Developertoolbar,A dev toolbar that shows all important information for performance optimisation and Magento development.
 Extensions,Magento 2,Magento 2 Deployer Plus,https://github.com/jalogut/magento2-deployer-plus,Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
+Extensions,Magento 2,Magento 2 Easy Template Path Hints,https://github.com/MagePsycho/magento2-easy-template-path-hints,Magento 2 module to enable the template path hints on the fly just by using query strings.
 Extensions,Magento 2,Magento 2 Cache Clean,https://github.com/mage2tv/magento-cache-clean,A faster drop in replacement for bin/magento cache:clean with file watcher
 Extensions,Magento 2,AvS_DisableModules,https://github.com/avstudnitz/AvS_DisableModules,Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
 Extensions,Magento 2,Fisheye_UrlRewriteOptimiser,https://github.com/fisheyehq/module-url-rewrite-optimiser,A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
@@ -202,7 +205,7 @@ Blogs,,Mage News,http://www.mage-news.de/,
 Blogs,,Magenticians,http://magenticians.com/,
 Blogs,,Magently Blog,https://magently.com/blog/,
 Blogs,,Magento Blog,http://magento.com/blog,
-Blogs,,MagePsycho,http://www.blog.magepsycho.com/,
+Blogs,,MagePsycho,https://blog.magepsycho.com/,
 Blogs,,Magestore,http://blog.magestore.com/,
 Blogs,,Magetraining Blog,http://www.magetraining.com/blog/,
 Blogs,,MageWorx on Magento 1,https://www.mageworx.com/blog/magento/,
