@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![334 resources](https://img.shields.io/badge/resources-334-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![338 resources](https://img.shields.io/badge/resources-338-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -51,6 +51,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
 * [Magento Commerce 2.3 User Guide](https://docs.magento.com/m2/ee/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
 * [Magento Commerce for B2B 2.3 User Guide](https://docs.magento.com/m2/b2b/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
+* [Magento Glossary](https://glossary.magento.com/) - The place where all the terminology for Magento products live.
 * [Magento Open Source 2.3 User Guide](https://docs.magento.com/m2/ce/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
 
 ## Other Resources
@@ -62,6 +63,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2/) - A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 * [Community Resources](https://devdocs.magento.com/community/resources/resources.html) - Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics.
 * [GravDept’s Magento 2 Manuals](https://manuals.gravitydept.com/frameworks/magento-2)
+* [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 
 ## Certification
 * [Magento Certification](http://magento.com/training/catalog/certification) - The catalog of all Magento certifications
@@ -134,6 +136,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
 * [Magento PhpStorm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
+* [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 * [Mage Scan](https://github.com/steverobbins/magescan) - Scan a Magento site for information
 * [Modman (Module Manager)](https://github.com/colinmollenhour/modman) - Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 * [netz98 magerun CLI tools for Magento 1](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
@@ -210,6 +213,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento2 Defer Javascripts](https://github.com/fballiano/magento2-defer-javascripts) - Defer Javascripts module for Magento 2
 * [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
 * [Magento 2 Interceptor classes generator](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
+* [Magento 2 removal of all optional modules](https://github.com/yireo/magento2-replace-all) - A composer meta-package that removes numerous Magento 2 modules
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) - A dev toolbar that shows all important information for performance optimisation and Magento development.
@@ -261,7 +265,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Chirag Dodia](http://www.codextblog.com )
 * [Classyllama](https://www.classyllama.com/blog/category/development)
 * [Cloudways Blog](https://www.cloudways.com/blog/category/magento/)
-* [Cool Ryan](http://www.coolryan.com/category/magento/)
 * [Creare Blog](http://www.creare.co.uk/blog/magento)
 * [Customer Paradigm](http://www.customerparadigm.com/blog/)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
@@ -391,6 +394,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Events Google Calendar](https://calendar.google.com/calendar/embed?src=9ns1e12ucfd84tpnsehekkc6g0@group.calendar.google.com) - A publicly available Google calendar with almost all Magento events around the world
 
 ### Conferences
+* [MageCONF](https://www.mageconf.com.ua/) - The main Magento event in Ukraine
 * [Magento Imagine](http://imagine.magento.com) - The Magento event
 * [Magento Live](http://magentolive.com/) - A complement to Magento annual Imagine conference
 * [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.

@@ -8,8 +8,10 @@ Official Resources,,MagentoU Videos,https://www.youtube.com/playlist?list=PLZur_
 Official Resources,Magento 2,Magento Open Source 2.3 User Guide,https://docs.magento.com/m2/ce/user_guide/,Merchant documentation and tutorials to help you manage a Magento store
 Official Resources,Magento 2,Magento Commerce 2.3 User Guide,https://docs.magento.com/m2/ee/user_guide/,Merchant documentation and tutorials to help you manage a Magento store
 Official Resources,Magento 2,Magento Commerce for B2B 2.3 User Guide,https://docs.magento.com/m2/b2b/user_guide/,Merchant documentation and tutorials to help you manage a Magento store
+Official Resources,Magento 2,Magento Glossary,https://glossary.magento.com/,The place where all the terminology for Magento products live.
 Other Resources,Magento 2,Awesome Magento 2,https://github.com/DavidLambauer/awesome-magento2/,A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
+Other Resources,Magento 2,MageQuest,https://magequest.io/,An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 Other Resources,Magento 2,GravDept’s Magento 2 Manuals,https://manuals.gravitydept.com/frameworks/magento-2,
 Other Resources,Magento 1,GravDept’s Magento 1 Manuals,https://manuals.gravitydept.com/frameworks/magento-1,
 Certification,,Magento Certification,http://magento.com/training/catalog/certification,The catalog of all Magento certifications
@@ -67,6 +69,7 @@ Tools,Free,Magento 2 DevTools,https://github.com/magento/m2-devtools,Helpful in-
 Tools,Free,Magento 2 Database Backup Manager,https://github.com/meanbee/magedbm2,A database backup manager for Magento 2 written with developers in mind.
 Tools,Free,Database Anonymizer,https://github.com/mpchadwick/dbanon,"A run-anywhere, dependency-less database anonymizer."
 Tools,Free,Optimize Composer for Magento 2 projects,https://github.com/fooman/composer-magento2-optimizations,A composer-plugin that contains a set of improvements that makes running heavy duty composer commands (i.e. composer update or composer require) much faster.
+Tools,Free,Magento Root Update Composer plugin,https://github.com/magento/composer-root-update-plugin,A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -141,6 +144,7 @@ Extensions,Magento 2,CLI Plugin List for Magento 2,https://github.com/magento-ha
 Extensions,Magento 2,Yireo DevHacks,https://github.com/yireo/Yireo_DevHacks,Magento 2 module with various hacks and solutions for custom development
 Extensions,Magento 2,BitExpert_ForceCustomerLogin,https://github.com/bitExpert/magento2-force-login,Magento 2 module that force customer login to see website pages.
 Extensions,Magento 2,Magento2 Defer Javascripts,https://github.com/fballiano/magento2-defer-javascripts,Defer Javascripts module for Magento 2
+Extensions,Magento 2,Magento 2 removal of all optional modules,https://github.com/yireo/magento2-replace-all,A composer meta-package that removes numerous Magento 2 modules
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -173,7 +177,6 @@ Blogs,,Brideo,http://brideo.co.uk/blog/,
 Blogs,,C3Media Blog,https://www.c3media.co.uk/blog/,
 Blogs,,Classyllama,https://www.classyllama.com/blog/category/development,
 Blogs,,Cloudways Blog,https://www.cloudways.com/blog/category/magento/,
-Blogs,,Cool Ryan,http://www.coolryan.com/category/magento/,
 Blogs,,Creare Blog,http://www.creare.co.uk/blog/magento,
 Blogs,,Cyrill Schumacher,http://cyrillschumacher.com/,
 Blogs,,David Alger,http://davidalger.com/category/development/magento/,
@@ -295,6 +298,7 @@ Events,Conferences,Meet Magento,http://www.meet-magento.com/,Meet Magento events
 Events,Conferences,Reacticon,https://reacticon.org/,The Magento Frontend Development Conference
 Events,Conferences,MageTestFest,https://magetestfest.com/,Magento. Software Testing. Party.
 Events,Conferences,MageX,http://magex.wagento.com/,"Formerly knows as MageTitans Austin, same commitment, expanded content."
+Events,Conferences,MageCONF,https://www.mageconf.com.ua/,The main Magento event in Ukraine
 Events,Meetups,All official Magento Meetups around the World,http://www.meetup.com/it-IT/pro/magento/,
 Module Repositories & Marketplaces,,Magento Marketplace,https://marketplace.magento.com/,The new Magento extension marketplace
 Module Repositories & Marketplaces,,Firegento Composer Repository,http://packages.firegento.com/,Magento Module Composer Repository
