@@ -120,6 +120,7 @@ Extensions,Magento 1,No Flash Image Uploader,https://github.com/openstream/No-Fl
 Extensions,Magento 1,N98_LayoutHelper,https://github.com/netz98/N98_LayoutHelper,Helpful methods to be called in layout actions to allow more customizations via local.xml without touching the original layout files
 Extensions,Magento 1,MageSpecialist DevTools for Magento 1,https://github.com/magespecialist/m1-MSP_DevTools,intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 Extensions,Magento 1,Mgt Developer Toolbar for Magento 1,https://www.mgt-commerce.com/magento-developer-toolbar.html,"Magento 1 developer toolbar with profiling, database queries, handles, event/observer overview, block nesting, requests and caching."
+Extensions,Magento 1,Valdecode CookieLaw,https://github.com/valdecode/magento-cookielaw,"Another EU Cookie Law Compliance"
 Extensions,Magento 2,Yireo GoogleTagManager2,https://github.com/yireo/Yireo_GoogleTagManager2,Add Google Tag Manager to Magento2
 Extensions,Magento 2,Danslo CleanCheckout,https://github.com/danslo/CleanCheckout,A drop-in replacement for the Magento 2 checkout
 Extensions,Magento 2,MageMojo cron project,https://github.com/magemojo/m2-ce-cron,"This module for Magento 2 overrides base magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution."

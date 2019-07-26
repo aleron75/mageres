@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![338 resources](https://img.shields.io/badge/resources-338-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![342 resources](https://img.shields.io/badge/resources-342-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -196,6 +196,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [N98_LayoutHelper](https://github.com/netz98/N98_LayoutHelper) - Helpful methods to be called in layout actions to allow more customizations via local.xml without touching the original layout files
 * [No Flash Image Uploader](https://github.com/openstream/No-Flash-Image-Uploader) - This Magento module allows the upload of images without having the Flash player installed
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Extension that lets you create other Magento 1 CRUD modules for your own entities **unmaintained**
+* [Valdecode CookieLaw](https://github.com/valdecode/magento-cookielaw) - Another EU Cookie Law Compliance
 
 ### Magento 2
 * [AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
