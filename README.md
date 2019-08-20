@@ -320,7 +320,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Meetanshi Magento Blog](https://meetanshi.com/blog/)
 * [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/category/magento/)
 * [Newsgento](http://newsgento.com/)
-* [Nexcess Blog](https://blog.nexcess.net/category/magento-2/)
+* [Nexcess Blog](https://blog.nexcess.net/category/magento/)
 * [Onilab](https://onilab.com/blog/)
 * [Phuc Vo](http://www.thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/en/tag/magento2.html)
