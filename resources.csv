@@ -13,6 +13,7 @@ Other Resources,Magento 2,Awesome Magento 2,https://github.com/DavidLambauer/awe
 Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
 Other Resources,Magento 2,MageQuest,https://magequest.io/,An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 Other Resources,Magento 2,GravDept’s Magento 2 Manuals,https://manuals.gravitydept.com/frameworks/magento-2,
+Other Resources,Magento 2,How to maximise omnichannel with Multi-Source Inventory,https://strix.abbc.pl/fileadmin/user_upload/MSI_Magento_UK_guide_.pdf,Everything you need to know about MSI from Magento
 Other Resources,Magento 1,GravDept’s Magento 1 Manuals,https://manuals.gravitydept.com/frameworks/magento-1,
 Certification,,Magento Certification,http://magento.com/training/catalog/certification,The catalog of all Magento certifications
 Certification,Magento 1,MageCert,http://magecert.com/,Revision notes for the Magento Developer Certification exam
@@ -120,7 +121,7 @@ Extensions,Magento 1,No Flash Image Uploader,https://github.com/openstream/No-Fl
 Extensions,Magento 1,N98_LayoutHelper,https://github.com/netz98/N98_LayoutHelper,Helpful methods to be called in layout actions to allow more customizations via local.xml without touching the original layout files
 Extensions,Magento 1,MageSpecialist DevTools for Magento 1,https://github.com/magespecialist/m1-MSP_DevTools,intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 Extensions,Magento 1,Mgt Developer Toolbar for Magento 1,https://www.mgt-commerce.com/magento-developer-toolbar.html,"Magento 1 developer toolbar with profiling, database queries, handles, event/observer overview, block nesting, requests and caching."
-Extensions,Magento 1,Valdecode CookieLaw,https://github.com/valdecode/magento-cookielaw,"Another EU Cookie Law Compliance"
+Extensions,Magento 1,Valdecode CookieLaw,https://github.com/valdecode/magento-cookielaw,Another EU Cookie Law Compliance
 Extensions,Magento 2,Yireo GoogleTagManager2,https://github.com/yireo/Yireo_GoogleTagManager2,Add Google Tag Manager to Magento2
 Extensions,Magento 2,Danslo CleanCheckout,https://github.com/danslo/CleanCheckout,A drop-in replacement for the Magento 2 checkout
 Extensions,Magento 2,MageMojo cron project,https://github.com/magemojo/m2-ce-cron,"This module for Magento 2 overrides base magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution."
@@ -149,6 +150,7 @@ Extensions,Magento 2,Yireo DevHacks,https://github.com/yireo/Yireo_DevHacks,Mage
 Extensions,Magento 2,BitExpert_ForceCustomerLogin,https://github.com/bitExpert/magento2-force-login,Magento 2 module that force customer login to see website pages.
 Extensions,Magento 2,Magento2 Defer Javascripts,https://github.com/fballiano/magento2-defer-javascripts,Defer Javascripts module for Magento 2
 Extensions,Magento 2,Magento 2 removal of all optional modules,https://github.com/yireo/magento2-replace-all,A composer meta-package that removes numerous Magento 2 modules
+Extensions,Magento 2,N98_Guillotine,https://github.com/netz98/headless-guillotine,A simple but useful module to disable frontend requests to implement a headless approach.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -162,6 +164,7 @@ PWA,,Vue Storefront,https://github.com/DivanteLtd/vue-storefront,"A standalone P
 PWA,,Fallback Studio,https://github.com/Jordaneisenburger/fallback-studio,Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 PWA,,ScandiPWA,https://github.com/scandipwa,Progressive Web App for Magento by ScandiWeb
 PWA,,GravDept’s PWA Studio Manuals,https://manuals.gravitydept.com/frameworks/magento-pwa-studio,
+PWA,,NeoStorefront,https://www.neostorefront.com/,Static PWA Storefronte for Magento
 Blogs,,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
 Blogs,,Aheadworks Blog,https://blog.aheadworks.com/category/magento-2/,
