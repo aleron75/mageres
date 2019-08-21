@@ -151,6 +151,7 @@ Extensions,Magento 2,BitExpert_ForceCustomerLogin,https://github.com/bitExpert/m
 Extensions,Magento 2,Magento2 Defer Javascripts,https://github.com/fballiano/magento2-defer-javascripts,Defer Javascripts module for Magento 2
 Extensions,Magento 2,Magento 2 removal of all optional modules,https://github.com/yireo/magento2-replace-all,A composer meta-package that removes numerous Magento 2 modules
 Extensions,Magento 2,N98_Guillotine,https://github.com/netz98/headless-guillotine,A simple but useful module to disable frontend requests to implement a headless approach.
+Extensions,Magento 2,Siment_HttpHeaderThemeSwitch,https://github.com/siment/magento2-http-header-theme-switch,Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
