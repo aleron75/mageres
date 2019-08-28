@@ -365,7 +365,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Newsletters & Digests
 * [Atwix MageNews](https://www.atwix.com/tag/magenews/) - A selection of the most interesting and important topics that popped up in Magento Community
-* [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?q=%23MagentoMonday&sort_by=-topicPostDate&collapse_discussion=true) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
+* [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?filter=location&q=%23MagentoMonday%7C%23MagentoTuesday&advanced=true&location=forum-board:newsannouncements&sort_by=-topicPostDate&collapse_discussion=true&search_type=thread) - #MagentoMonday (sometimes #MagentoTuesday) Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [Magezine](https://www.magezine.co/) - A professional paper journal for Magento community
 * [The Devletter](https://www.maxpronko.com/blog/the-devletter) - Free weekly email digest by Max Pronko
 

@@ -271,7 +271,7 @@ Podcasts,,Mage Engage,https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ,V
 Podcasts,,MageTalk,http://magetalk.com/,A Magento Podcast
 Podcasts,,Magento Podcast DE,http://magentopodcast.de/,German-language podcast (ended 2012)
 Newsletters & Digests,,The Devletter,https://www.maxpronko.com/blog/the-devletter,Free weekly email digest by Max Pronko
-Newsletters & Digests,,Magento Community Digest,https://community.magento.com/t5/forums/searchpage/tab/message?q=%23MagentoMonday&sort_by=-topicPostDate&collapse_discussion=true,#MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
+Newsletters & Digests,,Magento Community Digest,https://community.magento.com/t5/forums/searchpage/tab/message?filter=location&q=%23MagentoMonday%7C%23MagentoTuesday&advanced=true&location=forum-board:newsannouncements&sort_by=-topicPostDate&collapse_discussion=true&search_type=thread,#MagentoMonday (sometimes #MagentoTuesday) Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 Newsletters & Digests,,Atwix MageNews,https://www.atwix.com/tag/magenews/,A selection of the most interesting and important topics that popped up in Magento Community
 Newsletters & Digests,,Magezine,https://www.magezine.co/,A professional paper journal for Magento community
 Screencasts,,Mage2Katas,http://www.mage2katas.com,TDD practice sessions for Magento 2 development by Vinai Kopp
