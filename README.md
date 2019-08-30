@@ -280,7 +280,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [David Alger](http://davidalger.com/category/development/magento/)
 * [DCKAP Blog](http://www.dckap.com/blog)
 * [Dev98](https://dev98.de/)
-* [Digital Pianism](http://www.digital-pianism.com/en/blog/)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
@@ -349,6 +348,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Fishpig's Magento Tutorials](http://fishpig.co.uk/magento/tutorials/)
 * [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
 * [Magento 2 Cheat Sheet](https://www.cheatography.com/latmiz/cheat-sheets/magento-2/) - A quick reference guide for Magento2, command line, xml snippets, template file snippets, Models and other useful bits of information
+* [Magento 2 JavaScript CheatSheet](https://jason.codes/2019/08/magento-2-javascript-cheatsheet/) - A quick go to reference to see the different ways of handling JavaScript.
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
 * [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Postman repository](https://github.com/nuzil/magento-postman/) - A storage of Postman collections for Magento
@@ -409,7 +409,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.
 * [Mage Titans](http://www.magetitans.com/) - A non-profit event for Magento developers in NL
 * [Mage Unconference](http://www.mageunconference.org/) - A unique Magento community event
-* [MageX](http://magex.wagento.com/) - Formerly knows as MageTitans Austin, same commitment, expanded content.
+* [MageX](https://www.magex.us/) - Formerly knows as MageTitans Austin, same commitment, expanded content.
 * [Meet Magento](http://www.meet-magento.com/) - Meet Magento events website
 * [Reacticon](https://reacticon.org/) - The Magento Frontend Development Conference
 

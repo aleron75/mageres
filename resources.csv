@@ -190,7 +190,6 @@ Blogs,,Creare Blog,http://www.creare.co.uk/blog/magento,
 Blogs,,Cyrill Schumacher,http://cyrillschumacher.com/,
 Blogs,,David Alger,http://davidalger.com/category/development/magento/,
 Blogs,,DCKAP Blog,http://www.dckap.com/blog,
-Blogs,,Digital Pianism,http://www.digital-pianism.com/en/blog/,
 Blogs,,ESchrade,http://www.eschrade.com/page/category/magento-2/,
 Blogs,,Excellence Technologies,http://excellencemagentoblog.com/,
 Blogs,,Fabian Schmengler,http://www.schmengler-se.de/en/blog/,
@@ -267,6 +266,7 @@ Quickies & Tutorials,,Magento 2 Cache Cheat Sheet,https://gist.github.com/scotts
 Quickies & Tutorials,,PHP Storm Live Templates for Magento 2,https://github.com/brideo/phpstorm-live-templates-magento-2,A bunch of Magento 2 Live Templates for PHP Storm
 Quickies & Tutorials,,Magento 2 Repository Example,https://github.com/pronkoconsulting/magento-2-repository-example,Example on how Magento 2 project should look like in a repository
 Quickies & Tutorials,,Magento Postman repository,https://github.com/nuzil/magento-postman/,A storage of Postman collections for Magento
+Quickies & Tutorials,,Magento 2 JavaScript CheatSheet,https://jason.codes/2019/08/magento-2-javascript-cheatsheet/,A quick go to reference to see the different ways of handling JavaScript.
 Podcasts,,Mage Engage,https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ,Video interviews of Magento people on YouTube
 Podcasts,,MageTalk,http://magetalk.com/,A Magento Podcast
 Podcasts,,Magento Podcast DE,http://magentopodcast.de/,German-language podcast (ended 2012)
@@ -306,7 +306,7 @@ Events,Conferences,Magento Live,http://magentolive.com/,A complement to Magento 
 Events,Conferences,Meet Magento,http://www.meet-magento.com/,Meet Magento events website
 Events,Conferences,Reacticon,https://reacticon.org/,The Magento Frontend Development Conference
 Events,Conferences,MageTestFest,https://magetestfest.com/,Magento. Software Testing. Party.
-Events,Conferences,MageX,http://magex.wagento.com/,"Formerly knows as MageTitans Austin, same commitment, expanded content."
+Events,Conferences,MageX,https://www.magex.us/,"Formerly knows as MageTitans Austin, same commitment, expanded content."
 Events,Conferences,MageCONF,https://www.mageconf.com.ua/,The main Magento event in Ukraine
 Events,Meetups,All official Magento Meetups around the World,http://www.meetup.com/it-IT/pro/magento/,
 Module Repositories & Marketplaces,,Magento Marketplace,https://marketplace.magento.com/,The new Magento extension marketplace
