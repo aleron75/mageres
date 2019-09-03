@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![347 resources](https://img.shields.io/badge/resources-347-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![353 resources](https://img.shields.io/badge/resources-353-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -190,12 +190,14 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Project Mess Detector](https://github.com/AOEpeople/mpmd) - n98-magerun addon to find out how messed up a Magento instance is
 * [Magento PSR-0 Autoloader](https://github.com/magento-hackathon/Magento-PSR-0-Autoloader) - Adds a PSR-0 Autoloader before the Magento Autoloader
 * [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
+* [Magento – Cloudflare](https://github.com/jetrails/magento-cloudflare) - Interact with popular Cloudflare features through Magento's backend portal.
 * [Mageploy](https://github.com/pug-more/mageploy) - Keep track of changes and deploy synchronization between different Magento environments
 * [MageSpecialist DevTools for Magento 1](https://github.com/magespecialist/m1-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Magneto Debug](https://github.com/madalinoprea/magneto-debug) - Magento 1.x developer debug toolbar
 * [Mgt Developer Toolbar for Magento 1](https://www.mgt-commerce.com/magento-developer-toolbar.html) - Magento 1 developer toolbar with profiling, database queries, handles, event/observer overview, block nesting, requests and caching.
 * [N98_LayoutHelper](https://github.com/netz98/N98_LayoutHelper) - Helpful methods to be called in layout actions to allow more customizations via local.xml without touching the original layout files
 * [No Flash Image Uploader](https://github.com/openstream/No-Flash-Image-Uploader) - This Magento module allows the upload of images without having the Flash player installed
+* [Two-Factor Authentication Plugin](https://github.com/jetrails/magento-twofactor) - User based 2FA enablement.
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Extension that lets you create other Magento 1 CRUD modules for your own entities **unmaintained**
 * [Valdecode CookieLaw](https://github.com/valdecode/magento-cookielaw) - Another EU Cookie Law Compliance
 
@@ -219,6 +221,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Easy Template Path Hints](https://github.com/MagePsycho/magento2-easy-template-path-hints) - Magento 2 module to enable the template path hints on the fly just by using query strings.
 * [Magento 2 Interceptor classes generator](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 * [Magento 2 removal of all optional modules](https://github.com/yireo/magento2-replace-all) - A composer meta-package that removes numerous Magento 2 modules
+* [Magento – Cloudflare](https://github.com/jetrails/magento2-cloudflare) - Interact with popular Cloudflare features through Magento 2's backend portal.
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) - A dev toolbar that shows all important information for performance optimisation and Magento development.
@@ -255,6 +258,8 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
 
 ## Blogs
+
+### English
 * [Aheadworks Blog](https://blog.aheadworks.com/category/magento-2/)
 * [AionHill blog](https://aionhill.com/category/magento-development-tips)
 * [Alan Kent](https://alankent.wordpress.com)
@@ -293,6 +298,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [InteractOne Blog](http://www.interactone.com/category/magento-news/)
 * [Inviqa](https://inviqa.com/blog)
 * [James Cowie](http://jamescowie.me/)
+* [JetRails](https://jetrails.com/blog/)
 * [Kalpesh Mehta](http://ka.lpe.sh/)
 * [Konstantin Gerasimov](https://www.goivvy.com/blog)
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
@@ -359,9 +365,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
 
 ## Podcasts
-* [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
 * [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
+* [The JetRails Podcast](https://jetrails.com/blog/announcing-the-jetrails-podcast-for-the-ecommerce-community/) - The JetRails Podcast for the Ecommerce Community
 
 ## Newsletters & Digests
 * [Atwix MageNews](https://www.atwix.com/tag/magenews/) - A selection of the most interesting and important topics that popped up in Magento Community
@@ -372,10 +378,12 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ## Screencasts
 * [eCommerceAholic](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Discussions about Magento eCommerce platform by TJ Gamble
 * [Ecommerce Forest by Rebecca Brocton](https://www.youtube.com/c/rebeccabrocton) - YouTube channel for fun & helpful Magento videos
+* [JetRails](https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg) - YouTube Channel by JetRails
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [MageClass](http://mageclass.com/) - Thoughts on Magento 2
+* [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
 * [MageMinute](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Magento News & Discussions from Jamersan
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
 * [Mark Shust’s ](https://m.academy/) - Level Up Your Magento 2 Skills
