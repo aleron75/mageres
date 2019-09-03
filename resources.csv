@@ -124,7 +124,7 @@ Extensions,Magento 1,Mgt Developer Toolbar for Magento 1,https://www.mgt-commerc
 Extensions,Magento 1,Valdecode CookieLaw,https://github.com/valdecode/magento-cookielaw,Another EU Cookie Law Compliance
 Extensions,Magento 1,Two-Factor Authentication Plugin,https://github.com/jetrails/magento-twofactor,User based 2FA enablement.
 Extensions,Magento 1,Magento – Cloudflare,https://github.com/jetrails/magento-cloudflare,Interact with popular Cloudflare features through Magento's backend portal.
-Extensions,Magento 2,Magento – Cloudflare,https://github.com/jetrails/magento2-cloudflare,Interact with popular Cloudflare features through Magento 2's backend portal.
+Extensions,Magento 2,Magento 2 – Cloudflare,https://github.com/jetrails/magento2-cloudflare,Interact with popular Cloudflare features through Magento 2's backend portal.
 Extensions,Magento 2,Yireo GoogleTagManager2,https://github.com/yireo/Yireo_GoogleTagManager2,Add Google Tag Manager to Magento2
 Extensions,Magento 2,Danslo CleanCheckout,https://github.com/danslo/CleanCheckout,A drop-in replacement for the Magento 2 checkout
 Extensions,Magento 2,MageMojo cron project,https://github.com/magemojo/m2-ce-cron,"This module for Magento 2 overrides base magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution."
