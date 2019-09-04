@@ -9,6 +9,7 @@ Official Resources,Magento 2,Magento Open Source 2.3 User Guide,https://docs.mag
 Official Resources,Magento 2,Magento Commerce 2.3 User Guide,https://docs.magento.com/m2/ee/user_guide/,Merchant documentation and tutorials to help you manage a Magento store
 Official Resources,Magento 2,Magento Commerce for B2B 2.3 User Guide,https://docs.magento.com/m2/b2b/user_guide/,Merchant documentation and tutorials to help you manage a Magento store
 Official Resources,Magento 2,Magento Glossary,https://glossary.magento.com/,The place where all the terminology for Magento products live.
+Official Resources,Magento 2,Beginner's Guide to Contribution,https://github.com/magento/magento2/wiki/Getting-Started,All you have to know to start contributing to Magento.
 Other Resources,Magento 2,Awesome Magento 2,https://github.com/DavidLambauer/awesome-magento2/,A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
 Other Resources,Magento 2,MageQuest,https://magequest.io/,An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
@@ -78,6 +79,7 @@ Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 mo
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
 Tools,Commercial with freemium/trial,MageFlow,https://mageflow.com/,"Magento extension for migrating content between development, staging and production environments"
 Tools,Commercial with freemium/trial,Magicento,http://magicento.com/,PHPStorm plugin for both Magento 1 and Magento 2 developers
+Tools,Commercial with freemium/trial,Magerror,https://www.magerror.com,All your Magento reports in one place
 Security,,Magento SUPEE-6788 Developer Toolbox,https://github.com/rhoerr/supee-6788-toolbox,Must-have tool to apply SUPEE-6788 patch
 Security,,Philwinkle_AppliedPatches,https://github.com/philwinkle/Philwinkle_AppliedPatches,Useful extension to see a list of all applied patches from within the Magento admin panel
 Security,,Magento Security Center,http://magento.com/security/,"The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes"
@@ -155,6 +157,7 @@ Extensions,Magento 2,Magento2 Defer Javascripts,https://github.com/fballiano/mag
 Extensions,Magento 2,Magento 2 removal of all optional modules,https://github.com/yireo/magento2-replace-all,A composer meta-package that removes numerous Magento 2 modules
 Extensions,Magento 2,N98_Guillotine,https://github.com/netz98/headless-guillotine,A simple but useful module to disable frontend requests to implement a headless approach.
 Extensions,Magento 2,Siment_HttpHeaderThemeSwitch,https://github.com/siment/magento2-http-header-theme-switch,Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
+Extensions,Magento 2,Yireo’s Common ViewModels,https://github.com/yireo/Yireo_CommonViewModels,Common ViewModels for usage in Magento 2.2.1+ frontends.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -258,6 +261,13 @@ Blogs,English,Onilab,https://onilab.com/blog/,
 Blogs,English,Alexander Turiak,https://zifius.github.io/,
 Blogs,English,MageVision,https://www.magevision.com/blog/,
 Blogs,English,JetRails,https://jetrails.com/blog/,
+Blogs,English,ParadoxLabs,https://www.paradoxlabs.com/blog/,
+Blogs,English,Pinpoint,https://www.pinpointdesigns.co.uk/blog/,
+Blogs,English,Onilab,https://onilab.com/blog/,
+Blogs,English,121eCommerce,https://www.121ecommerce.com/resources/blog/,
+Blogs,Japanese,Principleworks,https://principle-works.jp/blog,
+Blogs,Portuguese,Magenteiro,https://www.magenteiro.com/blog/,
+Blogs,Spanish,Damian Culotta,https://www.damianculotta.com.ar/,
 Quickies & Tutorials,,E-commerce Gorilla,http://www.ecommercegorilla.com/category/magento-e-commerce-platform/,
 Quickies & Tutorials,,Fishpig's Magento Tutorials,http://fishpig.co.uk/magento/tutorials/,
 Quickies & Tutorials,,Magento: The Right Way,https://magentotherightway.com/,
@@ -290,12 +300,13 @@ Screencasts,,eCommerceAholic,https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q
 Screencasts,,Matheus Gontijo,https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ,Matheus Gontijo’s YouTube channel
 Screencasts,,Mage Engage,https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ,Video interviews of Magento people on YouTube
 Screencasts,,JetRails,https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg,YouTube Channel by JetRails
-Communities,,Commerce Hero,https://commercehero.io,Good Magento Developers at your fingertips
-Communities,,Magento Forum,http://www.magentocommerce.com/boards/,"The ""brand new"" Magento forum"
-Communities,,Magento Stack Exchange,http://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform
-Communities,,Reddit,http://www.reddit.com/r/Magento/,Magento Sub-Reddit
-Communities,,Magento Speaker Directory,https://magento.mobilize.io,To connect speakers with event organizers.
-Communities,,Magento Community Portal,https://opensource.magento.com/,Join thousands of community developers working on different projects
+Communities,Online,Commerce Hero,https://commercehero.io,Good Magento Developers at your fingertips
+Communities,Online,Magento Forum,http://www.magentocommerce.com/boards/,"The ""brand new"" Magento forum"
+Communities,Online,Magento Stack Exchange,http://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform
+Communities,Online,Reddit,http://www.reddit.com/r/Magento/,Magento Sub-Reddit
+Communities,Online,Magento Speaker Directory,https://magento.mobilize.io,To connect speakers with event organizers.
+Communities,Online,Magento Community Portal,https://opensource.magento.com/,Join thousands of community developers working on different projects
+Communities,Argentina,MugAr,https://www.mugar.io,Magento Users Group ARgentina
 Associations,,ExtDN,https://extdn.org/,A network of leading Magento extension developers
 Associations,,Firegento,http://firegento.com/,A group of Magento enthusiasts developing open source modules and organising Hackathons and other events
 Associations,,Meet Magento Association,http://www.meet-magento.com/,"A non-profit organization, which handles all activities around the world wide Meet Magento events and the localized Magento editions"
@@ -351,3 +362,4 @@ Dev boxes,Vagrant,Vagrant Magento 2 Demo,https://github.com/davidalger/m2demo,A 
 Dev boxes,Vagrant,Vagrant  Magento (1.9.2.2)  PHP-7.0.0,https://github.com/roman204/vagrant-magento-php7,This Vagrantbox will build a Virtual Server for Virtualbox based on Ubuntu 14.04
 Dev boxes,Vagrant,Vagrant for Magento 2 CE,https://github.com/paliarush/vagrant-magento,"Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)"
 Dev boxes,Other,Valet+,https://github.com/weprovide/valet-plus,"A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file. Refer to this article by Dave Macaulay for an easy installation on MacOs: https://davemacaulay.com/the-easiest-way-to-install-magento-2-on-macos-using-valet-plus/"
+Dev boxes,Other,Warden,https://warden.dev/,A CLI utility for working with docker-compose environments.

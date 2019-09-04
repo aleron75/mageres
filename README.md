@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![353 resources](https://img.shields.io/badge/resources-353-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![365 resources](https://img.shields.io/badge/resources-365-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -48,6 +48,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento EE User Guide](http://merch.docs.magento.com/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html)
 
 ### Magento 2
+* [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) - All you have to know to start contributing to Magento.
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
 * [Magento Commerce 2.3 User Guide](https://docs.magento.com/m2/ee/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
 * [Magento Commerce for B2B 2.3 User Guide](https://docs.magento.com/m2/b2b/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
@@ -123,6 +124,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator
 * [MageCloud](http://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
 * [MageFlow](https://mageflow.com/) - Magento extension for migrating content between development, staging and production environments
+* [Magerror](https://www.magerror.com) - All your Magento reports in one place
 * [Magicento](http://magicento.com/) - PHPStorm plugin for both Magento 1 and Magento 2 developers
 
 ### Free
@@ -233,6 +235,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker) - Magento 2 module to check upon the code of Magento 2 modules from the CLI
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
+* [Yireo’s Common ViewModels](https://github.com/yireo/Yireo_CommonViewModels) - Common ViewModels for usage in Magento 2.2.1+ frontends.
 
 ## Testing
 
@@ -260,6 +263,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ## Blogs
 
 ### English
+* [121eCommerce](https://www.121ecommerce.com/resources/blog/)
 * [Aheadworks Blog](https://blog.aheadworks.com/category/magento-2/)
 * [AionHill blog](https://aionhill.com/category/magento-development-tips)
 * [Alan Kent](https://alankent.wordpress.com)
@@ -329,8 +333,10 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Newsgento](http://newsgento.com/)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento/)
 * [Onilab](https://onilab.com/blog/)
+* [ParadoxLabs](https://www.paradoxlabs.com/blog/)
 * [Phuc Vo](http://www.thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/en/tag/magento2.html)
+* [Pinpoint](https://www.pinpointdesigns.co.uk/blog/)
 * [Qaisar Satti](http://blog.qaisarsatti.com/)
 * [Rakesh Jesadiya](http://www.rakeshjesadiya.com/)
 * [Revampix](https://www.revampix.com/)
@@ -348,6 +354,15 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Tiago Sampaio](https://tiagosampaio.com/)
 * [Timon de Groot](https://blog.timpack.org/)
 * [Yireo Blog](https://www.yireo.com/blog)
+
+### Japanese
+* [Principleworks](https://principle-works.jp/blog)
+
+### Portuguese
+* [Magenteiro](https://www.magenteiro.com/blog/)
+
+### Spanish
+* [Damian Culotta](https://www.damianculotta.com.ar/)
 
 ## Quickies & Tutorials
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
@@ -390,6 +405,11 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Matheus Gontijo](https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ) - Matheus Gontijo’s YouTube channel
 
 ## Communities
+
+### Argentina
+* [MugAr](https://www.mugar.io) - Magento Users Group ARgentina
+
+### Online
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
 * [Magento Community Portal](https://opensource.magento.com/) - Join thousands of community developers working on different projects
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
@@ -457,6 +477,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Other
 * [Valet+](https://github.com/weprovide/valet-plus) - A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file. Refer to this article by Dave Macaulay for an easy installation on MacOs: https://davemacaulay.com/the-easiest-way-to-install-magento-2-on-macos-using-valet-plus/
+* [Warden](https://warden.dev/) - A CLI utility for working with docker-compose environments.
 
 ### Vagrant
 * [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - Designed by AOE with Magento in mind but usable for every LAMP stack based applications
