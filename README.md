@@ -68,7 +68,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 
 ## Certification
-* [Magento Certification](http://magento.com/training/catalog/certification) - The catalog of all Magento certifications
+* [Magento Certification](https://u.magento.com/certification) - The catalog of all Magento certifications
 
 ### Magento 1
 * [MageCert](http://magecert.com/) - Revision notes for the Magento Developer Certification exam
