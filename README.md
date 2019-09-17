@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![365 resources](https://img.shields.io/badge/resources-365-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![363 resources](https://img.shields.io/badge/resources-363-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -68,15 +68,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 
 ## Certification
-* [Magento Certification](https://u.magento.com/certification) - The catalog of all Magento certifications
-
-### Magento 1
-* [MageCert](http://magecert.com/) - Revision notes for the Magento Developer Certification exam
-* [Magento on Quizlet](https://quizlet.com/87021557/magento-certified-solution-specialist-flash-cards/) - Magento Certified Solution Specialist study set by Thomas Clunan
-
-### Magento 2
 * [M2 Certification Study Guides](https://github.com/df2k2/m2cert) - Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
 * [Magento 2 Certified Professional Developer notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
+* [Magento Certification](https://u.magento.com/certification) - The catalog of all Magento certifications
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 * [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
 
