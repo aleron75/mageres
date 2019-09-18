@@ -73,6 +73,7 @@ Tools,Free,Database Anonymizer,https://github.com/mpchadwick/dbanon,"A run-anywh
 Tools,Free,Optimize Composer for Magento 2 projects,https://github.com/fooman/composer-magento2-optimizations,A composer-plugin that contains a set of improvements that makes running heavy-duty composer commands (i.e. composer update or composer require) much faster.
 Tools,Free,Magento Root Update Composer plugin,https://github.com/magento/composer-root-update-plugin,A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 Tools,Free,MageSuite,https://magesuite.io/,"A collection of OpenSource modules that enhance several Magento 2 capabilities (CMS, Performance, Security, Search, Marketin, UX)"
+Tools,Free,Magento 2 Code Generator Tool,https://github.com/staempfli/magento2-code-generator/,Code generator for Magento 2
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
