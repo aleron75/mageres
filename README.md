@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![369 resources](https://img.shields.io/badge/resources-369-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![370 resources](https://img.shields.io/badge/resources-370-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -54,6 +54,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Commerce for B2B 2.3 User Guide](https://docs.magento.com/m2/b2b/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
 * [Magento Glossary](https://glossary.magento.com/) - The place where all the terminology for Magento products lives.
 * [Magento Open Source 2.3 User Guide](https://docs.magento.com/m2/ce/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
+* [README template for Magento modules](https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3)
 
 ## Other Resources
 
