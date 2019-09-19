@@ -74,6 +74,8 @@ Tools,Free,Optimize Composer for Magento 2 projects,https://github.com/fooman/co
 Tools,Free,Magento Root Update Composer plugin,https://github.com/magento/composer-root-update-plugin,A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 Tools,Free,MageSuite,https://magesuite.io/,"A collection of OpenSource modules that enhance several Magento 2 capabilities (CMS, Performance, Security, Search, Marketin, UX)"
 Tools,Free,Magento 2 Code Generator Tool,https://github.com/staempfli/magento2-code-generator/,Code generator for Magento 2
+Tools,Free,Masquerade,https://github.com/elgentos/masquerade,"Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker/anonymizer tool"
+Tools,Free,Anonymizer,https://github.com/DivanteLtd/anonymizer,Universal tool to create anonymized DBs
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -159,6 +161,7 @@ Extensions,Magento 2,Magento 2 removal of all optional modules,https://github.co
 Extensions,Magento 2,N98_Guillotine,https://github.com/netz98/headless-guillotine,A simple but useful module to disable frontend requests to implement a headless approach.
 Extensions,Magento 2,Siment_HttpHeaderThemeSwitch,https://github.com/siment/magento2-http-header-theme-switch,Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
 Extensions,Magento 2,Yireo’s Common ViewModels,https://github.com/yireo/Yireo_CommonViewModels,Common ViewModels for usage in Magento 2.2.1+ frontends.
+Extensions,Magento 2,Data Faker For Magento 2,https://github.com/experius/Magento-2-Module-Experius-FakeMyData,Replaces existing customer data for fake/anonymous data.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
