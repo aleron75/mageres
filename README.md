@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![372 resources](https://img.shields.io/badge/resources-372-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![374 resources](https://img.shields.io/badge/resources-374-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -221,9 +221,11 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Bash Install/Restore Script](https://github.com/yvoronoy/m2install) - A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
 * [Magento 2 Cache Clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop-in replacement for bin/magento cache:clean with a file watcher
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
+* [Magento 2 Debug Helper](https://github.com/shkoliar/magento-debug-helper) - Automatic breakpoints on PhpStorm based on search parameters.
 * [Magento2 Defer Javascripts](https://github.com/fballiano/magento2-defer-javascripts) - Defer Javascripts module for Magento 2
 * [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
 * [Magento 2 Easy Template Path Hints](https://github.com/MagePsycho/magento2-easy-template-path-hints) - Magento 2 module to enable the template path hints on the fly just by using query strings.
+* [Magento2 Flysystem](https://github.com/flagbit/Magento2-Flysystem) - Integrate Flysystem for local and remote filesystems into Magento2.
 * [Magento 2 Interceptor classes generator](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 * [Magento 2 removal of all optional modules](https://github.com/yireo/magento2-replace-all) - A composer meta-package that removes numerous Magento 2 modules
 * [Magento 2 – Cloudflare](https://github.com/jetrails/magento2-cloudflare) - Interact with popular Cloudflare features through Magento 2's backend portal.
