@@ -163,6 +163,8 @@ Extensions,Magento 2,N98_Guillotine,https://github.com/netz98/headless-guillotin
 Extensions,Magento 2,Siment_HttpHeaderThemeSwitch,https://github.com/siment/magento2-http-header-theme-switch,Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
 Extensions,Magento 2,Yireo’s Common ViewModels,https://github.com/yireo/Yireo_CommonViewModels,Common ViewModels for usage in Magento 2.2.1+ frontends.
 Extensions,Magento 2,Data Faker For Magento 2,https://github.com/experius/Magento-2-Module-Experius-FakeMyData,Replaces existing customer data for fake/anonymous data.
+Extensions,Magento 2,Additional Payment Checks,https://github.com/smaex/additional-payment-checks,Enables additional checks for payment methods in Magento 2.
+Extensions,Magento 2,Customer Group Payments,https://github.com/smaex/customer-group-payments,Restricts payment methods to specific customer groups in Magento 2.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
