@@ -152,6 +152,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Security
 * [mage-one.com](https://www.mage-one.com/) - A company which offers Paid security support for Magento 1 after its official End of Support
+* [MageDef](https://www.magedef.com/) - Free resources to build more reliable and defensible eCommerce platforms and software.
 * [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Pre Patched files for installing Magento Security Patches without SSH.
 * [Magento 1 Module Blacklist](https://github.com/gwillem/magento-module-blacklist) - Central repository for third party Magento 1 extensions with known security issues.
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
@@ -403,7 +404,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
-* [MageClass](http://mageclass.com/) - Thoughts on Magento 2
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
 * [MageMinute](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Magento News & Discussions from Jamersan
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko

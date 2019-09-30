@@ -99,6 +99,7 @@ Security,,Magento Vulnerability Database,https://github.com/gwillem/magevulndb,C
 Security,,Magento Security Checklist,https://github.com/talesh/magento-security-checklist,A Magento community-sourced security pre-flight checklist.
 Security,,Security.txt,https://github.com/kalpmehta/securitytxt,Security.txt for Magento 2 websites
 Security,,Mage Security Council,https://magesec.org,The Mage Security Council promotes and facilitates secure Magento stores globally.
+Security,,MageDef,https://www.magedef.com/,Free resources to build more reliable and defensible eCommerce platforms and software.
 Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
 Extensions,Magento 1,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 Extensions,Magento 1,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
@@ -299,7 +300,6 @@ Newsletters & Digests,,Magento Community Digest,https://community.magento.com/t5
 Newsletters & Digests,,Atwix MageNews,https://www.atwix.com/tag/magenews/,A selection of the most interesting and important topics that popped up in Magento Community
 Newsletters & Digests,,Magezine,https://www.magezine.co/,A professional paper journal for Magento community
 Screencasts,,Mage2Katas,http://www.mage2katas.com,TDD practice sessions for Magento 2 development by Vinai Kopp
-Screencasts,,MageClass,http://mageclass.com/,Thoughts on Magento 2
 Screencasts,,Ecommerce Forest by Rebecca Brocton,https://www.youtube.com/c/rebeccabrocton,YouTube channel for fun & helpful Magento videos
 Screencasts,,Magento DevChannel,https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q,YouTube channel by Max Pronko
 Screencasts,,Kalen Jordan,https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg,YouTube channel by Kalen Jordan
