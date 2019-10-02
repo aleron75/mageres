@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![375 resources](https://img.shields.io/badge/resources-375-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![376 resources](https://img.shields.io/badge/resources-376-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -387,9 +387,14 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
 
 ## Podcasts
-* [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
+
+### English
+* [Actionable Insights](https://swiftotter.com/actionable-insights/) - Practical insights by SwiftOtter
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
 * [The JetRails Podcast](https://jetrails.com/blog/announcing-the-jetrails-podcast-for-the-ecommerce-community/) - The JetRails Podcast for the Ecommerce Community
+
+### German
+* [Magento Podcast DE](http://magentopodcast.de/) - German-language podcast (ended 2012)
 
 ## Newsletters & Digests
 * [Atwix MageNews](https://www.atwix.com/tag/magenews/) - A selection of the most interesting and important topics that popped up in Magento Community
