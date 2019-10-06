@@ -116,7 +116,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Commercial with freemium/trial
 * [Commerce Bug](http://store.pulsestorm.net/products/commerce-bug-3) - Magento debugging extension for both Magento 1 and 2
-* [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator
 * [MageCloud](http://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
 * [MageFlow](https://mageflow.com/) - Magento extension for migrating content between development, staging and production environments
 * [Magerror](https://www.magerror.com) - All your Magento reports in one place
@@ -128,6 +127,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer - usage guide: https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit
 * [Database Anonymizer](https://github.com/mpchadwick/dbanon) - A run-anywhere, dependency-less database anonymizer.
 * [M2IF – Magento 2 Import Framework](https://m2if.com/) - A library supporting generic Magento 2 import functionality
+* [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 * [Magento 2 Code + DB Backup](https://github.com/MagePsycho/magento2-db-code-backup-bash-script) - An utility SSH script to backup the code + database of Magento 2
 * [Magento 2 Code Generator Tool](https://github.com/staempfli/magento2-code-generator/) - Code generator for Magento 2
 * [Magento 2 Database Backup Manager](https://github.com/meanbee/magedbm2) - A database backup manager for Magento 2 written with developers in mind.
@@ -213,11 +213,20 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
 * [Data Faker For Magento 2](https://github.com/experius/Magento-2-Module-Experius-FakeMyData) - Replaces existing customer data for fake/anonymous data.
 * [ElasticSuite for Magento 2 ](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
-* [Elgento’s Regenerate Catalog URLs](https://github.com/elgentos/regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
+* [elgentos Regenerate Catalog URLs](https://github.com/elgentos/regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
+* [elgentos Large Config Products](https://github.com/elgentos/LargeConfigProducts) - Workaround extension to work with extremely large configurable products (5000+ skus)
+* [elgentos VAT Fallback](https://github.com/elgentos/m2-vatfallback) - port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
+* [elgentos Prismic.io](https://github.com/elgentos/magento2-prismicio) - extension to integrate headless CMS Prismic.io into Magento 2
 * [Extension Dashboard](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions.
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
 * [Galactic Labs - Customer Group Payment Filters](https://github.com/galacticlabs/customer-group-payment-filters) - Magento 2 extension to exclude payment methods for selected customer groups.
 * [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
+* [KiwiCommerce Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - Set up, manage & view all cron jobs in the backend
+* [KiwiCommerce Customer Password](https://github.com/kiwicommerce/magento2-customer-password) - Change customer password from the backend and from the command line
+* [KiwiCommerce Admin Activity](https://github.com/kiwicommerce/magento2-admin-activity) - Log all admin activity
+* [KiwiCommerce Enhanced SMTP](https://github.com/kiwicommerce/magento2-enhanced-smtp) - Configure SMTP/Mail services for outgoing mail
+* [KiwiCommerce Inventory Log](https://github.com/kiwicommerce/magento2-inventory-log) - Track all inventory changes
+* [KiwiCommerce Login as Customer](https://github.com/kiwicommerce/magento2-login-as-customer) - Adds a login as customer link to multiple views in the backend
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) - This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
 * [Magento 2 Bash Install/Restore Script](https://github.com/yvoronoy/m2install) - A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
@@ -296,6 +305,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [David Alger](http://davidalger.com/category/development/magento/)
 * [DCKAP Blog](http://www.dckap.com/blog)
 * [Dev98](https://dev98.de/)
+* [elgentos](https://elgentos.nl/blog)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
@@ -471,6 +481,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Docker for Magento2](https://github.com/EmakinaFR/docker-magento2) - Environment for a Magento2 application using Docker.
 * [Docker Hub by Mage Inferno](https://hub.docker.com/u/mageinferno/) - Magento 2 Docker containers by Mage Inferno
 * [Dockerize Magento 2](https://github.com/tddwizard/magento2-dockerized) - Composer package for Docker test environment
+* [elgentos' Docker dev stack](https://github.com/JeroenBoersma/docker-compose-development/) - Docker dev stack for Magento 1 and 2, Laravel, Symfony, Silex, etc with multiple PHP versions, Blackfire, Varnish, Redis, Elasticsearch, Mailcatcher, etc etc
 * [Fabrizio Balliano's Magento2](https://github.com/fballiano/docker-magento2) - Varnish  PHP7  Redis cluster ready docker-compose infrastructure
 * [Karen Baker's Magento 2 simple docker build](https://github.com/wsakaren/m2SimpleDocker) - A simple and “get things done” Magento 2 local docker build
 * [Mage2click Docker Magento](https://github.com/mage2click/m2c) - Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
