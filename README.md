@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![376 resources](https://img.shields.io/badge/resources-376-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![378 resources](https://img.shields.io/badge/resources-378-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -65,7 +65,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2/) - A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 * [Community Resources](https://devdocs.magento.com/community/resources/resources.html) - Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics.
 * [GravDept’s Magento 2 Manuals](https://manuals.gravitydept.com/frameworks/magento-2)
-* [How to maximize omnichannel with Multi-Source Inventory](https://strix.abbc.pl/fileadmin/user_upload/MSI_Magento_UK_guide_.pdf) - Everything you need to know about MSI from Magento
+* [How to maximize omnichannel with Multi-Source Inventory](https://www.strix.net/fileadmin/user_upload/MSI_Magento_UK_guide_.pdf) - Everything you need to know about MSI from Magento
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 
 ## Certification
@@ -428,6 +428,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
 
+### Ukraine
+* [Mage2click](https://mage2.click) - Magento Users Group from Khmelnytskyi, Ukraine
+
 ## Associations
 * [Dutchento](https://www.dutchento.org/) - The Magento community in the Netherlands
 * [ExtDN](https://extdn.org/) - A network of leading Magento extension developers
@@ -470,6 +473,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Dockerize Magento 2](https://github.com/tddwizard/magento2-dockerized) - Composer package for Docker test environment
 * [Fabrizio Balliano's Magento2](https://github.com/fballiano/docker-magento2) - Varnish  PHP7  Redis cluster ready docker-compose infrastructure
 * [Karen Baker's Magento 2 simple docker build](https://github.com/wsakaren/m2SimpleDocker) - A simple and “get things done” Magento 2 local docker build
+* [Mage2click Docker Magento](https://github.com/mage2click/m2c) - Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 * [Magedev](https://github.com/teamneusta/php-cli-magedev) - A shell tool for local Magento 1 & 2 development.
 * [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Official Magento 2 DevBox repository
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) - A collection of Docker images for running Magento 2 through nginx and on the command line

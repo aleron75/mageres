@@ -15,7 +15,7 @@ Other Resources,Magento 2,Awesome Magento 2,https://github.com/DavidLambauer/awe
 Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
 Other Resources,Magento 2,MageQuest,https://magequest.io/,An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 Other Resources,Magento 2,GravDept’s Magento 2 Manuals,https://manuals.gravitydept.com/frameworks/magento-2,
-Other Resources,Magento 2,How to maximize omnichannel with Multi-Source Inventory,https://strix.abbc.pl/fileadmin/user_upload/MSI_Magento_UK_guide_.pdf,Everything you need to know about MSI from Magento
+Other Resources,Magento 2,How to maximize omnichannel with Multi-Source Inventory,https://www.strix.net/fileadmin/user_upload/MSI_Magento_UK_guide_.pdf,Everything you need to know about MSI from Magento
 Other Resources,Magento 1,GravDept’s Magento 1 Manuals,https://manuals.gravitydept.com/frameworks/magento-1,
 Certification,,Magento Certification,https://u.magento.com/certification,The catalog of all Magento certifications
 Certification,,M2 Certification Study Guides,https://github.com/df2k2/m2cert,Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
@@ -318,6 +318,7 @@ Communities,Online,Reddit,http://www.reddit.com/r/Magento/,Magento Sub-Reddit
 Communities,Online,Magento Speaker Directory,https://magento.mobilize.io,To connect speakers with event organizers.
 Communities,Online,Magento Community Portal,https://opensource.magento.com/,Join thousands of community developers working on different projects
 Communities,Argentina,MugAr,https://www.mugar.io,Magento Users Group ARgentina
+Communities,Ukraine,Mage2click,https://mage2.click,"Magento Users Group from Khmelnytskyi, Ukraine"
 Associations,,ExtDN,https://extdn.org/,A network of leading Magento extension developers
 Associations,,Firegento,http://firegento.com/,A group of Magento enthusiasts developing open source modules and organizing Hackathons and other events
 Associations,,Meet Magento Association,http://www.meet-magento.com/,"A non-profit organization, which handles all activities around the worldwide Meet Magento events and the localized Magento editions"
@@ -360,6 +361,7 @@ Dev boxes,Docker,Mark Shust's Docker Configuration for Magento,https://github.co
 Dev boxes,Docker,Magedev,https://github.com/teamneusta/php-cli-magedev,A shell tool for local Magento 1 & 2 development.
 Dev boxes,Docker,Docker for Magento2,https://github.com/EmakinaFR/docker-magento2,Environment for a Magento2 application using Docker.
 Dev boxes,Docker,Dockerize Magento 2,https://github.com/tddwizard/magento2-dockerized,Composer package for Docker test environment
+Dev boxes,Docker,Mage2click Docker Magento,https://github.com/mage2click/m2c,Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 Dev boxes,Kubernetes,Magento 2 Kubernetes DevBox,https://github.com/magento/magento2-kubernetes-devbox,"DevBox supporting multi-service deployment in one click, optimized for development scenarios using the local environment."
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 Dev boxes,Vagrant,Development Environment,https://github.com/davidalger/devenv,Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
