@@ -389,7 +389,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ## Podcasts
 
 ### Dutch
-* [Dutchento Experts Podcast](https://www.dutchento.org/podcast/) - E-commerce experts and retailers interviews by Dutchento
+* [Dutchento Experts Podcast](https://www.dutchento.org/podcast/) - E-commerce experts and retailers interviews by Dutchento. Some episodes are recorded in English.
 
 ### English
 * [Actionable Insights](https://swiftotter.com/actionable-insights/) - Practical insights by SwiftOtter
