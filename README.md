@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![380 resources](https://img.shields.io/badge/resources-380-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![381 resources](https://img.shields.io/badge/resources-381-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -395,6 +395,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Actionable Insights](https://swiftotter.com/actionable-insights/) - Practical insights by SwiftOtter
 * [Core of Commerce](https://www.coreofcommerce.com/) - Fortnightly insight into the latest European digital commerce news  by Vaimo
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
+* [Merchant to Merchant](https://podcast.somethingdigital.com/) - Stories about digital commerce: for merchants, by merchants.
 * [The JetRails Podcast](https://jetrails.com/blog/announcing-the-jetrails-podcast-for-the-ecommerce-community/) - The JetRails Podcast for the Ecommerce Community
 
 ### German
