@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![382 resources](https://img.shields.io/badge/resources-382-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![386 resources](https://img.shields.io/badge/resources-386-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -116,7 +116,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Commercial with freemium/trial
 * [Commerce Bug](http://store.pulsestorm.net/products/commerce-bug-3) - Magento debugging extension for both Magento 1 and 2
-* [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator
+* [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 * [MageCloud](http://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
 * [MageFlow](https://mageflow.com/) - Magento extension for migrating content between development, staging and production environments
 * [Magerror](https://www.magerror.com) - All your Magento reports in one place
@@ -214,6 +214,10 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
 * [Data Faker For Magento 2](https://github.com/experius/Magento-2-Module-Experius-FakeMyData) - Replaces existing customer data for fake/anonymous data.
 * [ElasticSuite for Magento 2 ](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
+* [elgentos Large Config Products](https://github.com/elgentos/LargeConfigProducts) - Workaround extension to work with extremely large configurable products (5000+ skus)
+* [elgentos Prismic.io](https://github.com/elgentos/magento2-prismicio) - Extension to integrate headless CMS Prismic.io into Magento 2
+* [elgentos Regenerate Catalog URLs](https://github.com/elgentos/regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
+* [elgentos VAT Fallback](https://github.com/elgentos/m2-vatfallback) - Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
 * [Elgento’s Regenerate Catalog URLs](https://github.com/elgentos/regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
 * [Extension Dashboard](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions.
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
