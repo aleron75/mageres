@@ -100,6 +100,7 @@ Security,,Magento Security Checklist,https://github.com/talesh/magento-security-
 Security,,Security.txt,https://github.com/kalpmehta/securitytxt,Security.txt for Magento 2 websites
 Security,,Mage Security Council,https://magesec.org,The Mage Security Council promotes and facilitates secure Magento stores globally.
 Security,,MageDef,https://www.magedef.com/,Free resources to build more reliable and defensible eCommerce platforms and software.
+Security,,InvalidateAdminPasswords Extension,https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords,A tool by SomethingDigital to invalidate all Magento admin user passwords
 Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
 Extensions,Magento 1,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 Extensions,Magento 1,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
