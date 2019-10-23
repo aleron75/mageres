@@ -77,6 +77,7 @@ Tools,Free,MageSuite,https://magesuite.io/,"A collection of OpenSource modules t
 Tools,Free,Magento 2 Code Generator Tool,https://github.com/staempfli/magento2-code-generator/,Code generator for Magento 2
 Tools,Free,Masquerade,https://github.com/elgentos/masquerade,"Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker/anonymizer tool"
 Tools,Free,Anonymizer,https://github.com/DivanteLtd/anonymizer,Universal tool to create anonymized DBs
+Tools,Free,Magento Release Diffs,https://github.com/gravitydepartment/magento-release-diffs,Useful release diffs for Magento 1 (without copyright changes).
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -101,6 +102,7 @@ Security,,Security.txt,https://github.com/kalpmehta/securitytxt,Security.txt for
 Security,,Mage Security Council,https://magesec.org,The Mage Security Council promotes and facilitates secure Magento stores globally.
 Security,,MageDef,https://www.magedef.com/,Free resources to build more reliable and defensible eCommerce platforms and software.
 Security,,InvalidateAdminPasswords Extension,https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords,A tool by SomethingDigital to invalidate all Magento admin user passwords
+Security,,Magento 1 Content Security Policy (CSP) Enforcement Extension,https://github.com/netalico/magento-1-csp,A Magento 1 module to easily create and manage a Content Security Policy (CSP) 
 Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
 Extensions,Magento 1,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 Extensions,Magento 1,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
@@ -319,6 +321,7 @@ Screencasts,,eCommerceAholic,https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q
 Screencasts,,Matheus Gontijo,https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ,Matheus Gontijo’s YouTube channel
 Screencasts,,Mage Engage,https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ,Video interviews of Magento people on YouTube
 Screencasts,,JetRails,https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg,YouTube Channel by JetRails
+Screencasts,,SwiftOtter,https://www.youtube.com/channel/UCD4FUoiuDt2UWhyOKiZm6rQ,YouTube Channel by SwiftOtter
 Communities,Online,Commerce Hero,https://commercehero.io,Good Magento Developers at your fingertips
 Communities,Online,Magento Forum,http://www.magentocommerce.com/boards/,"The ""brand new"" Magento forum"
 Communities,Online,Magento Stack Exchange,http://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform
@@ -346,6 +349,7 @@ Events,Conferences,MageTestFest,https://magetestfest.com/,Magento. Software Test
 Events,Conferences,MageX,https://www.magex.us/,"Formerly knows as MageTitans Austin, the same commitment, expanded content."
 Events,Conferences,MageCONF,https://www.mageconf.com.ua/,The main Magento event in Ukraine
 Events,Meetups,All official Magento Meetups around the World,http://www.meetup.com/it-IT/pro/magento/,
+Events,Competitions,MageDerby,https://magederby.com,The first international webshop development competition
 Module Repositories & Marketplaces,,Magento Marketplace,https://marketplace.magento.com/,The new Magento extension marketplace
 Module Repositories & Marketplaces,,Firegento Composer Repository,http://packages.firegento.com/,Magento Module Composer Repository
 Module Repositories & Marketplaces,,Xtension Galaxy,https://xtensiongalaxy.com/,The only Magento Extension Platform that allows you to create a full demo store on your exact version of Magento to fully try any extension before buying it

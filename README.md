@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![386 resources](https://img.shields.io/badge/resources-386-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![390 resources](https://img.shields.io/badge/resources-390-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -138,6 +138,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
 * [Magento PhpStorm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
+* [Magento Release Diffs](https://github.com/gravitydepartment/magento-release-diffs) - Useful release diffs for Magento 1 (without copyright changes).
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 * [Mage Scan](https://github.com/steverobbins/magescan) - Scan a Magento site for information
 * [MageSuite](https://magesuite.io/) - A collection of OpenSource modules that enhance several Magento 2 capabilities (CMS, Performance, Security, Search, Marketin, UX)
@@ -155,6 +156,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [mage-one.com](https://www.mage-one.com/) - A company which offers Paid security support for Magento 1 after its official End of Support
 * [MageDef](https://www.magedef.com/) - Free resources to build more reliable and defensible eCommerce platforms and software.
 * [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Pre Patched files for installing Magento Security Patches without SSH.
+* [Magento 1 Content Security Policy (CSP) Enforcement Extension](https://github.com/netalico/magento-1-csp) - A Magento 1 module to easily create and manage a Content Security Policy (CSP) 
 * [Magento 1 Module Blacklist](https://github.com/gwillem/magento-module-blacklist) - Central repository for third party Magento 1 extensions with known security issues.
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 * [Magento Malware Scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest Magento malware collection on earth
@@ -424,6 +426,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
 * [Mark Shust’s ](https://m.academy/) - Level Up Your Magento 2 Skills
 * [Matheus Gontijo](https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ) - Matheus Gontijo’s YouTube channel
+* [SwiftOtter](https://www.youtube.com/channel/UCD4FUoiuDt2UWhyOKiZm6rQ) - YouTube Channel by SwiftOtter
 
 ## Communities
 
@@ -453,6 +456,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Community Engineering](https://calendar.google.com/calendar/embed?src=sn3me3pduhd92hhk9s7frkn57o@group.calendar.google.com) - A publicly available Google calendar with Magento Community Engineering’s schedule
 * [Magento Event Listing](https://magento.com/events) - List of Magento Events on Magento site
 * [Magento Events Google Calendar](https://calendar.google.com/calendar/embed?src=9ns1e12ucfd84tpnsehekkc6g0@group.calendar.google.com) - A publicly available Google calendar with almost all Magento events around the world
+
+### Competitions
+* [MageDerby](https://magederby.com) - The first international webshop development competition
 
 ### Conferences
 * [MageCONF](https://www.mageconf.com.ua/) - The main Magento event in Ukraine
