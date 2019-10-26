@@ -22,7 +22,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Books](#books)
 * [Performance](#performance)
 * [Tools](#tools)
-* [](#)
 * [Security](#security)
 * [Extensions](#extensions)
 * [Testing](#testing)
@@ -128,6 +127,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer - usage guide: https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit
 * [Database Anonymizer](https://github.com/mpchadwick/dbanon) - A run-anywhere, dependency-less database anonymizer.
 * [Divante Anonymizer](https://github.com/DivanteLtd/anonymizer) - Universal tool to create anonymized DBs
+* [integer-net Anonymizer](https://github.com/integer-net/Anonymizer) - Anonymizes Magento Customer and Order data for Magento 1
 * [M2IF – Magento 2 Import Framework](https://m2if.com/) - A library supporting generic Magento 2 import functionality
 * [Magento 2 Code + DB Backup](https://github.com/MagePsycho/magento2-db-code-backup-bash-script) - An utility SSH script to backup the code + database of Magento 2
 * [Magento 2 Code Generator Tool](https://github.com/staempfli/magento2-code-generator/) - Code generator for Magento 2
@@ -151,11 +151,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Optimize Composer for Magento 2 projects](https://github.com/fooman/composer-magento2-optimizations) - A composer-plugin that contains a set of improvements that makes running heavy-duty composer commands (i.e. composer update or composer require) much faster.
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
 * [Vaimo Composer Patches](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
-
-## 
-
-### Free
-* [integer-net Anonymizer](https://github.com/integer-net/Anonymizer) - Anonymizes Magento Customer and Order data for Magento 1
 
 ## Security
 * [InvalidateAdminPasswords Extension](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords) - A tool by SomethingDigital to invalidate all Magento admin user passwords
