@@ -218,7 +218,6 @@ Blogs,English,DCKAP Blog,http://www.dckap.com/blog,
 Blogs,English,ESchrade,http://www.eschrade.com/page/category/magento-2/,
 Blogs,English,Excellence Technologies,http://excellencemagentoblog.com/,
 Blogs,English,Fabian Schmengler,http://www.schmengler-se.de/en/blog/,
-Blogs,English,Fabrizio Branca,http://fbrnc.net/,
 Blogs,English,Firebear Studio Blog,http://firebearstudio.com/blog/,
 Blogs,English,Fooman,http://store.fooman.co.nz/blog,
 Blogs,English,Ibnab Blog,http://ibnab.com/en/blog/magento-2,
@@ -226,7 +225,6 @@ Blogs,English,Inchoo,http://inchoo.net/category/magento/,
 Blogs,English,integer_net Blog,http://www.integer-net.com/blog/,
 Blogs,English,InteractOne Blog,http://www.interactone.com/category/magento-news/,
 Blogs,English,Inviqa,https://inviqa.com/blog,
-Blogs,English,James Cowie,http://jamescowie.me/,
 Blogs,English,Kalpesh Mehta,http://ka.lpe.sh/,
 Blogs,English,LexiConn,http://www.lexiconn.com/blog/category/magento/,
 Blogs,English,Magebase,http://magebase.com/,
@@ -383,7 +381,6 @@ Dev boxes,Vagrant,Magento 2 SE box,https://github.com/studioemma/vagrant-mage2,A
 Dev boxes,Vagrant,Magento 2 Vagrant Box,https://github.com/rgranadino/mage2_vagrant,A simple way to get Magento 2 up and running
 Dev boxes,Vagrant,MageScotch Box (PHP 5),https://github.com/joshuaswarren/magescotch5,The (deprecated) PHP 5-based version of Magescotch
 Dev boxes,Vagrant,MageScotch Box (PHP 7),https://github.com/joshuaswarren/magescotch,The PHP 7-based version of Magescotch
-Dev boxes,Vagrant,Magestead,http://www.magestead.com/,Vagrant LEMP stack for Magento developers
 Dev boxes,Vagrant,Vagrant Magento 2 Demo,https://github.com/davidalger/m2demo,A complete demo environment powered by Vagrant using either Digital Ocean or Virtual Box as a provider
 Dev boxes,Vagrant,Vagrant  Magento (1.9.2.2)  PHP-7.0.0,https://github.com/roman204/vagrant-magento-php7,This Vagrantbox will build a Virtual Server for Virtualbox based on Ubuntu 14.04
 Dev boxes,Vagrant,Vagrant for Magento 2 CE,https://github.com/paliarush/vagrant-magento,"Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)"

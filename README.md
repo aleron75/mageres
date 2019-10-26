@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![391 resources](https://img.shields.io/badge/resources-391-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![388 resources](https://img.shields.io/badge/resources-388-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -312,7 +312,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
-* [Fabrizio Branca](http://fbrnc.net/)
 * [Firebear Studio Blog](http://firebearstudio.com/blog/)
 * [Fooman](http://store.fooman.co.nz/blog)
 * [Giel Berkers](https://gielberkers.com/)
@@ -321,7 +320,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [integer_net Blog](http://www.integer-net.com/blog/)
 * [InteractOne Blog](http://www.interactone.com/category/magento-news/)
 * [Inviqa](https://inviqa.com/blog)
-* [James Cowie](http://jamescowie.me/)
 * [JetRails](https://jetrails.com/blog/)
 * [Kalpesh Mehta](http://ka.lpe.sh/)
 * [Konstantin Gerasimov](https://www.goivvy.com/blog)
@@ -524,7 +522,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Vagrant Box](https://github.com/rgranadino/mage2_vagrant) - A simple way to get Magento 2 up and running
 * [MageScotch Box (PHP 5)](https://github.com/joshuaswarren/magescotch5) - The (deprecated) PHP 5-based version of Magescotch
 * [MageScotch Box (PHP 7)](https://github.com/joshuaswarren/magescotch) - The PHP 7-based version of Magescotch
-* [Magestead](http://www.magestead.com/) - Vagrant LEMP stack for Magento developers
 * [Vagrant for Magento 2 CE](https://github.com/paliarush/vagrant-magento) - Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)
 * [Vagrant  Magento (1.9.2.2)  PHP-7.0.0](https://github.com/roman204/vagrant-magento-php7) - This Vagrantbox will build a Virtual Server for Virtualbox based on Ubuntu 14.04
 * [Vagrant Magento 2 Demo](https://github.com/davidalger/m2demo) - A complete demo environment powered by Vagrant using either Digital Ocean or Virtual Box as a provider
