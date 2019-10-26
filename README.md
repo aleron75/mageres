@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![388 resources](https://img.shields.io/badge/resources-388-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![389 resources](https://img.shields.io/badge/resources-389-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -301,6 +301,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Creare Blog](http://www.creare.co.uk/blog/magento)
 * [Customer Paradigm](http://www.customerparadigm.com/blog/)
 * [Cyrill Schumacher](http://cyrillschumacher.com/)
+* [Dave Macaulay](https://davemacaulay.com/blog/)
 * [David Alger](http://davidalger.com/category/development/magento/)
 * [DCKAP Blog](http://www.dckap.com/blog)
 * [Dev98](https://dev98.de/)
