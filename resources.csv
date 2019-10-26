@@ -76,8 +76,9 @@ Tools,Free,Magento Root Update Composer plugin,https://github.com/magento/compos
 Tools,Free,MageSuite,https://magesuite.io/,"A collection of OpenSource modules that enhance several Magento 2 capabilities (CMS, Performance, Security, Search, Marketin, UX)"
 Tools,Free,Magento 2 Code Generator Tool,https://github.com/staempfli/magento2-code-generator/,Code generator for Magento 2
 Tools,Free,Masquerade,https://github.com/elgentos/masquerade,"Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker/anonymizer tool"
-Tools,Free,Anonymizer,https://github.com/DivanteLtd/anonymizer,Universal tool to create anonymized DBs
+Tools,Free,Divante Anonymizer,https://github.com/DivanteLtd/anonymizer,Universal tool to create anonymized DBs
 Tools,Free,Magento Release Diffs,https://github.com/gravitydepartment/magento-release-diffs,Useful release diffs for Magento 1 (without copyright changes).
+,Free,integer-net Anonymizer,https://github.com/integer-net/Anonymizer,Anonymizes Magento Customer and Order data for Magento 1
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
