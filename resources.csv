@@ -16,6 +16,7 @@ Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/commun
 Other Resources,Magento 2,MageQuest,https://magequest.io/,An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 Other Resources,Magento 2,GravDept’s Magento 2 Manuals,https://manuals.gravitydept.com/frameworks/magento-2,
 Other Resources,Magento 2,How to maximize omnichannel with Multi-Source Inventory,https://www.strix.net/fileadmin/user_upload/MSI_Magento_UK_guide_.pdf,Everything you need to know about MSI from Magento
+Other Resources,Magento 2,Mage Mastery,https://magemastery.net/,Learning resources for Magento 2 developers
 Other Resources,Magento 1,GravDept’s Magento 1 Manuals,https://manuals.gravitydept.com/frameworks/magento-1,
 Certification,,Magento Certification,https://u.magento.com/certification,The catalog of all Magento certifications
 Certification,,M2 Certification Study Guides,https://github.com/df2k2/m2cert,Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
@@ -287,6 +288,7 @@ Blogs,English,Dave Macaulay,https://davemacaulay.com/blog/,
 Blogs,Japanese,Principleworks,https://principle-works.jp/blog,
 Blogs,Portuguese,Magenteiro,https://www.magenteiro.com/blog/,
 Blogs,Spanish,Damian Culotta,https://www.damianculotta.com.ar/,
+Blogs,German,Matthias Zeis,https://www.matthias-zeis.com/magento-2,
 Quickies & Tutorials,,E-commerce Gorilla,http://www.ecommercegorilla.com/category/magento-e-commerce-platform/,
 Quickies & Tutorials,,Fishpig's Magento Tutorials,http://fishpig.co.uk/magento/tutorials/,
 Quickies & Tutorials,,Magento: The Right Way,https://magentotherightway.com/,
@@ -300,6 +302,7 @@ Quickies & Tutorials,,PHP Storm Live Templates for Magento 2,https://github.com/
 Quickies & Tutorials,,Magento 2 Repository Example,https://github.com/pronkoconsulting/magento-2-repository-example,Example on how Magento 2 project should look like in a repository
 Quickies & Tutorials,,Magento Postman repository,https://github.com/nuzil/magento-postman/,A storage of Postman collections for Magento
 Quickies & Tutorials,,Magento 2 JavaScript CheatSheet,https://jason.codes/2019/08/magento-2-javascript-cheatsheet/,A quick go-to reference to see the different ways of handling JavaScript.
+Quickies & Tutorials,,Magento Module LarsRoettig_GraphQLStorePickup,https://github.com/larsroettig/module-graphqlstorepickup,Example of how to create a GraphQL Endpoint for Magento 2.3
 Podcasts,English,The JetRails Podcast,https://jetrails.com/blog/announcing-the-jetrails-podcast-for-the-ecommerce-community/,The JetRails Podcast for the Ecommerce Community
 Podcasts,English,MageTalk,http://magetalk.com/,A Magento Podcast
 Podcasts,German,Magento Podcast DE,http://magentopodcast.de/,German-language podcast (ended 2012)
@@ -323,6 +326,7 @@ Screencasts,,Matheus Gontijo,https://www.youtube.com/channel/UCnxvjCccLZQuSpYsot
 Screencasts,,Mage Engage,https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ,Video interviews of Magento people on YouTube
 Screencasts,,JetRails,https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg,YouTube Channel by JetRails
 Screencasts,,SwiftOtter,https://www.youtube.com/channel/UCD4FUoiuDt2UWhyOKiZm6rQ,YouTube Channel by SwiftOtter
+Screencasts,,Load In The Loop,https://youtube.com/channel/UC7mcoC5hdn2yekrBUl9h8pQ,Magento Performance Podcast
 Communities,Online,Commerce Hero,https://commercehero.io,Good Magento Developers at your fingertips
 Communities,Online,Magento Forum,http://www.magentocommerce.com/boards/,"The ""brand new"" Magento forum"
 Communities,Online,Magento Stack Exchange,http://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform

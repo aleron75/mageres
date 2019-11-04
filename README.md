@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![390 resources](https://img.shields.io/badge/resources-390-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![394 resources](https://img.shields.io/badge/resources-394-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -66,6 +66,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Community Resources](https://devdocs.magento.com/community/resources/resources.html) - Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics.
 * [GravDept’s Magento 2 Manuals](https://manuals.gravitydept.com/frameworks/magento-2)
 * [How to maximize omnichannel with Multi-Source Inventory](https://www.strix.net/fileadmin/user_upload/MSI_Magento_UK_guide_.pdf) - Everything you need to know about MSI from Magento
+* [Mage Mastery](https://magemastery.net/) - Learning resources for Magento 2 developers
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 
 ## Certification
@@ -370,6 +371,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Timon de Groot](https://blog.timpack.org/)
 * [Yireo Blog](https://www.yireo.com/blog)
 
+### German
+* [Matthias Zeis](https://www.matthias-zeis.com/magento-2)
+
 ### Japanese
 * [Principleworks](https://principle-works.jp/blog)
 
@@ -387,6 +391,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 JavaScript CheatSheet](https://jason.codes/2019/08/magento-2-javascript-cheatsheet/) - A quick go-to reference to see the different ways of handling JavaScript.
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
 * [Magento: The Right Way](https://magentotherightway.com/)
+* [Magento Module LarsRoettig_GraphQLStorePickup](https://github.com/larsroettig/module-graphqlstorepickup) - Example of how to create a GraphQL Endpoint for Magento 2.3
 * [Magento Postman repository](https://github.com/nuzil/magento-postman/) - A storage of Postman collections for Magento
 * [Magento Quickies](http://magento-quickies.alanstorm.com/)
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
@@ -420,6 +425,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Ecommerce Forest by Rebecca Brocton](https://www.youtube.com/c/rebeccabrocton) - YouTube channel for fun & helpful Magento videos
 * [JetRails](https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg) - YouTube Channel by JetRails
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
+* [Load In The Loop](https://youtube.com/channel/UC7mcoC5hdn2yekrBUl9h8pQ) - Magento Performance Podcast
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
