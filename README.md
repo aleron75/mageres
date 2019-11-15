@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![394 resources](https://img.shields.io/badge/resources-394-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![395 resources](https://img.shields.io/badge/resources-395-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -68,6 +68,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [How to maximize omnichannel with Multi-Source Inventory](https://www.strix.net/fileadmin/user_upload/MSI_Magento_UK_guide_.pdf) - Everything you need to know about MSI from Magento
 * [Mage Mastery](https://magemastery.net/) - Learning resources for Magento 2 developers
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
+* [The Magento Guidebook: 2019 Edition](https://jetrails.com/blog/the-magento-terms-glossary-guide/) - A Glossary of Magento Terms and Phrases
 
 ## Certification
 * [M2 Certification Study Guides](https://github.com/df2k2/m2cert) - Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
