@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![395 resources](https://img.shields.io/badge/resources-395-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![397 resources](https://img.shields.io/badge/resources-397-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -53,6 +53,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Commerce 2.3 User Guide](https://docs.magento.com/m2/ee/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
 * [Magento Commerce for B2B 2.3 User Guide](https://docs.magento.com/m2/b2b/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
 * [Magento Glossary](https://glossary.magento.com/) - The place where all the terminology for Magento products lives.
+* [Magento Localization](https://github.com/magento-l10n) - Magento Community Engineering Projects related to Localization, Translation and Globalization
 * [Magento Open Source 2.3 User Guide](https://docs.magento.com/m2/ce/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
 * [README template for Magento modules](https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3)
 
@@ -275,6 +276,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
 * [NeoStorefront](https://www.neostorefront.com/) - Static PWA Storefront for Magento
 * [PWA Studio](https://github.com/magento-research/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
+* [PWA Studio Stats](https://pwastudio-stats.com/) - A list of PWA webshops built with Magento's PWA Studio
 * [ScandiPWA](https://github.com/scandipwa) - Progressive Web App for Magento by ScandiWeb
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
 

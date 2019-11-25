@@ -11,6 +11,7 @@ Official Resources,Magento 2,Magento Commerce for B2B 2.3 User Guide,https://doc
 Official Resources,Magento 2,Magento Glossary,https://glossary.magento.com/,The place where all the terminology for Magento products lives.
 Official Resources,Magento 2,Beginner's Guide to Contribution,https://github.com/magento/magento2/wiki/Getting-Started,All you have to know to start contributing to Magento.
 Official Resources,Magento 2,README template for Magento modules,https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3,
+Official Resources,Magento 2,Magento Localization,https://github.com/magento-l10n,"Magento Community Engineering Projects related to Localization, Translation and Globalization"
 Other Resources,Magento 2,Awesome Magento 2,https://github.com/DavidLambauer/awesome-magento2/,A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
 Other Resources,Magento 2,MageQuest,https://magequest.io/,An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
@@ -195,6 +196,7 @@ PWA,,ScandiPWA,https://github.com/scandipwa,Progressive Web App for Magento by S
 PWA,,GravDept’s PWA Studio Manuals,https://manuals.gravitydept.com/frameworks/magento-pwa-studio,
 PWA,,NeoStorefront,https://www.neostorefront.com/,Static PWA Storefront for Magento
 PWA,,Integer_Net ReactApp,https://github.com/integer-net/magento2-reactapp,A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
+PWA,,PWA Studio Stats,https://pwastudio-stats.com/,A list of PWA webshops built with Magento's PWA Studio
 Blogs,English,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,English,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
 Blogs,English,Aheadworks Blog,https://blog.aheadworks.com/category/magento-2/,
