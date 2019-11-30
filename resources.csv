@@ -83,6 +83,7 @@ Tools,Free,Divante Anonymizer,https://github.com/DivanteLtd/anonymizer,Universal
 Tools,Free,Magento Release Diffs,https://github.com/gravitydepartment/magento-release-diffs,Useful release diffs for Magento 1 (without copyright changes).
 Tools,Free,integer-net Anonymizer,https://github.com/integer-net/Anonymizer,Anonymizes Magento Customer and Order data for Magento 1
 Tools,Free,baler,https://github.com/magento/baler,AMD module bundler and preloader for Magento 2 stores
+Tools,Free,Magento 2 - composer patches helper,https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB,Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
