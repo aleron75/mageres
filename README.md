@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![398 resources](https://img.shields.io/badge/resources-398-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![403 resources](https://img.shields.io/badge/resources-403-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -311,6 +311,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [David Alger](http://davidalger.com/category/development/magento/)
 * [DCKAP Blog](http://www.dckap.com/blog)
 * [Dev98](https://dev98.de/)
+* [Elogic](https://elogic.co/blog/)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
@@ -361,6 +362,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Rakesh Jesadiya](http://www.rakeshjesadiya.com/)
 * [Revampix](https://www.revampix.com/)
 * [Rocket Web](https://rocketweb.com/blog)
+* [Rohan Hapani](https://www.rohanhapani.com/category/magento/magento-2/)
 * [Session Digital DE on Magento](http://www.sessiondigital.de/blog/category/magento/)
 * [Session Digital on Magento](http://www.sessiondigital.com/blog/category/magento/)
 * [Session Digital on Magento 2](http://www.sessiondigital.com/blog/category/magento-2/)
@@ -373,9 +375,11 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Talesh Seeparsan](http://www.seeparsan.net/magento-blog/)
 * [Tiago Sampaio](https://tiagosampaio.com/)
 * [Timon de Groot](https://blog.timpack.org/)
+* [Visiture](https://www.visiture.com/blog/category/magento-2/)
 * [Yireo Blog](https://www.yireo.com/blog)
 
 ### German
+* [Christian Münch](https://muench.dev/)
 * [Matthias Zeis](https://www.matthias-zeis.com/magento-2)
 
 ### Japanese
@@ -472,6 +476,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageDerby](https://magederby.com) - The first international webshop development competition
 
 ### Conferences
+* [Adobe Summit](https://summit.adobe.com/) - Where Magento Imagine happens!
 * [MageCONF](https://www.mageconf.com.ua/) - The main Magento event in Ukraine
 * [Magento Imagine](http://imagine.magento.com) - The Magento event
 * [Magento Live](http://magentolive.com/) - A complement to Magento annual Imagine conference
