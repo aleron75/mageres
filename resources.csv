@@ -186,6 +186,7 @@ Extensions,Magento 2,Dutchento VAT Fallback,https://github.com/dutchento/m2-vatf
 Extensions,Magento 2,elgentos Prismic.io,https://github.com/elgentos/magento2-prismicio,Extension to integrate headless CMS Prismic.io into Magento 2
 Extensions,Magento 2,Mage2Dark,https://mage2dark.net/,Magento 2 Dark Theme for Admin Panel
 Extensions,Magento 2,URL data integrity checker,https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker/,Find potential URL related problems in your catalog data
+Extensions,Magento 2,CMS Page Status,https://github.com/mcspronko/cms-page-edit-status,Shows a message when a page is being edited by an admin user
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
