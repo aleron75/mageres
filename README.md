@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![407 resources](https://img.shields.io/badge/resources-407-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![412 resources](https://img.shields.io/badge/resources-412-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -133,6 +133,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer - usage guide: https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit
 * [Database Anonymizer](https://github.com/mpchadwick/dbanon) - A run-anywhere, dependency-less database anonymizer.
 * [Divante Anonymizer](https://github.com/DivanteLtd/anonymizer) - Universal tool to create anonymized DBs
+* [ExtDN Installer for Magento 2 modules](https://github.com/extdn/installer-m2) - Universal extension installer for Magento 2
 * [integer-net Anonymizer](https://github.com/integer-net/Anonymizer) - Anonymizes Magento Customer and Order data for Magento 1
 * [M2IF – Magento 2 Import Framework](https://m2if.com/) - A library supporting generic Magento 2 import functionality
 * [Magento 2 - composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB) - Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
@@ -157,6 +158,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Oh My ZSH Plugin - Magento 2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) - Magento 2 autocomplete plugin for oh-my-zsh
 * [Optimize Composer for Magento 2 projects](https://github.com/fooman/composer-magento2-optimizations) - A composer-plugin that contains a set of improvements that makes running heavy-duty composer commands (i.e. composer update or composer require) much faster.
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
+* [The Installer](https://github.com/jacquesbh/installer) - PHP command line tool for Magento extension development and scaffolding
 * [Vaimo Composer Patches](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
 
 ## Security
@@ -219,6 +221,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Additional Payment Checks](https://github.com/smaex/additional-payment-checks) - Enables additional checks for payment methods in Magento 2.
 * [AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
 * [BitExpert_ForceCustomerLogin](https://github.com/bitExpert/magento2-force-login) - Magento 2 module that forces customer login to see website pages.
+* [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merge all 3rd party extensions menu items in a common menu item
 * [CLI Plugin List for Magento 2](https://github.com/magento-hackathon/cli-plugin-list) - Get a good overview of plugins installed and be aware of their influence on your Magento 2 instance.
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) - Restricts payment methods to specific customer groups in Magento 2.
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
@@ -244,6 +247,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
 * [Magento 2 Easy Template Path Hints](https://github.com/MagePsycho/magento2-easy-template-path-hints) - Magento 2 module to enable the template path hints on the fly just by using query strings.
 * [Magento2 Flysystem](https://github.com/flagbit/Magento2-Flysystem) - Integrate Flysystem for local and remote filesystems into Magento2.
+* [Magento 2 Grid Colors](https://github.com/shkoliar/magento-grid-colors) - Adds extra coloring features to admin grids
 * [Magento 2 Interceptor classes generator](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 * [Magento 2 removal of all optional modules](https://github.com/yireo/magento2-replace-all) - A composer meta-package that removes numerous Magento 2 modules
 * [Magento 2 – Cloudflare](https://github.com/jetrails/magento2-cloudflare) - Interact with popular Cloudflare features through Magento 2's backend portal.
@@ -380,6 +384,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Timon de Groot](https://blog.timpack.org/)
 * [Visiture](https://www.visiture.com/blog/category/magento-2/)
 * [Yireo Blog](https://www.yireo.com/blog)
+
+### French
+* [Agence DnD](https://www.dnd.fr/categorie/blog/magento-2/)
 
 ### German
 * [Christian Münch](https://muench.dev/)

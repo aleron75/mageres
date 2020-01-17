@@ -86,6 +86,8 @@ Tools,Free,Magento Release Diffs,https://github.com/gravitydepartment/magento-re
 Tools,Free,integer-net Anonymizer,https://github.com/integer-net/Anonymizer,Anonymizes Magento Customer and Order data for Magento 1
 Tools,Free,baler,https://github.com/magento/baler,AMD module bundler and preloader for Magento 2 stores
 Tools,Free,Magento 2 - composer patches helper,https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB,Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
+Tools,Free,The Installer,https://github.com/jacquesbh/installer,PHP command line tool for Magento extension development and scaffolding
+Tools,Free,ExtDN Installer for Magento 2 modules,https://github.com/extdn/installer-m2,Universal extension installer for Magento 2
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -185,6 +187,8 @@ Extensions,Magento 2,elgentos Large Config Products,https://github.com/elgentos/
 Extensions,Magento 2,Dutchento VAT Fallback,https://github.com/dutchento/m2-vatfallback,Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
 Extensions,Magento 2,elgentos Prismic.io,https://github.com/elgentos/magento2-prismicio,Extension to integrate headless CMS Prismic.io into Magento 2
 Extensions,Magento 2,Mage2Dark,https://mage2dark.net/,Magento 2 Dark Theme for Admin Panel
+Extensions,Magento 2,Clean Admin Menu,https://github.com/redchamps/clean-admin-menu,Merge all 3rd party extensions menu items in a common menu item
+Extensions,Magento 2,Magento 2 Grid Colors,https://github.com/shkoliar/magento-grid-colors,Adds extra coloring features to admin grids
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -301,6 +305,7 @@ Blogs,Spanish,Damian Culotta,https://www.damianculotta.com.ar/,
 Blogs,German,Matthias Zeis,https://www.matthias-zeis.com/magento-2,
 Blogs,German,Christian Münch,https://muench.dev/,
 Blogs,German,Macluster,https://maxcluster.de/blog/category:Magento,
+Blogs,French,Agence DnD,https://www.dnd.fr/categorie/blog/magento-2/,
 Quickies & Tutorials,,E-commerce Gorilla,http://www.ecommercegorilla.com/category/magento-e-commerce-platform/,
 Quickies & Tutorials,,Fishpig's Magento Tutorials,http://fishpig.co.uk/magento/tutorials/,
 Quickies & Tutorials,,Magento: The Right Way,https://magentotherightway.com/,
