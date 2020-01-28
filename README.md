@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![412 resources](https://img.shields.io/badge/resources-412-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![414 resources](https://img.shields.io/badge/resources-414-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -149,6 +149,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento PhpStorm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
 * [Magento Release Diffs](https://github.com/gravitydepartment/magento-release-diffs) - Useful release diffs for Magento 1 (without copyright changes).
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
+* [Magento utilities Tap for Homebrew](https://github.com/fballiano/homebrew-mageutils)
 * [Mage Scan](https://github.com/steverobbins/magescan) - Scan a Magento site for information
 * [MageSuite](https://magesuite.io/) - A collection of OpenSource modules that enhance several Magento 2 capabilities (CMS, Performance, Security, Search, Marketin, UX)
 * [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker/anonymizer tool
@@ -241,6 +242,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
 * [Magento 2 Bash Install/Restore Script](https://github.com/yvoronoy/m2install) - A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
 * [Magento 2 Cache Clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop-in replacement for bin/magento cache:clean with a file watcher
+* [Magento 2 CORS](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on GraphQL and REST APIs
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
 * [Magento 2 Debug Helper](https://github.com/shkoliar/magento-debug-helper) - Automatic breakpoints on PhpStorm based on search parameters.
 * [Magento2 Defer Javascripts](https://github.com/fballiano/magento2-defer-javascripts) - Defer Javascripts module for Magento 2
@@ -444,6 +446,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Ecommerce Forest by Rebecca Brocton](https://www.youtube.com/c/rebeccabrocton) - YouTube channel for fun & helpful Magento videos
 * [JetRails](https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg) - YouTube Channel by JetRails
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
+* [Live Magento #CoreReview](http://magento.wtf/) - Lukasz Bajsarowicz’s Magento live core code review
 * [Load In The Loop](https://youtube.com/channel/UC7mcoC5hdn2yekrBUl9h8pQ) - Magento Performance Podcast
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
@@ -505,7 +508,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Firegento Composer Repository](http://packages.firegento.com/) - Magento Module Composer Repository
 * [Magento Marketplace](https://marketplace.magento.com/) - The new Magento extension marketplace
 * [Packagento](https://packagento.com/) - A curated list of open-source Magento 2 modules
-* [Xtension Galaxy](https://xtensiongalaxy.com/) - The only Magento Extension Platform that allows you to create a full demo store on your exact version of Magento to fully try any extension before buying it
 
 ## Dev boxes
 

@@ -88,6 +88,7 @@ Tools,Free,baler,https://github.com/magento/baler,AMD module bundler and preload
 Tools,Free,Magento 2 - composer patches helper,https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB,Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
 Tools,Free,The Installer,https://github.com/jacquesbh/installer,PHP command line tool for Magento extension development and scaffolding
 Tools,Free,ExtDN Installer for Magento 2 modules,https://github.com/extdn/installer-m2,Universal extension installer for Magento 2
+Tools,Free,Magento utilities Tap for Homebrew,https://github.com/fballiano/homebrew-mageutils,
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -189,6 +190,7 @@ Extensions,Magento 2,elgentos Prismic.io,https://github.com/elgentos/magento2-pr
 Extensions,Magento 2,Mage2Dark,https://mage2dark.net/,Magento 2 Dark Theme for Admin Panel
 Extensions,Magento 2,Clean Admin Menu,https://github.com/redchamps/clean-admin-menu,Merge all 3rd party extensions menu items in a common menu item
 Extensions,Magento 2,Magento 2 Grid Colors,https://github.com/shkoliar/magento-grid-colors,Adds extra coloring features to admin grids
+Extensions,Magento 2,Magento 2 CORS,https://github.com/graycoreio/magento2-cors,Enables configurable CORS Headers on GraphQL and REST APIs
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -344,6 +346,7 @@ Screencasts,,Mage Engage,https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1Z
 Screencasts,,JetRails,https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg,YouTube Channel by JetRails
 Screencasts,,SwiftOtter,https://www.youtube.com/channel/UCD4FUoiuDt2UWhyOKiZm6rQ,YouTube Channel by SwiftOtter
 Screencasts,,Load In The Loop,https://youtube.com/channel/UC7mcoC5hdn2yekrBUl9h8pQ,Magento Performance Podcast
+Screencasts,,Live Magento #CoreReview,http://magento.wtf/,Lukasz Bajsarowicz’s Magento live core code review
 Communities,Online,Commerce Hero,https://commercehero.io,Good Magento Developers at your fingertips
 Communities,Online,Magento Forum,http://www.magentocommerce.com/boards/,"The ""brand new"" Magento forum"
 Communities,Online,Magento Stack Exchange,http://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform
@@ -375,7 +378,6 @@ Events,Meetups,All official Magento Meetups around the World,http://www.meetup.c
 Events,Competitions,MageDerby,https://magederby.com,The first international webshop development competition
 Module Repositories & Marketplaces,,Magento Marketplace,https://marketplace.magento.com/,The new Magento extension marketplace
 Module Repositories & Marketplaces,,Firegento Composer Repository,http://packages.firegento.com/,Magento Module Composer Repository
-Module Repositories & Marketplaces,,Xtension Galaxy,https://xtensiongalaxy.com/,The only Magento Extension Platform that allows you to create a full demo store on your exact version of Magento to fully try any extension before buying it
 Module Repositories & Marketplaces,,Packagento,https://packagento.com/,A curated list of open-source Magento 2 modules
 Dev boxes,Docker,Alan Kent's Docker image,https://hub.docker.com/r/alankent/gsd/,"Docker image for use with the book series ""Getting Stuff Done with Magento 2"""
 Dev boxes,Docker,Docker Hub by Mage Inferno,https://hub.docker.com/u/mageinferno/,Magento 2 Docker containers by Mage Inferno
