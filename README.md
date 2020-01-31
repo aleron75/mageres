@@ -448,12 +448,12 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
 * [Live Magento #CoreReview](http://magento.wtf/) - Lukasz Bajsarowicz’s Magento live core code review
 * [Load In The Loop](https://youtube.com/channel/UC7mcoC5hdn2yekrBUl9h8pQ) - Magento Performance Podcast
+* [M.academy](https://m.academy/) - Learn the basics of Magento 2 programming & architecture
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 * [Mage2Katas](http://www.mage2katas.com) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
 * [MageMinute](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Magento News & Discussions from Jamersan
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
-* [Mark Shust’s ](https://m.academy/) - Level Up Your Magento 2 Skills
 * [Matheus Gontijo](https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ) - Matheus Gontijo’s YouTube channel
 * [SwiftOtter](https://www.youtube.com/channel/UCD4FUoiuDt2UWhyOKiZm6rQ) - YouTube Channel by SwiftOtter
 
