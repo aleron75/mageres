@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![416 resources](https://img.shields.io/badge/resources-416-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![417 resources](https://img.shields.io/badge/resources-417-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -515,6 +515,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Docker
 * [Alan Kent's Docker image](https://hub.docker.com/r/alankent/gsd/) - Docker image for use with the book series "Getting Stuff Done with Magento 2"
+* [DDEV-Local](https://github.com/drud/ddev) - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
 * [Docker for Magento2](https://github.com/EmakinaFR/docker-magento2) - Environment for a Magento2 application using Docker.
 * [Docker Hub by Mage Inferno](https://hub.docker.com/u/mageinferno/) - Magento 2 Docker containers by Mage Inferno
 * [Dockerize Magento 2](https://github.com/tddwizard/magento2-dockerized) - Composer package for Docker test environment
