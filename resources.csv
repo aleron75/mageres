@@ -192,6 +192,8 @@ Extensions,Magento 2,Clean Admin Menu,https://github.com/redchamps/clean-admin-m
 Extensions,Magento 2,Magento 2 Grid Colors,https://github.com/shkoliar/magento-grid-colors,Adds extra coloring features to admin grids
 Extensions,Magento 2,Magento 2 CORS,https://github.com/graycoreio/magento2-cors,Enables configurable CORS Headers on GraphQL and REST APIs
 Extensions,Magento 2,Lightspeed for Lighthouse optimizations,https://github.com/elgentos/magento2-lightspeed,This module defines several sections where you can define common feedback from Google Lighthouse.
+Extensions,Magento 2,Magento 2 Private Packagist Integration,https://packagist.org/packages/wizkunde/magento2-packagist,Connect your Magento 2 webshop to private packagist and distribute extensions to your customer smarter
+
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -302,6 +304,7 @@ Blogs,English,Dave Macaulay,https://davemacaulay.com/blog/,
 Blogs,English,Elogic,https://elogic.co/blog/,
 Blogs,English,Rohan Hapani,https://www.rohanhapani.com/category/magento/magento-2/,
 Blogs,English,Visiture,https://www.visiture.com/blog/category/magento-2/,
+Blogs,English,Wizkunde,https://wizkunde.nl/blog/,
 Blogs,Japanese,Principleworks,https://principle-works.jp/blog,
 Blogs,Portuguese,Magenteiro,https://www.magenteiro.com/blog/,
 Blogs,Spanish,Damian Culotta,https://www.damianculotta.com.ar/,
@@ -404,6 +407,7 @@ Dev boxes,Docker,Docker for Magento2,https://github.com/EmakinaFR/docker-magento
 Dev boxes,Docker,Dockerize Magento 2,https://github.com/tddwizard/magento2-dockerized,Composer package for Docker test environment
 Dev boxes,Docker,Mage2click Docker Magento,https://github.com/mage2click/m2c,Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 Dev boxes,Docker,DDEV-Local,https://github.com/drud/ddev,"Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2."
+Dev boxes, Docker, Magento 2 MEQP with Docker, https://hub.docker.com/r/wizkunde/docker-meqp, Use docker to automatically test your extensions with MEQP, usable with CI tools like CircleCI
 Dev boxes,Kubernetes,Magento 2 Kubernetes DevBox,https://github.com/magento/magento2-kubernetes-devbox,"DevBox supporting multi-service deployment in one click, optimized for development scenarios using the local environment."
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 Dev boxes,Vagrant,Development Environment,https://github.com/davidalger/devenv,Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts

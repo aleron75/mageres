@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![419 resources](https://img.shields.io/badge/resources-419-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![423 resources](https://img.shields.io/badge/resources-423-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -24,6 +24,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Tools](#tools)
 * [Security](#security)
 * [Extensions](#extensions)
+* [](#)
 * [Testing](#testing)
 * [PWA](#pwa)
 * [Blogs](#blogs)
@@ -252,6 +253,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento2 Flysystem](https://github.com/flagbit/Magento2-Flysystem) - Integrate Flysystem for local and remote filesystems into Magento2.
 * [Magento 2 Grid Colors](https://github.com/shkoliar/magento-grid-colors) - Adds extra coloring features to admin grids
 * [Magento 2 Interceptor classes generator](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
+* [Magento 2 Private Packagist Integration](https://packagist.org/packages/wizkunde/magento2-packagist) - Connect your Magento 2 webshop to private packagist and distribute extensions to your customer smarter
 * [Magento 2 removal of all optional modules](https://github.com/yireo/magento2-replace-all) - A composer meta-package that removes numerous Magento 2 modules
 * [Magento 2 – Cloudflare](https://github.com/jetrails/magento2-cloudflare) - Interact with popular Cloudflare features through Magento 2's backend portal.
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
@@ -266,6 +268,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
 * [Yireo’s Common ViewModels](https://github.com/yireo/Yireo_CommonViewModels) - Common ViewModels for usage in Magento 2.2.1+ frontends.
+
+## 
+* []()
 
 ## Testing
 
@@ -386,6 +391,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Tiago Sampaio](https://tiagosampaio.com/)
 * [Timon de Groot](https://blog.timpack.org/)
 * [Visiture](https://www.visiture.com/blog/category/magento-2/)
+* [Wizkunde](https://wizkunde.nl/blog/)
 * [Yireo Blog](https://www.yireo.com/blog)
 
 ### French
@@ -514,6 +520,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Packagento](https://packagento.com/) - A curated list of open-source Magento 2 modules
 
 ## Dev boxes
+
+###  Docker
+* [ Magento 2 MEQP with Docker]( https://hub.docker.com/r/wizkunde/docker-meqp) -  Use docker to automatically test your extensions with MEQP
 
 ### Docker
 * [Alan Kent's Docker image](https://hub.docker.com/r/alankent/gsd/) - Docker image for use with the book series "Getting Stuff Done with Magento 2"
