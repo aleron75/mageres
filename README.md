@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![423 resources](https://img.shields.io/badge/resources-423-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![422 resources](https://img.shields.io/badge/resources-422-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -24,7 +24,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Tools](#tools)
 * [Security](#security)
 * [Extensions](#extensions)
-* [](#)
 * [Testing](#testing)
 * [PWA](#pwa)
 * [Blogs](#blogs)
@@ -268,9 +267,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
 * [Yireo’s Common ViewModels](https://github.com/yireo/Yireo_CommonViewModels) - Common ViewModels for usage in Magento 2.2.1+ frontends.
-
-## 
-* []()
 
 ## Testing
 
