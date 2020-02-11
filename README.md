@@ -521,9 +521,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Dev boxes
 
-###  Docker
-* [ Magento 2 MEQP with Docker]( https://hub.docker.com/r/wizkunde/docker-meqp) -  Use docker to automatically test your extensions with MEQP
-
 ### Docker
 * [Alan Kent's Docker image](https://hub.docker.com/r/alankent/gsd/) - Docker image for use with the book series "Getting Stuff Done with Magento 2"
 * [DDEV-Local](https://github.com/drud/ddev) - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
@@ -539,6 +536,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Dockergento](https://github.com/ModestCoders/magento2-dockergento) - Magento 2 docker setup for development optimized for Mac
 * [Magento 2 Docker image](https://hub.docker.com/r/chadrien/magento2)
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) - Docker image optimized to develop on Mac, Windows, and Linux
+* [Magento 2 MEQP with Docker]( https://hub.docker.com/r/wizkunde/docker-meqp) - Use docker to automatically test your extensions with MEQP
 * [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager running easily in just one build/run
 * [Magento Cloud Docker](https://github.com/magento/magento-cloud-docker) - A collection of build configurations for Magento Cloud Docker images
 * [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) - Magento 1 & 2 support on Linux and Mac
