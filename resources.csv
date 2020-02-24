@@ -197,7 +197,7 @@ Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpiani
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
 Testing,Magento 1,xtest,https://github.com/code-x/magento-xtest,Simple Magento Testing Framework
-Testing,Magento 2,TddWizard Fixture library,https://github.com/tddwizard/magento2-fixtures/blob/master/README.md,An alternative to the procedural script-based fixtures in Magento 2 integration tests.
+Testing,Magento 2,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler 
 Testing,Magento 2,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,Magento 2,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
 PWA,,PWA Studio,https://github.com/magento-research/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.

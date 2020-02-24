@@ -278,7 +278,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Magento 2
 * [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) - Boots up the integration test framework in less than 300ms when caches are primed.
-* [TddWizard Fixture library](https://github.com/tddwizard/magento2-fixtures/blob/master/README.md) - An alternative to the procedural script-based fixtures in Magento 2 integration tests.
+* [Tdd Wizard Repository](https://github.com/tddwizard) - A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler 
 * [Yireo Codeception utilities for Magento 2](https://github.com/yireo/magento2-codeception-utilities) - A package containing utilities for using Codeception in Magento 2.
 
 ## PWA
