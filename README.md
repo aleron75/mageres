@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![424 resources](https://img.shields.io/badge/resources-424-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![421 resources](https://img.shields.io/badge/resources-421-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -67,7 +67,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Community Resources](https://devdocs.magento.com/community/resources/resources.html) - Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics.
 * [Fooman Magento Mirror](https://repo-magento-mirror.fooman.co.nz/) - An alternative authentication free Magento 2 mirror
 * [GravDept’s Magento 2 Manuals](https://manuals.gravitydept.com/frameworks/magento-2)
-* [How to maximize omnichannel with Multi-Source Inventory](https://www.strix.net/fileadmin/user_upload/MSI_Magento_UK_guide_.pdf) - Everything you need to know about MSI from Magento
 * [Mage Mastery](https://magemastery.net/) - Learning resources for Magento 2 developers
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 * [The Magento Guidebook: 2019 Edition](https://jetrails.com/blog/the-magento-terms-glossary-guide/) - A Glossary of Magento Terms and Phrases
@@ -108,7 +107,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Guida allo sviluppo](https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
 * [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/web-development/magento-2-theme-design-second-edition) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
 * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
-* [Mastering Magento PHP Development](https://www.packtpub.com/web-development/mastering-magento-php-development) - A book that teaches you the concepts and immediately shows you how to implement them.; by Ryan Street, February 2017
 
 ## Performance
 * [Blackfire.io](https://blackfire.io) - Commercial code profiler (free tier available) which provides Magento-specific metrics and recommendations
@@ -286,7 +284,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
-* [NeoStorefront](https://www.neostorefront.com/) - Static PWA Storefront for Magento
 * [PWA Studio](https://github.com/magento-research/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 * [PWA Studio Stats](https://pwastudio-stats.com/) - A list of PWA webshops built with Magento's PWA Studio
 * [ScandiPWA](https://github.com/scandipwa) - Progressive Web App for Magento by ScandiWeb

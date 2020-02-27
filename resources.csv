@@ -17,7 +17,6 @@ Other Resources,Magento 2,Awesome Magento 2,https://github.com/DavidLambauer/awe
 Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
 Other Resources,Magento 2,MageQuest,https://magequest.io/,An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 Other Resources,Magento 2,GravDept’s Magento 2 Manuals,https://manuals.gravitydept.com/frameworks/magento-2,
-Other Resources,Magento 2,How to maximize omnichannel with Multi-Source Inventory,https://www.strix.net/fileadmin/user_upload/MSI_Magento_UK_guide_.pdf,Everything you need to know about MSI from Magento
 Other Resources,Magento 2,Mage Mastery,https://magemastery.net/,Learning resources for Magento 2 developers
 Other Resources,Magento 2,The Magento Guidebook: 2019 Edition,https://jetrails.com/blog/the-magento-terms-glossary-guide/,A Glossary of Magento Terms and Phrases
 Other Resources,Magento 1,GravDept’s Magento 1 Manuals,https://manuals.gravitydept.com/frameworks/magento-1,
@@ -45,7 +44,6 @@ Books,Magento 2,Magento 2 Development Cookbook,https://www.packtpub.com/web-deve
 Books,Magento 2,Magento 2 Development Essentials,https://www.packtpub.com/web-development/magento-2-development-essentials,"A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016"
 Books,Magento 2,Magento 2 DIY. The Complete Guide,https://leanpub.com/magento2diy,"An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016"
 Books,Magento 2,Magento 2 Extensions Development,https://www.packtpub.com/web-development/magento-extensions-development,"A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016"
-Books,Magento 2,Mastering Magento PHP Development,https://www.packtpub.com/web-development/mastering-magento-php-development,"A book that teaches you the concepts and immediately shows you how to implement them.; by Ryan Street, February 2017"
 Books,Magento 2,Mastering Magento 2 - Second Edition,https://www.packtpub.com/web-development/mastering-magento-2-second-edition,"This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016"
 Books,Magento 2,Magento 2 Beginners Guide,https://www.packtpub.com/web-development/magento-2-beginners-guide,"An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017"
 Books,Magento 2,Magento 2 Theme Design – Second Edition,https://www.packtpub.com/web-development/magento-2-theme-design-second-edition,"A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016"
@@ -206,7 +204,6 @@ PWA,,Vue Storefront,https://github.com/DivanteLtd/vue-storefront,"A standalone P
 PWA,,Fallback Studio,https://github.com/Jordaneisenburger/fallback-studio,Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 PWA,,ScandiPWA,https://github.com/scandipwa,Progressive Web App for Magento by ScandiWeb
 PWA,,GravDept’s PWA Studio Manuals,https://manuals.gravitydept.com/frameworks/magento-pwa-studio,
-PWA,,NeoStorefront,https://www.neostorefront.com/,Static PWA Storefront for Magento
 PWA,,Integer_Net ReactApp,https://github.com/integer-net/magento2-reactapp,A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
 PWA,,PWA Studio Stats,https://pwastudio-stats.com/,A list of PWA webshops built with Magento's PWA Studio
 Blogs,English,Magenable,https://magenable.com.au/category/magento-ecommerce/,
