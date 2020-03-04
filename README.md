@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![421 resources](https://img.shields.io/badge/resources-421-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![422 resources](https://img.shields.io/badge/resources-422-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -172,6 +172,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Patches](https://github.com/brentwpeterson/magento-patches) - As many Magento patches as Brent Peterson can find!
 * [Magento Security Center](http://magento.com/security/) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
 * [Magento Security Checklist](https://github.com/talesh/magento-security-checklist) - A Magento community-sourced security pre-flight checklist.
+* [Magento Security Resources](https://github.com/gwillem/magento-security-resources) - Crowd-sourced resources to help merchants mitigate and prevent Magento security incidents.
 * [Magento Security Scan Tool](https://account.magento.com/scanner/) - Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account).
 * [Magento SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Must-have tool to apply SUPEE-6788 patch
 * [Magento Vulnerability Database](https://github.com/gwillem/magevulndb) - Central repository for third party Magento 1 extensions with known security issues.
