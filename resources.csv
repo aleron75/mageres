@@ -87,6 +87,7 @@ Tools,Free,Magento 2 - composer patches helper,https://chrome.google.com/webstor
 Tools,Free,The Installer,https://github.com/jacquesbh/installer,PHP command line tool for Magento extension development and scaffolding
 Tools,Free,ExtDN Installer for Magento 2 modules,https://github.com/extdn/installer-m2,Universal extension installer for Magento 2
 Tools,Free,Magento utilities Tap for Homebrew,https://github.com/fballiano/homebrew-mageutils,
+Tools,Free,MageDIAnalyzer,https://github.com/roma-glushko/mage-di-analyzer,A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -193,6 +194,7 @@ Extensions,Magento 2,Magento 2 CORS,https://github.com/graycoreio/magento2-cors,
 Extensions,Magento 2,Lightspeed for Lighthouse optimizations,https://github.com/elgentos/magento2-lightspeed,This module defines several sections where you can define common feedback from Google Lighthouse.
 Extensions,Magento 2,Magento 2 Private Packagist Integration,https://packagist.org/packages/wizkunde/magento2-packagist,Connect your Magento 2 webshop to private packagist and distribute extensions to your customer smarter
 Extensions,Magento 2,Add an order comments field in the default checkout for Magento 2,https://github.com/boldcommerce/magento2-ordercomments,Add an order comments field in the default checkout for Magento 2.
+Extensions,Magento 2,UMC CRUD for Magento 2,https://github.com/UltimateModuleCreator/umc-crud,A module intended to reduce the boilerplate code when creating a CRUD extension.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -304,6 +306,8 @@ Blogs,English,Rohan Hapani,https://www.rohanhapani.com/category/magento/magento-
 Blogs,English,Visiture,https://www.visiture.com/blog/category/magento-2/,
 Blogs,English,Wizkunde,https://wizkunde.nl/blog/,
 Blogs,English,Lars Roettig,https://larsroettig.dev/,
+Blogs,English,Cadence Labs,https://www.cadence-labs.com/category/magento/magento-2/,
+Blogs,English,Mobecls,https://mobecls.com/e-commerce-tips/,
 Blogs,Japanese,Principleworks,https://principle-works.jp/blog,
 Blogs,Portuguese,Magenteiro,https://www.magenteiro.com/blog/,
 Blogs,Spanish,Damian Culotta,https://www.damianculotta.com.ar/,
@@ -328,6 +332,7 @@ Quickies & Tutorials,,Magento Postman repository,https://github.com/nuzil/magent
 Quickies & Tutorials,,Magento 2 JavaScript CheatSheet,https://jason.codes/2019/08/magento-2-javascript-cheatsheet/,A quick go-to reference to see the different ways of handling JavaScript.
 Quickies & Tutorials,,Magento Module LarsRoettig_GraphQLStorePickup,https://github.com/larsroettig/module-graphqlstorepickup,Example of how to create a GraphQL Endpoint for Magento 2.3
 Quickies & Tutorials,,Magento 2 Tutorials,https://www.mag-manager.com/magento-2-tutorials/,Easy to follow guides that will help you dive into Magento 2 specifics and familiarize yourself with basic concepts.
+Quickies & Tutorials,,m2.tips,https://m2.tips/,Lukasz Bajsarowicz’s space focused on Magento 2 contribution and code review.
 Podcasts,English,The JetRails Podcast,https://jetrails.com/blog/announcing-the-jetrails-podcast-for-the-ecommerce-community/,The JetRails Podcast for the Ecommerce Community
 Podcasts,English,MageTalk,http://magetalk.com/,A Magento Podcast
 Podcasts,German,Magento Podcast DE,http://magentopodcast.de/,German-language podcast (ended 2012)
