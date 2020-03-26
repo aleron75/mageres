@@ -88,6 +88,7 @@ Tools,Free,The Installer,https://github.com/jacquesbh/installer,PHP command line
 Tools,Free,ExtDN Installer for Magento 2 modules,https://github.com/extdn/installer-m2,Universal extension installer for Magento 2
 Tools,Free,Magento utilities Tap for Homebrew,https://github.com/fballiano/homebrew-mageutils,
 Tools,Free,MageDIAnalyzer,https://github.com/roma-glushko/mage-di-analyzer,A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
+Tools,Free,netz98 magerun2 addons by Elgentos,https://github.com/elgentos/magerun2-addons,Some additional commands for the excellent m98-magerun2 Magento 2 command-line tool.
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
