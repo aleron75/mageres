@@ -158,7 +158,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
 * [Oh My ZSH Plugin - Magento 2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) - Magento 2 autocomplete plugin for oh-my-zsh
 * [Optimize Composer for Magento 2 projects](https://github.com/fooman/composer-magento2-optimizations) - A composer-plugin that contains a set of improvements that makes running heavy-duty composer commands (i.e. composer update or composer require) much faster.
-* [PHPStorm Live Templates for Magento 2 by Mark Shust](https://github.com/markshust/z%20-magento-live-templates) - Magento 2 live templates for PHPStorm that help speed up the development process.
+* [PHPStorm Live Templates for Magento 2 by Mark Shust](https://github.com/markshust/phpstorm-magento-live-templates) - Magento 2 live templates for PHPStorm that help speed up the development process.
 * [PHPStorm Live Templates for Magento 2 by Nathan McBride](https://github.com/brideo/phpstorm-live-templates-magento-2) - A bunch of Magento 2 Live Templates for PHPStorm
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
 * [The Installer](https://github.com/jacquesbh/installer) - PHP command line tool for Magento extension development and scaffolding
