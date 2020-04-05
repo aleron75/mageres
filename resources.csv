@@ -202,6 +202,7 @@ Extensions,Magento 2,UMC CRUD for Magento 2,https://github.com/UltimateModuleCre
 Extensions,Magento 2,Marketplace,https://github.com/swissup/module-marketplace,Magento modules and themes CLI/GUI downloader and installer
 Extensions,Magento 2,Admin Activity,https://github.com/kiwicommerce/magento2-admin-activity,"Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them."
 Extensions,Magento 2,Magento 2 Nostalgia Admin Theme,https://github.com/magespices/mage2nostalgia,"A brand new, compact and eye friendly admin theme, inspired by Magento 1."
+Extensions,Magento 2,Extension for Cookie SameSite attribute,https://github.com/Veriteworks/CookieFix,This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
