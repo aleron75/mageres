@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![433 resources](https://img.shields.io/badge/resources-433-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![434 resources](https://img.shields.io/badge/resources-434-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -114,6 +114,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
 * [Magento default MySql settings](https://github.com/magenx/Magento-mysql) - Default/startup settings for MySql database.
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
+* [Magepack](https://www.npmjs.com/package/magepack) - Easy-to-use tool for making Magento 2 frontend as fast as never before. 
 
 ## Tools
 
