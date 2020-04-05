@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![437 resources](https://img.shields.io/badge/resources-437-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![438 resources](https://img.shields.io/badge/resources-438-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -185,6 +185,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Mage Security Council](https://magesec.org) - The Mage Security Council promotes and facilitates secure Magento stores globally.
 * [Mage Security Patcher](https://github.com/magesec/magesecuritypatcher) - An effective alternative to the standard Magento patches.
+* [Nexcess Safe Harbor](https://www.nexcess.net/nexcess-magento-1-safe-harbor/) - Safe Harbor provides malware detection and threat monitoring for your store after Magento 1 reaches End of Life.
 * [Philwinkle_AppliedPatches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - Useful extension to see a list of all applied patches from within the Magento admin panel
 * [Security.txt](https://github.com/kalpmehta/securitytxt) - Security.txt for Magento 2 websites
 
