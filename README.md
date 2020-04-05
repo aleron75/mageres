@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![438 resources](https://img.shields.io/badge/resources-438-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![436 resources](https://img.shields.io/badge/resources-436-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -146,7 +146,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
-* [Magento PhpStorm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
 * [Magento Release Diffs](https://github.com/gravitydepartment/magento-release-diffs) - Useful release diffs for Magento 1 (without copyright changes).
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 * [Magento utilities Tap for Homebrew](https://github.com/fballiano/homebrew-mageutils)
@@ -161,7 +160,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Optimize Composer for Magento 2 projects](https://github.com/fooman/composer-magento2-optimizations) - A composer-plugin that contains a set of improvements that makes running heavy-duty composer commands (i.e. composer update or composer require) much faster.
 * [PHPStorm Live Templates for Magento 2 by Mark Shust](https://github.com/markshust/phpstorm-magento-live-templates) - Magento 2 live templates for PHPStorm that help speed up the development process.
 * [PHPStorm Live Templates for Magento 2 by Nathan McBride](https://github.com/brideo/phpstorm-live-templates-magento-2) - A bunch of Magento 2 Live Templates for PHPStorm
-* [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
+* [PhpStorm Magento 2 Plugin](https://github.com/magento/magento2-phpstorm-plugin) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
 * [The Installer](https://github.com/jacquesbh/installer) - PHP command line tool for Magento extension development and scaffolding
 * [Vaimo Composer Patches](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
 * [Visual Studio Code startup task for cache-clean.js on Magento 2.](https://gist.github.com/jrosell/f062e5be7468f620ab7c78a45ea9729e) - A useful gist to add a startup task to automate the Magento 2 Cache Clean process.
@@ -519,7 +518,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.
 * [Mage Titans](http://www.magetitans.com/) - A non-profit event for Magento developers in NL
 * [Mage Unconference](http://www.mageunconference.org/) - A unique Magento community event
-* [MageX](https://www.magex.us/) - Formerly knows as MageTitans Austin, the same commitment, expanded content.
 * [Meet Magento](http://www.meet-magento.com/) - Meet Magento events website
 * [Reacticon](https://reacticon.org/) - The Magento Frontend Development Conference
 
