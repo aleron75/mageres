@@ -114,7 +114,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageMeter](http://www.magemeter.com/) - Magento Benchmarks metered using official Magento Performance Toolkit
 * [Magento default MySql settings](https://github.com/magenx/Magento-mysql) - Default/startup settings for MySql database.
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
-* [Magepack](https://www.npmjs.com/package/magepack) - Easy-to-use tool for making Magento 2 frontend as fast as never before. 
+* [Magepack](https://github.com/magesuite/magepack) - Easy-to-use tool for making Magento 2 frontend as fast as never before. 
 
 ## Tools
 
