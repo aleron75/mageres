@@ -238,7 +238,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [ElasticSuite for Magento 2 ](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
 * [elgentos Large Config Products](https://github.com/elgentos/LargeConfigProducts) - Workaround extension to work with extremely large configurable products (5000+ skus)
 * [elgentos Prismic.io](https://github.com/elgentos/magento2-prismicio) - Extension to integrate headless CMS Prismic.io into Magento 2
-* [elgentos Regenerate Catalog URLs](https://github.com/elgentos/regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
 * [Elgento’s Regenerate Catalog URLs](https://github.com/elgentos/regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
 * [Extension Dashboard](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions.
 * [Extension for Cookie SameSite attribute](https://github.com/Veriteworks/CookieFix) - This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
@@ -273,6 +272,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MSP_SMTP](https://github.com/magespecialist/m2-MSP_SMTP) - MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
 * [MX Phinx Migrations](https://github.com/inviqa/MX_PhinxMigrations) - Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments.
 * [N98_Guillotine](https://github.com/netz98/headless-guillotine) - A simple but useful module to disable frontend requests to implement a headless approach.
+* [Shkoliar GridColors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks.
 * [Siment_HttpHeaderThemeSwitch](https://github.com/siment/magento2-http-header-theme-switch) - Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
 * [UMC CRUD for Magento 2](https://github.com/UltimateModuleCreator/umc-crud) - A module intended to reduce the boilerplate code when creating a CRUD extension.
 * [Yireo DevHacks](https://github.com/yireo/Yireo_DevHacks) - Magento 2 module with various hacks and solutions for custom development
