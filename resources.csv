@@ -189,7 +189,6 @@ Extensions,Magento 2,Customer Group Payments,https://github.com/smaex/customer-g
 Extensions,Magento 2,Magento2 Flysystem,https://github.com/flagbit/Magento2-Flysystem,Integrate Flysystem for local and remote filesystems into Magento2.
 Extensions,Magento 2,Magento 2 Debug Helper,https://github.com/shkoliar/magento-debug-helper,Automatic breakpoints on PhpStorm based on search parameters.
 Extensions,Magento 2,Galactic Labs - Customer Group Payment Filters,https://github.com/galacticlabs/customer-group-payment-filters,Magento 2 extension to exclude payment methods for selected customer groups.
-Extensions,Magento 2,elgentos Regenerate Catalog URLs,https://github.com/elgentos/regenerate-catalog-urls,Set of console commands to regenerate catalog URLs.
 Extensions,Magento 2,elgentos Large Config Products,https://github.com/elgentos/LargeConfigProducts,Workaround extension to work with extremely large configurable products (5000+ skus)
 Extensions,Magento 2,Dutchento VAT Fallback,https://github.com/dutchento/m2-vatfallback,Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
 Extensions,Magento 2,elgentos Prismic.io,https://github.com/elgentos/magento2-prismicio,Extension to integrate headless CMS Prismic.io into Magento 2
