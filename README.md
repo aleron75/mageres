@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![437 resources](https://img.shields.io/badge/resources-437-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![438 resources](https://img.shields.io/badge/resources-438-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -463,6 +463,8 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [The Devletter](https://www.maxpronko.com/blog/the-devletter) - Free weekly email digest by Max Pronko
 
 ## Screencasts
+
+### English
 * [eCommerceAholic](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Discussions about Magento eCommerce platform by TJ Gamble
 * [Ecommerce Forest by Rebecca Brocton](https://www.youtube.com/c/rebeccabrocton) - YouTube channel for fun & helpful Magento videos
 * [JetRails](https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg) - YouTube Channel by JetRails
@@ -477,6 +479,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
 * [Matheus Gontijo](https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ) - Matheus Gontijo’s YouTube channel
 * [SwiftOtter](https://www.youtube.com/channel/UCD4FUoiuDt2UWhyOKiZm6rQ) - YouTube Channel by SwiftOtter
+
+### Russian
+* [Макс Пронько](https://www.youtube.com/channel/UCB8LoPmC2MCVgohn_-gzU3A) - YouTube channel by Max Pronko on Magento 2 development and programming in general
 
 ## Communities
 
