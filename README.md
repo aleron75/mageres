@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![438 resources](https://img.shields.io/badge/resources-438-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![439 resources](https://img.shields.io/badge/resources-439-orange.svg?style=flat) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -248,6 +248,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
 * [Lightspeed for Lighthouse optimizations](https://github.com/elgentos/magento2-lightspeed) - This module defines several sections where you can define common feedback from Google Lighthouse.
 * [Mage2Dark](https://mage2dark.net/) - Magento 2 Dark Theme for Admin Panel
+* [MageKey AdcPopup](https://github.com/magekey/module-adc-popup) - Add to cart popup with upsell products
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) - This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
 * [Magenizr ResetUiBookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
