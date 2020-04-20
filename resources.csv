@@ -113,7 +113,6 @@ Security,,Magento Patches,https://github.com/brentwpeterson/magento-patches,As m
 Security,,Magento Vulnerability Database,https://github.com/gwillem/magevulndb,Central repository for third party Magento 1 extensions with known security issues.
 Security,,Magento Security Checklist,https://github.com/talesh/magento-security-checklist,A Magento community-sourced security pre-flight checklist.
 Security,,Security.txt,https://github.com/kalpmehta/securitytxt,Security.txt for Magento 2 websites
-Security,,Mage Security Council,https://magesec.org,The Mage Security Council promotes and facilitates secure Magento stores globally.
 Security,,MageDef,https://www.magedef.com/,Free resources to build more reliable and defensible eCommerce platforms and software.
 Security,,InvalidateAdminPasswords Extension,https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords,A tool by SomethingDigital to invalidate all Magento admin user passwords
 Security,,Magento 1 Content Security Policy (CSP) Enforcement Extension,https://github.com/netalico/magento-1-csp,A Magento 1 module to easily create and manage a Content Security Policy (CSP) 
