@@ -205,6 +205,7 @@ Extensions,Magento 2,Admin Activity,https://github.com/kiwicommerce/magento2-adm
 Extensions,Magento 2,Magento 2 Nostalgia Admin Theme,https://github.com/magespices/mage2nostalgia,"A brand new, compact and eye friendly admin theme, inspired by Magento 1."
 Extensions,Magento 2,Extension for Cookie SameSite attribute,https://github.com/Veriteworks/CookieFix,This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
 Extensions,Magento 2,Magenizr ResetUiBookmarks,https://github.com/magenizr/Magenizr_ResetUiBookmarks,"Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting"
+Extensions,Magento 2,MageKey AdcPopup,https://github.com/magekey/module-adc-popup,"Add to cart popup with upsell products"
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
