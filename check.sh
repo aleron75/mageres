@@ -1,5 +1,5 @@
 #!/bin/bash
-docker run -ti --rm -v /home/alessandro/Projects/mageres:/mnt:ro dkhamsing/awesome_bot \
+docker run -ti --rm -v $(pwd):/mnt:ro dkhamsing/awesome_bot \
 --allow-redirect \
 --allow-dupe \
 --skip-save-results \
