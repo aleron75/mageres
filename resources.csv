@@ -54,7 +54,7 @@ Performance,,MageMeter,http://www.magemeter.com/,Magento Benchmarks metered usin
 Performance,,Magento default MySql settings,https://github.com/magenx/Magento-mysql,Default/startup settings for MySql database.
 Performance,,Magento Speed Test,http://www.magespeedtest.com/,Magento Speed Test with Siege
 Performance,,Blackfire.io,https://blackfire.io,Commercial code profiler (free tier available) which provides Magento-specific metrics and recommendations
-Performance,,Magepack,https://github.com/magesuite/magepack,Easy-to-use tool for making Magento 2 frontend as fast as never before. 
+Performance,,Magepack,https://github.com/magesuite/magepack,Easy-to-use tool for making Magento 2 frontend as fast as never before.
 Tools,Free,Modman (Module Manager),https://github.com/colinmollenhour/modman,Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 Tools,Free,PhpStorm Magento 2 Plugin,https://github.com/magento/magento2-phpstorm-plugin,"Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2"
 Tools,Free,netz98 magerun CLI tools for Magento 1,https://github.com/netz98/n98-magerun,Provides some handy tools to work with Magento from the command line
@@ -115,7 +115,7 @@ Security,,Magento Security Checklist,https://github.com/talesh/magento-security-
 Security,,Security.txt,https://github.com/kalpmehta/securitytxt,Security.txt for Magento 2 websites
 Security,,MageDef,https://www.magedef.com/,Free resources to build more reliable and defensible eCommerce platforms and software.
 Security,,InvalidateAdminPasswords Extension,https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords,A tool by SomethingDigital to invalidate all Magento admin user passwords
-Security,,Magento 1 Content Security Policy (CSP) Enforcement Extension,https://github.com/netalico/magento-1-csp,A Magento 1 module to easily create and manage a Content Security Policy (CSP) 
+Security,,Magento 1 Content Security Policy (CSP) Enforcement Extension,https://github.com/netalico/magento-1-csp,A Magento 1 module to easily create and manage a Content Security Policy (CSP)
 Security,,Magento Security Resources,https://github.com/gwillem/magento-security-resources,Crowd-sourced resources to help merchants mitigate and prevent Magento security incidents.
 Security,,Nexcess Safe Harbor,https://www.nexcess.net/nexcess-magento-1-safe-harbor/,Safe Harbor provides malware detection and threat monitoring for your store after Magento 1 reaches End of Life.
 Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
@@ -155,7 +155,7 @@ Extensions,Magento 2,Danslo CleanCheckout,https://github.com/danslo/CleanCheckou
 Extensions,Magento 2,MageMojo cron project,https://github.com/magemojo/m2-ce-cron,"This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution."
 Extensions,Magento 2,MSP_SMTP,https://github.com/magespecialist/m2-MSP_SMTP,MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
 Extensions,Magento 2,Magento 2 SMTP by MagePal,https://github.com/magepal/magento2-gmail-smtp-app,"Configure Magento 2 to send email using custom SMTP server, Gmail, Amazon SES, Office365 and other"
-Extensions,Magento 2,ElasticSuite for Magento 2 ,https://github.com/Smile-SA/elasticsuite,A feature-rich merchandising suite for Magento 2.
+Extensions,Magento 2,ElasticSuite for Magento 2,https://github.com/Smile-SA/elasticsuite,A feature-rich merchandising suite for Magento 2.
 Extensions,Magento 2,Magento 2 bash completion,https://github.com/yvoronoy/magento2-bash-completion,This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
 Extensions,Magento 2,Magento 2 Bash Install/Restore Script,https://github.com/yvoronoy/m2install,A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
 Extensions,Magento 2,Magento 2 Cron Job Manager,https://github.com/Ethan3600/magento2-CronjobManager,A Cron Job Manager Module by Ethan Yehuda
@@ -209,7 +209,7 @@ Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpiani
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
 Testing,Magento 1,xtest,https://github.com/code-x/magento-xtest,Simple Magento Testing Framework
-Testing,Magento 2,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler 
+Testing,Magento 2,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 Testing,Magento 2,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,Magento 2,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
 PWA,,PWA Studio,https://github.com/magento-research/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
@@ -298,7 +298,7 @@ Blogs,English,Konstantin Gerasimov,https://www.goivvy.com/blog,
 Blogs,English,SwiftOtter,https://swiftotter.com/technical,
 Blogs,English,Qaisar Satti,http://blog.qaisarsatti.com/,
 Blogs,English,Rakesh Jesadiya,http://www.rakeshjesadiya.com/,
-Blogs,English,Chirag Dodia,http://www.codextblog.com ,
+Blogs,English,Chirag Dodia,http://www.codextblog.com,
 Blogs,English,Timon de Groot,https://blog.timpack.org/,
 Blogs,English,Tiago Sampaio,https://tiagosampaio.com/,
 Blogs,English,Max Chadwick,https://maxchadwick.xyz/blog/,
