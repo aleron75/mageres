@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![439 resources](https://img.shields.io/badge/resources-439-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![443 resources](https://img.shields.io/badge/resources-443-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -68,6 +68,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### Magento 1
 
 * [GravDept’s Magento 1 Manuals](https://manuals.gravitydept.com/frameworks/magento-1)
+* [Magento LTS](http://www.openmage.org/magento-lts/) - An archive of Magento 1 and community driven bug fixes
 
 ### Magento 2
 
@@ -143,6 +144,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Ampersand Magento2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper scripts to aid upgrading Magento 2 websites by detecting overrides
 * [baler](https://github.com/magento/baler) - AMD module bundler and preloader for Magento 2 stores
+* [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) - A Capistrano extension for Magento 2 deployments.
 * [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer - usage guide: https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit
 * [Database Anonymizer](https://github.com/mpchadwick/dbanon) - A run-anywhere, dependency-less database anonymizer.
 * [Divante Anonymizer](https://github.com/DivanteLtd/anonymizer) - Universal tool to create anonymized DBs
@@ -175,6 +177,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [PHPStorm Live Templates for Magento 2 by Mark Shust](https://github.com/markshust/phpstorm-magento-live-templates) - Magento 2 live templates for PHPStorm that help speed up the development process.
 * [PHPStorm Live Templates for Magento 2 by Nathan McBride](https://github.com/brideo/phpstorm-live-templates-magento-2) - A bunch of Magento 2 Live Templates for PHPStorm
 * [PhpStorm Magento 2 Plugin](https://github.com/magento/magento2-phpstorm-plugin) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
+* [SwiftOtter Magento CI Script System](https://github.com/SwiftOtter/MagentoCI) - Magento continuous integration bash scripts. Makes deploying Magento easy.
 * [The Installer](https://github.com/jacquesbh/installer) - PHP command line tool for Magento extension development and scaffolding
 * [Vaimo Composer Patches](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
 * [Visual Studio Code startup task for cache-clean.js on Magento 2.](https://gist.github.com/jrosell/f062e5be7468f620ab7c78a45ea9729e) - A useful gist to add a startup task to automate the Magento 2 Cache Clean process.
@@ -460,6 +463,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 JavaScript CheatSheet](https://jason.codes/2019/08/magento-2-javascript-cheatsheet/) - A quick go-to reference to see the different ways of handling JavaScript.
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
 * [Magento 2 Tutorials](https://www.mag-manager.com/magento-2-tutorials/) - Easy to follow guides that will help you dive into Magento 2 specifics and familiarize yourself with basic concepts.
+* [Magento 2.3.x - List of all dispatched events](https://cyrillschumacher.com/magento-2.3-list-of-all-dispatched-events/) - A cheat sheet that lists all dispatched events in Magento 2.3.
 * [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Module LarsRoettig_GraphQLStorePickup](https://github.com/larsroettig/module-graphqlstorepickup) - Example of how to create a GraphQL Endpoint for Magento 2.3
 * [Magento Postman repository](https://github.com/nuzil/magento-postman/) - A storage of Postman collections for Magento

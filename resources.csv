@@ -20,6 +20,7 @@ Other Resources,Magento 2,GravDept’s Magento 2 Manuals,https://manuals.gravity
 Other Resources,Magento 2,Mage Mastery,https://magemastery.net/,Learning resources for Magento 2 developers
 Other Resources,Magento 2,The Magento Guidebook: 2019 Edition,https://jetrails.com/blog/the-magento-terms-glossary-guide/,A Glossary of Magento Terms and Phrases
 Other Resources,Magento 1,GravDept’s Magento 1 Manuals,https://manuals.gravitydept.com/frameworks/magento-1,
+Other Resources,Magento 1,Magento LTS,http://www.openmage.org/magento-lts/,An archive of Magento 1 and community driven bug fixes
 Certification,,Magento Certification,https://u.magento.com/certification,The catalog of all Magento certifications
 Certification,,M2 Certification Study Guides,https://github.com/df2k2/m2cert,Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
 Certification,,Magento 2 Certified Professional Developer notes,https://github.com/magento-notes/magento2-exam-notes,Preparation notes for Magento 2 Certified Professional Developer exam
@@ -92,6 +93,8 @@ Tools,Free,netz98 magerun2 addons by Elgentos,https://github.com/elgentos/mageru
 Tools,Free,PHPStorm Live Templates for Magento 2 by Nathan McBride,https://github.com/brideo/phpstorm-live-templates-magento-2,A bunch of Magento 2 Live Templates for PHPStorm
 Tools,Free,PHPStorm Live Templates for Magento 2 by Mark Shust,https://github.com/markshust/phpstorm-magento-live-templates,Magento 2 live templates for PHPStorm that help speed up the development process.
 Tools,Free,Visual Studio Code startup task for cache-clean.js on Magento 2.,https://gist.github.com/jrosell/f062e5be7468f620ab7c78a45ea9729e,A useful gist to add a startup task to automate the Magento 2 Cache Clean process.
+Tools,Free,Capistrano::Magento2,https://github.com/davidalger/capistrano-magento2,A Capistrano extension for Magento 2 deployments.
+Tools,Free,SwiftOtter Magento CI Script System,https://github.com/SwiftOtter/MagentoCI,Magento continuous integration bash scripts. Makes deploying Magento easy.
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -343,6 +346,7 @@ Quickies & Tutorials,,Magento Module LarsRoettig_GraphQLStorePickup,https://gith
 Quickies & Tutorials,,Magento 2 Tutorials,https://www.mag-manager.com/magento-2-tutorials/,Easy to follow guides that will help you dive into Magento 2 specifics and familiarize yourself with basic concepts.
 Quickies & Tutorials,,m2.tips,https://m2.tips/,Lukasz Bajsarowicz’s space focused on Magento 2 contribution and code review.
 Quickies & Tutorials,,Magento 2 / PHP versions Matrix,https://gist.github.com/fooman/b1d70ca2954c05c3e11a7a9db04a8a10,
+Quickies & Tutorials,,Magento 2.3.x - List of all dispatched events,https://cyrillschumacher.com/magento-2.3-list-of-all-dispatched-events/,A cheat sheet that lists all dispatched events in Magento 2.3.
 Podcasts,English,The JetRails Podcast,https://jetrails.com/blog/announcing-the-jetrails-podcast-for-the-ecommerce-community/,The JetRails Podcast for the Ecommerce Community
 Podcasts,English,MageTalk,http://magetalk.com/,A Magento Podcast
 Podcasts,German,Magento Podcast DE,http://magentopodcast.de/,German-language podcast (ended 2012)
