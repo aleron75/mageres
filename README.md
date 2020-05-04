@@ -177,6 +177,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [PHPStorm Live Templates for Magento 2 by Mark Shust](https://github.com/markshust/phpstorm-magento-live-templates) - Magento 2 live templates for PHPStorm that help speed up the development process.
 * [PHPStorm Live Templates for Magento 2 by Nathan McBride](https://github.com/brideo/phpstorm-live-templates-magento-2) - A bunch of Magento 2 Live Templates for PHPStorm
 * [PhpStorm Magento 2 Plugin](https://github.com/magento/magento2-phpstorm-plugin) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
+* [SwiftOtter Drvier](https://github.com/SwiftOtter/Driver) - A database task-runner specifically used for transforming a production database to a sandbox.
 * [SwiftOtter Magento CI Script System](https://github.com/SwiftOtter/MagentoCI) - Magento continuous integration bash scripts. Makes deploying Magento easy.
 * [The Installer](https://github.com/jacquesbh/installer) - PHP command line tool for Magento extension development and scaffolding
 * [Vaimo Composer Patches](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
@@ -375,7 +376,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Konstantin Gerasimov](https://www.goivvy.com/blog)
 * [Lars Roettig](https://larsroettig.dev/)
 * [LexiConn](http://www.lexiconn.com/blog/category/magento/)
-* [Magebase](http://magebase.com/)
 * [MageComp Magento Blog](http://magecomp.com/blog/)
 * [Magenable](https://magenable.com.au/category/magento-ecommerce/)
 * [Mage News](http://www.mage-news.de/)

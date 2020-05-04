@@ -95,6 +95,7 @@ Tools,Free,PHPStorm Live Templates for Magento 2 by Mark Shust,https://github.co
 Tools,Free,Visual Studio Code startup task for cache-clean.js on Magento 2.,https://gist.github.com/jrosell/f062e5be7468f620ab7c78a45ea9729e,A useful gist to add a startup task to automate the Magento 2 Cache Clean process.
 Tools,Free,Capistrano::Magento2,https://github.com/davidalger/capistrano-magento2,A Capistrano extension for Magento 2 deployments.
 Tools,Free,SwiftOtter Magento CI Script System,https://github.com/SwiftOtter/MagentoCI,Magento continuous integration bash scripts. Makes deploying Magento easy.
+Tools,Free,SwiftOtter Drvier,https://github.com/SwiftOtter/Driver,A database task-runner specifically used for transforming a production database to a sandbox.
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,http://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,http://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -258,7 +259,6 @@ Blogs,English,InteractOne Blog,http://www.interactone.com/category/magento-news/
 Blogs,English,Inviqa,https://inviqa.com/blog,
 Blogs,English,Kalpesh Mehta,http://ka.lpe.sh/,
 Blogs,English,LexiConn,http://www.lexiconn.com/blog/category/magento/,
-Blogs,English,Magebase,http://magebase.com/,
 Blogs,English,MageComp Magento Blog,http://magecomp.com/blog/,
 Blogs,English,Mage News,http://www.mage-news.de/,
 Blogs,English,Magenticians,http://magenticians.com/,
