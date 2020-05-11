@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![443 resources](https://img.shields.io/badge/resources-443-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![442 resources](https://img.shields.io/badge/resources-442-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -42,15 +42,15 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Official Resources
 
-* [Magento Blog](http://magento.com/blog) - Get the latest in Magento News
+* [Magento Blog](https://magento.com/blog) - Get the latest in Magento News
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
-* [Magento Documentation and Resources](https://magento.com/resources/technical) - Everything you need to build and manage a customized Magento storefront
+* [Magento Documentation and Resources](https://magento.com/technical-resources) - Everything you need to build and manage a customized Magento storefront
 * [MagentoU Videos](https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40) - MagentoU playlist on YouTube
 
 ### Magento 1
 
-* [Magento CE User Guide](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html) - Where you’ll find the most up-to-date documentation for the current release, written with merchants in mind
-* [Magento EE User Guide](http://merch.docs.magento.com/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html)
+* [Magento CE User Guide](https://docs.magento.com/m1/ce/user_guide/Magento_Community_Edition_User_Guide.html) - Where you’ll find the most up-to-date documentation for the current release, written with merchants in mind
+* [Magento EE User Guide](https://docs.magento.com/m1/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html)
 
 ### Magento 2
 
@@ -133,12 +133,12 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Commercial with freemium/trial
 
-* [Commerce Bug](http://store.pulsestorm.net/products/commerce-bug-3) - Magento debugging extension for both Magento 1 and 2
+* [Commerce Bug](https://store.pulsestorm.net/products/commerce-bug-3) - Magento debugging extension for both Magento 1 and 2
 * [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
-* [MageCloud](http://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
+* [MageCloud](https://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
 * [MageFlow](https://mageflow.com/) - Magento extension for migrating content between development, staging and production environments
 * [Magerror](https://www.magerror.com) - All your Magento reports in one place
-* [Magicento](http://magicento.com/) - PHPStorm plugin for both Magento 1 and Magento 2 developers
+* [Magicento](https://magicento.com/) - PHPStorm plugin for both Magento 1 and Magento 2 developers
 
 ### Free
 
@@ -155,7 +155,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 - composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB) - Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
 * [Magento 2 Code + DB Backup](https://github.com/MagePsycho/magento2-db-code-backup-bash-script) - An utility SSH script to backup the code + database of Magento 2
 * [Magento 2 Code Generator Tool](https://github.com/staempfli/magento2-code-generator/) - Code generator for Magento 2
-* [Magento 2 Database Backup Manager](https://github.com/meanbee/magedbm2) - A database backup manager for Magento 2 written with developers in mind.
+* [Magento 2 Database Backup Manager](https://github.com/Space48/magedbm2) - A database backup manager for Magento 2 written with developers in mind.
 * [Magento 2 DevTools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magento 2 Simplistic Installer](https://github.com/MagePsycho/magento2-installer-bash-script) - A simplistic tool to install Magento 2 from different sources like tar & composer
@@ -186,15 +186,14 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ## Security
 
 * [InvalidateAdminPasswords Extension](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords) - A tool by SomethingDigital to invalidate all Magento admin user passwords
-* [mage-one.com](https://www.mage-one.com/) - A company which offers Paid security support for Magento 1 after its official End of Support
+* [mage-one.com](https://mage-one.com/) - A company which offers Paid security support for Magento 1 after its official End of Support
 * [MageDef](https://www.magedef.com/) - Free resources to build more reliable and defensible eCommerce platforms and software.
 * [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Pre Patched files for installing Magento Security Patches without SSH.
 * [Magento 1 Content Security Policy (CSP) Enforcement Extension](https://github.com/netalico/magento-1-csp) - A Magento 1 module to easily create and manage a Content Security Policy (CSP)
-* [Magento 1 Module Blacklist](https://github.com/gwillem/magento-module-blacklist) - Central repository for third party Magento 1 extensions with known security issues.
+* [Magento 1 Module Blacklist](https://github.com/sansecio/magevulndb) - Central repository for third party Magento 1 extensions with known security issues.
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 * [Magento Malware Scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest Magento malware collection on earth
 * [Magento Patches](https://github.com/brentwpeterson/magento-patches) - As many Magento patches as Brent Peterson can find!
-* [Magento Security Center](http://magento.com/security/) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
 * [Magento Security Checklist](https://github.com/talesh/magento-security-checklist) - A Magento community-sourced security pre-flight checklist.
 * [Magento Security Resources](https://github.com/gwillem/magento-security-resources) - Crowd-sourced resources to help merchants mitigate and prevent Magento security incidents.
 * [Magento Security Scan Tool](https://account.magento.com/scanner/) - Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account).
@@ -203,6 +202,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Mage Security Patcher](https://github.com/magesec/magesecuritypatcher) - An effective alternative to the standard Magento patches.
 * [Nexcess Safe Harbor](https://www.nexcess.net/nexcess-magento-1-safe-harbor/) - Safe Harbor provides malware detection and threat monitoring for your store after Magento 1 reaches End of Life.
+* [Official Magento Security Center](https://magento.com/security) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
 * [Philwinkle_AppliedPatches](https://github.com/philwinkle/Philwinkle_AppliedPatches) - Useful extension to see a list of all applied patches from within the Magento admin panel
 * [Security.txt](https://github.com/kalpmehta/securitytxt) - Security.txt for Magento 2 websites
 
@@ -214,6 +214,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler) - Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes
 * [AOE Template Hints](https://github.com/AOEpeople/Aoe_TemplateHints) - Extends the default Magento "Template Hints" developer functionality by adding more information for each block
 * [Aschroder SMTPPro](https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension) - Full SMTP and Gmail/Google Apps Email support for Magento 1
+* [Atik CookieLaw](https://github.com/atik-lab/magento-cookielaw) - Another EU Cookie Law Compliance
 * [AvS Fast Simple Import](https://github.com/avstudnitz/AvS_FastSimpleImport) - Wrapper for Magento 1 Import/Export functionality which imports data from arrays
 * [b-responsive](https://github.com/interactiv4/b-responsive) - Magento Responsive Theme built with Twitter Bootstrap v3
 * [Compressed Magento 1.9 Sample Data](https://github.com/Vinai/compressed-magento-sample-data) - A reduced sample data archive for Magento 1 by Vinai Kopp
@@ -240,7 +241,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [No Flash Image Uploader](https://github.com/openstream/No-Flash-Image-Uploader) - This Magento module allows the upload of images without having the Flash player installed
 * [Two-Factor Authentication Plugin](https://github.com/jetrails/magento-twofactor) - User-based 2FA enablement.
 * [Ultimate Module Creator](https://github.com/tzyganu/UMC1.9) - Extension that lets you create other Magento 1 CRUD modules for your own entities **unmaintained**
-* [Valdecode CookieLaw](https://github.com/valdecode/magento-cookielaw) - Another EU Cookie Law Compliance
 
 ### Magento 2
 
@@ -322,7 +322,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
-* [PWA Studio](https://github.com/magento-research/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
+* [PWA Studio](https://github.com/magento/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 * [PWA Studio Stats](https://pwastudio-stats.com/) - A list of PWA webshops built with Magento's PWA Studio
 * [ScandiPWA](https://github.com/scandipwa) - Progressive Web App for Magento by ScandiWeb
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
@@ -332,32 +332,32 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### English
 
 * [121eCommerce](https://www.121ecommerce.com/resources/blog/)
-* [Aheadworks Blog](https://blog.aheadworks.com/category/magento-2/)
+* [Aheadworks Blog](https://www.aheadworks.com/blog/category/magento-2/)
 * [AionHill blog](https://aionhill.com/category/magento-development-tips)
-* [Alan Kent](https://alankent.wordpress.com)
+* [Alan Kent](https://alankent.me/)
 * [Alan Storm](https://alanstorm.com/category/magento/)
 * [Alexander Turiak](https://zifius.github.io/)
-* [Amasty Blog](https://blog.amasty.com/category/magento-2/)
+* [Amasty Blog](https://amasty.com/blog/)
 * [Andrew Smart](https://www.smartiehastheanswer.co.uk/)
-* [Anna Völkl](http://anna.voelkl.at/)
+* [Anna Völkl](https://anna.voelkl.at/)
 * [Ashley Schroder](http://www.aschroder.com/category/magento/)
-* [Atwix blog](http://www.atwix.com/blog/)
-* [Belvg](http://blog.belvg.com/category/magento-news)
+* [Atwix blog](https://www.atwix.com/blog/)
+* [Belvg](https://belvg.com/magento)
 * [Ben Marks](http://bhmarks.com/blog/)
 * [Bitbull](https://www.bitbull.it/en/blog/)
 * [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
 * [Brideo](http://brideo.co.uk/blog/)
-* [C3Media Blog](https://www.c3media.co.uk/blog/)
+* [C3Media Blog](https://c3.agency/blog/)
 * [Cadence Labs](https://www.cadence-labs.com/category/magento/magento-2/)
 * [Chirag Dodia](http://www.codextblog.com)
 * [Classyllama](https://www.classyllama.com/blog/category/development)
-* [Cloudways Blog](https://www.cloudways.com/blog/category/magento/)
-* [Creare Blog](http://www.creare.co.uk/blog/magento)
+* [Cloudways Blog](https://www.cloudways.com/blog/magento/)
+* [Creare Blog](https://www.creare.co.uk/blog/magento)
 * [Customer Paradigm](http://www.customerparadigm.com/blog/)
-* [Cyrill Schumacher](http://cyrillschumacher.com/)
+* [Cyrill Schumacher](https://cyrillschumacher.com/)
 * [Dave Macaulay](https://davemacaulay.com/blog/)
 * [David Alger](http://davidalger.com/category/development/magento/)
-* [DCKAP Blog](http://www.dckap.com/blog)
+* [DCKAP Blog](https://www.dckap.com/blog/)
 * [Dev98](https://dev98.de/)
 * [Elogic](https://elogic.co/blog/)
 * [ESchrade](http://www.eschrade.com/page/category/magento-2/)
@@ -366,8 +366,8 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Firebear Studio Blog](http://firebearstudio.com/blog/)
 * [Fooman](http://store.fooman.co.nz/blog)
 * [Giel Berkers](https://gielberkers.com/)
-* [Ibnab Blog](http://ibnab.com/en/blog/magento-2)
-* [Inchoo](http://inchoo.net/category/magento/)
+* [Ibnab Blog](https://www.ibnab.com/en/blog/magento-2)
+* [Inchoo](https://inchoo.net/magento/)
 * [integer_net Blog](http://www.integer-net.com/blog/)
 * [InteractOne Blog](http://www.interactone.com/category/magento-news/)
 * [Inviqa](https://inviqa.com/blog)
@@ -381,7 +381,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Mage News](http://www.mage-news.de/)
 * [Magenticians](http://magenticians.com/)
 * [Magently Blog](https://magently.com/blog/)
-* [Magento Blog](http://magento.com/blog)
+* [Magento Blog](https://magento.com/blog)
 * [Magento Fox Blog](https://adammoss.co.uk/magentofox/)
 * [MagePsycho](https://blog.magepsycho.com/)
 * [Magestore](http://blog.magestore.com/)
@@ -390,7 +390,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageWorx on Magento 1](https://www.mageworx.com/blog/magento/)
 * [MageWorx on Magento 2](https://www.mageworx.com/blog/magento-2/)
 * [Marcel Hauri](https://blog.hauri.me/)
-* [Mark Shust](http://markshust.com/tags/magento)
+* [Mark Shust](https://markshust.com/tags/magento/)
 * [Max Chadwick](https://maxchadwick.xyz/blog/)
 * [Maxime Huran on Magento 1](http://www.maximehuran.fr/en/category/magento-one/)
 * [Maxime Huran on Magento 2](http://www.maximehuran.fr/en/category/magento-two/)
@@ -425,7 +425,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Tiago Sampaio](https://tiagosampaio.com/)
 * [Timon de Groot](https://blog.timpack.org/)
 * [Visiture](https://www.visiture.com/blog/category/magento-2/)
-* [Wizkunde](https://wizkunde.nl/blog/)
+* [Wizkunde](https://wizkunde.com/blog)
 * [Yireo Blog](https://www.yireo.com/blog)
 
 ### French
@@ -480,11 +480,11 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### English
 
-* [Actionable Insights](https://swiftotter.com/actionable-insights/) - Practical insights by SwiftOtter
+* [Actionable Insights](https://actionableinsights.fm/) - Practical insights by SwiftOtter
 * [Core of Commerce](https://www.coreofcommerce.com/) - Fortnightly insight into the latest European digital commerce news  by Vaimo
 * [MageTalk](http://magetalk.com/) - A Magento Podcast
 * [Merchant to Merchant](https://podcast.somethingdigital.com/) - Stories about digital commerce: for merchants, by merchants.
-* [The JetRails Podcast](https://jetrails.com/blog/announcing-the-jetrails-podcast-for-the-ecommerce-community/) - The JetRails Podcast for the Ecommerce Community
+* [The JetRails Podcast](https://jetrails.com/podcast/) - The JetRails Podcast for the Ecommerce Community
 
 ### German
 
@@ -531,7 +531,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
 * [Magento Community Portal](https://opensource.magento.com/) - Join thousands of community developers working on different projects
-* [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
+* [Magento Forum](https://community.magento.com/) - The "brand new" Magento forum
 * [Magento Speaker Directory](https://magento.mobilize.io) - To connect speakers with event organizers.
 * [Magento Stack Exchange](http://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [Reddit](http://www.reddit.com/r/Magento/) - Magento Sub-Reddit
@@ -562,9 +562,8 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Conferences
 
-* [Adobe Summit](https://summit.adobe.com/) - Where Magento Imagine happens!
+* [Adobe Summit](https://www.adobe.com/summit.html) - Where Magento Imagine happens!
 * [MageCONF](https://www.mageconf.com.ua/) - The main Magento event in Ukraine
-* [Magento Imagine](http://imagine.magento.com) - The Magento event
 * [Magento Live](http://magentolive.com/) - A complement to Magento annual Imagine conference
 * [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.
 * [Mage Titans](http://www.magetitans.com/) - A non-profit event for Magento developers in NL
