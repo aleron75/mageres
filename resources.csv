@@ -26,17 +26,17 @@ Certification,,M2 Certification Study Guides,https://github.com/df2k2/m2cert,Mag
 Certification,,Magento 2 Certified Professional Developer notes,https://github.com/magento-notes/magento2-exam-notes,Preparation notes for Magento 2 Certified Professional Developer exam
 Certification,,SwiftOtter Certification Resources,https://swiftotter.com/certifications,"Courses, Study Guides and Practice Tests for Magento 2 Certifications"
 Certification,,Resources for the Magento 2 Certified Professional Front End Developer exam,https://github.com/fisheye-academy/m2cpfed-training,Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
-Certification,,The (unofficial) 2020 Magento Certification Challenge,https://swiftotter.com/2020-magento-certification-challenge/,Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
+Certification,,The (unofficial) 2020 Magento Certification Challenge,https://swiftotter.com/2020-unofficial-magento-certification-challenge,Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
 Books,Magento 1,Getting Started with Magento Extension Development,https://www.packtpub.com/web-development/getting-started-magento-extension-development,"A practical guide to building Magento modules from scratch; by Branko Ajzele, September 2013"
 Books,Magento 1,Magento Best Practices Handbook,https://leanpub.com/magebp,"A collection of practical tips to develop with Magento the right way; by Alessandro Ronchi, September 2015"
 Books,Magento 1,Grokking Magento,http://vinaikopp.com/grokking/,"Advanced Magento 1 development; by Vinai Kopp, March 2014"
-Books,Magento 1,Magento PHP Developer's Guide,http://magedevguide.com/,"A guide that helps new developers to quickly pick up the fundamentals of Magento system; by Allan MacGregor, April 2013"
+Books,Magento 1,Magento PHP Developer's Guide,https://magedevguide.com/,"A guide that helps new developers to quickly pick up the fundamentals of Magento system; by Allan MacGregor, April 2013"
 Books,Magento 1,Magento Product Types: Developer's Guide,https://leanpub.com/magentoproducttypesdevelopersguide,"A book that gives a deep inside on Magento product types; by Oleg Ishenko, October 2014"
 Books,Magento 1,Magento Search Engine Optimization,https://www.packtpub.com/web-development/magento-search-engine-optimization,"A book that uncovers the deep secrets of successful Search Engine Optimization; by Robert Kent, January 2014"
 Books,Magento 1,Mastering Magento Theme Design,https://www.packtpub.com/web-development/mastering-magento-theme-design,"A book that explores Magento theme design in depth; by Andrea Saccà, April 2014"
 Books,Magento 1,No Frills Command Line Magento,https://leanpub.com/command-line-magento/,"A crash course on efficient Magento administration, as well as PHP, Symfony, and Composer development; by Alan Storm, December 2014"
-Books,Magento 1,No Frills Magento Layout,http://store.pulsestorm.net/products/no-frills-magento-layout,"The only Magento book out there that covers, in full, the enigmatic XML Layout system; by Alan Storm, April 2011"
-Books,Magento 1,The Definitive Guide to Magento,http://www.amazon.co.uk/Definitive-Guide-Magento-Experts-Source-x/dp/1430272295/ref=sr_1_1,"A comprehensive look at Magento; by Adam McCombs, December 2009"
+Books,Magento 1,No Frills Magento Layout,https://store.pulsestorm.net/products/no-frills-magento-layout,"The only Magento book out there that covers, in full, the enigmatic XML Layout system; by Alan Storm, April 2011"
+Books,Magento 1,The Definitive Guide to Magento,https://www.amazon.co.uk/Definitive-Guide-Magento-Experts-Source-x/dp/1430272295,"A comprehensive look at Magento; by Adam McCombs, December 2009"
 Books,Magento 1,Magento 1.8 Development Cookbook,https://www.packtpub.com/web-development/magento-18-development-cookbook,"A book that helps you build a truly impressive customized online store; by Bart Delvaux & Nurul Ferdous, February 2014"
 Books,Magento 2,Learning Magento 2 Administration,https://www.packtpub.com/web-development/learning-magento-2-administration,"A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016"
 Books,Magento 2,Magento 2 Cookbook,https://www.packtpub.com/web-development/magento-2-cookbook,"Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016"
@@ -99,22 +99,20 @@ Tools,Free,SwiftOtter Drvier,https://github.com/SwiftOtter/Driver,A database tas
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
-Tools,Commercial with freemium/trial,MageFlow,https://mageflow.com/,"Magento extension for migrating content between development, staging and production environments"
 Tools,Commercial with freemium/trial,Magicento,https://magicento.com/,PHPStorm plugin for both Magento 1 and Magento 2 developers
 Tools,Commercial with freemium/trial,Magerror,https://www.magerror.com,All your Magento reports in one place
 Security,,Magento SUPEE-6788 Developer Toolbox,https://github.com/rhoerr/supee-6788-toolbox,Must-have tool to apply SUPEE-6788 patch
 Security,,Philwinkle_AppliedPatches,https://github.com/philwinkle/Philwinkle_AppliedPatches,Useful extension to see a list of all applied patches from within the Magento admin panel
 Security,,Official Magento Security Center,https://magento.com/security,"The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes"
 Security,,MageReport.com,https://www.magereport.com/,Scan your Magento shop for known security vulnerabilities
-Security,,Magento Extension Security research,https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform,Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
+Security,,Magento Extension Security research,https://docs.google.com/forms/d/e/1FAIpQLSeEvCkPMsPY7zVdz-JU9WBO61CsSaighuGCwWMZA3_lRyLd7w/viewform,Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 Security,,Magento-Pre-Patched-Files,https://github.com/magecomp/Magento-Pre-Patched-Files,Pre Patched files for installing Magento Security Patches without SSH.
 Security,,Mage Security Patcher,https://github.com/magesec/magesecuritypatcher,An effective alternative to the standard Magento patches.
 Security,,Magento Malware Scanner,https://github.com/gwillem/magento-malware-scanner,"Scanner, signatures and the largest Magento malware collection on earth"
 Security,,Magento Security Scan Tool,https://account.magento.com/scanner/,"Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account)."
 Security,,mage-one.com,https://mage-one.com/,A company which offers Paid security support for Magento 1 after its official End of Support
-Security,,Magento 1 Module Blacklist,https://github.com/sansecio/magevulndb,Central repository for third party Magento 1 extensions with known security issues.
 Security,,Magento Patches,https://github.com/brentwpeterson/magento-patches,As many Magento patches as Brent Peterson can find!
-Security,,Magento Vulnerability Database,https://github.com/gwillem/magevulndb,Central repository for third party Magento 1 extensions with known security issues.
+Security,,Magento Vulnerability Database,https://github.com/sansecio/magevulndb,List of Magento 1 and 2 integrations with known security issues
 Security,,Magento Security Checklist,https://github.com/talesh/magento-security-checklist,A Magento community-sourced security pre-flight checklist.
 Security,,Security.txt,https://github.com/kalpmehta/securitytxt,Security.txt for Magento 2 websites
 Security,,MageDef,https://www.magedef.com/,Free resources to build more reliable and defensible eCommerce platforms and software.
@@ -227,7 +225,7 @@ PWA,,PWA Studio Stats,https://pwastudio-stats.com/,A list of PWA webshops built 
 Blogs,English,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,English,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
 Blogs,English,Aheadworks Blog,https://www.aheadworks.com/blog/category/magento-2/,
-Blogs,English,AionHill blog,https://aionhill.com/category/magento-development-tips,
+Blogs,English,AionHill blog,https://aionhill.com/en/ecommerce-blog/,
 Blogs,English,Alan Kent,https://alankent.me/,
 Blogs,English,Alan Storm,https://alanstorm.com/category/magento/,
 Blogs,English,Amasty Blog,https://amasty.com/blog/,
@@ -239,69 +237,65 @@ Blogs,English,Belvg,https://belvg.com/magento,
 Blogs,English,Ben Marks,http://bhmarks.com/blog/,
 Blogs,English,bitExpert AG,https://blog.bitexpert.de/blog/tag/magento,
 Blogs,English,Bitbull,https://www.bitbull.it/en/blog/,
-Blogs,English,Brideo,http://brideo.co.uk/blog/,
+Blogs,English,Nathan McBride,https://nathanmcbride.io/blog,
 Blogs,English,C3Media Blog,https://c3.agency/blog/,
 Blogs,English,Classyllama,https://www.classyllama.com/blog/category/development,
 Blogs,English,Cloudways Blog,https://www.cloudways.com/blog/magento/,
 Blogs,English,Creare Blog,https://www.creare.co.uk/blog/magento,
 Blogs,English,Cyrill Schumacher,https://cyrillschumacher.com/,
-Blogs,English,David Alger,http://davidalger.com/category/development/magento/,
+Blogs,English,David Alger,https://davidalger.com/tags/magento/,
 Blogs,English,DCKAP Blog,https://www.dckap.com/blog/,
-Blogs,English,ESchrade,http://www.eschrade.com/page/category/magento-2/,
+Blogs,English,ESchrade,https://www.eschrade.com/page/category/magento-2/,
 Blogs,English,Excellence Technologies,http://excellencemagentoblog.com/,
 Blogs,English,Fabian Schmengler,http://www.schmengler-se.de/en/blog/,
-Blogs,English,Firebear Studio Blog,http://firebearstudio.com/blog/,
-Blogs,English,Fooman,http://store.fooman.co.nz/blog,
+Blogs,English,Firebear Studio Blog,https://firebearstudio.com/blog/,
+Blogs,English,Fooman,https://store.fooman.co.nz/blog,
 Blogs,English,Ibnab Blog,https://www.ibnab.com/en/blog/magento-2,
 Blogs,English,Inchoo,https://inchoo.net/magento/,
-Blogs,English,integer_net Blog,http://www.integer-net.com/blog/,
-Blogs,English,InteractOne Blog,http://www.interactone.com/category/magento-news/,
+Blogs,English,integer_net Blog,https://www.integer-net.com/blog/,
+Blogs,English,InteractOne Blog,https://www.interactone.com/category/magento-news/,
 Blogs,English,Inviqa,https://inviqa.com/blog,
 Blogs,English,Kalpesh Mehta,http://ka.lpe.sh/,
-Blogs,English,LexiConn,http://www.lexiconn.com/blog/category/magento/,
-Blogs,English,MageComp Magento Blog,http://magecomp.com/blog/,
-Blogs,English,Mage News,http://www.mage-news.de/,
-Blogs,English,Magenticians,http://magenticians.com/,
+Blogs,English,LexiConn,https://www.lexiconn.com/blog/category/magento/,
+Blogs,English,MageComp Magento Blog,https://magecomp.com/blog/,
+Blogs,English,Mage News,https://www.mage-news.de/,
+Blogs,English,Magenticians,https://magenticians.com/,
 Blogs,English,Magently Blog,https://magently.com/blog/,
 Blogs,English,Magento Blog,https://magento.com/blog,
 Blogs,English,MagePsycho,https://blog.magepsycho.com/,
-Blogs,English,Magestore,http://blog.magestore.com/,
-Blogs,English,Magetraining Blog,http://www.magetraining.com/blog/,
+Blogs,English,Magestore,https://blog.magestore.com/,
+Blogs,English,Magetraining Blog,https://mage.training/blog/,
 Blogs,English,MageWorx on Magento 1,https://www.mageworx.com/blog/magento/,
 Blogs,English,MageWorx on Magento 2,https://www.mageworx.com/blog/magento-2/,
 Blogs,English,Mark Shust,https://markshust.com/tags/magento/,
-Blogs,English,Max Pronko,http://www.maxpronko.com/,
+Blogs,English,Max Pronko,https://www.maxpronko.com/,
 Blogs,English,Max Yekaterynenko,https://maxyek.wordpress.com/,
-Blogs,English,Maxime Huran on Magento 1,http://www.maximehuran.fr/en/category/magento-one/,
-Blogs,English,Maxime Huran on Magento 2,http://www.maximehuran.fr/en/category/magento-two/,
+Blogs,English,Maxime Huran on Magento 1,https://www.maximehuran.fr/en/category/magento-one/,
+Blogs,English,Maxime Huran on Magento 2,https://www.maximehuran.fr/en/category/magento-two/,
 Blogs,English,Meanbee,https://meanbee.com/developers.html,
 Blogs,English,Meetanshi Magento Blog,https://meetanshi.com/blog/,
 Blogs,English,Newsgento,http://newsgento.com/,
 Blogs,English,Nexcess Blog,https://blog.nexcess.net/category/magento/,
-Blogs,English,Phuc Vo,http://www.thienphucvx.com/,
+Blogs,English,Phuc Vo,http://thienphucvx.com/,
 Blogs,English,Rocket Web,https://rocketweb.com/blog,
-Blogs,English,Session Digital on Magento,http://www.sessiondigital.com/blog/category/magento/,
-Blogs,English,Session Digital DE on Magento,http://www.sessiondigital.de/blog/category/magento/,
-Blogs,English,Session Digital on Magento 2,http://www.sessiondigital.com/blog/category/magento-2/,
-Blogs,English,Shero Blog,https://www.sherodesigns.com/blog/,
+Blogs,English,Shero Blog,https://sherocommerce.com/blog/,
 Blogs,English,Siteground,https://www.siteground.com/tutorials/magento/,
-Blogs,English,Solving Magento,http://www.solvingmagento.com/,
-Blogs,English,Space48 Blog,http://www.space48.com/category/magento/,
-Blogs,English,Sonassi,https://www.sonassi.com/blog/,
-Blogs,English,Talesh Seeparsan,http://www.seeparsan.net/magento-blog/,
+Blogs,English,Space48 Blog,https://www.space48.com/blog/,
+Blogs,English,Sonassi,https://www.sonassi.com/blog,
+Blogs,English,Talesh Seeparsan,https://www.seeparsan.net/magento-blog/,
 Blogs,English,Yireo Blog,https://www.yireo.com/blog,
 Blogs,English,Dev98,https://dev98.de/,
-Blogs,English,Marcel Hauri,https://blog.hauri.me/,
-Blogs,English,Pierre Fay,https://www.pierrefay.com/en/tag/magento2.html,
+Blogs,English,Marcel Hauri,https://marcelhauri.ch/blog,
+Blogs,English,Pierre Fay,https://www.pierrefay.com/blog.html,
 Blogs,English,Revampix,https://www.revampix.com/,
 Blogs,English,MGT-Commerce Blog,https://www.mgt-commerce.com/blog/category/magento/,
-Blogs,English,Customer Paradigm,http://www.customerparadigm.com/blog/,
+Blogs,English,Customer Paradigm,https://www.customerparadigm.com/blog/,
 Blogs,English,Giel Berkers,https://gielberkers.com/,
 Blogs,English,Konstantin Gerasimov,https://www.goivvy.com/blog,
 Blogs,English,SwiftOtter,https://swiftotter.com/technical,
 Blogs,English,Qaisar Satti,http://blog.qaisarsatti.com/,
-Blogs,English,Rakesh Jesadiya,http://www.rakeshjesadiya.com/,
-Blogs,English,Chirag Dodia,http://www.codextblog.com,
+Blogs,English,Rakesh Jesadiya,https://www.rakeshjesadiya.com/,
+Blogs,English,Chirag Dodia,https://www.codextblog.com,
 Blogs,English,Timon de Groot,https://blog.timpack.org/,
 Blogs,English,Tiago Sampaio,https://tiagosampaio.com/,
 Blogs,English,Max Chadwick,https://maxchadwick.xyz/blog/,
@@ -310,7 +304,7 @@ Blogs,English,Alexander Turiak,https://zifius.github.io/,
 Blogs,English,MageVision,https://www.magevision.com/blog/,
 Blogs,English,JetRails,https://jetrails.com/blog/,
 Blogs,English,ParadoxLabs,https://www.paradoxlabs.com/blog/,
-Blogs,English,Pinpoint,https://www.pinpointdesigns.co.uk/blog/,
+Blogs,English,Pinpoint,https://www.pinpointdesigns.co.uk/insights/,
 Blogs,English,Onilab,https://onilab.com/blog/,
 Blogs,English,121eCommerce,https://www.121ecommerce.com/resources/blog/,
 Blogs,English,Dave Macaulay,https://davemacaulay.com/blog/,
@@ -331,39 +325,38 @@ Blogs,German,NeoShops,http://neoshops.de/category/magento-blog/,
 Blogs,German,E-CONOMIX,https://www.e-conomix.at/blog/#magento,
 Blogs,French,Agence DnD,https://www.dnd.fr/categorie/blog/magento-2/,
 Quickies & Tutorials,,E-commerce Gorilla,http://www.ecommercegorilla.com/category/magento-e-commerce-platform/,
-Quickies & Tutorials,,Fishpig's Magento Tutorials,http://fishpig.co.uk/magento/tutorials/,
+Quickies & Tutorials,,Fishpig's Magento Tutorials,https://fishpig.co.uk/magento/tutorials/,
 Quickies & Tutorials,,Magento: The Right Way,https://magentotherightway.com/,
-Quickies & Tutorials,,Magento Quickies,http://magento-quickies.alanstorm.com/,
+Quickies & Tutorials,,Magento Quickies,https://alanstorm.com/category/programming-quickies/,
 Quickies & Tutorials,,Magento Snippets and Code Samples,https://makandracards.com/magento,
-Quickies & Tutorials,,Magento Tweetorials,http://tweetorials.tumblr.com/,
+Quickies & Tutorials,,Magento Tweetorials,https://tweetorials.tumblr.com/,
 Quickies & Tutorials,,The Ultimate Magento 2 Tutorial,https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html,
-Quickies & Tutorials,,Magento 2 Cheat Sheet,https://www.cheatography.com/latmiz/cheat-sheets/magento-2/,"A quick reference guide for Magento 2, command line, XML snippets, template file snippets, Models and other useful bits of information"
+Quickies & Tutorials,,Magento 2 Cheat Sheet,https://cheatography.com/latmiz/cheat-sheets/magento-2/,"A quick reference guide for Magento 2, command line, XML snippets, template file snippets, Models and other useful bits of information"
 Quickies & Tutorials,,Magento 2 Cache Cheat Sheet,https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b,
 Quickies & Tutorials,,Magento 2 Repository Example,https://github.com/pronkoconsulting/magento-2-repository-example,Example on how Magento 2 project should look like in a repository
 Quickies & Tutorials,,Magento Postman repository,https://github.com/nuzil/magento-postman/,A storage of Postman collections for Magento
 Quickies & Tutorials,,Magento 2 JavaScript CheatSheet,https://jason.codes/2019/08/magento-2-javascript-cheatsheet/,A quick go-to reference to see the different ways of handling JavaScript.
-Quickies & Tutorials,,Magento Module LarsRoettig_GraphQLStorePickup,https://github.com/larsroettig/module-graphqlstorepickup,Example of how to create a GraphQL Endpoint for Magento 2.3
+Quickies & Tutorials,,Magento Module LarsRoettig_GraphQLStorePickup,https://github.com/larsroettig-dev/module-graphqlstorepickup,Example of how to create a GraphQL Endpoint for Magento 2.3
 Quickies & Tutorials,,Magento 2 Tutorials,https://www.mag-manager.com/magento-2-tutorials/,Easy to follow guides that will help you dive into Magento 2 specifics and familiarize yourself with basic concepts.
 Quickies & Tutorials,,m2.tips,https://m2.tips/,Lukasz Bajsarowicz’s space focused on Magento 2 contribution and code review.
 Quickies & Tutorials,,Magento 2 / PHP versions Matrix,https://gist.github.com/fooman/b1d70ca2954c05c3e11a7a9db04a8a10,
 Quickies & Tutorials,,Magento 2.3.x - List of all dispatched events,https://cyrillschumacher.com/magento-2.3-list-of-all-dispatched-events/,A cheat sheet that lists all dispatched events in Magento 2.3.
 Podcasts,English,The JetRails Podcast,https://jetrails.com/podcast/,The JetRails Podcast for the Ecommerce Community
-Podcasts,English,MageTalk,http://magetalk.com/,A Magento Podcast
+Podcasts,English,MageTalk,https://magetalk.com/,A Magento Podcast
 Podcasts,German,Magento Podcast DE,http://magentopodcast.de/,German-language podcast (ended 2012)
 Podcasts,English,Actionable Insights,https://actionableinsights.fm/,Practical insights by SwiftOtter
 Podcasts,English,Core of Commerce,https://www.coreofcommerce.com/,Fortnightly insight into the latest European digital commerce news  by Vaimo
 Podcasts,English,Merchant to Merchant,https://podcast.somethingdigital.com/,"Stories about digital commerce: for merchants, by merchants."
 Podcasts,Dutch,Dutchento Experts Podcast,https://www.dutchento.org/podcast/,E-commerce experts and retailers interviews by Dutchento. Some episodes are recorded in English.
-Newsletters & Digests,,The Devletter,https://www.maxpronko.com/blog/the-devletter,Free weekly email digest by Max Pronko
+Newsletters & Digests,,The Devletter,https://www.maxpronko.com/the-devletter/,Free weekly email digest by Max Pronko
 Newsletters & Digests,,Magento Community Digest,https://community.magento.com/t5/forums/searchpage/tab/message?filter=location&q=%23MagentoMonday%7C%23MagentoTuesday&advanced=true&location=forum-board:newsannouncements&sort_by=-topicPostDate&collapse_discussion=true&search_type=thread,#MagentoMonday (sometimes #MagentoTuesday) Community Digest by [@sherrierohde](https://twitter.com/sherrierohde). You can submit your content here: https://docs.google.com/forms/d/e/1FAIpQLSfXNbNQ0WZ5pK-zPA0Uw9SC3uRQv3SRFZIdunPKqd27CznVGQ/viewform
 Newsletters & Digests,,Atwix MageNews,https://www.atwix.com/tag/magenews/,A selection of the most interesting and important topics that popped up in Magento Community
-Newsletters & Digests,,Magezine,https://www.magezine.co/,A professional paper journal for Magento community
+Newsletters & Digests,,Magezine,https://magezine.co/,A professional paper journal for Magento community
 Newsletters & Digests,,Mageres,https://mailchi.mp/6a498018d9ef/mageres,A hand-curated monthly newsletter collecting useful Magento resources.
-Screencasts,English,Mage2Katas,http://www.mage2katas.com,TDD practice sessions for Magento 2 development by Vinai Kopp
+Screencasts,English,Mage2Katas,https://www.youtube.com/c/Mage2Katas,TDD practice sessions for Magento 2 development by Vinai Kopp
 Screencasts,English,Ecommerce Forest by Rebecca Brocton,https://www.youtube.com/c/rebeccabrocton,YouTube channel for fun & helpful Magento videos
 Screencasts,English,Magento DevChannel,https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q,YouTube channel by Max Pronko
 Screencasts,English,Kalen Jordan,https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg,YouTube channel by Kalen Jordan
-Screencasts,English,MageMinute,https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw,Magento News & Discussions from Jamersan
 Screencasts,English,Mage2.tv,https://www.mage2.tv/,Magento 2 Developer Screencasts
 Screencasts,English,M.academy,https://m.academy/,Learn the basics of Magento 2 programming & architecture
 Screencasts,English,eCommerceAholic,https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw,Discussions about Magento eCommerce platform by TJ Gamble
@@ -371,20 +364,20 @@ Screencasts,English,Matheus Gontijo,https://www.youtube.com/channel/UCnxvjCccLZQ
 Screencasts,English,Mage Engage,https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ,Video interviews of Magento people on YouTube
 Screencasts,English,JetRails,https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg,YouTube Channel by JetRails
 Screencasts,English,SwiftOtter,https://www.youtube.com/channel/UCD4FUoiuDt2UWhyOKiZm6rQ,YouTube Channel by SwiftOtter
-Screencasts,English,Load In The Loop,https://youtube.com/channel/UC7mcoC5hdn2yekrBUl9h8pQ,Magento Performance Podcast
-Screencasts,English,Live Magento #CoreReview,http://magento.wtf/,Lukasz Bajsarowicz’s Magento live core code review
+Screencasts,English,Load In The Loop,https://www.youtube.com/channel/UC7mcoC5hdn2yekrBUl9h8pQ,Magento Performance Podcast
+Screencasts,English,Live Magento #CoreReview,http://m2.yt,Lukasz Bajsarowicz’s Magento live core code review
 Screencasts,Russian,Макс Пронько,https://www.youtube.com/channel/UCB8LoPmC2MCVgohn_-gzU3A,YouTube channel by Max Pronko on Magento 2 development and programming in general
 Communities,Online,Commerce Hero,https://commercehero.io,Good Magento Developers at your fingertips
 Communities,Online,Magento Forum,https://community.magento.com/,"The ""brand new"" Magento forum"
-Communities,Online,Magento Stack Exchange,http://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform
-Communities,Online,Reddit,http://www.reddit.com/r/Magento/,Magento Sub-Reddit
+Communities,Online,Magento Stack Exchange,https://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform
+Communities,Online,Reddit,https://www.reddit.com/r/Magento/,Magento Sub-Reddit
 Communities,Online,Magento Speaker Directory,https://magento.mobilize.io,To connect speakers with event organizers.
 Communities,Online,Magento Community Portal,https://opensource.magento.com/,Join thousands of community developers working on different projects
 Communities,Argentina,MugAr,https://www.mugar.io,Magento Users Group ARgentina
 Communities,Ukraine,Mage2click,https://mage2.click,"Magento Users Group from Khmelnytskyi, Ukraine"
 Associations,,ExtDN,https://extdn.org/,A network of leading Magento extension developers
-Associations,,Firegento,http://firegento.com/,A group of Magento enthusiasts developing open source modules and organizing Hackathons and other events
-Associations,,Meet Magento Association,http://www.meet-magento.com/,"A non-profit organization, which handles all activities around the worldwide Meet Magento events and the localized Magento editions"
+Associations,,Firegento,https://firegento.com/,A group of Magento enthusiasts developing open source modules and organizing Hackathons and other events
+Associations,,Meet Magento Association,https://www.meet-magento.com/,"A non-profit organization, which handles all activities around the worldwide Meet Magento events and the localized Magento editions"
 Associations,,Dutchento,https://www.dutchento.org/,The Magento community in the Netherlands
 Associations,,OpenGento,https://opengento.fr/,The Magento community in France
 Associations,,Magento Association,https://www.magentoassociation.org/,The open and powerful Magento ecosystem
@@ -393,18 +386,17 @@ Events,,Magento Events Google Calendar,https://calendar.google.com/calendar/embe
 Events,,Magento Community Engineering,https://calendar.google.com/calendar/embed?src=sn3me3pduhd92hhk9s7frkn57o@group.calendar.google.com,A publicly available Google calendar with Magento Community Engineering’s schedule
 Events,,Contribution Day Organizer's Handbook,https://opensource.magento.com/contribution-day-handbook,This handbook aims to answer any questions you have on the matter.
 Events,Conferences,Mage Titans,http://www.magetitans.com/,A non-profit event for Magento developers in NL
-Events,Conferences,Mage Unconference,http://www.mageunconference.org/,A unique Magento community event
-Events,Conferences,Magento Live,http://magentolive.com/,A complement to Magento annual Imagine conference
-Events,Conferences,Meet Magento,http://www.meet-magento.com/,Meet Magento events website
+Events,Conferences,Mage Unconference,https://www.mageunconference.org/,A unique Magento community event
+Events,Conferences,Magento Live,https://summit-emea.adobe.com/emea/magento-live/,A complement to Magento annual Imagine conference
+Events,Conferences,Meet Magento,https://www.meet-magento.com/,Meet Magento events website
 Events,Conferences,Reacticon,https://reacticon.org/,The Magento Frontend Development Conference
 Events,Conferences,MageTestFest,https://magetestfest.com/,Magento. Software Testing. Party.
 Events,Conferences,MageCONF,https://www.mageconf.com.ua/,The main Magento event in Ukraine
 Events,Conferences,Adobe Summit,https://www.adobe.com/summit.html,Where Magento Imagine happens!
-Events,Meetups,All official Magento Meetups around the World,http://www.meetup.com/it-IT/pro/magento/,
+Events,Meetups,All official Magento Meetups around the World,https://www.meetup.com/it-IT/pro/magento/,
 Events,Competitions,MageDerby,https://magederby.com,The first international webshop development competition
-Module Repositories & Marketplaces,,Magento Marketplace,https://marketplace.magento.com/,The new Magento extension marketplace
-Module Repositories & Marketplaces,,Firegento Composer Repository,http://packages.firegento.com/,Magento Module Composer Repository
-Module Repositories & Marketplaces,,Packagento,https://packagento.com/,A curated list of open-source Magento 2 modules
+Module Repositories & Marketplaces,,Magento Marketplace,https://marketplace.magento.com,The new Magento extension marketplace
+Module Repositories & Marketplaces,,Firegento Composer Repository,https://packages.firegento.com/,Magento Module Composer Repository
 Dev boxes,Docker,Alan Kent's Docker image,https://hub.docker.com/r/alankent/gsd/,"Docker image for use with the book series ""Getting Stuff Done with Magento 2"""
 Dev boxes,Docker,Docker Hub by Mage Inferno,https://hub.docker.com/u/mageinferno/,Magento 2 Docker containers by Mage Inferno
 Dev boxes,Docker,Dockerize Magento 2,https://github.com/andreaskoch/dockerize-magento2,A composer package for dockerizing Magento 2
@@ -437,6 +429,6 @@ Dev boxes,Vagrant,MageScotch Box (PHP 5),https://github.com/joshuaswarren/magesc
 Dev boxes,Vagrant,MageScotch Box (PHP 7),https://github.com/joshuaswarren/magescotch,The PHP 7-based version of Magescotch
 Dev boxes,Vagrant,Vagrant Magento 2 Demo,https://github.com/davidalger/m2demo,A complete demo environment powered by Vagrant using either Digital Ocean or Virtual Box as a provider
 Dev boxes,Vagrant,Vagrant  Magento (1.9.2.2)  PHP-7.0.0,https://github.com/roman204/vagrant-magento-php7,This Vagrantbox will build a Virtual Server for Virtualbox based on Ubuntu 14.04
-Dev boxes,Vagrant,Vagrant for Magento 2 CE,https://github.com/paliarush/vagrant-magento,"Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)"
+Dev boxes,Vagrant,Vagrant for Magento 2 CE,https://github.com/paliarush/magento2-vagrant-for-developers,"Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)"
 Dev boxes,Other,Valet+,https://github.com/weprovide/valet-plus,"A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file. Refer to this article by Dave Macaulay for an easy installation on macOS: https://davemacaulay.com/the-easiest-way-to-install-magento-2-on-macos-using-valet-plus/"
 Dev boxes,Other,Warden,https://warden.dev/,A CLI utility for working with docker-compose environments.
