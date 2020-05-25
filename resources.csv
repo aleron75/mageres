@@ -20,7 +20,7 @@ Other Resources,Magento 2,GravDept’s Magento 2 Manuals,https://manuals.gravity
 Other Resources,Magento 2,Mage Mastery,https://magemastery.net/,Learning resources for Magento 2 developers
 Other Resources,Magento 2,The Magento Guidebook: 2019 Edition,https://jetrails.com/blog/the-magento-terms-glossary-guide/,A Glossary of Magento Terms and Phrases
 Other Resources,Magento 1,GravDept’s Magento 1 Manuals,https://manuals.gravitydept.com/frameworks/magento-1,
-Other Resources,Magento 1,Magento LTS,http://www.openmage.org/magento-lts/,An archive of Magento 1 and community driven bug fixes
+Other Resources,Magento 1,Magento LTS,https://www.openmage.org,An archive of Magento 1 and community driven bug fixes
 Certification,,Magento Certification,https://u.magento.com/certification,The catalog of all Magento certifications
 Certification,,M2 Certification Study Guides,https://github.com/df2k2/m2cert,Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
 Certification,,Magento 2 Certified Professional Developer notes,https://github.com/magento-notes/magento2-exam-notes,Preparation notes for Magento 2 Certified Professional Developer exam
@@ -420,6 +420,7 @@ Dev boxes,Docker,Dockerize Magento 2,https://github.com/tddwizard/magento2-docke
 Dev boxes,Docker,Mage2click Docker Magento,https://github.com/mage2click/m2c,Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 Dev boxes,Docker,DDEV-Local,https://github.com/drud/ddev,"Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2."
 Dev boxes,Docker,Magento 2 MEQP with Docker,https://hub.docker.com/r/wizkunde/docker-meqp,"Use docker to automatically test your extensions with MEQP, usable with CI tools like CircleCI"
+Dev boxes,Docker,Bitnami Docker Image for Magento,https://github.com/bitnami/bitnami-docker-magento,"Bitnami closely tracks upstream source changes and promptly publishes new versions of this image"
 Dev boxes,Kubernetes,Magento 2 Kubernetes DevBox,https://github.com/magento/magento2-kubernetes-devbox,"DevBox supporting multi-service deployment in one click, optimized for development scenarios using the local environment."
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 Dev boxes,Vagrant,Development Environment,https://github.com/davidalger/devenv,Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
