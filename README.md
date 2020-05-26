@@ -68,7 +68,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### Magento 1
 
 * [GravDept’s Magento 1 Manuals](https://manuals.gravitydept.com/frameworks/magento-1)
-* [Magento LTS](http://www.openmage.org/magento-lts/) - An archive of Magento 1 and community driven bug fixes
+* [Magento LTS](https://www.openmage.org) - An archive of Magento 1 and community driven bug fixes
 
 ### Magento 2
 
