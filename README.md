@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![437 resources](https://img.shields.io/badge/resources-437-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![438 resources](https://img.shields.io/badge/resources-438-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -261,6 +261,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Extension for Cookie SameSite attribute](https://github.com/Veriteworks/CookieFix) - This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
 * [Galactic Labs - Customer Group Payment Filters](https://github.com/galacticlabs/customer-group-payment-filters) - Magento 2 extension to exclude payment methods for selected customer groups.
+* [Integer_Net GlobalCustomLayout](https://github.com/integer-net/magento2-global-custom-layout) - Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id.
 * [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
 * [Lightspeed for Lighthouse optimizations](https://github.com/elgentos/magento2-lightspeed) - This module defines several sections where you can define common feedback from Google Lighthouse.
 * [Mage2Dark](https://mage2dark.net/) - Magento 2 Dark Theme for Admin Panel
