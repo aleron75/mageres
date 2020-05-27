@@ -207,6 +207,7 @@ Extensions,Magento 2,Magento 2 Nostalgia Admin Theme,https://github.com/magespic
 Extensions,Magento 2,Extension for Cookie SameSite attribute,https://github.com/Veriteworks/CookieFix,This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
 Extensions,Magento 2,Magenizr ResetUiBookmarks,https://github.com/magenizr/Magenizr_ResetUiBookmarks,"Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting"
 Extensions,Magento 2,MageKey AdcPopup,https://github.com/magekey/module-adc-popup,Add to cart popup with upsell products
+Extensions,Magento 2,MarkShust_SimpleData,https://github.com/markshust/magento2-module-simpledata,A module that simplifies calling Magento data structures and provides a SimpleDataPatch class which simplifies writing data patch scripts.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -420,7 +421,7 @@ Dev boxes,Docker,Dockerize Magento 2,https://github.com/tddwizard/magento2-docke
 Dev boxes,Docker,Mage2click Docker Magento,https://github.com/mage2click/m2c,Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 Dev boxes,Docker,DDEV-Local,https://github.com/drud/ddev,"Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2."
 Dev boxes,Docker,Magento 2 MEQP with Docker,https://hub.docker.com/r/wizkunde/docker-meqp,"Use docker to automatically test your extensions with MEQP, usable with CI tools like CircleCI"
-Dev boxes,Docker,Bitnami Docker Image for Magento,https://github.com/bitnami/bitnami-docker-magento,"Bitnami closely tracks upstream source changes and promptly publishes new versions of this image"
+Dev boxes,Docker,Bitnami Docker Image for Magento,https://github.com/bitnami/bitnami-docker-magento,Bitnami closely tracks upstream source changes and promptly publishes new versions of this image
 Dev boxes,Kubernetes,Magento 2 Kubernetes DevBox,https://github.com/magento/magento2-kubernetes-devbox,"DevBox supporting multi-service deployment in one click, optimized for development scenarios using the local environment."
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 Dev boxes,Vagrant,Development Environment,https://github.com/davidalger/devenv,Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
