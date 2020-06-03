@@ -56,11 +56,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) - All you have to know to start contributing to Magento.
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
-* [Magento Commerce 2.3 User Guide](https://docs.magento.com/m2/ee/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
-* [Magento Commerce for B2B 2.3 User Guide](https://docs.magento.com/m2/b2b/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
+* [Magento 2.3 User Guide](https://docs.magento.com/user-guide/) - Merchant-focused documentation for both Magento Commerce and Magento Open Source
 * [Magento Glossary](https://glossary.magento.com/) - The place where all the terminology for Magento products lives.
 * [Magento Localization](https://github.com/magento-l10n) - Magento Community Engineering Projects related to Localization, Translation and Globalization
-* [Magento Open Source 2.3 User Guide](https://docs.magento.com/m2/ce/user_guide/) - Merchant documentation and tutorials to help you manage a Magento store
 * [README template for Magento modules](https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3)
 
 ## Other Resources
@@ -261,6 +259,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Extension for Cookie SameSite attribute](https://github.com/Veriteworks/CookieFix) - This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
 * [Galactic Labs - Customer Group Payment Filters](https://github.com/galacticlabs/customer-group-payment-filters) - Magento 2 extension to exclude payment methods for selected customer groups.
+* [Google Tag Manager with Advance Data Layer](https://github.com/magepal/magento2-google-tag-manager) - The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
 * [Integer_Net GlobalCustomLayout](https://github.com/integer-net/magento2-global-custom-layout) - Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id.
 * [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
 * [Lightspeed for Lighthouse optimizations](https://github.com/elgentos/magento2-lightspeed) - This module defines several sections where you can define common feedback from Google Lighthouse.
@@ -270,6 +269,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magenizr ResetUiBookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
 * [Magento 2 Bash Install/Restore Script](https://github.com/yvoronoy/m2install) - A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
+* [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Magento 2 Blog is an extension that allows you to manage your store and blog from one place without having to rely on some third-party platforms.
 * [Magento 2 Cache Clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop-in replacement for bin/magento cache:clean with a file watcher
 * [Magento 2 CORS](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on GraphQL and REST APIs
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
