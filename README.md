@@ -42,15 +42,15 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Official Resources
 
-* [Magento Blog](https://magento.com/blog) - Get the latest in Magento News
+* [Magento Blog](https://magento.com/blog) - Get the latest news, tips and advice for maximizing your online store.
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
 * [Magento Documentation and Resources](https://magento.com/technical-resources) - Everything you need to build and manage a customized Magento storefront
-* [MagentoU Videos](https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40) - MagentoU playlist on YouTube
+* [Magento U Videos](https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40) - Samples of Magento U instructor-led and On-Demand courses.
 
 ### Magento 1
 
-* [Magento CE User Guide](https://docs.magento.com/m1/ce/user_guide/Magento_Community_Edition_User_Guide.html) - Where you’ll find the most up-to-date documentation for the current release, written with merchants in mind
-* [Magento EE User Guide](https://docs.magento.com/m1/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html)
+* [Magento Commerce User Guide](https://docs.magento.com/m1/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html)
+* [Magento Open Source User Guide](https://docs.magento.com/m1/ce/user_guide/Magento_Community_Edition_User_Guide.html) - Where you’ll find the most up-to-date documentation for the current release, written with merchants in mind
 
 ### Magento 2
 
@@ -58,7 +58,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
 * [Magento 2.3 User Guide](https://docs.magento.com/user-guide/) - Merchant-focused documentation for both Magento Commerce and Magento Open Source
 * [Magento Glossary](https://glossary.magento.com/) - The place where all the terminology for Magento products lives.
-* [Magento Localization](https://github.com/magento-l10n) - Magento Community Engineering Projects related to Localization, Translation and Globalization
+* [Magento Translation Projects](https://github.com/magento-l10n/i18n) - This is a home repository for all activities related to translation of Magento itself including all available editions and extensions developed by Magento, an Adobe Company and 3rd party Magento components.
 * [README template for Magento modules](https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3)
 
 ## Other Resources
