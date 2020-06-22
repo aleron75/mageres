@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![442 resources](https://img.shields.io/badge/resources-442-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![443 resources](https://img.shields.io/badge/resources-443-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -328,6 +328,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [ScandiPWA](https://github.com/scandipwa) - Progressive Web App for Magento by ScandiWeb
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
 * [Yireo CustomGraphQlQueryLimiter](https://github.com/yireo/Yireo_CustomGraphQlQueryLimiter) - Magento 2 module to enhance performance and security of your headless Magento.
+* [Yireo GraphQlRateLimiting](https://github.com/yireo/Yireo_GraphQlRateLimiting) - Magento 2 module to add rate limiting to GraphQL resources.
 * [Yireo SyncGraphQlSessionWithFrontend](https://github.com/yireo/Yireo_SyncGraphQlSessionWithFrontend) - Magento 2 module to sync a GraphQL session with the regular session.
 
 ## Blogs
