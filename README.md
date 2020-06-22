@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![450 resources](https://img.shields.io/badge/resources-450-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![451 resources](https://img.shields.io/badge/resources-451-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -81,6 +81,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ## Certification
 
 * [M2 Certification Study Guides](https://github.com/df2k2/m2cert) - Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
+* [Magento 2 Associate Developer Exam notes](https://docs.google.com/document/d/1t61AugL-wE2B7uBzw5ak_ZQTo3Yju_sjb42ecjnWkpc/edit) - A collection of notes about Magento 2 Associate Developer Exam.
 * [Magento 2 Certified Professional Developer notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
 * [Magento Certification](https://u.magento.com/certification) - The catalog of all Magento certifications
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
