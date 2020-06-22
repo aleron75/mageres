@@ -209,6 +209,7 @@ Extensions,Magento 2,MarkShust_SimpleData,https://github.com/markshust/magento2-
 Extensions,Magento 2,Integer_Net GlobalCustomLayout,https://github.com/integer-net/magento2-global-custom-layout,"Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id."
 Extensions,Magento 2,Magento 2 Blog Extension by Magefan,https://github.com/magefan/module-blog,Magento 2 Blog is an extension that allows you to manage your store and blog from one place without having to rely on some third-party platforms.
 Extensions,Magento 2,Google Tag Manager with Advance Data Layer,https://github.com/magepal/magento2-google-tag-manager,The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
+Extensions,Magento 2,CheckoutTester module for Magento 2,https://github.com/yireo/Yireo_CheckoutTester2,A simple extension to preview the checkout success-page at any time.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
