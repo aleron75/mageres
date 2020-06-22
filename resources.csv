@@ -214,6 +214,7 @@ Extensions,Magento 2,Magento 2 module for Whoops,https://github.com/yireo/Yireo_
 Extensions,Magento 2,Yireo AutoFlushCache,https://github.com/yireo/Yireo_AutoFlushCache,Automatically flush the cache whenever you save something in the System Configuration.
 Extensions,Magento 2,DisableLog2 for Magento 2,https://github.com/yireo/Yireo_DisableLog2,"This module disables various log attempts of the Magento core, improving performance slightly."
 Extensions,Magento 2,DisableServiceWorkerInAdmin for Magento 2,https://github.com/yireo/Yireo_DisableServiceWorkerInAdmin,Module used to unregister any ServiceWorkers when entering the backend.
+Extensions,Magento 2,Magento 2 module for WebP,https://github.com/yireo/Yireo_Webp2,Magento 2 module to add WebP support to Magento 2.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
