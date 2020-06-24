@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![451 resources](https://img.shields.io/badge/resources-451-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![453 resources](https://img.shields.io/badge/resources-453-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -215,6 +215,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [AvS Fast Simple Import](https://github.com/avstudnitz/AvS_FastSimpleImport) - Wrapper for Magento 1 Import/Export functionality which imports data from arrays
 * [b-responsive](https://github.com/interactiv4/b-responsive) - Magento Responsive Theme built with Twitter Bootstrap v3
 * [Compressed Magento 1.9 Sample Data](https://github.com/Vinai/compressed-magento-sample-data) - A reduced sample data archive for Magento 1 by Vinai Kopp
+* [CustomGento Tax Editor](https://github.com/customgento/magerun-tax-editor) - n98-magerun module for Magento 1 to edit the tax configuration.
 * [Danslo AoP](https://github.com/danslo/Danslo_Aop) - Enables Aspect-Oriented Programming in Magento
 * [Danslo ApiImport](https://github.com/danslo/ApiImport) - Wrapper for Magento Import/Export
 * [EcomDev Layout Compiler](https://github.com/EcomDev/EcomDev_LayoutCompiler) - Transforms recursive Magento 1 XML layout files into simple one level PHP code
@@ -250,6 +251,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merge all 3rd party extensions menu items in a common menu item
 * [CLI Plugin List for Magento 2](https://github.com/magento-hackathon/cli-plugin-list) - Get a good overview of plugins installed and be aware of their influence on your Magento 2 instance.
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) - Restricts payment methods to specific customer groups in Magento 2.
+* [CustomGento_CliTaxEditor](https://github.com/customgento/module-cli-tax-editor-m2) - Magento 2 module, which provides new console commands to edit the tax configuration.
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
 * [Data Faker For Magento 2](https://github.com/experius/Magento-2-Module-Experius-FakeMyData) - Replaces existing customer data for fake/anonymous data.
 * [DisableLog2 for Magento 2](https://github.com/yireo/Yireo_DisableLog2) - This module disables various log attempts of the Magento core, improving performance slightly.

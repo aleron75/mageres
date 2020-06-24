@@ -150,6 +150,7 @@ Extensions,Magento 1,Mgt Developer Toolbar for Magento 1,https://www.mgt-commerc
 Extensions,Magento 1,Atik CookieLaw,https://github.com/atik-lab/magento-cookielaw,Another EU Cookie Law Compliance
 Extensions,Magento 1,Two-Factor Authentication Plugin,https://github.com/jetrails/magento-twofactor,User-based 2FA enablement.
 Extensions,Magento 1,Magento – Cloudflare,https://github.com/jetrails/magento-cloudflare,Interact with popular Cloudflare features through Magento's backend portal.
+Extensions,Magento 1,CustomGento Tax Editor,https://github.com/customgento/magerun-tax-editor,n98-magerun module for Magento 1 to edit the tax configuration.
 Extensions,Magento 2,Magento 2 – Cloudflare,https://github.com/jetrails/magento2-cloudflare,Interact with popular Cloudflare features through Magento 2's backend portal.
 Extensions,Magento 2,Yireo GoogleTagManager2,https://github.com/yireo/Yireo_GoogleTagManager2,Add Google Tag Manager to Magento2
 Extensions,Magento 2,Danslo CleanCheckout,https://github.com/danslo/CleanCheckout,A drop-in replacement for the Magento 2 checkout
@@ -217,6 +218,7 @@ Extensions,Magento 2,DisableLog2 for Magento 2,https://github.com/yireo/Yireo_Di
 Extensions,Magento 2,DisableServiceWorkerInAdmin for Magento 2,https://github.com/yireo/Yireo_DisableServiceWorkerInAdmin,Module used to unregister any ServiceWorkers when entering the backend.
 Extensions,Magento 2,Magento 2 module for WebP,https://github.com/yireo/Yireo_Webp2,Magento 2 module to add WebP support to Magento 2.
 Extensions,Magento 2,Magento 2 Frontools,https://github.com/SnowdogApps/magento2-frontools,"Set of front-end tools for Magento 2, based on Gulp.js"
+Extensions,Magento 2,CustomGento_CliTaxEditor,https://github.com/customgento/module-cli-tax-editor-m2,"Magento 2 module, which provides new console commands to edit the tax configuration."
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
