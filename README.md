@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![453 resources](https://img.shields.io/badge/resources-453-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![449 resources](https://img.shields.io/badge/resources-449-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -347,7 +347,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [121eCommerce](https://www.121ecommerce.com/resources/blog/)
 * [Aheadworks Blog](https://www.aheadworks.com/blog/category/magento-2/)
-* [AionHill blog](https://aionhill.com/en/ecommerce-blog/)
 * [Alan Kent](https://alankent.me/)
 * [Alan Storm](https://alanstorm.com/category/magento/)
 * [Alexander Turiak](https://zifius.github.io/)
@@ -373,7 +372,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [DCKAP Blog](https://www.dckap.com/blog/)
 * [Dev98](https://dev98.de/)
 * [Elogic](https://elogic.co/blog/)
-* [ESchrade](https://www.eschrade.com/page/category/magento-2/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
 * [Firebear Studio Blog](https://firebearstudio.com/blog/)
@@ -414,7 +412,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/category/magento/)
 * [Mobecls](https://mobecls.com/e-commerce-tips/)
 * [Nathan McBride](https://nathanmcbride.io/blog)
-* [Newsgento](http://newsgento.com/)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento/)
 * [Onilab](https://onilab.com/blog/)
 * [ParadoxLabs](https://www.paradoxlabs.com/blog/)
@@ -565,10 +562,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Community Engineering](https://calendar.google.com/calendar/embed?src=sn3me3pduhd92hhk9s7frkn57o@group.calendar.google.com) - A publicly available Google calendar with Magento Community Engineering’s schedule
 * [Magento Event Listing](https://magento.com/events) - List of Magento Events on Magento site
 * [Magento Events Google Calendar](https://calendar.google.com/calendar/embed?src=9ns1e12ucfd84tpnsehekkc6g0@group.calendar.google.com) - A publicly available Google calendar with almost all Magento events around the world
-
-### Competitions
-
-* [MageDerby](https://magederby.com) - The first international webshop development competition
 
 ### Conferences
 
