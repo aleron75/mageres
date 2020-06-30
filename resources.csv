@@ -241,7 +241,6 @@ PWA,,Yireo GraphQlRateLimiting,https://github.com/yireo/Yireo_GraphQlRateLimitin
 Blogs,English,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,English,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
 Blogs,English,Aheadworks Blog,https://www.aheadworks.com/blog/category/magento-2/,
-Blogs,English,AionHill blog,https://aionhill.com/en/ecommerce-blog/,
 Blogs,English,Alan Kent,https://alankent.me/,
 Blogs,English,Alan Storm,https://alanstorm.com/category/magento/,
 Blogs,English,Amasty Blog,https://amasty.com/blog/,
@@ -261,7 +260,6 @@ Blogs,English,Creare Blog,https://www.creare.co.uk/blog/magento,
 Blogs,English,Cyrill Schumacher,https://cyrillschumacher.com/,
 Blogs,English,David Alger,https://davidalger.com/tags/magento/,
 Blogs,English,DCKAP Blog,https://www.dckap.com/blog/,
-Blogs,English,ESchrade,https://www.eschrade.com/page/category/magento-2/,
 Blogs,English,Excellence Technologies,http://excellencemagentoblog.com/,
 Blogs,English,Fabian Schmengler,http://www.schmengler-se.de/en/blog/,
 Blogs,English,Firebear Studio Blog,https://firebearstudio.com/blog/,
@@ -290,7 +288,6 @@ Blogs,English,Maxime Huran on Magento 1,https://www.maximehuran.fr/en/category/m
 Blogs,English,Maxime Huran on Magento 2,https://www.maximehuran.fr/en/category/magento-two/,
 Blogs,English,Meanbee,https://meanbee.com/developers.html,
 Blogs,English,Meetanshi Magento Blog,https://meetanshi.com/blog/,
-Blogs,English,Newsgento,http://newsgento.com/,
 Blogs,English,Nexcess Blog,https://blog.nexcess.net/category/magento/,
 Blogs,English,Phuc Vo,http://thienphucvx.com/,
 Blogs,English,Rocket Web,https://rocketweb.com/blog,
@@ -411,7 +408,6 @@ Events,Conferences,MageTestFest,https://magetestfest.com/,Magento. Software Test
 Events,Conferences,MageCONF,https://www.mageconf.com.ua/,The main Magento event in Ukraine
 Events,Conferences,Adobe Summit,https://www.adobe.com/summit.html,Where Magento Imagine happens!
 Events,Meetups,All official Magento Meetups around the World,https://www.meetup.com/it-IT/pro/magento/,
-Events,Competitions,MageDerby,https://magederby.com,The first international webshop development competition
 Module Repositories & Marketplaces,,Magento Marketplace,https://marketplace.magento.com,The new Magento extension marketplace
 Module Repositories & Marketplaces,,Firegento Composer Repository,https://packages.firegento.com/,Magento Module Composer Repository
 Dev boxes,Docker,Alan Kent's Docker image,https://hub.docker.com/r/alankent/gsd/,"Docker image for use with the book series ""Getting Stuff Done with Magento 2"""
