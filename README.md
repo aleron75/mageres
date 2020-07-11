@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![448 resources](https://img.shields.io/badge/resources-448-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![446 resources](https://img.shields.io/badge/resources-446-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -46,11 +46,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
 * [Magento Documentation and Resources](https://magento.com/technical-resources) - Everything you need to build and manage a customized Magento storefront
 * [Magento U Videos](https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40) - Samples of Magento U instructor-led and On-Demand courses.
-
-### Magento 1
-
-* [Magento Commerce User Guide](https://docs.magento.com/m1/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html)
-* [Magento Open Source User Guide](https://docs.magento.com/m1/ce/user_guide/Magento_Community_Edition_User_Guide.html) - Where you’ll find the most up-to-date documentation for the current release, written with merchants in mind
 
 ### Magento 2
 
