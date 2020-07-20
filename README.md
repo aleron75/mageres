@@ -394,7 +394,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageVision](https://www.magevision.com/blog/)
 * [MageWorx on Magento 1](https://www.mageworx.com/blog/magento/)
 * [MageWorx on Magento 2](https://www.mageworx.com/blog/magento-2/)
-* [Marcel Hauri](https://marcelhauri.ch/blog)
+* [Marcel Hauri](https://magento.marcelhauri.ch/blog)
 * [Mark Shust](https://markshust.com/tags/magento/)
 * [Max Chadwick](https://maxchadwick.xyz/blog/)
 * [Maxime Huran on Magento 1](https://www.maximehuran.fr/en/category/magento-one/)
