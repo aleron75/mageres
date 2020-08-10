@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![446 resources](https://img.shields.io/badge/resources-446-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![447 resources](https://img.shields.io/badge/resources-447-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -248,6 +248,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [CustomGento_CliTaxEditor](https://github.com/customgento/module-cli-tax-editor-m2) - Magento 2 module, which provides new console commands to edit the tax configuration.
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
 * [Data Faker For Magento 2](https://github.com/experius/Magento-2-Module-Experius-FakeMyData) - Replaces existing customer data for fake/anonymous data.
+* [Developer Toolbar by vpietri](https://github.com/vpietri/magento2-developer-quickdevbar) - The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running.
 * [DisableLog2 for Magento 2](https://github.com/yireo/Yireo_DisableLog2) - This module disables various log attempts of the Magento core, improving performance slightly.
 * [DisableServiceWorkerInAdmin for Magento 2](https://github.com/yireo/Yireo_DisableServiceWorkerInAdmin) - Module used to unregister any ServiceWorkers when entering the backend.
 * [Dutchento VAT Fallback](https://github.com/dutchento/m2-vatfallback) - Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
