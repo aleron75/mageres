@@ -142,7 +142,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Divante Anonymizer](https://github.com/DivanteLtd/anonymizer) - Universal tool to create anonymized DBs
 * [ExtDN Installer for Magento 2 modules](https://github.com/extdn/installer-m2) - Universal extension installer for Magento 2
 * [integer-net Anonymizer](https://github.com/integer-net/Anonymizer) - Anonymizes Magento Customer and Order data for Magento 1
-* [M2IF – Magento 2 Import Framework](https://m2if.com/) - A library supporting generic Magento 2 import functionality
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
 * [Magento 2 - composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB) - Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
 * [Magento 2 Code + DB Backup](https://github.com/MagePsycho/magento2-db-code-backup-bash-script) - An utility SSH script to backup the code + database of Magento 2
@@ -166,6 +165,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
 * [Oh My ZSH Plugin - Magento 2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) - Magento 2 autocomplete plugin for oh-my-zsh
 * [Optimize Composer for Magento 2 projects](https://github.com/fooman/composer-magento2-optimizations) - A composer-plugin that contains a set of improvements that makes running heavy-duty composer commands (i.e. composer update or composer require) much faster.
+* [Pacemaker](https://pacemaker.techdivision.com/en) - Import and process management tool for Magento
 * [PHPStorm Live Templates for Magento 2 by Mark Shust](https://github.com/markshust/phpstorm-magento-live-templates) - Magento 2 live templates for PHPStorm that help speed up the development process.
 * [PHPStorm Live Templates for Magento 2 by Nathan McBride](https://github.com/brideo/phpstorm-live-templates-magento-2) - A bunch of Magento 2 Live Templates for PHPStorm
 * [PhpStorm Magento 2 Plugin](https://github.com/magento/magento2-phpstorm-plugin) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
@@ -394,7 +394,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageVision](https://www.magevision.com/blog/)
 * [MageWorx on Magento 1](https://www.mageworx.com/blog/magento/)
 * [MageWorx on Magento 2](https://www.mageworx.com/blog/magento-2/)
-* [Marcel Hauri](https://magento.marcelhauri.ch/blog)
+* [Marcel Hauri](https://magento.marcelhauri.ch/blog/)
 * [Mark Shust](https://markshust.com/tags/magento/)
 * [Max Chadwick](https://maxchadwick.xyz/blog/)
 * [Maxime Huran on Magento 1](https://www.maximehuran.fr/en/category/magento-one/)
@@ -483,7 +483,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### English
 
 * [Actionable Insights](https://actionableinsights.fm/) - Practical insights by SwiftOtter
-* [Core of Commerce](https://www.coreofcommerce.com/) - Fortnightly insight into the latest European digital commerce news  by Vaimo
+* [Core of Commerce](https://twitter.com/CoreOfCommerce) - Core of Commerce equips you with cutting-edge knowledge to help you achieve and exceed your digital commerce goals
 * [MageTalk](https://magetalk.com/) - A Magento Podcast
 * [Merchant to Merchant](https://podcast.somethingdigital.com/) - Stories about digital commerce: for merchants, by merchants.
 * [The JetRails Podcast](https://jetrails.com/podcast/) - The JetRails Podcast for the Ecommerce Community

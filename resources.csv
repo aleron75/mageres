@@ -59,7 +59,7 @@ Tools,Free,netz98 magerun CLI tools for Magento 2,https://github.com/netz98/n98-
 Tools,Free,Magento 2 PHPStorm Preferences,https://github.com/staempfli/magento2-phpstorm-templates,PHPStorm Live template preferences for Magento 2 Projects
 Tools,Free,Magento administrative tool,https://github.com/magento-architects/magento-tool,Used to perform administrative tasks on Magento instances remotely.
 Tools,Free,Oh My ZSH Plugin - Magento 2,https://github.com/dambrogia/oh-my-zsh-plugin-magento-2,Magento 2 autocomplete plugin for oh-my-zsh
-Tools,Free,M2IF – Magento 2 Import Framework,https://m2if.com/,A library supporting generic Magento 2 import functionality
+Tools,Free,Pacemaker,https://pacemaker.techdivision.com/en,Import and process management tool for Magento
 Tools,Free,Magento 2 Ultimate Module Creator,https://github.com/UltimateModuleCreator/umc,A standalone application for creating Magento 2 CRUD modules
 Tools,Free,Magento 2 Code + DB Backup,https://github.com/MagePsycho/magento2-db-code-backup-bash-script,An utility SSH script to backup the code + database of Magento 2
 Tools,Free,Magento 2 Simplistic Installer,https://github.com/MagePsycho/magento2-installer-bash-script,A simplistic tool to install Magento 2 from different sources like tar & composer
@@ -295,7 +295,7 @@ Blogs,English,Sonassi,https://www.sonassi.com/blog,
 Blogs,English,Talesh Seeparsan,https://www.seeparsan.net/magento-blog/,
 Blogs,English,Yireo Blog,https://www.yireo.com/blog,
 Blogs,English,Dev98,https://dev98.de/,
-Blogs,English,Marcel Hauri,https://magento.marcelhauri.ch/blog,
+Blogs,English,Marcel Hauri,https://magento.marcelhauri.ch/blog/,
 Blogs,English,Pierre Fay,https://www.pierrefay.com/blog.html,
 Blogs,English,Revampix,https://www.revampix.com/,
 Blogs,English,MGT-Commerce Blog,https://www.mgt-commerce.com/blog/category/magento/,
@@ -356,7 +356,7 @@ Podcasts,English,The JetRails Podcast,https://jetrails.com/podcast/,The JetRails
 Podcasts,English,MageTalk,https://magetalk.com/,A Magento Podcast
 Podcasts,German,Magento Podcast DE,http://magentopodcast.de/,German-language podcast (ended 2012)
 Podcasts,English,Actionable Insights,https://actionableinsights.fm/,Practical insights by SwiftOtter
-Podcasts,English,Core of Commerce,https://www.coreofcommerce.com/,Fortnightly insight into the latest European digital commerce news  by Vaimo
+Podcasts,English,Core of Commerce,https://twitter.com/CoreOfCommerce,Core of Commerce equips you with cutting-edge knowledge to help you achieve and exceed your digital commerce goals
 Podcasts,English,Merchant to Merchant,https://podcast.somethingdigital.com/,"Stories about digital commerce: for merchants, by merchants."
 Podcasts,Dutch,Dutchento Experts Podcast,https://www.dutchento.org/podcast/,E-commerce experts and retailers interviews by Dutchento. Some episodes are recorded in English.
 Newsletters & Digests,,The Devletter,https://www.maxpronko.com/the-devletter/,Free weekly email digest by Max Pronko
