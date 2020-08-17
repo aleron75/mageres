@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![448 resources](https://img.shields.io/badge/resources-448-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![456 resources](https://img.shields.io/badge/resources-456-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -293,7 +293,15 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Marketplace](https://github.com/swissup/module-marketplace) - Magento modules and themes CLI/GUI downloader and installer
+* [MarkShust_DisableTwoFactorAuth](https://github.com/markshust/magento2-module-disabletwofactorauth) - Adds the missing toggle to turn 2FA on or off from the admin.
+* [MarkShust_ExtraBodyClasses](https://github.com/markshust/magento2-module-extrabodyclasses) - Adds the website and store codes to the body class attribute.
+* [MarkShust_HierarchyComplexIdCompatibility](https://github.com/markshust/magento2-module-hierarchycomplexidcompatibility) - This module changes the functionality when saving a hierarchy, making these longer URL strings compatible with long URL identifiers containing subpaths.
+* [MarkShust_Messages](https://github.com/markshust/magento2-module-messages) - Send success, notice, warning and error messages with HTML.
+* [MarkShust_OrderGrid](https://github.com/markshust/magento2-module-ordergrid) - Adds Order Items details to the order grid in the admin.
+* [MarkShust_PageBuilderSourceCode](https://github.com/markshust/magento2-module-pagebuildersourcecode) - Adds a Source Code button to the toolbar of the Page Builder WYSIWYG editor.
+* [MarkShust_RemoveFavicon](https://github.com/markshust/magento2-module-removefavicon) - Remove all favicons from the HTML head.
 * [MarkShust_SimpleData](https://github.com/markshust/magento2-module-simpledata) - A module that simplifies calling Magento data structures and provides a SimpleDataPatch class which simplifies writing data patch scripts.
+* [MarkShust_Twilio](https://github.com/markshust/magento2-module-twilio) - Sends SMS messages in response to Magento events.
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) - A dev toolbar that shows all important information for performance optimization and Magento development.
 * [MSP_SMTP](https://github.com/magespecialist/m2-MSP_SMTP) - MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
 * [MX Phinx Migrations](https://github.com/inviqa/MX_PhinxMigrations) - Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments.
