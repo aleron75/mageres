@@ -92,6 +92,7 @@ Tools,Free,Visual Studio Code startup task for cache-clean.js on Magento 2.,http
 Tools,Free,Capistrano::Magento2,https://github.com/davidalger/capistrano-magento2,A Capistrano extension for Magento 2 deployments.
 Tools,Free,SwiftOtter Magento CI Script System,https://github.com/SwiftOtter/MagentoCI,Magento continuous integration bash scripts. Makes deploying Magento easy.
 Tools,Free,SwiftOtter Drvier,https://github.com/SwiftOtter/Driver,A database task-runner specifically used for transforming a production database to a sandbox.
+Tools,Free,Butter - Smooth Magento 2 Versions Installer,https://github.com/redchamps/butter,A specialized tool to install a Magento version with just a single command.
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
@@ -216,7 +217,7 @@ Extensions,Magento 2,DisableServiceWorkerInAdmin for Magento 2,https://github.co
 Extensions,Magento 2,Magento 2 module for WebP,https://github.com/yireo/Yireo_Webp2,Magento 2 module to add WebP support to Magento 2.
 Extensions,Magento 2,Magento 2 Frontools,https://github.com/SnowdogApps/magento2-frontools,"Set of front-end tools for Magento 2, based on Gulp.js"
 Extensions,Magento 2,CustomGento_CliTaxEditor,https://github.com/customgento/module-cli-tax-editor-m2,"Magento 2 module, which provides new console commands to edit the tax configuration."
-Extensions,Magento 2,Developer Toolbar by vpietri,https://github.com/vpietri/magento2-developer-quickdevbar,"The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running."
+Extensions,Magento 2,Developer Toolbar by vpietri,https://github.com/vpietri/magento2-developer-quickdevbar,The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running.
 Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework

@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![447 resources](https://img.shields.io/badge/resources-447-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![448 resources](https://img.shields.io/badge/resources-448-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -136,6 +136,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Ampersand Magento2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper scripts to aid upgrading Magento 2 websites by detecting overrides
 * [baler](https://github.com/magento/baler) - AMD module bundler and preloader for Magento 2 stores
+* [Butter - Smooth Magento 2 Versions Installer](https://github.com/redchamps/butter) - A specialized tool to install a Magento version with just a single command.
 * [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) - A Capistrano extension for Magento 2 deployments.
 * [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer - usage guide: https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit
 * [Database Anonymizer](https://github.com/mpchadwick/dbanon) - A run-anywhere, dependency-less database anonymizer.
