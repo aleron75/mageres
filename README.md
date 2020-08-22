@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![456 resources](https://img.shields.io/badge/resources-456-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![457 resources](https://img.shields.io/badge/resources-457-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -600,6 +600,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Fabrizio Balliano's Magento2](https://github.com/fballiano/docker-magento2) - Varnish  PHP7  Redis cluster ready docker-compose infrastructure
 * [Karen Baker's Magento 2 simple docker build](https://github.com/wsakaren/m2SimpleDocker) - A simple and “get things done” Magento 2 local docker build
 * [Mage2click Docker Magento](https://github.com/mage2click/m2c) - Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
+* [Mage2Docker](https://github.com/graycoreio/mage2docker) - An opinionated, performant, replicable, and production-like Magento 2 local development environment that leverages Docker.
 * [Magedev](https://github.com/teamneusta/php-cli-magedev) - A shell tool for local Magento 1 & 2 development.
 * [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Official Magento 2 DevBox repository
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) - A collection of Docker images for running Magento 2 through nginx and on the command line
