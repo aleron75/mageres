@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![458 resources](https://img.shields.io/badge/resources-458-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![459 resources](https://img.shields.io/badge/resources-459-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -484,6 +484,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
 * [Magento Tweetorials](https://tweetorials.tumblr.com/)
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
+* [WebEcoms Magento Tutorials](https://webecoms.com/category/magento/) - A blog that provides, among others, useful Magento tutorials.
 
 ## Podcasts
 
