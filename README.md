@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![457 resources](https://img.shields.io/badge/resources-457-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![458 resources](https://img.shields.io/badge/resources-458-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -156,6 +156,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
 * [Magento Release Diffs](https://github.com/gravitydepartment/magento-release-diffs) - Useful release diffs for Magento 1 (without copyright changes).
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
+* [Magento Semantic Version Checker](https://github.com/magento/magento-semver) - A tool to determine semantic versioning changes and backward incompatible changes between two sources.
 * [Magento utilities Tap for Homebrew](https://github.com/fballiano/homebrew-mageutils)
 * [Mage Scan](https://github.com/steverobbins/magescan) - Scan a Magento site for information
 * [MageSuite](https://magesuite.io/) - A collection of OpenSource modules that enhance several Magento 2 capabilities (CMS, Performance, Security, Search, Marketin, UX)
