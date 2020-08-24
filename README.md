@@ -75,10 +75,12 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Certification
 
+### Magento 2
+
 * [M2 Certification Study Guides](https://github.com/df2k2/m2cert) - Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
 * [Magento 2 Associate Developer Exam notes](https://docs.google.com/document/d/1t61AugL-wE2B7uBzw5ak_ZQTo3Yju_sjb42ecjnWkpc/edit) - A collection of notes about Magento 2 Associate Developer Exam.
 * [Magento 2 Certified Professional Developer notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
-* [Magento Certification](https://u.magento.com/certification) - The catalog of all Magento certifications
+* [Magento Certification](https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce) - Adobe Magento Commerce certifications
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 * [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
 * [The (unofficial) 2020 Magento Certification Challenge](https://swiftotter.com/2020-unofficial-magento-certification-challenge) - Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
