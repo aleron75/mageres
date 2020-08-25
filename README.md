@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![396 resources](https://img.shields.io/badge/resources-396-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![398 resources](https://img.shields.io/badge/resources-398-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -71,6 +71,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Associate Developer Exam notes](https://docs.google.com/document/d/1t61AugL-wE2B7uBzw5ak_ZQTo3Yju_sjb42ecjnWkpc/edit) - A collection of notes about Magento 2 Associate Developer Exam.
 * [Magento 2 Certified Professional Developer notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
 * [Magento Certification](https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce) - Adobe Magento Commerce certifications
+* [Magento Certification Integration FAQ](https://spark.adobe.com/page/XQ6iZmLsFsHhi/)
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 * [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
 * [The (unofficial) 2020 Magento Certification Challenge](https://swiftotter.com/2020-unofficial-magento-certification-challenge) - Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
@@ -142,6 +143,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [PHPStorm Live Templates for Magento 2 by Mark Shust](https://github.com/markshust/phpstorm-magento-live-templates) - Magento 2 live templates for PHPStorm that help speed up the development process.
 * [PHPStorm Live Templates for Magento 2 by Nathan McBride](https://github.com/brideo/phpstorm-live-templates-magento-2) - A bunch of Magento 2 Live Templates for PHPStorm
 * [PhpStorm Magento 2 Plugin](https://github.com/magento/magento2-phpstorm-plugin) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
+* [Simple Import / Export tool](https://github.com/EcomDev/sync-magento-2-migration) - A tool that allows to quickly export data from Magento 1 and Magento 2 store and import it back into Magento 2. 
 * [SwiftOtter Driver](https://github.com/SwiftOtter/Driver) - A database task-runner specifically used for transforming a production database to a sandbox.
 * [SwiftOtter Magento CI Script System](https://github.com/SwiftOtter/MagentoCI) - Magento continuous integration bash scripts. Makes deploying Magento easy.
 * [The Installer](https://github.com/jacquesbh/installer) - PHP command line tool for Magento extension development and scaffolding

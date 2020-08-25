@@ -22,6 +22,7 @@ Certification,,SwiftOtter Certification Resources,https://swiftotter.com/certifi
 Certification,,Resources for the Magento 2 Certified Professional Front End Developer exam,https://github.com/fisheye-academy/m2cpfed-training,Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 Certification,,The (unofficial) 2020 Magento Certification Challenge,https://swiftotter.com/2020-unofficial-magento-certification-challenge,Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
 Certification,,Magento 2 Associate Developer Exam notes,https://docs.google.com/document/d/1t61AugL-wE2B7uBzw5ak_ZQTo3Yju_sjb42ecjnWkpc/edit,A collection of notes about Magento 2 Associate Developer Exam.
+Certification,,Magento Certification Integration FAQ,https://spark.adobe.com/page/XQ6iZmLsFsHhi/,
 Books,,Learning Magento 2 Administration,https://www.packtpub.com/web-development/learning-magento-2-administration,"A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016"
 Books,,Magento 2 Cookbook,https://www.packtpub.com/web-development/magento-2-cookbook,"Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016"
 Books,,Magento 2 Developer's Guide,https://www.packtpub.com/web-development/magento-2-developers-guide,"A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015"
@@ -76,6 +77,7 @@ Tools,Free,SwiftOtter Magento CI Script System,https://github.com/SwiftOtter/Mag
 Tools,Free,SwiftOtter Driver,https://github.com/SwiftOtter/Driver,A database task-runner specifically used for transforming a production database to a sandbox.
 Tools,Free,Butter - Smooth Magento 2 Versions Installer,https://github.com/redchamps/butter,A specialized tool to install a Magento version with just a single command.
 Tools,Free,Magento Semantic Version Checker,https://github.com/magento/magento-semver,A tool to determine semantic versioning changes and backward incompatible changes between two sources.
+Tools,Free,Simple Import / Export tool,https://github.com/EcomDev/sync-magento-2-migration,A tool that allows to quickly export data from Magento 1 and Magento 2 store and import it back into Magento 2. 
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
