@@ -1,60 +1,45 @@
 Official Resources,,Magento Blog,https://magento.com/blog,"Get the latest news, tips and advice for maximizing your online store."
 Official Resources,,Magento Documentation and Resources,https://magento.com/technical-resources,Everything you need to build and manage a customized Magento storefront
-Official Resources,Magento 2,Magento 2 code repository,https://github.com/magento/magento2,Official Magento 2 GitHub repository
+Official Resources,,Magento 2 code repository,https://github.com/magento/magento2,Official Magento 2 GitHub repository
 Official Resources,,Magento DevBlog,https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog,The official Magento developers blog
 Official Resources,,Magento U Videos,https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40,Samples of Magento U instructor-led and On-Demand courses.
-Official Resources,Magento 2,Magento 2.3 User Guide,https://docs.magento.com/user-guide/,Merchant-focused documentation for both Magento Commerce and Magento Open Source
-Official Resources,Magento 2,Magento Glossary,https://glossary.magento.com/,The place where all the terminology for Magento products lives.
-Official Resources,Magento 2,Beginner's Guide to Contribution,https://github.com/magento/magento2/wiki/Getting-Started,All you have to know to start contributing to Magento.
-Official Resources,Magento 2,README template for Magento modules,https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3,
-Official Resources,Magento 2,Magento Translation Projects,https://github.com/magento-l10n/i18n,"This is a home repository for all activities related to translation of Magento itself including all available editions and extensions developed by Magento, an Adobe Company and 3rd party Magento components."
-Other Resources,Magento 2,Fooman Magento Mirror,https://repo-magento-mirror.fooman.co.nz/,An alternative authentication free Magento 2 mirror
-Other Resources,Magento 2,Awesome Magento 2,https://github.com/DavidLambauer/awesome-magento2/,A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
-Other Resources,Magento 2,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
-Other Resources,Magento 2,MageQuest,https://magequest.io/,An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
-Other Resources,Magento 2,GravDept’s Magento 2 Manuals,https://manuals.gravitydept.com/frameworks/magento-2,
-Other Resources,Magento 2,Mage Mastery,https://magemastery.net/,Learning resources for Magento 2 developers
-Other Resources,Magento 2,The Magento Guidebook: 2019 Edition,https://jetrails.com/blog/the-magento-terms-glossary-guide/,A Glossary of Magento Terms and Phrases
-Other Resources,Magento 1,GravDept’s Magento 1 Manuals,https://manuals.gravitydept.com/frameworks/magento-1,
-Other Resources,Magento 1,Magento LTS,https://www.openmage.org,An archive of Magento 1 and community driven bug fixes
-Certification,Magento 2,Magento Certification,https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce,Adobe Magento Commerce certifications
-Certification,Magento 2,M2 Certification Study Guides,https://github.com/df2k2/m2cert,Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
-Certification,Magento 2,Magento 2 Certified Professional Developer notes,https://github.com/magento-notes/magento2-exam-notes,Preparation notes for Magento 2 Certified Professional Developer exam
-Certification,Magento 2,SwiftOtter Certification Resources,https://swiftotter.com/certifications,"Courses, Study Guides and Practice Tests for Magento 2 Certifications"
-Certification,Magento 2,Resources for the Magento 2 Certified Professional Front End Developer exam,https://github.com/fisheye-academy/m2cpfed-training,Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
-Certification,Magento 2,The (unofficial) 2020 Magento Certification Challenge,https://swiftotter.com/2020-unofficial-magento-certification-challenge,Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
-Certification,Magento 2,Magento 2 Associate Developer Exam notes,https://docs.google.com/document/d/1t61AugL-wE2B7uBzw5ak_ZQTo3Yju_sjb42ecjnWkpc/edit,A collection of notes about Magento 2 Associate Developer Exam.
-Books,Magento 1,Getting Started with Magento Extension Development,https://www.packtpub.com/web-development/getting-started-magento-extension-development,"A practical guide to building Magento modules from scratch; by Branko Ajzele, September 2013"
-Books,Magento 1,Magento Best Practices Handbook,https://leanpub.com/magebp,"A collection of practical tips to develop with Magento the right way; by Alessandro Ronchi, September 2015"
-Books,Magento 1,Grokking Magento,http://vinaikopp.com/grokking/,"Advanced Magento 1 development; by Vinai Kopp, March 2014"
-Books,Magento 1,Magento PHP Developer's Guide,https://magedevguide.com/,"A guide that helps new developers to quickly pick up the fundamentals of Magento system; by Allan MacGregor, April 2013"
-Books,Magento 1,Magento Product Types: Developer's Guide,https://leanpub.com/magentoproducttypesdevelopersguide,"A book that gives a deep inside on Magento product types; by Oleg Ishenko, October 2014"
-Books,Magento 1,Magento Search Engine Optimization,https://www.packtpub.com/web-development/magento-search-engine-optimization,"A book that uncovers the deep secrets of successful Search Engine Optimization; by Robert Kent, January 2014"
-Books,Magento 1,Mastering Magento Theme Design,https://www.packtpub.com/web-development/mastering-magento-theme-design,"A book that explores Magento theme design in depth; by Andrea Saccà, April 2014"
-Books,Magento 1,No Frills Command Line Magento,https://leanpub.com/command-line-magento/,"A crash course on efficient Magento administration, as well as PHP, Symfony, and Composer development; by Alan Storm, December 2014"
-Books,Magento 1,No Frills Magento Layout,https://store.pulsestorm.net/products/no-frills-magento-layout,"The only Magento book out there that covers, in full, the enigmatic XML Layout system; by Alan Storm, April 2011"
-Books,Magento 1,The Definitive Guide to Magento,https://www.amazon.co.uk/Definitive-Guide-Magento-Experts-Source-x/dp/1430272295,"A comprehensive look at Magento; by Adam McCombs, December 2009"
-Books,Magento 1,Magento 1.8 Development Cookbook,https://www.packtpub.com/web-development/magento-18-development-cookbook,"A book that helps you build a truly impressive customized online store; by Bart Delvaux & Nurul Ferdous, February 2014"
-Books,Magento 2,Learning Magento 2 Administration,https://www.packtpub.com/web-development/learning-magento-2-administration,"A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016"
-Books,Magento 2,Magento 2 Cookbook,https://www.packtpub.com/web-development/magento-2-cookbook,"Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016"
-Books,Magento 2,Magento 2 Developer's Guide,https://www.packtpub.com/web-development/magento-2-developers-guide,"A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015"
-Books,Magento 2,Magento 2 Development Cookbook,https://www.packtpub.com/web-development/magento-2-development-cookbook,"Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015"
-Books,Magento 2,Magento 2 Development Essentials,https://www.packtpub.com/web-development/magento-2-development-essentials,"A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016"
-Books,Magento 2,Magento 2 DIY. The Complete Guide,https://leanpub.com/magento2diy,"An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016"
-Books,Magento 2,Magento 2 Extensions Development,https://www.packtpub.com/web-development/magento-extensions-development,"A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016"
-Books,Magento 2,Mastering Magento 2 - Second Edition,https://www.packtpub.com/web-development/mastering-magento-2-second-edition,"This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016"
-Books,Magento 2,Magento 2 Beginners Guide,https://www.packtpub.com/web-development/magento-2-beginners-guide,"An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017"
-Books,Magento 2,Magento 2 Theme Design – Second Edition,https://www.packtpub.com/web-development/magento-2-theme-design-second-edition,"A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016"
-Books,Magento 2,Magento 2 Guida allo sviluppo,https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551,"This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018"
-Books,Magento 2,Magento 2 Development Quick Start Guide,https://www.packtpub.com/web-development/magento-2-development-quick-start-guide,"This book guides you through Magento development; by Branko Ajzele, September 2018"
+Official Resources,,Magento 2.3 User Guide,https://docs.magento.com/user-guide/,Merchant-focused documentation for both Magento Commerce and Magento Open Source
+Official Resources,,Magento Glossary,https://glossary.magento.com/,The place where all the terminology for Magento products lives.
+Official Resources,,Beginner's Guide to Contribution,https://github.com/magento/magento2/wiki/Getting-Started,All you have to know to start contributing to Magento.
+Official Resources,,README template for Magento modules,https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3,
+Official Resources,,Magento Translation Projects,https://github.com/magento-l10n/i18n,"This is a home repository for all activities related to translation of Magento itself including all available editions and extensions developed by Magento, an Adobe Company and 3rd party Magento components."
+Other Resources,,Fooman Magento Mirror,https://repo-magento-mirror.fooman.co.nz/,An alternative authentication free Magento 2 mirror
+Other Resources,,Awesome Magento 2,https://github.com/DavidLambauer/awesome-magento2/,A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
+Other Resources,,Community Resources,https://devdocs.magento.com/community/resources/resources.html,"Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics."
+Other Resources,,MageQuest,https://magequest.io/,An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
+Other Resources,,GravDept’s Magento 2 Manuals,https://manuals.gravitydept.com/frameworks/magento-2,
+Other Resources,,Mage Mastery,https://magemastery.net/,Learning resources for Magento 2 developers
+Other Resources,,The Magento Guidebook: 2019 Edition,https://jetrails.com/blog/the-magento-terms-glossary-guide/,A Glossary of Magento Terms and Phrases
+Certification,,Magento Certification,https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce,Adobe Magento Commerce certifications
+Certification,,M2 Certification Study Guides,https://github.com/df2k2/m2cert,Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
+Certification,,Magento 2 Certified Professional Developer notes,https://github.com/magento-notes/magento2-exam-notes,Preparation notes for Magento 2 Certified Professional Developer exam
+Certification,,SwiftOtter Certification Resources,https://swiftotter.com/certifications,"Courses, Study Guides and Practice Tests for Magento 2 Certifications"
+Certification,,Resources for the Magento 2 Certified Professional Front End Developer exam,https://github.com/fisheye-academy/m2cpfed-training,Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
+Certification,,The (unofficial) 2020 Magento Certification Challenge,https://swiftotter.com/2020-unofficial-magento-certification-challenge,Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
+Certification,,Magento 2 Associate Developer Exam notes,https://docs.google.com/document/d/1t61AugL-wE2B7uBzw5ak_ZQTo3Yju_sjb42ecjnWkpc/edit,A collection of notes about Magento 2 Associate Developer Exam.
+Books,,Learning Magento 2 Administration,https://www.packtpub.com/web-development/learning-magento-2-administration,"A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016"
+Books,,Magento 2 Cookbook,https://www.packtpub.com/web-development/magento-2-cookbook,"Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016"
+Books,,Magento 2 Developer's Guide,https://www.packtpub.com/web-development/magento-2-developers-guide,"A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015"
+Books,,Magento 2 Development Cookbook,https://www.packtpub.com/web-development/magento-2-development-cookbook,"Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015"
+Books,,Magento 2 Development Essentials,https://www.packtpub.com/web-development/magento-2-development-essentials,"A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016"
+Books,,Magento 2 DIY. The Complete Guide,https://leanpub.com/magento2diy,"An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016"
+Books,,Magento 2 Extensions Development,https://www.packtpub.com/web-development/magento-extensions-development,"A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016"
+Books,,Mastering Magento 2 - Second Edition,https://www.packtpub.com/web-development/mastering-magento-2-second-edition,"This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016"
+Books,,Magento 2 Beginners Guide,https://www.packtpub.com/web-development/magento-2-beginners-guide,"An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017"
+Books,,Magento 2 Theme Design – Second Edition,https://www.packtpub.com/web-development/magento-2-theme-design-second-edition,"A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016"
+Books,,Magento 2 Guida allo sviluppo,https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551,"This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018"
+Books,,Magento 2 Development Quick Start Guide,https://www.packtpub.com/web-development/magento-2-development-quick-start-guide,"This book guides you through Magento development; by Branko Ajzele, September 2018"
 Performance,,Mage.coach,https://mage.coach/,Your Magento Performance Coach
 Performance,,Magento default MySql settings,https://github.com/magenx/Magento-mysql,Default/startup settings for MySql database.
 Performance,,Magento Speed Test,http://www.magespeedtest.com/,Magento Speed Test with Siege
 Performance,,Blackfire.io,https://blackfire.io,Commercial code profiler (free tier available) which provides Magento-specific metrics and recommendations
 Performance,,Magepack,https://github.com/magesuite/magepack,Easy-to-use tool for making Magento 2 frontend as fast as never before.
-Tools,Free,Modman (Module Manager),https://github.com/colinmollenhour/modman,Allows you to separate your Magento 1 files from core files and keep different extensions under version control
 Tools,Free,PhpStorm Magento 2 Plugin,https://github.com/magento/magento2-phpstorm-plugin,"Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2"
-Tools,Free,netz98 magerun CLI tools for Magento 1,https://github.com/netz98/n98-magerun,Provides some handy tools to work with Magento from the command line
 Tools,Free,netz98 magerun CLI tools for Magento 2,https://github.com/netz98/n98-magerun2,The swiss army knife for Magento 2 developers
 Tools,Free,Magento 2 PHPStorm Preferences,https://github.com/staempfli/magento2-phpstorm-templates,PHPStorm Live template preferences for Magento 2 Projects
 Tools,Free,Magento administrative tool,https://github.com/magento-architects/magento-tool,Used to perform administrative tasks on Magento instances remotely.
@@ -66,7 +51,6 @@ Tools,Free,Magento 2 Simplistic Installer,https://github.com/MagePsycho/magento2
 Tools,Free,Ampersand Magento2 Upgrade Patch Helper,https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper,Helper scripts to aid upgrading Magento 2 websites by detecting overrides
 Tools,Free,Vaimo Composer Patches,https://github.com/vaimo/composer-patches,Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
 Tools,Free,Composer Patches,https://github.com/cweagans/composer-patches,Simple patches plugin for Composer - usage guide: https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit
-Tools,Free,Mage Scan,https://github.com/steverobbins/magescan,Scan a Magento site for information
 Tools,Free,Magento Coding Standard,https://github.com/magento/magento-coding-standard,A set of Magento rules for PHP_CodeSniffer tool.
 Tools,Free,Magento 2 DevTools,https://github.com/magento/m2-devtools,Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 Tools,Free,Magento 2 Database Backup Manager,https://github.com/Space48/magedbm2,A database backup manager for Magento 2 written with developers in mind.
@@ -77,8 +61,6 @@ Tools,Free,MageSuite,https://magesuite.io/,"A collection of OpenSource modules t
 Tools,Free,Magento 2 Code Generator Tool,https://github.com/staempfli/magento2-code-generator/,Code generator for Magento 2
 Tools,Free,Masquerade,https://github.com/elgentos/masquerade,"Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker/anonymizer tool"
 Tools,Free,Divante Anonymizer,https://github.com/DivanteLtd/anonymizer,Universal tool to create anonymized DBs
-Tools,Free,Magento Release Diffs,https://github.com/gravitydepartment/magento-release-diffs,Useful release diffs for Magento 1 (without copyright changes).
-Tools,Free,integer-net Anonymizer,https://github.com/integer-net/Anonymizer,Anonymizes Magento Customer and Order data for Magento 1
 Tools,Free,baler,https://github.com/magento/baler,AMD module bundler and preloader for Magento 2 stores
 Tools,Free,Magento 2 - composer patches helper,https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB,Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
 Tools,Free,The Installer,https://github.com/jacquesbh/installer,PHP command line tool for Magento extension development and scaffolding
@@ -91,7 +73,7 @@ Tools,Free,PHPStorm Live Templates for Magento 2 by Mark Shust,https://github.co
 Tools,Free,Visual Studio Code startup task for cache-clean.js on Magento 2.,https://gist.github.com/jrosell/f062e5be7468f620ab7c78a45ea9729e,A useful gist to add a startup task to automate the Magento 2 Cache Clean process.
 Tools,Free,Capistrano::Magento2,https://github.com/davidalger/capistrano-magento2,A Capistrano extension for Magento 2 deployments.
 Tools,Free,SwiftOtter Magento CI Script System,https://github.com/SwiftOtter/MagentoCI,Magento continuous integration bash scripts. Makes deploying Magento easy.
-Tools,Free,SwiftOtter Drvier,https://github.com/SwiftOtter/Driver,A database task-runner specifically used for transforming a production database to a sandbox.
+Tools,Free,SwiftOtter Driver,https://github.com/SwiftOtter/Driver,A database task-runner specifically used for transforming a production database to a sandbox.
 Tools,Free,Butter - Smooth Magento 2 Versions Installer,https://github.com/redchamps/butter,A specialized tool to install a Magento version with just a single command.
 Tools,Free,Magento Semantic Version Checker,https://github.com/magento/magento-semver,A tool to determine semantic versioning changes and backward incompatible changes between two sources.
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
@@ -99,141 +81,97 @@ Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/p
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
 Tools,Commercial with freemium/trial,Magicento,https://magicento.com/,PHPStorm plugin for both Magento 1 and Magento 2 developers
 Tools,Commercial with freemium/trial,Magerror,https://www.magerror.com,All your Magento reports in one place
-Security,,Magento SUPEE-6788 Developer Toolbox,https://github.com/rhoerr/supee-6788-toolbox,Must-have tool to apply SUPEE-6788 patch
-Security,,Philwinkle_AppliedPatches,https://github.com/philwinkle/Philwinkle_AppliedPatches,Useful extension to see a list of all applied patches from within the Magento admin panel
 Security,,Official Magento Security Center,https://magento.com/security,"The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes"
 Security,,MageReport.com,https://www.magereport.com/,Scan your Magento shop for known security vulnerabilities
-Security,,Magento Extension Security research,https://docs.google.com/forms/d/e/1FAIpQLSeEvCkPMsPY7zVdz-JU9WBO61CsSaighuGCwWMZA3_lRyLd7w/viewform,Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
-Security,,Magento-Pre-Patched-Files,https://github.com/magecomp/Magento-Pre-Patched-Files,Pre Patched files for installing Magento Security Patches without SSH.
-Security,,Mage Security Patcher,https://github.com/magesec/magesecuritypatcher,An effective alternative to the standard Magento patches.
 Security,,Magento Malware Scanner,https://github.com/gwillem/magento-malware-scanner,"Scanner, signatures and the largest Magento malware collection on earth"
 Security,,Magento Security Scan Tool,https://account.magento.com/scanner/,"Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account)."
-Security,,mage-one.com,https://mage-one.com/,A company which offers Paid security support for Magento 1 after its official End of Support
 Security,,Magento Patches,https://github.com/brentwpeterson/magento-patches,As many Magento patches as Brent Peterson can find!
 Security,,Magento Vulnerability Database,https://github.com/sansecio/magevulndb,List of Magento 1 and 2 integrations with known security issues
 Security,,Magento Security Checklist,https://github.com/talesh/magento-security-checklist,A Magento community-sourced security pre-flight checklist.
 Security,,Security.txt,https://github.com/kalpmehta/securitytxt,Security.txt for Magento 2 websites
 Security,,MageDef,https://www.magedef.com/,Free resources to build more reliable and defensible eCommerce platforms and software.
 Security,,InvalidateAdminPasswords Extension,https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords,A tool by SomethingDigital to invalidate all Magento admin user passwords
-Security,,Magento 1 Content Security Policy (CSP) Enforcement Extension,https://github.com/netalico/magento-1-csp,A Magento 1 module to easily create and manage a Content Security Policy (CSP)
 Security,,Magento Security Resources,https://github.com/gwillem/magento-security-resources,Crowd-sourced resources to help merchants mitigate and prevent Magento security incidents.
-Security,,Nexcess Safe Harbor,https://www.nexcess.net/nexcess-magento-1-safe-harbor/,Safe Harbor provides malware detection and threat monitoring for your store after Magento 1 reaches End of Life.
-Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
-Extensions,Magento 1,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
-Extensions,Magento 1,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
-Extensions,Magento 1,AOE Template Hints,https://github.com/AOEpeople/Aoe_TemplateHints,"Extends the default Magento ""Template Hints"" developer functionality by adding more information for each block"
-Extensions,Magento 1,Aschroder SMTPPro,https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension,Full SMTP and Gmail/Google Apps Email support for Magento 1
-Extensions,Magento 1,AvS Fast Simple Import,https://github.com/avstudnitz/AvS_FastSimpleImport,Wrapper for Magento 1 Import/Export functionality which imports data from arrays
-Extensions,Magento 1,b-responsive,https://github.com/interactiv4/b-responsive,Magento Responsive Theme built with Twitter Bootstrap v3
-Extensions,Magento 1,Compressed Magento 1.9 Sample Data,https://github.com/Vinai/compressed-magento-sample-data,A reduced sample data archive for Magento 1 by Vinai Kopp
-Extensions,Magento 1,Danslo AoP,https://github.com/danslo/Danslo_Aop,Enables Aspect-Oriented Programming in Magento
-Extensions,Magento 1,Danslo ApiImport,https://github.com/danslo/ApiImport,Wrapper for Magento Import/Export
-Extensions,Magento 1,EcomDev Layout Compiler,https://github.com/EcomDev/EcomDev_LayoutCompiler,Transforms recursive Magento 1 XML layout files into simple one level PHP code
-Extensions,Magento 1,Firegento Debug,https://github.com/firegento/firegento-debug,Provides some debugging functionality for Magento
-Extensions,Magento 1,Firegento Logger,https://github.com/firegento/firegento-logger,Provides a simple framework for different logging adapters
-Extensions,Magento 1,Firegento PDF,https://github.com/firegento/firegento-pdf,"Overwrites standard PDF layouts for invoices, shipments and credit memos"
-Extensions,Magento 1,Flagbit ChangeAttributeSet,https://github.com/Flagbit/Magento-ChangeAttributeSet,Extension that lets you change attribute set for every product
-Extensions,Magento 1,Magemonolog,https://github.com/aleron75/magemonolog,Provides a custom writer model to transparently use Monolog as logging library
-Extensions,Magento 1,LimeSoda Environment Configuration,https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration,
-Extensions,Magento 1,LimeSoda Sample Data Generator,https://github.com/LimeSoda/LimeSoda_SampleDataGenerator,"Generate Magento websites, stores, categories, products, customers, etc."
-Extensions,Magento 1,Magento Composer Installer,https://github.com/Cotya/magento-composer-installer,Enable composer to install Magento modules
-Extensions,Magento 1,Magento Project Mess Detector,https://github.com/AOEpeople/mpmd,n98-magerun addon to find out how messed up a Magento instance is
-Extensions,Magento 1,Magento PSR-0 Autoloader,https://github.com/magento-hackathon/Magento-PSR-0-Autoloader,Adds a PSR-0 Autoloader before the Magento Autoloader
-Extensions,Magento 1,MagentoTarToConnect,https://github.com/astorm/MagentoTarToConnect,Shell script by Alan Storm to package tar archives into Magento's Connect 2.0 format
-Extensions,Magento 1,Mageploy,https://github.com/pug-more/mageploy,Keep track of changes and deploy synchronization between different Magento environments
-Extensions,Magento 1,Ultimate Module Creator,https://github.com/tzyganu/UMC1.9,Extension that lets you create other Magento 1 CRUD modules for your own entities **unmaintained**
-Extensions,Magento 1,No Flash Image Uploader,https://github.com/openstream/No-Flash-Image-Uploader,This Magento module allows the upload of images without having the Flash player installed
-Extensions,Magento 1,N98_LayoutHelper,https://github.com/netz98/N98_LayoutHelper,Helpful methods to be called in layout actions to allow more customizations via local.xml without touching the original layout files
-Extensions,Magento 1,MageSpecialist DevTools for Magento 1,https://github.com/magespecialist/m1-MSP_DevTools,intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
-Extensions,Magento 1,Mgt Developer Toolbar for Magento 1,https://www.mgt-commerce.com/magento-developer-toolbar.html,"Magento 1 developer toolbar with profiling, database queries, handles, event/observer overview, block nesting, requests and caching."
-Extensions,Magento 1,Atik CookieLaw,https://github.com/atik-lab/magento-cookielaw,Another EU Cookie Law Compliance
-Extensions,Magento 1,Two-Factor Authentication Plugin,https://github.com/jetrails/magento-twofactor,User-based 2FA enablement.
-Extensions,Magento 1,Magento – Cloudflare,https://github.com/jetrails/magento-cloudflare,Interact with popular Cloudflare features through Magento's backend portal.
-Extensions,Magento 1,CustomGento Tax Editor,https://github.com/customgento/magerun-tax-editor,n98-magerun module for Magento 1 to edit the tax configuration.
-Extensions,Magento 2,Magento 2 – Cloudflare,https://github.com/jetrails/magento2-cloudflare,Interact with popular Cloudflare features through Magento 2's backend portal.
-Extensions,Magento 2,Yireo GoogleTagManager2,https://github.com/yireo/Yireo_GoogleTagManager2,Add Google Tag Manager to Magento2
-Extensions,Magento 2,Danslo CleanCheckout,https://github.com/danslo/CleanCheckout,A drop-in replacement for the Magento 2 checkout
-Extensions,Magento 2,MageMojo cron project,https://github.com/magemojo/m2-ce-cron,"This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution."
-Extensions,Magento 2,MSP_SMTP,https://github.com/magespecialist/m2-MSP_SMTP,MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
-Extensions,Magento 2,Magento 2 SMTP by MagePal,https://github.com/magepal/magento2-gmail-smtp-app,"Configure Magento 2 to send email using custom SMTP server, Gmail, Amazon SES, Office365 and other"
-Extensions,Magento 2,ElasticSuite for Magento 2,https://github.com/Smile-SA/elasticsuite,A feature-rich merchandising suite for Magento 2.
-Extensions,Magento 2,Magento 2 bash completion,https://github.com/yvoronoy/magento2-bash-completion,This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
-Extensions,Magento 2,Magento 2 Bash Install/Restore Script,https://github.com/yvoronoy/m2install,A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
-Extensions,Magento 2,Magento 2 Cron Job Manager,https://github.com/Ethan3600/magento2-CronjobManager,A Cron Job Manager Module by Ethan Yehuda
-Extensions,Magento 2,MageSpecialist CodeMonkey,https://github.com/magespecialist/m2-MSP_CodeMonkey,Magento 2 code generator
-Extensions,Magento 2,MageSpecialist DevTools for Magento 2,https://github.com/magespecialist/m2-MSP_DevTools,intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
-Extensions,Magento 2,Mgt Developer Toolbar for Magento 2,https://github.com/mgtcommerce/Mgt_Developertoolbar,A dev toolbar that shows all important information for performance optimization and Magento development.
-Extensions,Magento 2,Magento 2 Deployer Plus,https://github.com/jalogut/magento2-deployer-plus,Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
-Extensions,Magento 2,Magento 2 Easy Template Path Hints,https://github.com/MagePsycho/magento2-easy-template-path-hints,Magento 2 module to enable the template path hints on the fly just by using query strings.
-Extensions,Magento 2,Magento 2 Cache Clean,https://github.com/mage2tv/magento-cache-clean,A faster drop-in replacement for bin/magento cache:clean with a file watcher
-Extensions,Magento 2,AvS_DisableModules,https://github.com/avstudnitz/AvS_DisableModules,Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
-Extensions,Magento 2,Fisheye_UrlRewriteOptimiser,https://github.com/fisheyehq/module-url-rewrite-optimiser,A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
-Extensions,Magento 2,MX Phinx Migrations,https://github.com/inviqa/MX_PhinxMigrations,"Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments."
-Extensions,Magento 2,Elgento’s Regenerate Catalog URLs,https://github.com/elgentos/regenerate-catalog-urls,Set of console commands to regenerate catalog URLs.
-Extensions,Magento 2,Yireo ExtensionChecker,https://github.com/yireo/Yireo_ExtensionChecker,Magento 2 module to check upon the code of Magento 2 modules from the CLI
-Extensions,Magento 2,Integer_Net Session Unblocker,https://github.com/integer-net/magento2-session-unblocker,Module for Magento 2 that prevents session blocking between concurrent AJAX requests
-Extensions,Magento 2,Extension Dashboard,https://github.com/extdn/extension-dashboard-m2,A Magento 2 dashboard to display installed extensions.
-Extensions,Magento 2,Magento 2 Interceptor classes generator,https://github.com/creatuity/magento2-interceptors,New interceptors approach for Magento 2
-Extensions,Magento 2,Yireo LinkPreload,https://github.com/yireo/Yireo_LinkPreload,Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
-Extensions,Magento 2,CLI Plugin List for Magento 2,https://github.com/magento-hackathon/cli-plugin-list,Get a good overview of plugins installed and be aware of their influence on your Magento 2 instance.
-Extensions,Magento 2,Yireo DevHacks,https://github.com/yireo/Yireo_DevHacks,Magento 2 module with various hacks and solutions for custom development
-Extensions,Magento 2,BitExpert_ForceCustomerLogin,https://github.com/bitExpert/magento2-force-login,Magento 2 module that forces customer login to see website pages.
-Extensions,Magento 2,Magento2 Defer Javascripts,https://github.com/fballiano/magento2-defer-javascripts,Defer Javascripts module for Magento 2
-Extensions,Magento 2,Magento 2 removal of all optional modules,https://github.com/yireo/magento2-replace-all,A composer meta-package that removes numerous Magento 2 modules
-Extensions,Magento 2,N98_Guillotine,https://github.com/netz98/headless-guillotine,A simple but useful module to disable frontend requests to implement a headless approach.
-Extensions,Magento 2,Siment_HttpHeaderThemeSwitch,https://github.com/siment/magento2-http-header-theme-switch,Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
-Extensions,Magento 2,Yireo’s Common ViewModels,https://github.com/yireo/Yireo_CommonViewModels,Common ViewModels for usage in Magento 2.2.1+ frontends.
-Extensions,Magento 2,Data Faker For Magento 2,https://github.com/experius/Magento-2-Module-Experius-FakeMyData,Replaces existing customer data for fake/anonymous data.
-Extensions,Magento 2,Additional Payment Checks,https://github.com/smaex/additional-payment-checks,Enables additional checks for payment methods in Magento 2.
-Extensions,Magento 2,Customer Group Payments,https://github.com/smaex/customer-group-payments,Restricts payment methods to specific customer groups in Magento 2.
-Extensions,Magento 2,Magento2 Flysystem,https://github.com/flagbit/Magento2-Flysystem,Integrate Flysystem for local and remote filesystems into Magento2.
-Extensions,Magento 2,Magento 2 Debug Helper,https://github.com/shkoliar/magento-debug-helper,Automatic breakpoints on PhpStorm based on search parameters.
-Extensions,Magento 2,Galactic Labs - Customer Group Payment Filters,https://github.com/galacticlabs/customer-group-payment-filters,Magento 2 extension to exclude payment methods for selected customer groups.
-Extensions,Magento 2,elgentos Large Config Products,https://github.com/elgentos/LargeConfigProducts,Workaround extension to work with extremely large configurable products (5000+ skus)
-Extensions,Magento 2,Dutchento VAT Fallback,https://github.com/dutchento/m2-vatfallback,Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
-Extensions,Magento 2,elgentos Prismic.io,https://github.com/elgentos/magento2-prismicio,Extension to integrate headless CMS Prismic.io into Magento 2
-Extensions,Magento 2,Mage2Dark,https://mage2dark.net/,Magento 2 Dark Theme for Admin Panel
-Extensions,Magento 2,Clean Admin Menu,https://github.com/redchamps/clean-admin-menu,Merge all 3rd party extensions menu items in a common menu item
-Extensions,Magento 2,Magento 2 Grid Colors,https://github.com/shkoliar/magento-grid-colors,Adds extra coloring features to admin grids
-Extensions,Magento 2,Magento 2 CORS,https://github.com/graycoreio/magento2-cors,Enables configurable CORS Headers on GraphQL and REST APIs
-Extensions,Magento 2,Lightspeed for Lighthouse optimizations,https://github.com/elgentos/magento2-lightspeed,This module defines several sections where you can define common feedback from Google Lighthouse.
-Extensions,Magento 2,Magento 2 Private Packagist Integration,https://packagist.org/packages/wizkunde/magento2-packagist,Connect your Magento 2 webshop to private packagist and distribute extensions to your customer smarter
-Extensions,Magento 2,Add an order comments field in the default checkout for Magento 2,https://github.com/boldcommerce/magento2-ordercomments,Add an order comments field in the default checkout for Magento 2.
-Extensions,Magento 2,UMC CRUD for Magento 2,https://github.com/UltimateModuleCreator/umc-crud,A module intended to reduce the boilerplate code when creating a CRUD extension.
-Extensions,Magento 2,Marketplace,https://github.com/swissup/module-marketplace,Magento modules and themes CLI/GUI downloader and installer
-Extensions,Magento 2,Admin Activity,https://github.com/kiwicommerce/magento2-admin-activity,"Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them."
-Extensions,Magento 2,Magento 2 Nostalgia Admin Theme,https://github.com/magespices/mage2nostalgia,"A brand new, compact and eye friendly admin theme, inspired by Magento 1."
-Extensions,Magento 2,Extension for Cookie SameSite attribute,https://github.com/Veriteworks/CookieFix,This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
-Extensions,Magento 2,Magenizr ResetUiBookmarks,https://github.com/magenizr/Magenizr_ResetUiBookmarks,"Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting"
-Extensions,Magento 2,MageKey AdcPopup,https://github.com/magekey/module-adc-popup,Add to cart popup with upsell products
-Extensions,Magento 2,MarkShust_SimpleData,https://github.com/markshust/magento2-module-simpledata,A module that simplifies calling Magento data structures and provides a SimpleDataPatch class which simplifies writing data patch scripts.
-Extensions,Magento 2,Integer_Net GlobalCustomLayout,https://github.com/integer-net/magento2-global-custom-layout,"Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id."
-Extensions,Magento 2,Magento 2 Blog Extension by Magefan,https://github.com/magefan/module-blog,Magento 2 Blog is an extension that allows you to manage your store and blog from one place without having to rely on some third-party platforms.
-Extensions,Magento 2,Google Tag Manager with Advance Data Layer,https://github.com/magepal/magento2-google-tag-manager,The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
-Extensions,Magento 2,CheckoutTester module for Magento 2,https://github.com/yireo/Yireo_CheckoutTester2,A simple extension to preview the checkout success-page at any time.
-Extensions,Magento 2,Magento 2 module for Whoops,https://github.com/yireo/Yireo_Whoops,Magento 2 module integrating Whoops error handling.
-Extensions,Magento 2,Yireo AutoFlushCache,https://github.com/yireo/Yireo_AutoFlushCache,Automatically flush the cache whenever you save something in the System Configuration.
-Extensions,Magento 2,DisableLog2 for Magento 2,https://github.com/yireo/Yireo_DisableLog2,"This module disables various log attempts of the Magento core, improving performance slightly."
-Extensions,Magento 2,DisableServiceWorkerInAdmin for Magento 2,https://github.com/yireo/Yireo_DisableServiceWorkerInAdmin,Module used to unregister any ServiceWorkers when entering the backend.
-Extensions,Magento 2,Magento 2 module for WebP,https://github.com/yireo/Yireo_Webp2,Magento 2 module to add WebP support to Magento 2.
-Extensions,Magento 2,Magento 2 Frontools,https://github.com/SnowdogApps/magento2-frontools,"Set of front-end tools for Magento 2, based on Gulp.js"
-Extensions,Magento 2,CustomGento_CliTaxEditor,https://github.com/customgento/module-cli-tax-editor-m2,"Magento 2 module, which provides new console commands to edit the tax configuration."
-Extensions,Magento 2,Developer Toolbar by vpietri,https://github.com/vpietri/magento2-developer-quickdevbar,The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running.
-Extensions,Magento 2,MarkShust_DisableTwoFactorAuth,https://github.com/markshust/magento2-module-disabletwofactorauth,Adds the missing toggle to turn 2FA on or off from the admin.
-Extensions,Magento 2,MarkShust_HierarchyComplexIdCompatibility,https://github.com/markshust/magento2-module-hierarchycomplexidcompatibility,"This module changes the functionality when saving a hierarchy, making these longer URL strings compatible with long URL identifiers containing subpaths."
-Extensions,Magento 2,MarkShust_ExtraBodyClasses,https://github.com/markshust/magento2-module-extrabodyclasses,Adds the website and store codes to the body class attribute.
-Extensions,Magento 2,MarkShust_PageBuilderSourceCode,https://github.com/markshust/magento2-module-pagebuildersourcecode,Adds a Source Code button to the toolbar of the Page Builder WYSIWYG editor.
-Extensions,Magento 2,MarkShust_RemoveFavicon,https://github.com/markshust/magento2-module-removefavicon,Remove all favicons from the HTML head.
-Extensions,Magento 2,MarkShust_Twilio,https://github.com/markshust/magento2-module-twilio,Sends SMS messages in response to Magento events.
-Extensions,Magento 2,MarkShust_OrderGrid,https://github.com/markshust/magento2-module-ordergrid,Adds Order Items details to the order grid in the admin.
-Extensions,Magento 2,MarkShust_Messages,https://github.com/markshust/magento2-module-messages,"Send success, notice, warning and error messages with HTML."
-Testing,Magento 1,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
-Testing,Magento 1,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
-Testing,Magento 1,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
-Testing,Magento 1,xtest,https://github.com/code-x/magento-xtest,Simple Magento Testing Framework
-Testing,Magento 2,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
-Testing,Magento 2,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
-Testing,Magento 2,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
+Extensions,,Magento 2 – Cloudflare,https://github.com/jetrails/magento2-cloudflare,Interact with popular Cloudflare features through Magento 2's backend portal.
+Extensions,,Yireo GoogleTagManager2,https://github.com/yireo/Yireo_GoogleTagManager2,Add Google Tag Manager to Magento2
+Extensions,,Danslo CleanCheckout,https://github.com/danslo/CleanCheckout,A drop-in replacement for the Magento 2 checkout
+Extensions,,MageMojo cron project,https://github.com/magemojo/m2-ce-cron,"This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution."
+Extensions,,MSP_SMTP,https://github.com/magespecialist/m2-MSP_SMTP,MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
+Extensions,,Magento 2 SMTP by MagePal,https://github.com/magepal/magento2-gmail-smtp-app,"Configure Magento 2 to send email using custom SMTP server, Gmail, Amazon SES, Office365 and other"
+Extensions,,ElasticSuite for Magento 2,https://github.com/Smile-SA/elasticsuite,A feature-rich merchandising suite for Magento 2.
+Extensions,,Magento 2 bash completion,https://github.com/yvoronoy/magento2-bash-completion,This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
+Extensions,,Magento 2 Bash Install/Restore Script,https://github.com/yvoronoy/m2install,A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
+Extensions,,Magento 2 Cron Job Manager,https://github.com/Ethan3600/magento2-CronjobManager,A Cron Job Manager Module by Ethan Yehuda
+Extensions,,MageSpecialist CodeMonkey,https://github.com/magespecialist/m2-MSP_CodeMonkey,Magento 2 code generator
+Extensions,,MageSpecialist DevTools for Magento 2,https://github.com/magespecialist/m2-MSP_DevTools,intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
+Extensions,,Mgt Developer Toolbar for Magento 2,https://github.com/mgtcommerce/Mgt_Developertoolbar,A dev toolbar that shows all important information for performance optimization and Magento development.
+Extensions,,Magento 2 Deployer Plus,https://github.com/jalogut/magento2-deployer-plus,Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
+Extensions,,Magento 2 Easy Template Path Hints,https://github.com/MagePsycho/magento2-easy-template-path-hints,Magento 2 module to enable the template path hints on the fly just by using query strings.
+Extensions,,Magento 2 Cache Clean,https://github.com/mage2tv/magento-cache-clean,A faster drop-in replacement for bin/magento cache:clean with a file watcher
+Extensions,,AvS_DisableModules,https://github.com/avstudnitz/AvS_DisableModules,Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
+Extensions,,Fisheye_UrlRewriteOptimiser,https://github.com/fisheyehq/module-url-rewrite-optimiser,A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
+Extensions,,MX Phinx Migrations,https://github.com/inviqa/MX_PhinxMigrations,"Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments."
+Extensions,,Elgento’s Regenerate Catalog URLs,https://github.com/elgentos/regenerate-catalog-urls,Set of console commands to regenerate catalog URLs.
+Extensions,,Yireo ExtensionChecker,https://github.com/yireo/Yireo_ExtensionChecker,Magento 2 module to check upon the code of Magento 2 modules from the CLI
+Extensions,,Integer_Net Session Unblocker,https://github.com/integer-net/magento2-session-unblocker,Module for Magento 2 that prevents session blocking between concurrent AJAX requests
+Extensions,,Extension Dashboard,https://github.com/extdn/extension-dashboard-m2,A Magento 2 dashboard to display installed extensions.
+Extensions,,Magento 2 Interceptor classes generator,https://github.com/creatuity/magento2-interceptors,New interceptors approach for Magento 2
+Extensions,,Yireo LinkPreload,https://github.com/yireo/Yireo_LinkPreload,Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
+Extensions,,CLI Plugin List for Magento 2,https://github.com/magento-hackathon/cli-plugin-list,Get a good overview of plugins installed and be aware of their influence on your Magento 2 instance.
+Extensions,,Yireo DevHacks,https://github.com/yireo/Yireo_DevHacks,Magento 2 module with various hacks and solutions for custom development
+Extensions,,BitExpert_ForceCustomerLogin,https://github.com/bitExpert/magento2-force-login,Magento 2 module that forces customer login to see website pages.
+Extensions,,Magento2 Defer Javascripts,https://github.com/fballiano/magento2-defer-javascripts,Defer Javascripts module for Magento 2
+Extensions,,Magento 2 removal of all optional modules,https://github.com/yireo/magento2-replace-all,A composer meta-package that removes numerous Magento 2 modules
+Extensions,,N98_Guillotine,https://github.com/netz98/headless-guillotine,A simple but useful module to disable frontend requests to implement a headless approach.
+Extensions,,Siment_HttpHeaderThemeSwitch,https://github.com/siment/magento2-http-header-theme-switch,Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
+Extensions,,Yireo’s Common ViewModels,https://github.com/yireo/Yireo_CommonViewModels,Common ViewModels for usage in Magento 2.2.1+ frontends.
+Extensions,,Data Faker For Magento 2,https://github.com/experius/Magento-2-Module-Experius-FakeMyData,Replaces existing customer data for fake/anonymous data.
+Extensions,,Additional Payment Checks,https://github.com/smaex/additional-payment-checks,Enables additional checks for payment methods in Magento 2.
+Extensions,,Customer Group Payments,https://github.com/smaex/customer-group-payments,Restricts payment methods to specific customer groups in Magento 2.
+Extensions,,Magento2 Flysystem,https://github.com/flagbit/Magento2-Flysystem,Integrate Flysystem for local and remote filesystems into Magento2.
+Extensions,,Magento 2 Debug Helper,https://github.com/shkoliar/magento-debug-helper,Automatic breakpoints on PhpStorm based on search parameters.
+Extensions,,Galactic Labs - Customer Group Payment Filters,https://github.com/galacticlabs/customer-group-payment-filters,Magento 2 extension to exclude payment methods for selected customer groups.
+Extensions,,elgentos Large Config Products,https://github.com/elgentos/LargeConfigProducts,Workaround extension to work with extremely large configurable products (5000+ skus)
+Extensions,,Dutchento VAT Fallback,https://github.com/dutchento/m2-vatfallback,Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
+Extensions,,elgentos Prismic.io,https://github.com/elgentos/magento2-prismicio,Extension to integrate headless CMS Prismic.io into Magento 2
+Extensions,,Mage2Dark,https://mage2dark.net/,Magento 2 Dark Theme for Admin Panel
+Extensions,,Clean Admin Menu,https://github.com/redchamps/clean-admin-menu,Merge all 3rd party extensions menu items in a common menu item
+Extensions,,Magento 2 Grid Colors,https://github.com/shkoliar/magento-grid-colors,Adds extra coloring features to admin grids
+Extensions,,Magento 2 CORS,https://github.com/graycoreio/magento2-cors,Enables configurable CORS Headers on GraphQL and REST APIs
+Extensions,,Lightspeed for Lighthouse optimizations,https://github.com/elgentos/magento2-lightspeed,This module defines several sections where you can define common feedback from Google Lighthouse.
+Extensions,,Magento 2 Private Packagist Integration,https://packagist.org/packages/wizkunde/magento2-packagist,Connect your Magento 2 webshop to private packagist and distribute extensions to your customer smarter
+Extensions,,Add an order comments field in the default checkout for Magento 2,https://github.com/boldcommerce/magento2-ordercomments,Add an order comments field in the default checkout for Magento 2.
+Extensions,,UMC CRUD for Magento 2,https://github.com/UltimateModuleCreator/umc-crud,A module intended to reduce the boilerplate code when creating a CRUD extension.
+Extensions,,Marketplace,https://github.com/swissup/module-marketplace,Magento modules and themes CLI/GUI downloader and installer
+Extensions,,Admin Activity,https://github.com/kiwicommerce/magento2-admin-activity,"Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them."
+Extensions,,Magento 2 Nostalgia Admin Theme,https://github.com/magespices/mage2nostalgia,"A brand new, compact and eye friendly admin theme, inspired by Magento 1."
+Extensions,,Extension for Cookie SameSite attribute,https://github.com/Veriteworks/CookieFix,This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
+Extensions,,Magenizr ResetUiBookmarks,https://github.com/magenizr/Magenizr_ResetUiBookmarks,"Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting"
+Extensions,,MageKey AdcPopup,https://github.com/magekey/module-adc-popup,Add to cart popup with upsell products
+Extensions,,MarkShust_SimpleData,https://github.com/markshust/magento2-module-simpledata,A module that simplifies calling Magento data structures and provides a SimpleDataPatch class which simplifies writing data patch scripts.
+Extensions,,Integer_Net GlobalCustomLayout,https://github.com/integer-net/magento2-global-custom-layout,"Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id."
+Extensions,,Magento 2 Blog Extension by Magefan,https://github.com/magefan/module-blog,Magento 2 Blog is an extension that allows you to manage your store and blog from one place without having to rely on some third-party platforms.
+Extensions,,Google Tag Manager with Advance Data Layer,https://github.com/magepal/magento2-google-tag-manager,The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
+Extensions,,CheckoutTester module for Magento 2,https://github.com/yireo/Yireo_CheckoutTester2,A simple extension to preview the checkout success-page at any time.
+Extensions,,Magento 2 module for Whoops,https://github.com/yireo/Yireo_Whoops,Magento 2 module integrating Whoops error handling.
+Extensions,,Yireo AutoFlushCache,https://github.com/yireo/Yireo_AutoFlushCache,Automatically flush the cache whenever you save something in the System Configuration.
+Extensions,,DisableLog2 for Magento 2,https://github.com/yireo/Yireo_DisableLog2,"This module disables various log attempts of the Magento core, improving performance slightly."
+Extensions,,DisableServiceWorkerInAdmin for Magento 2,https://github.com/yireo/Yireo_DisableServiceWorkerInAdmin,Module used to unregister any ServiceWorkers when entering the backend.
+Extensions,,Magento 2 module for WebP,https://github.com/yireo/Yireo_Webp2,Magento 2 module to add WebP support to Magento 2.
+Extensions,,Magento 2 Frontools,https://github.com/SnowdogApps/magento2-frontools,"Set of front-end tools for Magento 2, based on Gulp.js"
+Extensions,,CustomGento_CliTaxEditor,https://github.com/customgento/module-cli-tax-editor-m2,"Magento 2 module, which provides new console commands to edit the tax configuration."
+Extensions,,Developer Toolbar by vpietri,https://github.com/vpietri/magento2-developer-quickdevbar,The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running.
+Extensions,,MarkShust_DisableTwoFactorAuth,https://github.com/markshust/magento2-module-disabletwofactorauth,Adds the missing toggle to turn 2FA on or off from the admin.
+Extensions,,MarkShust_HierarchyComplexIdCompatibility,https://github.com/markshust/magento2-module-hierarchycomplexidcompatibility,"This module changes the functionality when saving a hierarchy, making these longer URL strings compatible with long URL identifiers containing subpaths."
+Extensions,,MarkShust_ExtraBodyClasses,https://github.com/markshust/magento2-module-extrabodyclasses,Adds the website and store codes to the body class attribute.
+Extensions,,MarkShust_PageBuilderSourceCode,https://github.com/markshust/magento2-module-pagebuildersourcecode,Adds a Source Code button to the toolbar of the Page Builder WYSIWYG editor.
+Extensions,,MarkShust_RemoveFavicon,https://github.com/markshust/magento2-module-removefavicon,Remove all favicons from the HTML head.
+Extensions,,MarkShust_Twilio,https://github.com/markshust/magento2-module-twilio,Sends SMS messages in response to Magento events.
+Extensions,,MarkShust_OrderGrid,https://github.com/markshust/magento2-module-ordergrid,Adds Order Items details to the order grid in the admin.
+Extensions,,MarkShust_Messages,https://github.com/markshust/magento2-module-messages,"Send success, notice, warning and error messages with HTML."
+Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
+Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
+Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
 PWA,,PWA Studio,https://github.com/magento/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 PWA,,Deity Falcon,https://github.com/deity-io/falcon,"An Open Source, platform-agnostic, PWA front-end library for building any type of website."
 PWA,,Vue Storefront,https://github.com/DivanteLtd/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API."
@@ -366,7 +304,6 @@ Quickies & Tutorials,,Magento 2 Supported Versions,https://github.com/navarr/mag
 Quickies & Tutorials,,WebEcoms Magento Tutorials,https://webecoms.com/category/magento/,"A blog that provides, among others, useful Magento tutorials."
 Podcasts,English,The JetRails Podcast,https://jetrails.com/podcast/,The JetRails Podcast for the Ecommerce Community
 Podcasts,English,MageTalk,https://magetalk.com/,A Magento Podcast
-Podcasts,German,Magento Podcast DE,http://magentopodcast.de/,German-language podcast (ended 2012)
 Podcasts,English,Actionable Insights,https://actionableinsights.fm/,Practical insights by SwiftOtter
 Podcasts,English,Core of Commerce,https://twitter.com/CoreOfCommerce,Core of Commerce equips you with cutting-edge knowledge to help you achieve and exceed your digital commerce goals
 Podcasts,English,Merchant to Merchant,https://podcast.somethingdigital.com/,"Stories about digital commerce: for merchants, by merchants."
