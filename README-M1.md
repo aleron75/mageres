@@ -3,9 +3,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
 </p>
+
 This is a **discontinued** list of **useful resources** for the **glorious Magento 1**, which reached its end of life on June 30, 2020.
 
-If you are searching for the active list of resources for Magento 2, [here it is](README.md).
+We also have the active list of [resources for Magento 2](README.md).
 
 Resources are listed **alphabetically** within each category.
 
