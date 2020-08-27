@@ -7,5 +7,6 @@ docker run -ti --rm -v $(pwd):/mnt:ro dkhamsing/awesome_bot \
 --allow-dupe \
 --skip-save-results \
 --allow-ssl \
+--allow-redirect \
 --white-list https://opensource.magento.com/contribution-day-handbook,https://marketplace.magento.com,https://account.magento.com/scanner/  \
 ./README.md
