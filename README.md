@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![398 resources](https://img.shields.io/badge/resources-398-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![396 resources](https://img.shields.io/badge/resources-396-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -322,12 +322,10 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magestore](https://blog.magestore.com/)
 * [Magetraining Blog](https://mage.training/blog/)
 * [MageVision](https://www.magevision.com/blog/)
-* [MageWorx on Magento 1](https://www.mageworx.com/blog/magento/)
 * [MageWorx on Magento 2](https://www.mageworx.com/blog/magento-2/)
 * [Marcel Hauri](https://magento.marcelhauri.ch/blog/)
 * [Mark Shust](https://markshust.com/tags/magento/)
 * [Max Chadwick](https://maxchadwick.xyz/blog/)
-* [Maxime Huran on Magento 1](https://www.maximehuran.fr/en/category/magento-one/)
 * [Maxime Huran on Magento 2](https://www.maximehuran.fr/en/category/magento-two/)
 * [Max Pronko](https://www.maxpronko.com/)
 * [Max Yekaterynenko](https://maxyek.wordpress.com/)

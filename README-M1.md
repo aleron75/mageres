@@ -23,6 +23,7 @@ If you want to **stay up to date with Magento 2 resources**, you can [subscribe 
 * [Security](#security)
 * [Extensions](#extensions)
 * [Testing](#testing)
+* [Blogs](#blogs)
 * [Podcasts](#podcasts)
 * [Module Repositories & Marketplaces](#module-repositories--marketplaces)
 * [Dev boxes](#dev-boxes)
@@ -129,6 +130,13 @@ Since Magento 1 reached its EOL, there are no more official resources.
 * [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration **unmaintained**
 * [Magium](https://github.com/magium/Magium) - A PHPUnit/Webdriver (Selenium) based test framework
 * [xtest](https://github.com/code-x/magento-xtest) - Simple Magento Testing Framework
+
+## Blogs
+
+### English
+
+* [MageWorx on Magento 1](https://www.mageworx.com/blog/magento/)
+* [Maxime Huran on Magento 1](https://www.maximehuran.fr/en/category/magento-one/)
 
 ## Podcasts
 
