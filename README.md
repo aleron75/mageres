@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![398 resources](https://img.shields.io/badge/resources-398-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![399 resources](https://img.shields.io/badge/resources-399-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -417,6 +417,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageTalk](https://magetalk.com/) - A Magento Podcast
 * [Merchant to Merchant](https://podcast.somethingdigital.com/) - Stories about digital commerce: for merchants, by merchants.
 * [The JetRails Podcast](https://jetrails.com/podcast/) - The JetRails Podcast for the Ecommerce Community
+* [The Registry](https://podcast.theregistry.io/) - Two Dutch Magento developers Jisse Reitsma and Peter Jaap Blaakmeer rambling on about their daily grind!
 
 ## Newsletters & Digests
 
