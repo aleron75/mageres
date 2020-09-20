@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![402 resources](https://img.shields.io/badge/resources-402-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![403 resources](https://img.shields.io/badge/resources-403-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -254,6 +254,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ## PWA
 
 * [Additional GraphQL endpoints for Magento 2](https://github.com/yireo/Yireo_AdditionalEndpointsGraphQl) - Additional endpoints for loading information through GraphQL.
+* [Daffodil](https://github.com/graycoreio/daffodil) - A platform-agnostic frontend toolkit to improve developer workflow and improve end-user experience.
 * [Deity Falcon](https://github.com/deity-io/falcon) - An Open Source, platform-agnostic, PWA front-end library for building any type of website.
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
