@@ -78,6 +78,7 @@ Tools,Free,SwiftOtter Driver,https://github.com/SwiftOtter/Driver,A database tas
 Tools,Free,Butter - Smooth Magento 2 Versions Installer,https://github.com/redchamps/butter,A specialized tool to install a Magento version with just a single command.
 Tools,Free,Magento Semantic Version Checker,https://github.com/magento/magento-semver,A tool to determine semantic versioning changes and backward incompatible changes between two sources.
 Tools,Free,Simple Import / Export tool,https://github.com/EcomDev/sync-magento-2-migration,A tool that allows to quickly export data from Magento 1 and Magento 2 store and import it back into Magento 2. 
+Tools,Free,integer_net Magento 2 Module Template,https://github.com/integer-net/magento2-module-template,A template to easily get started with Magento open source module development.
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
