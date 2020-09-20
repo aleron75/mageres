@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl --white-list https://opensource.magento.com/contribution-day-handbook,https://marketplace.magento.com
+  - awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl --allow 206 --white-list https://opensource.magento.com/contribution-day-handbook,https://marketplace.magento.com

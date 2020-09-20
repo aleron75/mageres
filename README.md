@@ -493,7 +493,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Adobe Summit](https://www.adobe.com/summit.html) - Where Magento Imagine happens!
 * [MageCONF](https://www.mageconf.com.ua/) - The main Magento event in Ukraine
-* [Magento Live](https://summit-emea.adobe.com/emea/magento-live/) - A complement to Magento annual Imagine conference
+* [Magento Live](http://summit-emea.adobe.com/emea/magento-live/) - A complement to Magento annual Imagine conference
 * [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.
 * [Mage Titans](http://www.magetitans.com/) - A non-profit event for Magento developers in NL
 * [Mage Unconference](https://www.mageunconference.org/) - A unique Magento community event
