@@ -372,7 +372,6 @@ Dev boxes,Docker,Karen Baker's Magento 2 simple docker build,https://github.com/
 Dev boxes,Docker,Magento 2 Docker image,https://hub.docker.com/r/chadrien/magento2,
 Dev boxes,Docker,Magento 2 Docker to development,https://github.com/clean-docker/Magento2,"Docker image optimized to develop on Mac, Windows, and Linux"
 Dev boxes,Docker,Magento 2 with DB manager,https://github.com/ilampirai/docker-magento2,Magento 2 with DB manager running easily in just one build/run
-Dev boxes,Docker,Magento 2 DevBox,https://github.com/magento/magento2devbox-web,Official Magento 2 DevBox repository
 Dev boxes,Docker,Meanbee Environment Example,https://github.com/meanbee/magento2-environment,Development environment for Magento 2 builds based on PHP 7  NGINX  MySql
 Dev boxes,Docker,MGT Development Environment,https://www.mgt-commerce.com/cms/mgt-development-environment,Local Development Environment for Magento 1 and Magento 2 based on Docker
 Dev boxes,Docker,The Devilbox,https://github.com/cytopia/devilbox,A modern dockerized LAMP and MEAN stack alternative to XAMPP
@@ -390,7 +389,6 @@ Dev boxes,Docker,Bitnami Docker Image for Magento,https://github.com/bitnami/bit
 Dev boxes,Docker,Skywire Docker,https://github.com/skywire/skywire-docker,The Skyware team development environment.
 Dev boxes,Docker,Mage2Docker,https://github.com/graycoreio/mage2docker,"An opinionated, performant, replicable, and production-like Magento 2 local development environment that leverages Docker."
 Dev boxes,Docker,Docker Devbox,https://github.com/giuseppemorelli/docker-devbox/,A Docker dev box based on Devilbox
-Dev boxes,Kubernetes,Magento 2 Kubernetes DevBox,https://github.com/magento/magento2-kubernetes-devbox,"DevBox supporting multi-service deployment in one click, optimized for development scenarios using the local environment."
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 Dev boxes,Vagrant,Development Environment,https://github.com/davidalger/devenv,Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
 Dev boxes,Vagrant,Fast Hypernode Vagrant Box,https://github.com/ecomdev/fast-hypernode/,The fastest Magento Vagrant VM Fast Byte Hypernode Box

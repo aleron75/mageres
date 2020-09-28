@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![405 resources](https://img.shields.io/badge/resources-405-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![403 resources](https://img.shields.io/badge/resources-403-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -526,7 +526,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Mage2click Docker Magento](https://github.com/mage2click/m2c) - Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 * [Mage2Docker](https://github.com/graycoreio/mage2docker) - An opinionated, performant, replicable, and production-like Magento 2 local development environment that leverages Docker.
 * [Magedev](https://github.com/teamneusta/php-cli-magedev) - A shell tool for local Magento 1 & 2 development.
-* [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Official Magento 2 DevBox repository
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) - A collection of Docker images for running Magento 2 through nginx and on the command line
 * [Magento 2 Dockergento](https://github.com/ModestCoders/magento2-dockergento) - Magento 2 docker setup for development optimized for Mac
 * [Magento 2 Docker image](https://hub.docker.com/r/chadrien/magento2)
@@ -539,10 +538,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
 * [Skywire Docker](https://github.com/skywire/skywire-docker) - The Skyware team development environment.
 * [The Devilbox](https://github.com/cytopia/devilbox) - A modern dockerized LAMP and MEAN stack alternative to XAMPP
-
-### Kubernetes
-
-* [Magento 2 Kubernetes DevBox](https://github.com/magento/magento2-kubernetes-devbox) - DevBox supporting multi-service deployment in one click, optimized for development scenarios using the local environment.
 
 ### Other
 
