@@ -306,6 +306,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Firebear Studio Blog](https://firebearstudio.com/blog/)
 * [Fooman](https://store.fooman.co.nz/blog)
 * [Giel Berkers](https://gielberkers.com/)
+* [GoGento](https://gogento.com/blog)
 * [Ibnab Blog](https://www.ibnab.com/en/blog/magento-2)
 * [Inchoo](https://inchoo.net/magento/)
 * [integer_net Blog](https://www.integer-net.com/blog/)
@@ -345,7 +346,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Phuc Vo](http://thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/blog.html)
 * [Pinpoint](https://www.pinpointdesigns.co.uk/insights/)
-* [Qaisar Satti](http://blog.qaisarsatti.com/)
+* [Qaisar Satti](https://blog.qaisarsatti.com/)
 * [Rakesh Jesadiya](https://www.rakeshjesadiya.com/)
 * [Revampix](https://www.revampix.com/)
 * [Rocket Web](https://rocketweb.com/blog)
@@ -360,7 +361,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Tigren](https://www.tigren.com/magento-blog/)
 * [Timon de Groot](https://blog.timpack.org/)
 * [Visiture](https://www.visiture.com/blog/category/magento-2/)
-* [Wizkunde](https://wizkunde.com/blog)
 * [Yireo Blog](https://www.yireo.com/blog)
 
 ### French
