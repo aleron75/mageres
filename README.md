@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![403 resources](https://img.shields.io/badge/resources-403-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![404 resources](https://img.shields.io/badge/resources-404-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -338,6 +338,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Meanbee](https://meanbee.com/developers.html)
 * [Meetanshi Magento Blog](https://meetanshi.com/blog/)
 * [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/category/magento/)
+* [Michiel Gerritsen](https://www.michiel-gerritsen.com/)
 * [Mobecls](https://mobecls.com/e-commerce-tips/)
 * [Nathan McBride](https://nathanmcbride.io/blog)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento/)
