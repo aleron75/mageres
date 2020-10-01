@@ -224,7 +224,6 @@ Blogs,English,Inviqa,https://inviqa.com/blog,
 Blogs,English,Kalpesh Mehta,http://ka.lpe.sh/,
 Blogs,English,LexiConn,https://www.lexiconn.com/blog/category/magento/,
 Blogs,English,MageComp Magento Blog,https://magecomp.com/blog/,
-Blogs,English,Mage News,https://www.mage-news.de/,
 Blogs,English,Magenticians,https://magenticians.com/,
 Blogs,English,Magently Blog,https://magently.com/blog/,
 Blogs,English,Magento Blog,https://magento.com/blog,
@@ -390,6 +389,7 @@ Dev boxes,Docker,Bitnami Docker Image for Magento,https://github.com/bitnami/bit
 Dev boxes,Docker,Skywire Docker,https://github.com/skywire/skywire-docker,The Skyware team development environment.
 Dev boxes,Docker,Mage2Docker,https://github.com/graycoreio/mage2docker,"An opinionated, performant, replicable, and production-like Magento 2 local development environment that leverages Docker."
 Dev boxes,Docker,Docker Devbox,https://github.com/giuseppemorelli/docker-devbox/,A Docker dev box based on Devilbox
+Dev boxes,Docker,Magento 2 DevBox,https://github.com/magento/magento2devbox-web,Official Magento 2 DevBox repository
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 Dev boxes,Vagrant,Development Environment,https://github.com/davidalger/devenv,Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
 Dev boxes,Vagrant,Fast Hypernode Vagrant Box,https://github.com/ecomdev/fast-hypernode/,The fastest Magento Vagrant VM Fast Byte Hypernode Box
@@ -402,3 +402,4 @@ Dev boxes,Vagrant,Vagrant  Magento (1.9.2.2)  PHP-7.0.0,https://github.com/roman
 Dev boxes,Vagrant,Vagrant for Magento 2 CE,https://github.com/paliarush/magento2-vagrant-for-developers,"Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)"
 Dev boxes,Other,Valet+,https://github.com/weprovide/valet-plus,"A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file. Refer to this article by Dave Macaulay for an easy installation on macOS: https://davemacaulay.com/the-easiest-way-to-install-magento-2-on-macos-using-valet-plus/"
 Dev boxes,Other,Warden,https://warden.dev/,A CLI utility for working with docker-compose environments.
+Dev boxes,Kubernetes,Magento 2 Kubernetes DevBox,https://github.com/magento/magento2-kubernetes-devbox,"DevBox supporting multi-service deployment in one click, optimized for development scenarios using the local environment."
