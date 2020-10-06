@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![405 resources](https://img.shields.io/badge/resources-405-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![406 resources](https://img.shields.io/badge/resources-406-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -357,7 +357,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Space48 Blog](https://www.space48.com/blog/)
 * [SwiftOtter](https://swiftotter.com/technical)
 * [Talesh Seeparsan](https://www.seeparsan.net/magento-blog/)
-* [Tiago Sampaio](https://tiagosampaio.com/)
 * [Tigren](https://www.tigren.com/magento-blog/)
 * [Timon de Groot](https://blog.timpack.org/)
 * [Visiture](https://www.visiture.com/blog/category/magento-2/)
@@ -381,7 +380,9 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Portuguese
 
+* [Mageflix](https://mageflix.com/)
 * [Magenteiro](https://www.magenteiro.com/blog/)
+* [Tiago Sampaio](https://tiagosampaio.com/)
 
 ### Spanish
 
