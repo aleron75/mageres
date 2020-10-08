@@ -174,6 +174,7 @@ Extensions,,MarkShust_OrderGrid,https://github.com/markshust/magento2-module-ord
 Extensions,,MarkShust_Messages,https://github.com/markshust/magento2-module-messages,"Send success, notice, warning and error messages with HTML."
 Extensions,,Admin Notification Blocker,https://github.com/redchamps/admin-notification-blocker,A Magento 2 extension that allows us to block admin notification based on Severities/Categories.
 Extensions,,Magento 2 extension for Imgix,https://github.com/elgentos/magento2-imgix,An extension to automatically processes product images with Imgix service.
+Extensions,,Magento 2 Menu,https://github.com/SnowdogApps/magento2-menu,Provides powerful menu editor to replace category based menus in Magento 2.
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
@@ -192,7 +193,7 @@ PWA,,Yireo GraphQlRateLimiting,https://github.com/yireo/Yireo_GraphQlRateLimitin
 PWA,,Daffodil,https://github.com/graycoreio/daffodil,A platform-agnostic frontend toolkit to improve developer workflow and improve end-user experience.
 Blogs,English,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,English,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
-Blogs,English,Aheadworks Blog,https://www.aheadworks.com/blog/category/magento-2/,
+Blogs,English,Aheadworks Blog,https://aheadworks.com/blog/category/magento-2/,
 Blogs,English,Alan Kent,https://alankent.me/,
 Blogs,English,Alan Storm,https://alanstorm.com/category/magento/,
 Blogs,English,Amasty Blog,https://amasty.com/blog/,

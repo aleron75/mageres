@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![406 resources](https://img.shields.io/badge/resources-406-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![407 resources](https://img.shields.io/badge/resources-407-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -215,6 +215,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js
 * [Magento 2 Grid Colors](https://github.com/shkoliar/magento-grid-colors) - Adds extra coloring features to admin grids
 * [Magento 2 Interceptor classes generator](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
+* [Magento 2 Menu](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2.
 * [Magento 2 module for WebP](https://github.com/yireo/Yireo_Webp2) - Magento 2 module to add WebP support to Magento 2.
 * [Magento 2 module for Whoops](https://github.com/yireo/Yireo_Whoops) - Magento 2 module integrating Whoops error handling.
 * [Magento 2 Nostalgia Admin Theme](https://github.com/magespices/mage2nostalgia) - A brand new, compact and eye friendly admin theme, inspired by Magento 1.
@@ -274,7 +275,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### English
 
 * [121eCommerce](https://www.121ecommerce.com/resources/blog/)
-* [Aheadworks Blog](https://www.aheadworks.com/blog/category/magento-2/)
+* [Aheadworks Blog](https://aheadworks.com/blog/category/magento-2/)
 * [Alan Kent](https://alankent.me/)
 * [Alan Storm](https://alanstorm.com/category/magento/)
 * [Alexander Turiak](https://zifius.github.io/)
