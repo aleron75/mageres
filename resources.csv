@@ -175,6 +175,7 @@ Extensions,,MarkShust_Messages,https://github.com/markshust/magento2-module-mess
 Extensions,,Admin Notification Blocker,https://github.com/redchamps/admin-notification-blocker,A Magento 2 extension that allows us to block admin notification based on Severities/Categories.
 Extensions,,Magento 2 extension for Imgix,https://github.com/elgentos/magento2-imgix,An extension to automatically processes product images with Imgix service.
 Extensions,,Magento 2 Menu,https://github.com/SnowdogApps/magento2-menu,Provides powerful menu editor to replace category based menus in Magento 2.
+Extensions,,IntegerNet_RewriteMap Magento Module,https://github.com/integer-net/magento2-rewritemap,Generate RewriteMap files for Apache from custom Magento URL rewrites (redirects).
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
