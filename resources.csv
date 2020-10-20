@@ -192,7 +192,7 @@ PWA,,Yireo SyncGraphQlSessionWithFrontend,https://github.com/yireo/Yireo_SyncGra
 PWA,,Yireo CustomGraphQlQueryLimiter,https://github.com/yireo/Yireo_CustomGraphQlQueryLimiter,Magento 2 module to enhance performance and security of your headless Magento.
 PWA,,Yireo GraphQlRateLimiting,https://github.com/yireo/Yireo_GraphQlRateLimiting,Magento 2 module to add rate limiting to GraphQL resources.
 PWA,,Daffodil,https://github.com/graycoreio/daffodil,A platform-agnostic frontend toolkit to improve developer workflow and improve end-user experience.
-PWA,,PWA Studio extension starter template,https://github.com/larsroettig/pwa-studio-extension-starter,An extension starter for Magento PWA Studio: includes all you need to build an amazing extension.
+PWA,,PWA Studio extension generator,https://github.com/larsroettig/create-pwa-studio-extension,An extension generator for Magento PWA Studio: includes all you need to build an amazing extension.
 Blogs,English,Magenable,https://magenable.com.au/category/magento-ecommerce/,
 Blogs,English,Magento Fox Blog,https://adammoss.co.uk/magentofox/,
 Blogs,English,Aheadworks Blog,https://aheadworks.com/blog/category/magento-2/,

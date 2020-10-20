@@ -264,7 +264,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
 * [PWA Studio](https://github.com/magento/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
-* [PWA Studio extension starter template](https://github.com/larsroettig/pwa-studio-extension-starter) - An extension starter for Magento PWA Studio: includes all you need to build an amazing extension.
+* [PWA Studio extension generator](https://github.com/larsroettig/create-pwa-studio-extension) - An extension generator for Magento PWA Studio: includes all you need to build an amazing extension.
 * [PWA Studio Stats](https://pwastudio-stats.com/) - A list of PWA webshops built with Magento's PWA Studio
 * [ScandiPWA](https://github.com/scandipwa) - Progressive Web App for Magento by ScandiWeb
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
