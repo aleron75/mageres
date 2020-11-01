@@ -1,0 +1,14 @@
+name: update-readme
+on: [workflow_dispatch, push]
+jobs:
+  update-readme:
+    name: Readme Update
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run Readme Editor
+        run: |
+          php csv2md.php resources.csv README.md
+          git config user.name "Update README Action"
+          git config user.email github-actions@github.com
+          if [[ `git status --porcelain` ]]; then git add . && git commit -m "README.md updated by action" && git push; fi
