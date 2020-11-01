@@ -46,7 +46,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) - All you have to know to start contributing to Magento.
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
-* [Magento 2.3 User Guide](https://docs.magento.com/user-guide/) - Merchant-focused documentation for both Magento Commerce and Magento Open Source
+* [Magento 2.x User Guide](https://docs.magento.com/user-guide/) - Merchant-focused documentation for both Magento Commerce and Magento Open Source
 * [Magento Blog](https://magento.com/blog) - Get the latest news, tips and advice for maximizing your online store.
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
 * [Magento Documentation and Resources](https://magento.com/technical-resources) - Everything you need to build and manage a customized Magento storefront
