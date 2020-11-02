@@ -4,8 +4,8 @@ To add resources, follow these steps:
 
 * fork the repository
 * edit the `resources.csv`; you can do it with your preferred editor
-* after you have saved the `resources.csv` file, generate a new version of the `README.md` with the command: `php csv2md.php resources.csv README.md`
-* at this point you have both the `resources.csv` and `README.md` files changed; commit & push the files, summarizing what the commit does;
+* after you have saved the `resources.csv` file
+* commit & push the changes applied to `resources.csv`, summarizing what the commit does;
 * once your fork is up to date, [submit a pull request](https://help.github.com/articles/creating-a-pull-request/)
 
 What type of content is appreciated:
