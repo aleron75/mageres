@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![410 resources](https://img.shields.io/badge/resources-410-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![408 resources](https://img.shields.io/badge/resources-408-orange.svg?style=flat)](#table-of-contents) [![Build Status](https://api.travis-ci.com/aleron75/mageres.svg?branch=master)](https://travis-ci.com/aleron75/mageres)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -483,7 +483,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [ExtDN](https://extdn.org/) - A network of leading Magento extension developers
 * [Firegento](https://firegento.com/) - A group of Magento enthusiasts developing open source modules and organizing Hackathons and other events
 * [Magento Association](https://www.magentoassociation.org/) - The open and powerful Magento ecosystem
-* [Meet Magento Association](https://www.meet-magento.com/) - A non-profit organization, which handles all activities around the worldwide Meet Magento events and the localized Magento editions
 * [OpenGento](https://opengento.fr/) - The Magento community in France
 
 ## Events
@@ -497,7 +496,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Adobe Summit](https://www.adobe.com/summit.html) - Where Magento Imagine happens!
 * [MageCONF](https://www.mageconf.com.ua/) - The main Magento event in Ukraine
-* [Magento Live](http://summit-emea.adobe.com/emea/magento-live/) - A complement to Magento annual Imagine conference
 * [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.
 * [Mage Titans](http://www.magetitans.com/) - A non-profit event for Magento developers in NL
 * [Mage Unconference](https://www.mageunconference.org/) - A unique Magento community event
