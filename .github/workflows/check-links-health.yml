@@ -1,0 +1,32 @@
+name: Check Links Health
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 1 * * 0' # * is a special character in YAML so you have to quote this string
+
+jobs:
+  check-links-health:    
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Run awesome_bot
+      run: |
+           gem install awesome_bot
+           awesome_bot README.md --request-delay 1 --allow-dupe --white-list https://opensource.magento.com/contribution-day-handbook,https://marketplace.magento.com,https://account.magento.com/scanner/
+    - name: Create issue on awesome_bot fail            
+      if: ${{ failure() }}   
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
+      run: |
+           echo -n 'gh issue create --title ' > gh-issue.create.sh
+           echo -n `cat ab-results-README.md-markdown-table.json | jq '.title'` >> gh-issue.create.sh
+           echo -n ' --body ' >> gh-issue.create.sh
+           echo `cat ab-results-README.md-markdown-table.json | jq '.message'` >> gh-issue.create.sh           
+           sed -i 's/`/\\`/g' gh-issue.create.sh
+           sed -i 's/\\n/\n/g' gh-issue.create.sh
+           sh gh-issue.create.sh
