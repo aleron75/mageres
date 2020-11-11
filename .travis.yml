@@ -1,7 +1,0 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl --allow 206 --white-list https://opensource.magento.com/contribution-day-handbook,https://marketplace.magento.com
