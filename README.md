@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![409 resources](https://img.shields.io/badge/resources-409-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![407 resources](https://img.shields.io/badge/resources-407-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -76,18 +76,18 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Books
 
-* [Learning Magento 2 Administration](https://www.packtpub.com/web-development/learning-magento-2-administration) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
-* [Magento 2 Beginners Guide](https://www.packtpub.com/web-development/magento-2-beginners-guide) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
-* [Magento 2 Cookbook](https://www.packtpub.com/web-development/magento-2-cookbook) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
-* [Magento 2 Developer's Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
-* [Magento 2 Development Cookbook](https://www.packtpub.com/web-development/magento-2-development-cookbook) - Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015
-* [Magento 2 Development Essentials](https://www.packtpub.com/web-development/magento-2-development-essentials) - A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016
-* [Magento 2 Development Quick Start Guide](https://www.packtpub.com/web-development/magento-2-development-quick-start-guide) - This book guides you through Magento development; by Branko Ajzele, September 2018
+* [Learning Magento 2 Administration](https://www.packtpub.com/product/learning-magento-2-administration/9781783288250) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
+* [Magento 2 Beginners Guide](https://www.packtpub.com/product/magento-2-beginners-guide/9781785880766) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
+* [Magento 2 Cookbook](https://www.packtpub.com/product/magento-2-cookbook/9781785887062) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
+* [Magento 2 Developer's Guide](https://www.packtpub.com/product/magento-2-developer-s-guide/9781785886584) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
+* [Magento 2 Development Cookbook](https://www.packtpub.com/product/magento-2-development-cookbook/9781785882197) - Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015
+* [Magento 2 Development Essentials](https://www.packtpub.com/product/magento-2-development-essentials/9781785289897) - A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016
+* [Magento 2 Development Quick Start Guide](https://www.packtpub.com/product/magento-2-development-quick-start-guide/9781789343441) - This book guides you through Magento development; by Branko Ajzele, September 2018
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
-* [Magento 2 Extensions Development](https://www.packtpub.com/web-development/magento-extensions-development) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
+* [Magento 2 Extensions Development](https://www.packtpub.com/product/magento-extensions-development/9781783286775) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
 * [Magento 2 Guida allo sviluppo](https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
-* [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/web-development/magento-2-theme-design-second-edition) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
-* [Mastering Magento 2 - Second Edition](https://www.packtpub.com/web-development/mastering-magento-2-second-edition) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
+* [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/product/magento-2-theme-design-second-edition/9781785888229) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
+* [Mastering Magento 2 - Second Edition](https://www.packtpub.com/product/mastering-magento-2-second-edition/9781785882364) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
 
 ## Performance
 
@@ -196,7 +196,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Integer_Net GlobalCustomLayout](https://github.com/integer-net/magento2-global-custom-layout) - Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id.
 * [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
 * [Lightspeed for Lighthouse optimizations](https://github.com/elgentos/magento2-lightspeed) - This module defines several sections where you can define common feedback from Google Lighthouse.
-* [Mage2Dark](https://mage2dark.net/) - Magento 2 Dark Theme for Admin Panel
 * [MageKey AdcPopup](https://github.com/magekey/module-adc-popup) - Add to cart popup with upsell products
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) - This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
 * [Magenizr ResetUiBookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting
@@ -341,7 +340,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/category/magento/)
 * [Michiel Gerritsen](https://www.michiel-gerritsen.com/)
 * [Mobecls](https://mobecls.com/e-commerce-tips/)
-* [Nathan McBride](https://nathanmcbride.io/blog)
+* [Nathan McBride](http://nathanmcbride.io/blog)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento/)
 * [Onilab](https://onilab.com/blog/)
 * [ParadoxLabs](https://www.paradoxlabs.com/blog/)
@@ -500,7 +499,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.
 * [Mage Titans](http://www.magetitans.com/) - A non-profit event for Magento developers in NL
 * [Mage Unconference](https://www.mageunconference.org/) - A unique Magento community event
-* [Meet Magento](https://www.meet-magento.com/) - Meet Magento events website
 * [Reacticon](https://reacticon.org/) - The Magento Frontend Development Conference
 
 ### Meetups
