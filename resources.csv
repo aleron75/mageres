@@ -81,6 +81,7 @@ Tools,Free,Simple Import / Export tool,https://github.com/EcomDev/sync-magento-2
 Tools,Free,integer_net Magento 2 Module Template,https://github.com/integer-net/magento2-module-template,A template to easily get started with Magento open source module development.,
 Tools,Free,Pestle by Alan Storm,https://github.com/astorm/pestle,A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts.
 Tools,Free,Magento 2 Changelog,https://github.com/tdgroot/magento2-changelog,A simple bash tool to easily get insight into what has changed between Magento releases.,
+Tools,Free,Magento 2 DI Lookup,https://m2-dependency-injection-lookup.pulsestorm.net/,A dependency injection reference that lets you statically search for any reference to a particular type/symbol.,
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3,
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2,
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically,
