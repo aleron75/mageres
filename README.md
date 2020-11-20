@@ -120,6 +120,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [integer_net Magento 2 Module Template](https://github.com/integer-net/magento2-module-template) - A template to easily get started with Magento open source module development.
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
 * [Magento 2 - composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB) - Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
+* [Magento 2 Changelog](https://github.com/tdgroot/magento2-changelog) - A simple bash tool to easily get insight into what has changed between Magento releases.
 * [Magento 2 Code + DB Backup](https://github.com/MagePsycho/magento2-db-code-backup-bash-script) - An utility SSH script to backup the code + database of Magento 2
 * [Magento 2 Code Generator Tool](https://github.com/staempfli/magento2-code-generator/) - Code generator for Magento 2
 * [Magento 2 Database Backup Manager](https://github.com/Space48/magedbm2) - A database backup manager for Magento 2 written with developers in mind.
@@ -334,7 +335,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Max Chadwick](https://maxchadwick.xyz/blog/)
 * [Maxime Huran on Magento 2](https://www.maximehuran.fr/en/category/magento-two/)
 * [Max Pronko](https://www.maxpronko.com/)
-* [Max Yekaterynenko](https://maxyek.wordpress.com/)
 * [Meanbee](https://meanbee.com/developers.html)
 * [Meetanshi Magento Blog](https://meetanshi.com/blog/)
 * [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/category/magento/)
