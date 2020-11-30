@@ -182,7 +182,6 @@ Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libr
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
 PWA,,PWA Studio,https://github.com/magento/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.,
-PWA,,Deity Falcon,https://github.com/deity-io/falcon,"An Open Source, platform-agnostic, PWA front-end library for building any type of website.",
 PWA,,Vue Storefront,https://github.com/DivanteLtd/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.",
 PWA,,Fallback Studio,https://github.com/Jordaneisenburger/fallback-studio,Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio,
 PWA,,ScandiPWA,https://github.com/scandipwa,Progressive Web App for Magento by ScandiWeb,
