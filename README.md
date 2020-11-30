@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![406 resources](https://img.shields.io/badge/resources-406-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![408 resources](https://img.shields.io/badge/resources-408-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -159,6 +159,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Malware Scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest Magento malware collection on earth
 * [Magento Patches](https://github.com/brentwpeterson/magento-patches) - As many Magento patches as Brent Peterson can find!
 * [Magento Security Checklist](https://github.com/talesh/magento-security-checklist) - A Magento community-sourced security pre-flight checklist.
+* [Magento Security Guide](https://elogic.co/blog/magento-security-guide-how-to-protect-your-website-from-hackers/) - A useful guide full of Magento security best practices.
 * [Magento Security Resources](https://github.com/gwillem/magento-security-resources) - Crowd-sourced resources to help merchants mitigate and prevent Magento security incidents.
 * [Magento Security Scan Tool](https://account.magento.com/scanner/) - Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account).
 * [Magento Vulnerability Database](https://github.com/sansecio/magevulndb) - List of Magento 1 and 2 integrations with known security issues
@@ -303,6 +304,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [DCKAP Blog](https://www.dckap.com/blog/)
 * [Dev98](https://dev98.de/)
 * [Elogic](https://elogic.co/blog/)
+* [Elogic Commerce](https://elogic.co/blog/)
 * [Excellence Technologies](http://excellencemagentoblog.com/)
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
 * [Firebear Studio Blog](https://firebearstudio.com/blog/)
