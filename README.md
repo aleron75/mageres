@@ -125,6 +125,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Code Generator Tool](https://github.com/staempfli/magento2-code-generator/) - Code generator for Magento 2
 * [Magento 2 Database Backup Manager](https://github.com/Space48/magedbm2) - A database backup manager for Magento 2 written with developers in mind.
 * [Magento 2 DevTools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
+* [Magento 2 DI Lookup](https://m2-dependency-injection-lookup.pulsestorm.net/) - A dependency injection reference that lets you statically search for any reference to a particular type/symbol.
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magento 2 Simplistic Installer](https://github.com/MagePsycho/magento2-installer-bash-script) - A simplistic tool to install Magento 2 from different sources like tar & composer
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
@@ -258,7 +259,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Additional GraphQL endpoints for Magento 2](https://github.com/yireo/Yireo_AdditionalEndpointsGraphQl) - Additional endpoints for loading information through GraphQL.
 * [Daffodil](https://github.com/graycoreio/daffodil) - A platform-agnostic frontend toolkit to improve developer workflow and improve end-user experience.
-* [Deity Falcon](https://github.com/deity-io/falcon) - An Open Source, platform-agnostic, PWA front-end library for building any type of website.
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
