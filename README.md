@@ -72,7 +72,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Certification Integration FAQ](https://spark.adobe.com/page/XQ6iZmLsFsHhi/)
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 * [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
-* [The (unofficial) 2020 Magento Certification Challenge](https://swiftotter.com/2020-unofficial-magento-certification-challenge) - Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
+* [The 2020 SwiftOtter Challenge to get Magento Certified](https://swiftotter.com/2020-swiftotter-magento-certification-challenge) - Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
 
 ## Books
 
@@ -91,7 +91,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Performance
 
-* [Blackfire.io](https://blackfire.io) - Commercial code profiler (free tier available) which provides Magento-specific metrics and recommendations
+* [Blackfire.io](https://www.blackfire.io/) - Commercial code profiler (free tier available) which provides Magento-specific metrics and recommendations
 * [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
 * [Magento default MySql settings](https://github.com/magenx/Magento-mysql) - Default/startup settings for MySql database.
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
@@ -269,7 +269,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [PWA Studio extension generator](https://github.com/larsroettig/create-pwa-studio-extension) - An extension generator for Magento PWA Studio: includes all you need to build an amazing extension.
 * [PWA Studio Stats](https://pwastudio-stats.com/) - A list of PWA webshops built with Magento's PWA Studio
 * [ScandiPWA](https://github.com/scandipwa) - Progressive Web App for Magento by ScandiWeb
-* [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
+* [Vue Storefront](https://github.com/vuestorefront/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
 * [Yireo CustomGraphQlQueryLimiter](https://github.com/yireo/Yireo_CustomGraphQlQueryLimiter) - Magento 2 module to enhance performance and security of your headless Magento.
 * [Yireo GraphQlRateLimiting](https://github.com/yireo/Yireo_GraphQlRateLimiting) - Magento 2 module to add rate limiting to GraphQL resources.
 * [Yireo SyncGraphQlSessionWithFrontend](https://github.com/yireo/Yireo_SyncGraphQlSessionWithFrontend) - Magento 2 module to sync a GraphQL session with the regular session.
