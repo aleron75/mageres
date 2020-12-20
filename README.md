@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![411 resources](https://img.shields.io/badge/resources-411-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![412 resources](https://img.shields.io/badge/resources-412-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -414,6 +414,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
 * [Magento Tweetorials](https://tweetorials.tumblr.com/)
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
+* [Tjitse Efdé’s public gists](https://gist.github.com/Tjitse-E) - A collection of useful gists from Tjitse Efdé
 
 ## Podcasts
 
