@@ -297,7 +297,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Chirag Dodia](https://www.codextblog.com)
 * [Classyllama](https://www.classyllama.com/blog/category/development)
 * [Cloudways Blog](https://www.cloudways.com/blog/magento/)
-* [Commerce CO-OP by Magento Association](https://magentoassociation.prod.itswebs.com/commerce-co-op)
+* [Commerce CO-OP by Magento Association](https://www.magentoassociation.org/commerce-co-op)
 * [Creare Blog](https://www.creare.co.uk/blog/magento)
 * [Customer Paradigm](https://www.customerparadigm.com/blog/)
 * [Cyrill Schumacher](https://cyrillschumacher.com/)
