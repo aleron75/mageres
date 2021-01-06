@@ -72,7 +72,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Certification Integration FAQ](https://spark.adobe.com/page/XQ6iZmLsFsHhi/)
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 * [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
-* [The 2020 SwiftOtter Challenge to get Magento Certified](https://swiftotter.com/2020-swiftotter-magento-certification-challenge) - Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
+* [The 2021 SwiftOtter Challenge to get Magento Certified](https://swiftotter.com/2021-swiftotter-challenge-magento-certified) - Are you ready to become certified? Join a group of other professionals seeking to boost their knowledge.
 
 ## Books
 
