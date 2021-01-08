@@ -164,7 +164,7 @@ Extensions,,Magento 2 module for Whoops,https://github.com/yireo/Yireo_Whoops,Ma
 Extensions,,Yireo AutoFlushCache,https://github.com/yireo/Yireo_AutoFlushCache,Automatically flush the cache whenever you save something in the System Configuration.,
 Extensions,,DisableLog2 for Magento 2,https://github.com/yireo/Yireo_DisableLog2,"This module disables various log attempts of the Magento core, improving performance slightly.",
 Extensions,,DisableServiceWorkerInAdmin for Magento 2,https://github.com/yireo/Yireo_DisableServiceWorkerInAdmin,Module used to unregister any ServiceWorkers when entering the backend.,
-Extensions,,Magento 2 module for WebP,https://github.com/yireo/Yireo_Webp2,Magento 2 module to add WebP support to Magento 2.,
+Extensions,,Magento 2 module for NextGenImages,https://github.com/yireo/Yireo_NextGenImages,Magento 2 module to add next-gen image support to Magento 2.,
 Extensions,,Magento 2 Frontools,https://github.com/SnowdogApps/magento2-frontools,"Set of front-end tools for Magento 2, based on Gulp.js",
 Extensions,,CustomGento_CliTaxEditor,https://github.com/customgento/module-cli-tax-editor-m2,"Magento 2 module, which provides new console commands to edit the tax configuration.",
 Extensions,,Developer Toolbar by vpietri,https://github.com/vpietri/magento2-developer-quickdevbar,The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running.,
