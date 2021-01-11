@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![416 resources](https://img.shields.io/badge/resources-416-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![417 resources](https://img.shields.io/badge/resources-417-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -430,6 +430,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Actionable Insights](https://actionableinsights.fm/) - Practical insights by SwiftOtter
 * [Core of Commerce](https://twitter.com/CoreOfCommerce) - Core of Commerce equips you with cutting-edge knowledge to help you achieve and exceed your digital commerce goals
+* [MageRoundTable](https://mageroundtable.com/) - A developer-focussed podcast hosted by James Cowie
 * [MageTalk](https://magetalk.com/) - A Magento Podcast
 * [Merchant to Merchant](https://podcast.somethingdigital.com/) - Stories about digital commerce: for merchants, by merchants.
 * [The JetRails Podcast](https://jetrails.com/podcast/) - The JetRails Podcast for the Ecommerce Community
