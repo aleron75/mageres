@@ -85,7 +85,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Development Quick Start Guide](https://www.packtpub.com/product/magento-2-development-quick-start-guide/9781789343441) - This book guides you through Magento development; by Branko Ajzele, September 2018
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
 * [Magento 2 Extensions Development](https://www.packtpub.com/product/magento-extensions-development/9781783286775) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
-* [Magento 2 Guida allo sviluppo](https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
+* [Magento 2 Guida allo sviluppo](https://www.goodreads.com/book/show/52703436-magento-2) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
 * [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/product/magento-2-theme-design-second-edition/9781785888229) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
 * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/product/mastering-magento-2-second-edition/9781785882364) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
 
