@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![418 resources](https://img.shields.io/badge/resources-418-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![422 resources](https://img.shields.io/badge/resources-422-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -294,7 +294,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Atwix blog](https://www.atwix.com/blog/)
 * [Belvg](https://belvg.com/magento)
 * [Ben Marks](http://bhmarks.com/blog/)
-* [Bitbull](https://www.bitbull.it/en/blog/)
+* [Bitbull](https://www.bitbull.it/en/categories/magento-2/)
 * [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
 * [C3Media Blog](https://c3.agency/blog/)
 * [Cadence Labs](https://www.cadence-labs.com/category/magento/magento-2/)
@@ -382,6 +382,12 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Macluster](https://maxcluster.de/blog/category:Magento)
 * [Matthias Zeis](https://www.matthias-zeis.com/magento-2)
 * [NeoShops](http://neoshops.de/category/magento-blog/)
+
+### Italian
+
+* [Bitbull](https://www.bitbull.it/categories/magento-2/)
+* [Magentiamo](https://www.magentiamo.it/blog)
+* [MageSpecialist](https://www.magespecialist.it/blog/)
 
 ### Japanese
 
@@ -473,7 +479,11 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Argentina
 
-* [MugAr](https://www.mugar.io) - Magento Users Group ARgentina
+* [MugAr](https://www.mugar.io) - Magento Users Group Argentina
+
+### Italy
+
+* [Magentiamo](https://www.magentiamo.it/) - A community of Magento enthusiasts in Italy
 
 ### Online
 
