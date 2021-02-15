@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![422 resources](https://img.shields.io/badge/resources-422-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![421 resources](https://img.shields.io/badge/resources-421-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -347,7 +347,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Meetanshi Magento Blog](https://meetanshi.com/blog/)
 * [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/tag/magento/)
 * [Michiel Gerritsen](https://www.michiel-gerritsen.com/)
-* [Mobecls](https://mobecls.com/e-commerce-tips/)
+* [Mobecls](https://mobecls.com/category/magento-2/)
 * [Nathan McBride](https://nathanmcbride.io/blog)
 * [Nexcess Blog](https://blog.nexcess.net/category/magento/)
 * [Onilab](https://onilab.com/blog/)
@@ -361,7 +361,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Rocket Web](https://rocketweb.com/blog)
 * [Rohan Hapani](https://www.rohanhapani.com/category/magento/magento-2/)
 * [Shero Blog](https://sherocommerce.com/blog/)
-* [Siteground](https://www.siteground.com/tutorials/magento/)
 * [Sonassi](https://www.sonassi.com/blog)
 * [Space48 Blog](https://www.space48.com/blog/)
 * [SwiftOtter](https://swiftotter.com/technical)
