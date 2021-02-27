@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![421 resources](https://img.shields.io/badge/resources-421-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![422 resources](https://img.shields.io/badge/resources-422-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -176,6 +176,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Admin Notification Blocker](https://github.com/redchamps/admin-notification-blocker) - A Magento 2 extension that allows us to block admin notification based on Severities/Categories.
 * [AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
 * [BitExpert_ForceCustomerLogin](https://github.com/bitExpert/magento2-force-login) - Magento 2 module that forces customer login to see website pages.
+* [Braintree Payments](https://github.com/genecommerce/module-braintree-magento2) - Implements integration with the Braintree payment system, overwriting the original Magento module, to provide additional features and bug fixes.
 * [CheckoutTester module for Magento 2](https://github.com/yireo/Yireo_CheckoutTester2) - A simple extension to preview the checkout success-page at any time.
 * [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merge all 3rd party extensions menu items in a common menu item
 * [CLI Plugin List for Magento 2](https://github.com/magento-hackathon/cli-plugin-list) - Get a good overview of plugins installed and be aware of their influence on your Magento 2 instance.
