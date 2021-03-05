@@ -61,7 +61,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [GravDept’s Magento 2 Manuals](https://manuals.gravitydept.com/frameworks/magento-2)
 * [Mage Mastery](https://magemastery.net/) - Learning resources for Magento 2 developers
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
-* [The Magento Guidebook: 2019 Edition](https://jetrails.com/blog/the-magento-terms-glossary-guide/) - A Glossary of Magento Terms and Phrases
+* [The Magento Guidebook](https://jetrails.com/blog/the-magento-terms-glossary-guide/) - A Glossary of Magento Terms and Phrases
 
 ## Certification
 
