@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![422 resources](https://img.shields.io/badge/resources-422-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![423 resources](https://img.shields.io/badge/resources-423-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -52,6 +52,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Translation Projects](https://github.com/magento-l10n/i18n) - This is a home repository for all activities related to translation of Magento itself including all available editions and extensions developed by Magento, an Adobe Company and 3rd party Magento components.
 * [Magento U Videos](https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40) - Samples of Magento U instructor-led and On-Demand courses.
 * [README template for Magento modules](https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3)
+* [Support Tools](https://support.magento.com/hc/en-us/categories/360004245632-Support-Tools) - An official list of support tools by Magento Help Center
 
 ## Other Resources
 
