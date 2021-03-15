@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![424 resources](https://img.shields.io/badge/resources-424-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![425 resources](https://img.shields.io/badge/resources-425-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -137,6 +137,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento utilities Tap for Homebrew](https://github.com/fballiano/homebrew-mageutils)
 * [MageSuite](https://magesuite.io/) - A collection of OpenSource modules that enhance several Magento 2 capabilities (CMS, Performance, Security, Search, Marketin, UX)
 * [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker/anonymizer tool
+* [MRM Commerce Magento 2 Coding Standard](https://github.com/mrm-commerce/magento-coding-standard-phpcs) - A set of PHP Code Sniffer rules meant to ensure or increase the code quality of Magento 2 projects.
 * [netz98 magerun2 addons by Elgentos](https://github.com/elgentos/magerun2-addons) - Some additional commands for the excellent m98-magerun2 Magento 2 command-line tool.
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
 * [Oh My ZSH Plugin - Magento 2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) - Magento 2 autocomplete plugin for oh-my-zsh
