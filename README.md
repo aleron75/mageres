@@ -416,13 +416,13 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magentip](https://magentip.com/) - Magento 2 tutorials, reviews, and fixes.
 * [Magento 2 / PHP versions Matrix](https://gist.github.com/fooman/b1d70ca2954c05c3e11a7a9db04a8a10)
 * [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
-* [Magento 2 Cheat Sheet](https://cheatography.com/latmiz/cheat-sheets/magento-2/) - A quick reference guide for Magento 2, command line, XML snippets, template file snippets, Models and other useful bits of information
 * [Magento 2 JavaScript CheatSheet](https://jason.codes/2019/08/magento-2-javascript-cheatsheet/) - A quick go-to reference to see the different ways of handling JavaScript.
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
 * [Magento 2 Supported Versions](https://github.com/navarr/magento2-supported-versions) - This repository is an up-to-date table of the versions of various software that various versions of Magento support.
 * [Magento 2 Tutorials](https://www.mag-manager.com/magento-2-tutorials/) - Easy to follow guides that will help you dive into Magento 2 specifics and familiarize yourself with basic concepts.
 * [Magento 2.3.x - List of all dispatched events](https://cyrillschumacher.com/magento-2.3-list-of-all-dispatched-events/) - A cheat sheet that lists all dispatched events in Magento 2.3.
 * [Magento: The Right Way](https://magentotherightway.com/)
+* [Magento Cheat Sheets](https://cheatography.com/tag/magento/) - A collection of cheat sheets for Magento 2
 * [Magento Module LarsRoettig_GraphQLStorePickup](https://github.com/larsroettig-dev/module-graphqlstorepickup) - Example of how to create a GraphQL Endpoint for Magento 2.3
 * [Magento Postman repository](https://github.com/nuzil/magento-postman/) - A storage of Postman collections for Magento
 * [Magento Quickies](https://alanstorm.com/category/programming-quickies/)
