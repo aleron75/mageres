@@ -170,6 +170,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Official Magento Security Center](https://magento.com/security) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
 * [Security.txt](https://github.com/kalpmehta/securitytxt) - Security.txt for Magento 2 websites
+* [Sansec eComscan](https://sansec.io/ecomscan) - The most professional and complete malware & vulnerabilities scanner for Magento 1 and Magento 2. 
 
 ## Extensions
 
