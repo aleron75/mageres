@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![427 resources](https://img.shields.io/badge/resources-427-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![428 resources](https://img.shields.io/badge/resources-428-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -169,6 +169,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Vulnerability Database](https://github.com/sansecio/magevulndb) - List of Magento 1 and 2 integrations with known security issues
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Official Magento Security Center](https://magento.com/security) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
+* [Sansec eComscan](https://sansec.io/ecomscan) - A professional and advanced malware scanner for Magento 1 and 2 that detects hacks and vulnerabilities.
 * [Security.txt](https://github.com/kalpmehta/securitytxt) - Security.txt for Magento 2 websites
 
 ## Extensions
