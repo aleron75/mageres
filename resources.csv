@@ -103,6 +103,7 @@ Security,,InvalidateAdminPasswords Extension,https://github.com/sdinteractive/Ma
 Security,,Magento Security Resources,https://github.com/gwillem/magento-security-resources,Crowd-sourced resources to help merchants mitigate and prevent Magento security incidents.,
 Security,,Magento Security Guide,https://elogic.co/blog/magento-security-guide-how-to-protect-your-website-from-hackers/,A useful guide full of Magento security best practices.,
 Security,,mage2_ext_csp,https://github.com/flancer32/mage2_ext_csp,The main goal of this extension is to remove CSP errors from JS console and use it to collect reports and generate rules to automatically lock not-allowed content.,
+Security,,Sansec eComscan,https://sansec.io/ecomscan,A professional and advanced malware scanner for Magento 1 and 2 that detects hacks and vulnerabilities.,
 Extensions,,Magento 2 – Cloudflare,https://github.com/jetrails/magento2-cloudflare,Interact with popular Cloudflare features through Magento 2's backend portal.,
 Extensions,,Yireo GoogleTagManager2,https://github.com/yireo/Yireo_GoogleTagManager2,Add Google Tag Manager to Magento2,
 Extensions,,Danslo CleanCheckout,https://github.com/danslo/CleanCheckout,A drop-in replacement for the Magento 2 checkout,
