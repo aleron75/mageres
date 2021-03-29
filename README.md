@@ -275,7 +275,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
-* [PWA - E-Commerce - Compare List](https://docs.google.com/spreadsheets/d/1nx5jcHa6reIH20q20uDnZLQNjuK2ohk-HmQ09hy9NCE/) - A collection of the main eCommerce PWA technologies
+* [PWA - E-Commerce - Compare List](https://docs.google.com/spreadsheets/d/1nx5jcHa6reIH20q20uDnZLQNjuK2ohk-HmQ09hy9NCE/edit) - A collection of the main eCommerce PWA technologies
 * [PWA Studio](https://github.com/magento/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 * [PWA Studio extension generator](https://github.com/larsroettig/create-pwa-studio-extension) - An extension generator for Magento PWA Studio: includes all you need to build an amazing extension.
 * [PWA Studio Stats](https://pwastudio-stats.com/) - A list of PWA webshops built with Magento's PWA Studio
@@ -521,7 +521,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### Conferences
 
-* [Adobe Summit](https://www.adobe.com/summit.html) - Where Magento Imagine happens!
+* [Adobe Summit](https://business.adobe.com/summit/adobe-summit.html) - Where Magento Imagine happens!
 * [MageCONF](https://www.mageconf.com.ua/) - The main Magento event in Ukraine
 * [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.
 * [Mage Titans](http://www.magetitans.com/) - A non-profit event for Magento developers in NL
