@@ -343,7 +343,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MagePsycho](https://blog.magepsycho.com/)
 * [Magestore](https://blog.magestore.com/)
 * [Magetraining Blog](https://mage.training/blog/)
-* [MageVision](https://www.magevision.com/blog/)
+* [MageVision](https://www.magevision.com/blog)
 * [MageWorx on Magento 2](https://www.mageworx.com/blog/magento-2/)
 * [Marcel Hauri](https://magento.marcelhauri.ch/blog/)
 * [Mark Shust](https://markshust.com/tags/magento/)
