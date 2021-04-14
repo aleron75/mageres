@@ -188,6 +188,7 @@ Extensions,,Magento 2 Composer Quality Patches,https://github.com/elgentos/magen
 Extensions,,Hyvä Admin,https://github.com/hyva-themes/magento2-hyva-admin,"This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.",
 Extensions,,EAV Cleaner Console Command,https://github.com/magento-hackathon/EAVCleaner/tree/magento2,Provides cleanup commands to check for different flaws that can occur due to EAV,
 Extensions,,Braintree Payments,https://github.com/genecommerce/module-braintree-magento2,"Implements integration with the Braintree payment system, overwriting the original Magento module, to provide additional features and bug fixes.",
+Extensions,,Aimes Checkout Designs,https://github.com/robaimes/module-checkout-designs,This module provides the ability to change checkout page designs/layout per store and customer group,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
