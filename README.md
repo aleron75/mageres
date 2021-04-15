@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![430 resources](https://img.shields.io/badge/resources-430-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![431 resources](https://img.shields.io/badge/resources-431-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -474,6 +474,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [M.academy](https://m.academy/) - Learn the basics of Magento 2 programming & architecture
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 * [Mage2Katas](https://www.youtube.com/c/Mage2Katas) - TDD practice sessions for Magento 2 development by Vinai Kopp
+* [Mage Coverage](https://www.youtube.com/channel/UCJUD_kYYf2kioarixdsGDRw) - YouTube channel by several Magento Meetups in India
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
 * [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
 * [Matheus Gontijo](https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ) - Matheus Gontijo’s YouTube channel
