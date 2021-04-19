@@ -191,6 +191,7 @@ Extensions,,Braintree Payments,https://github.com/genecommerce/module-braintree-
 Extensions,,Aimes Checkout Designs,https://github.com/robaimes/module-checkout-designs,This module provides the ability to change checkout page designs/layout per store and customer group,
 Extensions,,Fooman Email Attachments,https://github.com/fooman/emailattachments-m2,This module allows you to automatically attach transactional PDF documents to Magento 2 sales emails,
 Extensions,,Automatic Persisted Queries,https://github.com/danslo/magento2-module-automatic-persisted-queries,"Apollo-compatible automatic persisted queries, to improve GraphQL network performance.",
+Extensions,,Magento 2 Storyblok Integration,https://github.com/Media-Lounge/magento2-storyblok-integration,This extension allows to create content-rich pages that are easily editable using the Storyblok interface.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
