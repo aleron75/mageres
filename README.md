@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![435 resources](https://img.shields.io/badge/resources-435-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![437 resources](https://img.shields.io/badge/resources-437-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -280,6 +280,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
+* [Magento PWA Documentation](https://magento.github.io/pwa-studio/) - Everything you need to build a Magento PWA.
 * [PWA - E-Commerce - Compare List](https://docs.google.com/spreadsheets/d/1nx5jcHa6reIH20q20uDnZLQNjuK2ohk-HmQ09hy9NCE/edit) - A collection of the main eCommerce PWA technologies
 * [PWA Studio](https://github.com/magento/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 * [PWA Studio extension generator](https://github.com/larsroettig/create-pwa-studio-extension) - An extension generator for Magento PWA Studio: includes all you need to build an amazing extension.
@@ -453,6 +454,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageRoundTable](https://mageroundtable.com/) - A developer-focussed podcast hosted by James Cowie
 * [MageTalk](https://magetalk.com/) - A Magento Podcast
 * [Merchant to Merchant](https://podcast.somethingdigital.com/) - Stories about digital commerce: for merchants, by merchants.
+* [Talk Commerce](https://podcasts.apple.com/us/podcast/talk-commerce/id1561204656) - Brent Peterson’s interviews about digital commerce topics.
 * [The JetRails Podcast](https://jetrails.com/podcast/) - The JetRails Podcast for the Ecommerce Community
 * [The Registry](https://podcast.theregistry.io/) - Two Dutch Magento developers Jisse Reitsma and Peter Jaap Blaakmeer rambling on about their daily grind!
 
