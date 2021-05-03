@@ -461,7 +461,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Atwix MageNews](https://www.atwix.com/tag/magenews/) - A selection of the most interesting and important topics that popped up in Magento Community
 * [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?filter=location&q=%23MagentoMonday%7C%23MagentoTuesday&advanced=true&location=forum-board:newsannouncements&sort_by=-topicPostDate&collapse_discussion=true&search_type=thread) - #MagentoMonday (sometimes #MagentoTuesday) Community Digest by [@sherrierohde](https://twitter.com/sherrierohde). You can submit your content here: https://docs.google.com/forms/d/e/1FAIpQLSfXNbNQ0WZ5pK-zPA0Uw9SC3uRQv3SRFZIdunPKqd27CznVGQ/viewform
-* [Magento Ecosystem](https://t.me/magentoecosystem) - Telegram channel by Firebear Studio. Best content from Magento world
+* [Magento Ecosystem](https://t.me/magentoecosystem) - Telegram channel by Firebear Studio. Best content from Magento world, curated materials from trusted blogs, Twitter, Reddit and more! Everything you need to know about Magento ecosystem as developer, SI or merchant.
 * [Mageres](https://mailchi.mp/6a498018d9ef/mageres) - A hand-curated monthly newsletter collecting useful Magento resources.
 * [Magezine](https://magezine.co/) - A professional paper journal for Magento community
 * [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko
