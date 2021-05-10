@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![437 resources](https://img.shields.io/badge/resources-437-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![436 resources](https://img.shields.io/badge/resources-436-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -297,7 +297,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### English
 
 * [121eCommerce](https://www.121ecommerce.com/resources/blog/)
-* [Aheadworks Blog](https://aheadworks.com/blog/category/magento-2/)
+* [Aheadworks Blog](https://aheadworks.com/blog/magento-2-extensions/)
 * [Alan Kent](https://alankent.me/)
 * [Alan Storm](https://alanstorm.com/category/magento/)
 * [Alexander Turiak](https://zifius.github.io/)
@@ -475,7 +475,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Hyvä Themes](https://www.youtube.com/channel/UCEyLeHSxRdjaF70X76RF8GA) - The YouTube channel dedicated to making the development of Magento frontend (and backend) great again!
 * [JetRails](https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg) - YouTube Channel by JetRails
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
-* [Live Magento #CoreReview](http://m2.yt) - Lukasz Bajsarowicz’s Magento live core code review
 * [Load In The Loop](https://www.youtube.com/channel/UC7mcoC5hdn2yekrBUl9h8pQ) - Magento Performance Podcast
 * [M.academy](https://m.academy/) - Learn the basics of Magento 2 programming & architecture
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
