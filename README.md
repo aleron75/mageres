@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![436 resources](https://img.shields.io/badge/resources-436-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![437 resources](https://img.shields.io/badge/resources-437-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -245,7 +245,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MarkShust_DisableTwoFactorAuth](https://github.com/markshust/magento2-module-disabletwofactorauth) - Adds the missing toggle to turn 2FA on or off from the admin.
 * [MarkShust_ExtraBodyClasses](https://github.com/markshust/magento2-module-extrabodyclasses) - Adds the website and store codes to the body class attribute.
 * [MarkShust_HierarchyComplexIdCompatibility](https://github.com/markshust/magento2-module-hierarchycomplexidcompatibility) - This module changes the functionality when saving a hierarchy, making these longer URL strings compatible with long URL identifiers containing subpaths.
-* [MarkShust_Messages](https://github.com/markshust/magento2-module-messages) - Send success, notice, warning and error messages with HTML.
+* [MarkShust_Messages](https://github.com/markshust/magento2-module-messages) - This extensions allows us to send success, notice, warning, and error messages with embedded HTML.
 * [MarkShust_OrderGrid](https://github.com/markshust/magento2-module-ordergrid) - Adds Order Items details to the order grid in the admin.
 * [MarkShust_PageBuilderSourceCode](https://github.com/markshust/magento2-module-pagebuildersourcecode) - Adds a Source Code button to the toolbar of the Page Builder WYSIWYG editor.
 * [MarkShust_RemoveFavicon](https://github.com/markshust/magento2-module-removefavicon) - Remove all favicons from the HTML head.
