@@ -193,6 +193,7 @@ Extensions,,Fooman Email Attachments,https://github.com/fooman/emailattachments-
 Extensions,,Automatic Persisted Queries,https://github.com/danslo/magento2-module-automatic-persisted-queries,"Apollo-compatible automatic persisted queries, to improve GraphQL network performance.",
 Extensions,,Magento 2 Storyblok Integration,https://github.com/Media-Lounge/magento2-storyblok-integration,This extension allows to create content-rich pages that are easily editable using the Storyblok interface.,
 Extensions,,Magento 2 Cron Schedule extension Free,https://github.com/mageplaza/magento-2-cron-schedule,Helps you to execute tasks with no effort from the Admin Panel. ,
+Extensions,,MarkShust_Messages,https://github.com/markshust/magento2-module-messages,"This extensions allows us to send success, notice, warning, and error messages with embedded HTML.",
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
