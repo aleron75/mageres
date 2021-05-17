@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![439 resources](https://img.shields.io/badge/resources-439-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![440 resources](https://img.shields.io/badge/resources-440-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -504,6 +504,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### Online
 
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
+* [MageFounders](https://magefounders.com/) - A colection of stories by people from the Magento community to inspire and encourage others.
 * [Magento Community Portal](https://opensource.magento.com/) - Join thousands of community developers working on different projects
 * [Magento Forum](https://community.magento.com/) - The "brand new" Magento forum
 * [Magento Speaker Directory](https://magento.mobilize.io) - To connect speakers with event organizers.
