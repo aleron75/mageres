@@ -383,7 +383,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Talesh Seeparsan](https://www.seeparsan.net/magento-blog/)
 * [Tigren](https://www.tigren.com/magento-blog/)
 * [Timon de Groot](https://blog.timpack.org/)
-* [Visiture](https://www.visiture.com/blog/category/magento-2/)
+* [Visiture](https://www.visiture.com/blog/category/magento/)
 * [Yireo Blog](https://www.yireo.com/blog)
 
 ### French
