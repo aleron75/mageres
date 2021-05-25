@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![441 resources](https://img.shields.io/badge/resources-441-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![442 resources](https://img.shields.io/badge/resources-442-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -214,6 +214,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageKey AdcPopup](https://github.com/magekey/module-adc-popup) - Add to cart popup with upsell products
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) - This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
 * [Magenizr ResetUiBookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting
+* [Magento 2 - Inventory Log](https://github.com/elgentos/magento2-inventory-log) - This extension allows to keep the log of product inventory for every single transaction.
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
 * [Magento 2 Bash Install/Restore Script](https://github.com/yvoronoy/m2install) - A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
 * [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Magento 2 Blog is an extension that allows you to manage your store and blog from one place without having to rely on some third-party platforms.
