@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![442 resources](https://img.shields.io/badge/resources-442-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![443 resources](https://img.shields.io/badge/resources-443-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -47,6 +47,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
 * [Magento 2.x User Guide](https://docs.magento.com/user-guide/) - Merchant-focused documentation for both Magento Commerce and Magento Open Source
 * [Magento Blog](https://magento.com/blog) - Get the latest news, tips and advice for maximizing your online store.
+* [Magento Commerce Tips & Tricks Video Series](https://magento.com/resources/how-to-video-series) - Learn how to use the out-of-the-box features and capabilities of Magento Commerce to get the most out of it.
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
 * [Magento Glossary](https://glossary.magento.com/) - The place where all the terminology for Magento products lives.
 * [Magento Translation Projects](https://github.com/magento-l10n/i18n) - This is a home repository for all activities related to translation of Magento itself including all available editions and extensions developed by Magento, an Adobe Company and 3rd party Magento components.
