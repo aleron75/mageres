@@ -282,7 +282,8 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Additional GraphQL endpoints for Magento 2](https://github.com/yireo/Yireo_AdditionalEndpointsGraphQl) - Additional endpoints for loading information through GraphQL.
 * [Daffodil](https://github.com/graycoreio/daffodil) - A platform-agnostic frontend toolkit to improve developer workflow and improve end-user experience.
-* [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
+* [](https://github.com/fooman/venia-ui-override-resolver) - A Magento PWA Studio extension that enables extending Venia & Peregrine
+* [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento PWA Studio fallback wrapper to easily create custom theme's on top of pwa-studio (deprecated)
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
 * [Magento PWA Documentation](https://magento.github.io/pwa-studio/) - Everything you need to build a Magento PWA.
