@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![443 resources](https://img.shields.io/badge/resources-443-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![444 resources](https://img.shields.io/badge/resources-444-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -282,7 +282,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Additional GraphQL endpoints for Magento 2](https://github.com/yireo/Yireo_AdditionalEndpointsGraphQl) - Additional endpoints for loading information through GraphQL.
 * [Daffodil](https://github.com/graycoreio/daffodil) - A platform-agnostic frontend toolkit to improve developer workflow and improve end-user experience.
-* [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio
+* [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio (deprecated)
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
 * [Magento PWA Documentation](https://magento.github.io/pwa-studio/) - Everything you need to build a Magento PWA.
@@ -292,6 +292,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [PWA Studio Roadmap](https://github.com/magento/pwa-studio/wiki/Roadmap) - The official roadmap of PWA Studio
 * [PWA Studio Stats](https://pwastudio-stats.com/) - A list of PWA webshops built with Magento's PWA Studio
 * [ScandiPWA](https://github.com/scandipwa) - Progressive Web App for Magento by ScandiWeb
+* [Venia UI Override Resolver](https://github.com/fooman/venia-ui-override-resolver) - A Magento PWA Studio extension that enables extending Venia & Peregrine
 * [Vue Storefront](https://github.com/vuestorefront/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
 * [Yireo CustomGraphQlQueryLimiter](https://github.com/yireo/Yireo_CustomGraphQlQueryLimiter) - Magento 2 module to enhance performance and security of your headless Magento.
 * [Yireo GraphQlRateLimiting](https://github.com/yireo/Yireo_GraphQlRateLimiting) - Magento 2 module to add rate limiting to GraphQL resources.
