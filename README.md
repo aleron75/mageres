@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![444 resources](https://img.shields.io/badge/resources-444-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![449 resources](https://img.shields.io/badge/resources-449-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -150,6 +150,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [PHPStorm Live Templates for Magento 2 by Mark Shust](https://github.com/markshust/phpstorm-magento-live-templates) - Magento 2 live templates for PHPStorm that help speed up the development process.
 * [PHPStorm Live Templates for Magento 2 by Nathan McBride](https://github.com/brideo/phpstorm-live-templates-magento-2) - A bunch of Magento 2 Live Templates for PHPStorm
 * [PhpStorm Magento 2 Plugin](https://github.com/magento/magento2-phpstorm-plugin) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
+* [Rest client for Magento 2](https://github.com/springimport/magento2-api-v1) - A wrapper over Guzzle for Magento 2 REST API.
 * [Simple Import / Export tool](https://github.com/EcomDev/sync-magento-2-migration) - A tool that allows to quickly export data from Magento 1 and Magento 2 store and import it back into Magento 2. 
 * [SwiftOtter Driver](https://github.com/SwiftOtter/Driver) - A database task-runner specifically used for transforming a production database to a sandbox.
 * [SwiftOtter Magento CI Script System](https://github.com/SwiftOtter/MagentoCI) - Magento continuous integration bash scripts. Makes deploying Magento easy.
@@ -476,18 +477,22 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ### English
 
+* [Code Crunch](https://www.youtube.com/channel/UC9XnIsLZnZLd7uikPqbyqzQ) - A lot of useful videos for Magento beginners.
+* [Codilar](https://www.youtube.com/channel/UCH5SxO6vPM7il7_8q2GINOA) - A channel full of videos by a Magento development company in India. The topics are numerous, both for beginners and more experienced developers.
 * [Digital Startup](https://www.youtube.com/c/DigitalstartupUk/videos) - Magento tutorials for beginners
-* [eCommerceAholic](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Discussions about Magento eCommerce platform by TJ Gamble
+* [Ecommerce Aholic](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Discussions about Magento eCommerce platform by TJ Gamble
 * [Hyvä Themes](https://www.youtube.com/channel/UCEyLeHSxRdjaF70X76RF8GA) - The YouTube channel dedicated to making the development of Magento frontend (and backend) great again!
+* [IWD Agency](https://www.youtube.com/c/Interiorwebdesign) - A channel providing a variety of topics on e-commerce, not only related to the Magento platform.
 * [JetRails](https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg) - YouTube Channel by JetRails
 * [Kalen Jordan](https://www.youtube.com/channel/UCPhNOx-KzCzU72HDXhrugRg) - YouTube channel by Kalen Jordan
+* [Lars Roettig](https://www.youtube.com/c/LarsRoettig) - YouTube channel with focus on Magento development and Progressive Web Application topics.
 * [Load In The Loop](https://www.youtube.com/channel/UC7mcoC5hdn2yekrBUl9h8pQ) - Magento Performance Podcast
 * [M.academy](https://m.academy/) - Learn the basics of Magento 2 programming & architecture
 * [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
 * [Mage2Katas](https://www.youtube.com/c/Mage2Katas) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [Mage Coverage](https://www.youtube.com/channel/UCJUD_kYYf2kioarixdsGDRw) - YouTube channel by several Magento Meetups in India
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
-* [Magento DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - YouTube channel by Max Pronko
+* [Magento DevChannel](https://www.youtube.com/c/MaxPronko) - YouTube channel by Max Pronko
 * [Matheus Gontijo](https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ) - Matheus Gontijo’s YouTube channel
 * [SwiftOtter](https://www.youtube.com/channel/UCD4FUoiuDt2UWhyOKiZm6rQ) - YouTube Channel by SwiftOtter
 
