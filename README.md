@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![454 resources](https://img.shields.io/badge/resources-454-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![455 resources](https://img.shields.io/badge/resources-455-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -95,6 +95,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Blackfire.io](https://www.blackfire.io/) - Commercial code profiler (free tier available) which provides Magento-specific metrics and recommendations
 * [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
+* [Magento2 performance fixes](https://github.com/maritos/magento2-performance-fixes) - A set of patches to prevent useless concurrent cache building.
 * [Magento default MySql settings](https://github.com/magenx/Magento-mysql) - Default/startup settings for MySql database.
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
 * [Magepack](https://github.com/magesuite/magepack) - Easy-to-use tool for making Magento 2 frontend as fast as never before.
