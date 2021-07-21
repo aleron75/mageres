@@ -42,6 +42,7 @@ Performance,,Magento default MySql settings,https://github.com/magenx/Magento-my
 Performance,,Magento Speed Test,http://www.magespeedtest.com/,Magento Speed Test with Siege,
 Performance,,Blackfire.io,https://www.blackfire.io/,Commercial code profiler (free tier available) which provides Magento-specific metrics and recommendations,
 Performance,,Magepack,https://github.com/magesuite/magepack,Easy-to-use tool for making Magento 2 frontend as fast as never before.,
+Performance,,Magento2 performance fixes,https://github.com/maritos/magento2-performance-fixes,A set of patches to prevent useless concurrent cache building.,
 Tools,Free,PhpStorm Magento 2 Plugin,https://github.com/magento/magento2-phpstorm-plugin,"Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2",
 Tools,Free,netz98 magerun CLI tools for Magento 2,https://github.com/netz98/n98-magerun2,The swiss army knife for Magento 2 developers,
 Tools,Free,Magento 2 PHPStorm Preferences,https://github.com/staempfli/magento2-phpstorm-templates,PHPStorm Live template preferences for Magento 2 Projects,
