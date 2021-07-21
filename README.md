@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![452 resources](https://img.shields.io/badge/resources-452-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![453 resources](https://img.shields.io/badge/resources-453-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -224,6 +224,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Magento 2 Blog is an extension that allows you to manage your store and blog from one place without having to rely on some third-party platforms.
 * [Magento 2 Cache Clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop-in replacement for bin/magento cache:clean with a file watcher
 * [Magento 2 Composer Quality Patches](https://github.com/elgentos/magento2-composer-quality-patches) - This extension adds a command to generate a composer.quality-patches.json file to use with the vaimo/composer-patches package.
+* [Magento 2 Configurable Options](https://github.com/Beraa995/configurable-product-options) - This module provides functionality for preselecting configurable product options and updating attribute values from selected simple product.
 * [Magento 2 CORS](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on GraphQL and REST APIs
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
 * [Magento 2 Cron Schedule extension Free](https://github.com/mageplaza/magento-2-cron-schedule) - Helps you to execute tasks with no effort from the Admin Panel. 
