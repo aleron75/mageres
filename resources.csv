@@ -88,6 +88,7 @@ Tools,Free,MRM Commerce Magento 2 Coding Standard,https://github.com/mrm-commerc
 Tools,Free,ConvertM1M2,https://github.com/unirgy/convertm1m2,A script to automate as much as possible the conversion of a Magento 1 extension to Magento 2.,
 Tools,Free,Rest client for Magento 2,https://github.com/springimport/magento2-api-v1,A wrapper over Guzzle for Magento 2 REST API.,
 Tools,Free,Magento 2 Code Generator,https://github.com/ORBA/magento2-codegen,A tool to automatize the generation of high-quality boilerplate code that can be merged with existing code.,
+Tools,Free,Laragento,https://github.com/Genaker/laragento,A collection of Model classes that allows you to get data directly from a Magento 2 database using Laravel’s Eloquent ORM.,
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3,
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2,
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically,
