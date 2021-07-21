@@ -202,6 +202,7 @@ Extensions,,MarkShust_Messages,https://github.com/markshust/magento2-module-mess
 Extensions,,Product Data Pre-Loader,https://github.com/EcomDev/magento2-product-preloader,"This extension provides an easy way to pre-load data for product collections like prices, stock data, and many more by using different types of load types.",
 Extensions,,Serve Side Analytics for Magento 2,https://github.com/elgentos/magento2-serversideanalytics,This extension aims to solve the problem of discrepancies between Magento revenue reports and the revenue reports in Google Analytics.,
 Extensions,,Magento 2 - Inventory Log,https://github.com/elgentos/magento2-inventory-log,This extension allows to keep the log of product inventory for every single transaction.,
+Extensions,,Magento 2 Configurable Options,https://github.com/Beraa995/configurable-product-options,This module provides functionality for preselecting configurable product options and updating attribute values from selected simple product.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
