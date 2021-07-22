@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![455 resources](https://img.shields.io/badge/resources-455-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![456 resources](https://img.shields.io/badge/resources-456-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -437,6 +437,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magentip](https://magentip.com/) - Magento 2 tutorials, reviews, and fixes.
 * [Magento 2 / PHP versions Matrix](https://gist.github.com/fooman/b1d70ca2954c05c3e11a7a9db04a8a10)
 * [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
+* [Magento 2 Delete Test Data](https://gist.github.com/leek/f7fd2c41668b0f8a0a5f6e5209fe8f4e) - A set of Magento 2 scripts to delete test data.
 * [Magento 2 JavaScript CheatSheet](https://jason.codes/2019/08/magento-2-javascript-cheatsheet/) - A quick go-to reference to see the different ways of handling JavaScript.
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
 * [Magento 2 Supported Versions](https://github.com/navarr/magento2-supported-versions) - This repository is an up-to-date table of the versions of various software that various versions of Magento support.
