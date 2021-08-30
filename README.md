@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![458 resources](https://img.shields.io/badge/resources-458-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![457 resources](https://img.shields.io/badge/resources-457-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -298,7 +298,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [PWA Studio](https://github.com/magento/pwa-studio) - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 * [PWA Studio extension generator](https://github.com/larsroettig/create-pwa-studio-extension) - An extension generator for Magento PWA Studio: includes all you need to build an amazing extension.
 * [PWA Studio Roadmap](https://github.com/magento/pwa-studio/wiki/Roadmap) - The official roadmap of PWA Studio
-* [PWA Studio Stats](https://pwastudio-stats.com/) - A list of PWA webshops built with Magento's PWA Studio
 * [ScandiPWA](https://github.com/scandipwa) - Progressive Web App for Magento by ScandiWeb
 * [Venia UI Override Resolver](https://github.com/fooman/venia-ui-override-resolver) - A Magento PWA Studio extension that enables extending Venia & Peregrine
 * [Vue Storefront](https://github.com/vuestorefront/vue-storefront) - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
