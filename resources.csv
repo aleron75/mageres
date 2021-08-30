@@ -219,7 +219,6 @@ PWA,,Fallback Studio,https://github.com/Jordaneisenburger/fallback-studio,Magent
 PWA,,ScandiPWA,https://github.com/scandipwa,Progressive Web App for Magento by ScandiWeb,
 PWA,,GravDept’s PWA Studio Manuals,https://manuals.gravitydept.com/frameworks/magento-pwa-studio,,
 PWA,,Integer_Net ReactApp,https://github.com/integer-net/magento2-reactapp,A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.,
-PWA,,PWA Studio Stats,https://pwastudio-stats.com/,A list of PWA webshops built with Magento's PWA Studio,
 PWA,,Additional GraphQL endpoints for Magento 2,https://github.com/yireo/Yireo_AdditionalEndpointsGraphQl,Additional endpoints for loading information through GraphQL.,
 PWA,,Yireo SyncGraphQlSessionWithFrontend,https://github.com/yireo/Yireo_SyncGraphQlSessionWithFrontend,Magento 2 module to sync a GraphQL session with the regular session.,
 PWA,,Yireo CustomGraphQlQueryLimiter,https://github.com/yireo/Yireo_CustomGraphQlQueryLimiter,Magento 2 module to enhance performance and security of your headless Magento.,
