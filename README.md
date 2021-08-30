@@ -376,7 +376,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MGT-Commerce Blog](https://www.mgt-commerce.com/blog/tag/magento/)
 * [Michiel Gerritsen](https://www.michiel-gerritsen.com/)
 * [Mobecls](https://mobecls.com/category/magento-2/)
-* [Nexcess Blog](https://blog.nexcess.net/category/magento/)
+* [Nexcess Blog](https://www.nexcess.net/blog/category/magento/)
 * [Onilab](https://onilab.com/blog/)
 * [ParadoxLabs](https://www.paradoxlabs.com/blog/)
 * [Phuc Vo](http://thienphucvx.com/)
