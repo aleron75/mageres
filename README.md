@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![463 resources](https://img.shields.io/badge/resources-463-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![464 resources](https://img.shields.io/badge/resources-464-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -292,7 +292,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ## PWA
 
 * [Additional GraphQL endpoints for Magento 2](https://github.com/yireo/Yireo_AdditionalEndpointsGraphQl) - Additional endpoints for loading information through GraphQL.
-* [Daffodil](https://github.com/graycoreio/daffodil) - A platform-agnostic frontend toolkit to improve developer workflow and improve end-user experience.
+* [Daffodil](https://next.daff.io/) - A multi-platform frontend toolkit that intends to improve developer workflow when writing a frontend for online stores.
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio (deprecated)
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
