@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![468 resources](https://img.shields.io/badge/resources-468-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![469 resources](https://img.shields.io/badge/resources-469-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -277,6 +277,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Siteation - Magento 2 Module Store Info](https://github.com/Siteation/magento2-module-storeinfo) - An (Hyva compatible) extension to add the option to get the store info with ease in your own block.
 * [Siteation - Magento 2 Module Store Info Extra](https://github.com/Siteation/magento2-module-storeinfo-extra) - An (Hyva compatible) extension to add the option to show social buttons or more extras with ease.
 * [UMC CRUD for Magento 2](https://github.com/UltimateModuleCreator/umc-crud) - A module intended to reduce the boilerplate code when creating a CRUD extension.
+* [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.
 * [Yireo AutoFlushCache](https://github.com/yireo/Yireo_AutoFlushCache) - Automatically flush the cache whenever you save something in the System Configuration.
 * [Yireo DevHacks](https://github.com/yireo/Yireo_DevHacks) - Magento 2 module with various hacks and solutions for custom development
 * [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker) - Magento 2 module to check upon the code of Magento 2 modules from the CLI
