@@ -477,7 +477,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageRoundTable](https://mageroundtable.com/) - A developer-focussed podcast hosted by James Cowie
 * [MageTalk](https://magetalk.com/) - A Magento Podcast
 * [Merchant to Merchant](https://podcast.somethingdigital.com/) - Stories about digital commerce: for merchants, by merchants.
-* [Talk Commerce](https://podcasts.apple.com/us/podcast/talk-commerce/id1561204656) - Brent Peterson’s interviews about digital commerce topics.
+* [Talk Commerce](https://talk-commerce.com/podcasts/) - Brent Peterson’s interviews about digital commerce topics.
 * [The JetRails Podcast](https://jetrails.com/podcast/) - The JetRails Podcast for the Ecommerce Community
 * [The Registry](https://podcast.theregistry.io/) - Two Dutch Magento developers Jisse Reitsma and Peter Jaap Blaakmeer rambling on about their daily grind!
 
