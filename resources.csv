@@ -214,6 +214,7 @@ Extensions,,Magento 2 Attribute Options Pagination,https://github.com/enanobots/
 Extensions,,Siteation - Magento 2 Module Store Info,https://github.com/Siteation/magento2-module-storeinfo,An (Hyva compatible) extension to add the option to get the store info with ease in your own block.,
 Extensions,,Siteation - Magento 2 Module Store Info Extra,https://github.com/Siteation/magento2-module-storeinfo-extra,An (Hyva compatible) extension to add the option to show social buttons or more extras with ease.,
 Extensions,,Dark Mode for Admin Panel,https://github.dev/enanobots/m2-admin-darkmode,A dark mode theme for Magento Admin Panel.,
+Extensions,,Url data integrity checker module for Magento 2,https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker,"An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.",
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
