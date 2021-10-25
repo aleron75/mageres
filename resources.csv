@@ -218,6 +218,7 @@ Extensions,,Dark Mode for Admin Panel,https://github.dev/enanobots/m2-admin-dark
 Extensions,,Url data integrity checker module for Magento 2,https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker,"An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.",
 Extensions,,Magento 2 DataPatchCreator,https://github.com/enanobots/m2-datapatchcreator,Allows us to create PHP Data Patch Files in Magento 2 Admin panel and export them to PHP files which we can add to our code repositories.,
 Extensions,,Magewire,https://github.com/magewirephp/magewire,"A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.",
+Extensions,,Magento 2 Admin Order Status Color,https://github.com/mateussantin/magento2-admin-order-status-color,"An extension to change the color of the order status column in the UI grid, based on the current status of the order.",
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
