@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![475 resources](https://img.shields.io/badge/resources-475-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![477 resources](https://img.shields.io/badge/resources-477-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -190,6 +190,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Admin Notification Blocker](https://github.com/redchamps/admin-notification-blocker) - A Magento 2 extension that allows us to block admin notification based on Severities/Categories.
 * [Aimes Checkout Designs](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group
 * [Aimes_CheckoutDesigns](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group.
+* [Amazon Personalize for Magento 2](https://github.com/Imagination-Media/aws-personalize-magento2) - This extension integrates with Amazon Personalize recommendation service.
 * [Automatic Persisted Queries](https://github.com/danslo/magento2-module-automatic-persisted-queries) - Apollo-compatible automatic persisted queries, to improve GraphQL network performance.
 * [AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
 * [BitExpert_ForceCustomerLogin](https://github.com/bitExpert/magento2-force-login) - Magento 2 module that forces customer login to see website pages.
@@ -239,6 +240,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
 * [Magento 2 Cron Schedule extension Free](https://github.com/mageplaza/magento-2-cron-schedule) - Helps you to execute tasks with no effort from the Admin Panel. 
 * [Magento 2 DataPatchCreator](https://github.com/enanobots/m2-datapatchcreator) - Allows us to create PHP Data Patch Files in Magento 2 Admin panel and export them to PHP files which we can add to our code repositories.
+* [Magento 2 DataPatchCreator - Compatibility for MarkShust SimpleData](https://github.com/enanobots/m2-datapatchcreator-simpledata) - A compatibility extension to use with Magento 2 DataPatchCreator and MarkShust_SimpleData extensions.
 * [Magento 2 Debug Helper](https://github.com/shkoliar/magento-debug-helper) - Automatic breakpoints on PhpStorm based on search parameters.
 * [Magento2 Defer Javascripts](https://github.com/fballiano/magento2-defer-javascripts) - Defer Javascripts module for Magento 2
 * [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
