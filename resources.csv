@@ -214,7 +214,7 @@ Extensions,,Phoenix Media Storage Sync,https://github.com/PHOENIX-MEDIA/magento2
 Extensions,,Magento 2 Attribute Options Pagination,https://github.com/enanobots/m2-attribute-pagination,A simple Magento 2 extension that adds pagination to attribute options in the Admin Panel.,
 Extensions,,Siteation - Magento 2 Module Store Info,https://github.com/Siteation/magento2-module-storeinfo,An (Hyva compatible) extension to add the option to get the store info with ease in your own block.,
 Extensions,,Siteation - Magento 2 Module Store Info Extra,https://github.com/Siteation/magento2-module-storeinfo-extra,An (Hyva compatible) extension to add the option to show social buttons or more extras with ease.,
-Extensions,,Dark Mode for Admin Panel,https://github.dev/enanobots/m2-admin-darkmode,A dark mode theme for Magento Admin Panel.,
+Extensions,,Dark Mode for Admin Panel,https://github.com/enanobots/m2-admin-darkmode,A dark mode theme for Magento Admin Panel.,
 Extensions,,Url data integrity checker module for Magento 2,https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker,"An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.",
 Extensions,,Magento 2 DataPatchCreator,https://github.com/enanobots/m2-datapatchcreator,Allows us to create PHP Data Patch Files in Magento 2 Admin panel and export them to PHP files which we can add to our code repositories.,
 Extensions,,Magewire,https://github.com/magewirephp/magewire,"A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.",
