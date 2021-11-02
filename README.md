@@ -350,6 +350,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Dave Macaulay](https://davemacaulay.com/blog/)
 * [David Alger](https://davidalger.com/tags/magento/)
 * [DCKAP Blog](https://www.dckap.com/blog/)
+* [Dev Hooks](https://devhooks.in/)
 * [Dev98](https://dev98.de/)
 * [Elogic](https://elogic.co/blog/)
 * [Elogic Commerce](https://elogic.co/blog/)
