@@ -201,7 +201,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) - Restricts payment methods to specific customer groups in Magento 2.
 * [CustomGento_CliTaxEditor](https://github.com/customgento/module-cli-tax-editor-m2) - Magento 2 module, which provides new console commands to edit the tax configuration.
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
-* [Dark Mode for Admin Panel](https://github.dev/enanobots/m2-admin-darkmode) - A dark mode theme for Magento Admin Panel.
+* [Dark Mode for Admin Panel](https://github.com/enanobots/m2-admin-darkmode) - A dark mode theme for Magento Admin Panel.
 * [Data Faker For Magento 2](https://github.com/experius/Magento-2-Module-Experius-FakeMyData) - Replaces existing customer data for fake/anonymous data.
 * [Developer Toolbar by vpietri](https://github.com/vpietri/magento2-developer-quickdevbar) - The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running.
 * [DisableLog2 for Magento 2](https://github.com/yireo/Yireo_DisableLog2) - This module disables various log attempts of the Magento core, improving performance slightly.
@@ -325,7 +325,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### English
 
 * [121eCommerce](https://www.121ecommerce.com/resources/blog/)
-* [Aheadworks Blog](https://aheadworks.com/blog/magento-2-extensions/)
+* [Aheadworks Blog](https://aheadworks.com/blog/magento-2-extensions)
 * [Alan Kent](https://alankent.me/)
 * [Alan Storm](https://alanstorm.com/category/magento/)
 * [Alexander Turiak](https://zifius.github.io/)
@@ -334,7 +334,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Anna Völkl](https://anna.voelkl.at/)
 * [Ashley Schroder](http://www.aschroder.com/category/magento/)
 * [Atwix blog](https://www.atwix.com/blog/)
-* [Belvg](https://belvg.com/magento)
+* [Belvg](https://belvg.com/magento-development)
 * [Ben Marks](http://bhmarks.com/blog/)
 * [Bitbull](https://www.bitbull.it/en/categories/magento-2/)
 * [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
