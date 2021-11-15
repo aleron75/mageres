@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![478 resources](https://img.shields.io/badge/resources-478-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![479 resources](https://img.shields.io/badge/resources-479-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -218,6 +218,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Fooman Email Attachments](https://github.com/fooman/emailattachments-m2) - This module allows you to automatically attach transactional PDF documents to Magento 2 sales emails
 * [Galactic Labs - Customer Group Payment Filters](https://github.com/galacticlabs/customer-group-payment-filters) - Magento 2 extension to exclude payment methods for selected customer groups.
 * [Google Tag Manager with Advance Data Layer](https://github.com/magepal/magento2-google-tag-manager) - The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
+* [hivecommerce/magento2-content-fuzzyfyr](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.
 * [Hyva Sales Grids](https://github.com/redmonks/magento2-module-hyva-admin-sales-grids) - An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.
 * [Hyvä Admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.
 * [IntegerNet_RewriteMap Magento Module](https://github.com/integer-net/magento2-rewritemap) - Generate RewriteMap files for Apache from custom Magento URL rewrites (redirects).
