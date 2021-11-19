@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![480 resources](https://img.shields.io/badge/resources-480-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![483 resources](https://img.shields.io/badge/resources-483-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -156,6 +156,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [PHPStorm Live Templates for Magento 2 by Mark Shust](https://github.com/markshust/phpstorm-magento-live-templates) - Magento 2 live templates for PHPStorm that help speed up the development process.
 * [PHPStorm Live Templates for Magento 2 by Nathan McBride](https://github.com/brideo/phpstorm-live-templates-magento-2) - A bunch of Magento 2 Live Templates for PHPStorm
 * [PhpStorm Magento 2 Plugin](https://github.com/magento/magento2-phpstorm-plugin) - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
+* [PyGento](https://github.com/Genaker/PyGento) - A Python module to work with Magento Database directly without using broken Magento 2 core
 * [Rest client for Magento 2](https://github.com/springimport/magento2-api-v1) - A wrapper over Guzzle for Magento 2 REST API.
 * [Simple Import / Export tool](https://github.com/EcomDev/sync-magento-2-migration) - A tool that allows to quickly export data from Magento 1 and Magento 2 store and import it back into Magento 2. 
 * [SwiftOtter Driver](https://github.com/SwiftOtter/Driver) - A database task-runner specifically used for transforming a production database to a sandbox.
@@ -198,6 +199,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [CheckoutTester module for Magento 2](https://github.com/yireo/Yireo_CheckoutTester2) - A simple extension to preview the checkout success-page at any time.
 * [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merge all 3rd party extensions menu items in a common menu item
 * [CLI Plugin List for Magento 2](https://github.com/magento-hackathon/cli-plugin-list) - Get a good overview of plugins installed and be aware of their influence on your Magento 2 instance.
+* [Content Fuzzyfyr Module for Magento 2](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) - Restricts payment methods to specific customer groups in Magento 2.
 * [CustomGento_CliTaxEditor](https://github.com/customgento/module-cli-tax-editor-m2) - Magento 2 module, which provides new console commands to edit the tax configuration.
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
@@ -218,7 +220,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Fooman Email Attachments](https://github.com/fooman/emailattachments-m2) - This module allows you to automatically attach transactional PDF documents to Magento 2 sales emails
 * [Galactic Labs - Customer Group Payment Filters](https://github.com/galacticlabs/customer-group-payment-filters) - Magento 2 extension to exclude payment methods for selected customer groups.
 * [Google Tag Manager with Advance Data Layer](https://github.com/magepal/magento2-google-tag-manager) - The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
-* [hivecommerce/magento2-content-fuzzyfyr](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.
 * [Hyva Sales Grids](https://github.com/redmonks/magento2-module-hyva-admin-sales-grids) - An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.
 * [Hyvä Admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.
 * [IntegerNet_RewriteMap Magento Module](https://github.com/integer-net/magento2-rewritemap) - Generate RewriteMap files for Apache from custom Magento URL rewrites (redirects).
@@ -260,6 +261,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 SMTP by MagePal](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send email using custom SMTP server, Gmail, Amazon SES, Office365 and other
 * [Magento 2 Storyblok Integration](https://github.com/Media-Lounge/magento2-storyblok-integration) - This extension allows to create content-rich pages that are easily editable using the Storyblok interface.
 * [Magento 2 – Cloudflare](https://github.com/jetrails/magento2-cloudflare) - Interact with popular Cloudflare features through Magento 2's backend portal.
+* [MageQuest LiteYouTube](https://github.com/MageQuest/magento2-module-lite-youtube) - A Magento 2 module that adds performant YouTube embeds with no user experience impact.
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Magewire](https://github.com/magewirephp/magewire) - A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.
@@ -596,6 +598,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Alan Kent's Docker image](https://hub.docker.com/r/alankent/gsd/) - Docker image for use with the book series "Getting Stuff Done with Magento 2"
 * [Bitnami Docker Image for Magento](https://github.com/bitnami/bitnami-docker-magento) - Bitnami closely tracks upstream source changes and promptly publishes new versions of this image
 * [DDEV-Local](https://github.com/drud/ddev) - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
+* [Docker Configuration for Magento 2](https://github.com/magenx/Magento-2-docker-configuration)
 * [Docker Devbox](https://github.com/giuseppemorelli/docker-devbox/) - A Docker dev box based on Devilbox
 * [Docker for Magento2](https://github.com/EmakinaFR/docker-magento2) - Environment for a Magento2 application using Docker.
 * [Docker Hub by Mage Inferno](https://hub.docker.com/u/mageinferno/) - Magento 2 Docker containers by Mage Inferno
