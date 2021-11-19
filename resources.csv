@@ -222,6 +222,7 @@ Extensions,,Magento 2 Admin Order Status Color,https://github.com/mateussantin/m
 Extensions,,Amazon Personalize for Magento 2,https://github.com/Imagination-Media/aws-personalize-magento2,This extension integrates with Amazon Personalize recommendation service.,
 Extensions,,Magento 2 DataPatchCreator - Compatibility for MarkShust SimpleData,https://github.com/enanobots/m2-datapatchcreator-simpledata,A compatibility extension to use with Magento 2 DataPatchCreator and MarkShust_SimpleData extensions.,
 Extensions,,hivecommerce/magento2-content-fuzzyfyr,https://github.com/hivecommerce/magento2-content-fuzzyfyr,The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.,
+Extensions,,MageQuest LiteYouTube,https://github.com/MageQuest/magento2-module-lite-youtube,A Magento 2 module that adds performant YouTube embeds with no user experience impact.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
