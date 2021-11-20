@@ -119,7 +119,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [baler](https://github.com/magento/baler) - AMD module bundler and preloader for Magento 2 stores
 * [Butter - Smooth Magento 2 Versions Installer](https://github.com/redchamps/butter) - A specialized tool to install a Magento version with just a single command.
 * [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) - A Capistrano extension for Magento 2 deployments.
-* [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer - usage guide: https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit
+* [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer - usage guide: https://devdocs.magento.com/guides/v2.4/comp-mgr/patching.html#custom-patches
 * [ConvertM1M2](https://github.com/unirgy/convertm1m2) - A script to automate as much as possible the conversion of a Magento 1 extension to Magento 2.
 * [Database Anonymizer](https://github.com/mpchadwick/dbanon) - A run-anywhere, dependency-less database anonymizer.
 * [Database synchronizer for Magento 2](https://github.com/jellesiderius/mage-db-sync) - A tool to download clean/stripped Magento databases over SSH, import and configure it for development purposes.
@@ -358,7 +358,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Dev Hooks](https://devhooks.in/blog/category/magento-2)
 * [Elogic](https://elogic.co/blog/)
 * [Elogic Commerce](https://elogic.co/blog/)
-* [Excellence Technologies](http://excellencemagentoblog.com/)
+* [Excellence Technologies](https://excellencemagentoblog.com/)
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
 * [Firebear Studio Blog](https://firebearstudio.com/blog/)
 * [Fooman](https://fooman.com/blog)
