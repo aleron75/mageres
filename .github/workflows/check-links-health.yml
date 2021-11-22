@@ -17,7 +17,7 @@ jobs:
     - name: Run awesome_bot
       run: |
            gem install awesome_bot
-           awesome_bot README.md --request-delay 1 --allow-dupe --allow-ssl --white-list https://opensource.magento.com/contribution-day-handbook,https://marketplace.magento.com,https://account.magento.com/scanner/,https://www.reddit.com/r/Magento/,https://business.adobe.com/summit/adobe-summit.html
+           awesome_bot README.md --request-delay 1 --allow-dupe --allow-ssl --white-list https://opensource.magento.com/contribution-day-handbook,https://marketplace.magento.com,https://account.magento.com/scanner/,https://www.reddit.com/r/Magento/,https://business.adobe.com/summit/adobe-summit.html,https://support.magento.com/hc/en-us/categories/360004245632-Support-Tools
     - name: Create issue on awesome_bot fail            
       if: ${{ failure() }}   
       env:
