@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![483 resources](https://img.shields.io/badge/resources-483-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![489 resources](https://img.shields.io/badge/resources-489-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -124,6 +124,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Database Anonymizer](https://github.com/mpchadwick/dbanon) - A run-anywhere, dependency-less database anonymizer.
 * [Database synchronizer for Magento 2](https://github.com/jellesiderius/mage-db-sync) - A tool to download clean/stripped Magento databases over SSH, import and configure it for development purposes.
 * [Divante Anonymizer](https://github.com/DivanteLtd/anonymizer) - Universal tool to create anonymized DBs
+* [DotEnv](https://github.com/zepgram/magento-dotenv) - Magento 2 component implementing Symfony dotenv to create environment variables
 * [ExtDN Installer for Magento 2 modules](https://github.com/extdn/installer-m2) - Universal extension installer for Magento 2
 * [integer_net Magento 2 Module Template](https://github.com/integer-net/magento2-module-template) - A template to easily get started with Magento open source module development.
 * [Laragento](https://github.com/Genaker/laragento) - A collection of Model classes that allows you to get data directly from a Magento 2 database using Laravel’s Eloquent ORM.
@@ -293,6 +294,10 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
 * [Yireo’s Common ViewModels](https://github.com/yireo/Yireo_CommonViewModels) - Common ViewModels for usage in Magento 2.2.1+ frontends.
+* [Zepgram DisableSearchEngine](https://github.com/zepgram/module-disable-search-engine) - This Magento 2 module allow you to disable entirely Elasticsearch service: useful when research and categories are not used.
+* [Zepgram JsonSchema](https://github.com/zepgram/module-json-schema) - Magento 2 module to validate JSON Structures against a given Schema.
+* [Zepgram Rest](https://github.com/zepgram/module-rest) - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
+* [Zepgram ZeroDownTimeDeployment](https://github.com/zepgram/module-zero-downtime-deployment) - Disable native change detection from Magento 2 to allow implementation of Zero Downtime Deployment Strategy (ZDD).
 
 ## Testing
 
@@ -644,3 +649,4 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Vagrant for Magento 2 CE](https://github.com/paliarush/magento2-vagrant-for-developers) - Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)
 * [Vagrant  Magento (1.9.2.2)  PHP-7.0.0](https://github.com/roman204/vagrant-magento-php7) - This Vagrantbox will build a Virtual Server for Virtualbox based on Ubuntu 14.04
 * [Vagrant Magento 2 Demo](https://github.com/davidalger/m2demo) - A complete demo environment powered by Vagrant using either Digital Ocean or Virtual Box as a provider
+* [Vagrant Magento 2 Fast VM](https://github.com/zepgram/magento2-fast-vm) - Developer box for Magento2: supporting Linux, Windows and Mac. Also providing full support for PHP version compatible with Magento2
