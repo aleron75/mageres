@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![489 resources](https://img.shields.io/badge/resources-489-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![490 resources](https://img.shields.io/badge/resources-490-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -529,6 +529,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento DevChannel](https://www.youtube.com/c/MaxPronko) - YouTube channel by Max Pronko
 * [Matheus Gontijo](https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ) - Matheus Gontijo’s YouTube channel
 * [SwiftOtter](https://www.youtube.com/channel/UCD4FUoiuDt2UWhyOKiZm6rQ) - YouTube Channel by SwiftOtter
+* [Yireo On-Demand training](https://www.yireo.com/education/on-demand) - Magento 2 Developer video on-demand training
 
 ### Russian
 
