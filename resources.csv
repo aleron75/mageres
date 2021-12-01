@@ -92,7 +92,7 @@ Tools,Free,Magento 2 Code Generator,https://github.com/ORBA/magento2-codegen,A t
 Tools,Free,Laragento,https://github.com/Genaker/laragento,A collection of Model classes that allows you to get data directly from a Magento 2 database using Laravel’s Eloquent ORM.,
 Tools,Free,Database synchronizer for Magento 2,https://github.com/jellesiderius/mage-db-sync,"A tool to download clean/stripped Magento databases over SSH, import and configure it for development purposes.",
 Tools,Free,Warden Aliases,https://github.com/MagePsycho/magento2-warden-aliases,Some shell aliases to make your Warden-based development life easier,
-Tools,Free,PyGento,https://github.com/Genaker/PyGento,A Python module to work with Magento Database directly without using broken Magento 2 core,
+Tools,Free,PyGento,https://github.com/Genaker/PyGento,A Python module to work with Magento Database directly without using native Magento 2 core,
 Tools,Free,DotEnv,https://github.com/zepgram/magento-dotenv,Magento 2 component implementing Symfony dotenv to create environment variables,
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3,
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2,
