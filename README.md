@@ -111,6 +111,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magerror](https://www.magerror.com) - All your Magento reports in one place
 * [Magicento](https://magicento.com/) - PHPStorm plugin for both Magento 1 and Magento 2 developers
 * [Tinkerwell](https://tinkerwell.app/) - A desktop application that allows you to run PHP code; it includes Magento drivers.
+* [RDM](https://rdm.dev/) - Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
 
 ### Free
 
