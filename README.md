@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![490 resources](https://img.shields.io/badge/resources-490-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![491 resources](https://img.shields.io/badge/resources-491-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -192,6 +192,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Admin Notification Blocker](https://github.com/redchamps/admin-notification-blocker) - A Magento 2 extension that allows us to block admin notification based on Severities/Categories.
 * [Aimes Checkout Designs](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group
 * [Aimes_CheckoutDesigns](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group.
+* [Align MSI reservation logic](https://github.com/comwrap/msi-reservation) - This extension allows avoid ingissues with MSI’s reservations when stocks are managed by external systems.
 * [Amazon Personalize for Magento 2](https://github.com/Imagination-Media/aws-personalize-magento2) - This extension integrates with Amazon Personalize recommendation service.
 * [Automatic Persisted Queries](https://github.com/danslo/magento2-module-automatic-persisted-queries) - Apollo-compatible automatic persisted queries, to improve GraphQL network performance.
 * [AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
