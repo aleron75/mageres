@@ -47,7 +47,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
 * [Magento 2.x User Guide](https://docs.magento.com/user-guide/) - Merchant-focused documentation for both Magento Commerce and Magento Open Source
 * [Magento Blog](https://magento.com/blog) - Get the latest news, tips and advice for maximizing your online store.
-* [Magento Commerce Tips & Tricks Video Series](https://magento.com/resources/how-to-video-series) - Learn how to use the out-of-the-box features and capabilities of Magento Commerce to get the most out of it.
+* [Magento Commerce Tips & Tricks Video Series](https://business.adobe.com/resources/main.html?Products+%26+Services=Commerce) - Adobe video resource center, filterred by Commerce technology
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
 * [Magento Glossary](https://glossary.magento.com/) - The place where all the terminology for Magento products lives.
 * [Magento Open Source Roadmap](https://devdocs.magento.com/release/roadmap.html)
@@ -551,7 +551,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Campus](https://campus.m.academy/home) - The community for like-minded Magento folks by M.academy.
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
 * [MageFounders](https://magefounders.com/) - A colection of stories by people from the Magento community to inspire and encourage others.
-* [Magento Community Portal](https://opensource.magento.com/) - Join thousands of community developers working on different projects
+* [Magento Community Portal](https://developer.adobe.com/open/magento) - Join thousands of community developers working on different projects
 * [Magento Forum](https://community.magento.com/) - The "brand new" Magento forum
 * [Magento Speaker Directory](https://magento.mobilize.io) - To connect speakers with event organizers.
 * [Magento Stack Exchange](https://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
@@ -577,7 +577,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 * [Contribution Day Organizer's Handbook](https://opensource.magento.com/contribution-day-handbook) - This handbook aims to answer any questions you have on the matter.
 * [Magento Community Engineering](https://calendar.google.com/calendar/embed?src=sn3me3pduhd92hhk9s7frkn57o@group.calendar.google.com) - A publicly available Google calendar with Magento Community Engineering’s schedule
-* [Magento Event Listing](https://magento.com/events) - List of Magento Events on Magento site
+* [Magento Event Listing](https://www.adobe.com/events.html) - List of Adobe Events
 * [Magento Events Google Calendar](https://calendar.google.com/calendar/embed?src=9ns1e12ucfd84tpnsehekkc6g0@group.calendar.google.com) - A publicly available Google calendar with almost all Magento events around the world
 
 ### Conferences
