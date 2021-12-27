@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![491 resources](https://img.shields.io/badge/resources-491-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![496 resources](https://img.shields.io/badge/resources-496-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -75,6 +75,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Certification Integration FAQ](https://spark.adobe.com/page/XQ6iZmLsFsHhi/)
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 * [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
+* [The SwiftOtter Certification Challenge](https://swiftotter.com/challenge) - A certification study group, because together it’s better!
 
 ## Books
 
@@ -140,6 +141,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magento 2 Simplistic Installer](https://github.com/MagePsycho/magento2-installer-bash-script) - A simplistic tool to install Magento 2 from different sources like tar & composer
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
+* [Magento 2 Upgrade GUI](https://github.com/elgentos/magento2-upgrade-gui) - A GUI tool to help you visually and easily spot differences in a three-way comparison between the version you upgraded from, the version you upgraded to, and your Magento preferences, plugins and overrides.
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
@@ -150,6 +152,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MRM Commerce Magento 2 Coding Standard](https://github.com/mrm-commerce/magento-coding-standard-phpcs) - A set of PHP Code Sniffer rules meant to ensure or increase the code quality of Magento 2 projects.
 * [netz98 magerun2 addons by Elgentos](https://github.com/elgentos/magerun2-addons) - Some additional commands for the excellent m98-magerun2 Magento 2 command-line tool.
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
+* [NodeJento](https://github.com/Genaker/nodejento) - NodeJS implementation of the Magento 2 ORM without using legacy PHP
 * [Oh My ZSH Plugin - Magento 2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) - Magento 2 autocomplete plugin for oh-my-zsh
 * [Optimize Composer for Magento 2 projects](https://github.com/fooman/composer-magento2-optimizations) - A composer-plugin that contains a set of improvements that makes running heavy-duty composer commands (i.e. composer update or composer require) much faster.
 * [Pacemaker](https://pacemaker.techdivision.com/en) - Import and process management tool for Magento
@@ -162,6 +165,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Simple Import / Export tool](https://github.com/EcomDev/sync-magento-2-migration) - A tool that allows to quickly export data from Magento 1 and Magento 2 store and import it back into Magento 2. 
 * [SwiftOtter Driver](https://github.com/SwiftOtter/Driver) - A database task-runner specifically used for transforming a production database to a sandbox.
 * [SwiftOtter Magento CI Script System](https://github.com/SwiftOtter/MagentoCI) - Magento continuous integration bash scripts. Makes deploying Magento easy.
+* [Terraform Adobe Commerce Quick Start](https://github.com/aws-ia/terraform-adobe-magento) - A module that uses Terraform Cloud to deploy Magento on the Amazon Web Services (AWS) Cloud.
 * [The Installer](https://github.com/jacquesbh/installer) - PHP command line tool for Magento extension development and scaffolding
 * [Vaimo Composer Patches](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
 * [Visual Studio Code startup task for cache-clean.js on Magento 2.](https://gist.github.com/jrosell/f062e5be7468f620ab7c78a45ea9729e) - A useful gist to add a startup task to automate the Magento 2 Cache Clean process.
@@ -267,6 +271,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Magewire](https://github.com/magewirephp/magewire) - A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.
+* [Magewire Examples](https://github.com/magewirephp/magewire-examples) - A Magewire showcase to give easy insights on where Magewire could possibly fit in our project.
 * [Marketplace](https://github.com/swissup/module-marketplace) - Magento modules and themes CLI/GUI downloader and installer
 * [MarkShust_DisableTwoFactorAuth](https://github.com/markshust/magento2-module-disabletwofactorauth) - Adds the missing toggle to turn 2FA on or off from the admin.
 * [MarkShust_ExtraBodyClasses](https://github.com/markshust/magento2-module-extrabodyclasses) - Adds the website and store codes to the body class attribute.
