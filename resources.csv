@@ -97,6 +97,7 @@ Tools,Free,PyGento,https://github.com/Genaker/PyGento,A Python module to work wi
 Tools,Free,DotEnv,https://github.com/zepgram/magento-dotenv,Magento 2 component implementing Symfony dotenv to create environment variables,
 Tools,Free,Terraform Adobe Commerce Quick Start,https://github.com/aws-ia/terraform-adobe-magento,A module that uses Terraform Cloud to deploy Magento on the Amazon Web Services (AWS) Cloud.,
 Tools,Free,Magento 2 Upgrade GUI,https://github.com/elgentos/magento2-upgrade-gui,"A GUI tool to help you visually and easily spot differences in a three-way comparison between the version you upgraded from, the version you upgraded to, and your Magento preferences, plugins and overrides.",
+Tools,Free,NodeJento,https://github.com/Genaker/nodejento,NodeJS implementation of the Magento 2 ORM without using legacy PHP,
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3,
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2,
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically,
