@@ -386,7 +386,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [LexiConn](https://www.lexiconn.com/blog/category/magento/)
 * [M.academy](https://m.academy/blog/)
 * [MageComp Magento Blog](https://magecomp.com/blog/)
-* [Magenable](https://magenable.com.au/category/magento-ecommerce/)
+* [Magenable](https://magenable.com.au/category/magento-ecommerce/page/1)
 * [Magenticians](https://magenticians.com/)
 * [Magently Blog](https://magently.com/blog/)
 * [Magento Blog](https://magento.com/blog)
@@ -434,7 +434,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### German
 
 * [Christian Münch](https://muench.dev/)
-* [E-CONOMIX](https://www.e-conomix.at/blog/#magento)
+* [E-CONOMIX](https://www.e-conomix.at/blog)
 * [Macluster](https://maxcluster.de/blog/category:Magento)
 * [Matthias Zeis](https://www.matthias-zeis.com/magento-2)
 * [NeoShops](http://neoshops.de/category/magento-blog/)
