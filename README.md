@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![495 resources](https://img.shields.io/badge/resources-495-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![498 resources](https://img.shields.io/badge/resources-498-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -168,6 +168,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Terraform Adobe Commerce Quick Start](https://github.com/aws-ia/terraform-adobe-magento) - A module that uses Terraform Cloud to deploy Magento on the Amazon Web Services (AWS) Cloud.
 * [The Installer](https://github.com/jacquesbh/installer) - PHP command line tool for Magento extension development and scaffolding
 * [Vaimo Composer Patches](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project. Example https://gist.github.com/amenk/908e80748662d896718685c778cd4db4
+* [Velvet](https://github.com/danslo/velvet) - An administration backend for Magento 2 websites built with modern web technologies such as React, Typescript, GraphQL, and MUI. Requires the Magento 2 Velvet extension to work within Magento.
 * [Visual Studio Code startup task for cache-clean.js on Magento 2.](https://gist.github.com/jrosell/f062e5be7468f620ab7c78a45ea9729e) - A useful gist to add a startup task to automate the Magento 2 Cache Clean process.
 * [Warden Aliases](https://github.com/MagePsycho/magento2-warden-aliases) - Some shell aliases to make your Warden-based development life easier
 
@@ -263,9 +264,11 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 module for Whoops](https://github.com/yireo/Yireo_Whoops) - Magento 2 module integrating Whoops error handling.
 * [Magento 2 Nostalgia Admin Theme](https://github.com/magespices/mage2nostalgia) - A brand new, compact and eye friendly admin theme, inspired by Magento 1.
 * [Magento 2 Private Packagist Integration](https://packagist.org/packages/wizkunde/magento2-packagist) - Connect your Magento 2 webshop to private packagist and distribute extensions to your customer smarter
+* [Magento 2 Quicklink Module](https://github.com/rafaelstz/magento2-quicklink) - An extension that attempts to make navigations to to subsequent pages faster through prefetching in-viewport links during idle time.
 * [Magento 2 removal of all optional modules](https://github.com/yireo/magento2-replace-all) - A composer meta-package that removes numerous Magento 2 modules
 * [Magento 2 SMTP by MagePal](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send email using custom SMTP server, Gmail, Amazon SES, Office365 and other
 * [Magento 2 Storyblok Integration](https://github.com/Media-Lounge/magento2-storyblok-integration) - This extension allows to create content-rich pages that are easily editable using the Storyblok interface.
+* [Magento 2 Velvet](https://github.com/danslo/magento2-module-velvet) - The metapackage that bundles all the different GraphQL modules required for Velvet.
 * [Magento 2 – Cloudflare](https://github.com/jetrails/magento2-cloudflare) - Interact with popular Cloudflare features through Magento 2's backend portal.
 * [MageQuest LiteYouTube](https://github.com/MageQuest/magento2-module-lite-youtube) - A Magento 2 module that adds performant YouTube embeds with no user experience impact.
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
