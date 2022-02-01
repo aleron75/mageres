@@ -235,6 +235,7 @@ Extensions,,Zepgram JsonSchema,https://github.com/zepgram/module-json-schema,Mag
 Extensions,,Zepgram Rest,https://github.com/zepgram/module-rest,"Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.",
 Extensions,,Zepgram ZeroDownTimeDeployment,https://github.com/zepgram/module-zero-downtime-deployment,Disable native change detection from Magento 2 to allow implementation of Zero Downtime Deployment Strategy (ZDD).,
 Extensions,,Align MSI reservation logic,https://github.com/comwrap/msi-reservation,This extension allows avoid ingissues with MSI’s reservations when stocks are managed by external systems.,
+Extensions,,Magento 2 Quicklink Module,https://github.com/rafaelstz/magento2-quicklink,An extension that attempts to make navigations to to subsequent pages faster through prefetching in-viewport links during idle time.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
