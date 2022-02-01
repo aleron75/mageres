@@ -46,7 +46,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) - All you have to know to start contributing to Magento.
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
 * [Magento 2.x User Guide](https://docs.magento.com/user-guide/) - Merchant-focused documentation for both Magento Commerce and Magento Open Source
-* [Magento Blog](https://magento.com/blog) - Get the latest news, tips and advice for maximizing your online store.
+* [Magento Blog](https://business.adobe.com/blog/tags/commerce) - Get the latest news, tips and advice for maximizing your online store.
 * [Magento Commerce Tips & Tricks Video Series](https://business.adobe.com/resources/main.html?Products+%26+Services=Commerce) - Adobe video resource center, filterred by Commerce technology
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
 * [Magento Glossary](https://glossary.magento.com/) - The place where all the terminology for Magento products lives.
@@ -386,7 +386,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [LexiConn](https://www.lexiconn.com/blog/category/magento/)
 * [M.academy](https://m.academy/blog/)
 * [MageComp Magento Blog](https://magecomp.com/blog/)
-* [Magenable](https://magenable.com.au/category/magento-ecommerce/page/1)
+* [Magenable](https://magenable.com.au/category/magento-ecommerce/page/1/)
 * [Magenticians](https://magenticians.com/)
 * [Magently Blog](https://magently.com/blog/)
 * [Magento Blog](https://magento.com/blog)
