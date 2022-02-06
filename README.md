@@ -111,7 +111,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [MageCloud](https://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
 * [Magerror](https://www.magerror.com) - All your Magento reports in one place
 * [Magicento](https://magicento.com/) - PHPStorm plugin for both Magento 1 and Magento 2 developers
-* [RDM](https://rdm.dev/) - Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
+* [RESP.app](https://resp.app/) - Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
 * [Tinkerwell](https://tinkerwell.app/) - A desktop application that allows you to run PHP code; it includes Magento drivers.
 
 ### Free
@@ -343,6 +343,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### English
 
 * [121eCommerce](https://www.121ecommerce.com/resources/blog/)
+* [Adobe Experience Cloud Blog](https://business.adobe.com/blog/tags/commerce)
 * [Aheadworks Blog](https://aheadworks.com/blog/magento-2-extensions)
 * [Alan Kent](https://alankent.me/)
 * [Alan Storm](https://alanstorm.com/category/magento/)
@@ -392,7 +393,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magenable](https://magenable.com.au/category/magento-ecommerce/page/1/)
 * [Magenticians](https://magenticians.com/)
 * [Magently Blog](https://magently.com/blog/)
-* [Magento Blog](https://magento.com/blog)
 * [Magento Fox Blog](https://adammoss.co.uk/magentofox/)
 * [MagePsycho](https://blog.magepsycho.com/)
 * [Magestore](https://blog.magestore.com/)
