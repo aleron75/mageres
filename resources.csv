@@ -245,6 +245,7 @@ Testing,,Ultimate Unit Test Generator (UUTG),https://github.com/UltimateModuleCr
 Testing,,GitHub Actions for Magento 2 Extensions,https://github.com/extdn/github-actions-m2,A repository that provides a set of open-sourced GitHub actions to write better tested Magento 2 extensions.,
 Testing,,Magento 2 Docker images for extension testing,https://github.com/michielgerritsen/magento2-extension-integration-test,Docker images that can be used to run Magento unit/integration/browser tests for your Magento 2 extensions.,
 Testing,,bitexpert/phpstan-magento,https://github.com/bitExpert/phpstan-magento,Magento specific extension for PHPStan,
+Testing,,Magento 2 integration testing helper,https://github.com/yireo/Yireo_IntegrationTestHelper,This module adds various utilities to aid in creating integration tests for Magento 2.,
 PWA,,PWA Studio,https://github.com/magento/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.,
 PWA,,Vue Storefront,https://github.com/vuestorefront/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.",
 PWA,,Venia UI Override Resolver,https://github.com/fooman/venia-ui-override-resolver,A Magento PWA Studio extension that enables extending Venia & Peregrine,
