@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![498 resources](https://img.shields.io/badge/resources-498-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![503 resources](https://img.shields.io/badge/resources-503-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -72,7 +72,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Associate Developer Exam notes](https://docs.google.com/document/d/1t61AugL-wE2B7uBzw5ak_ZQTo3Yju_sjb42ecjnWkpc/edit) - A collection of notes about Magento 2 Associate Developer Exam.
 * [Magento 2 Certified Professional Developer notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
 * [Magento Certification](https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce) - Adobe Magento Commerce certifications
-* [Magento Certification Integration FAQ](https://spark.adobe.com/page/XQ6iZmLsFsHhi/)
+* [Magento Certification Integration FAQ](https://express.adobe.com/page/XQ6iZmLsFsHhi/)
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 * [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
 * [The SwiftOtter Certification Challenge](https://swiftotter.com/challenge) - A certification study group, because together it’s better!
@@ -127,6 +127,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Divante Anonymizer](https://github.com/DivanteLtd/anonymizer) - Universal tool to create anonymized DBs
 * [DotEnv](https://github.com/zepgram/magento-dotenv) - Magento 2 component implementing Symfony dotenv to create environment variables
 * [ExtDN Installer for Magento 2 modules](https://github.com/extdn/installer-m2) - Universal extension installer for Magento 2
+* [Gitlab CI/CD pipeline with AWS integration for Magento 2 deployment](https://github.com/bijay135/gitlab-aws-magento2-deploy) - A CI/CD pipeline inspired by the Magento Cloud pipeline with zero downtime, provided at least two nodes are available.
 * [integer_net Magento 2 Module Template](https://github.com/integer-net/magento2-module-template) - A template to easily get started with Magento open source module development.
 * [Laragento](https://github.com/Genaker/laragento) - A collection of Model classes that allows you to get data directly from a Magento 2 database using Laravel’s Eloquent ORM.
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
@@ -220,7 +221,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [ElasticSuite for Magento 2](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
 * [elgentos Large Config Products](https://github.com/elgentos/LargeConfigProducts) - Workaround extension to work with extremely large configurable products (5000+ skus)
 * [elgentos Prismic.io](https://github.com/elgentos/magento2-prismicio) - Extension to integrate headless CMS Prismic.io into Magento 2
-* [Elgento’s Regenerate Catalog URLs](https://github.com/elgentos/regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
+* [Elgento’s Regenerate Catalog URLs](https://github.com/elgentos/magento2-regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
 * [Extension Dashboard](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions.
 * [Extension for Cookie SameSite attribute](https://github.com/Veriteworks/CookieFix) - This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
@@ -311,8 +312,10 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ## Testing
 
 * [bitexpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
+* [Elgentos Magento 2 Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite) - A community-driven Cypress testing suite for Magento 2.
 * [GitHub Actions for Magento 2 Extensions](https://github.com/extdn/github-actions-m2) - A repository that provides a set of open-sourced GitHub actions to write better tested Magento 2 extensions.
 * [Magento 2 Docker images for extension testing](https://github.com/michielgerritsen/magento2-extension-integration-test) - Docker images that can be used to run Magento unit/integration/browser tests for your Magento 2 extensions.
+* [Magento 2 integration testing helper](https://github.com/yireo/Yireo_IntegrationTestHelper) - This module adds various utilities to aid in creating integration tests for Magento 2.
 * [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) - Boots up the integration test framework in less than 300ms when caches are primed.
 * [Tdd Wizard Repository](https://github.com/tddwizard) - A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 * [Ultimate Unit Test Generator (UUTG)](https://github.com/UltimateModuleCreator/uutg) - A standalone application for generating the boilerplate for unit tests for PHP unit.
@@ -357,7 +360,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Ben Marks](http://bhmarks.com/blog/)
 * [Bitbull](https://www.bitbull.it/en/categories/magento-2/)
 * [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
-* [C3Media Blog](https://c3.agency/blog/)
+* [C3Media Blog](https://c3.agency/insights)
 * [Cadence Labs](https://www.cadence-labs.com/category/magento/magento-2/)
 * [Chirag Dodia](https://www.codextblog.com)
 * [Classyllama](https://www.classyllama.com/blog/category/development)
@@ -428,6 +431,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Tigren](https://www.tigren.com/magento-blog/)
 * [Timon de Groot](https://blog.timpack.org/)
 * [Visiture](https://www.visiture.com/blog/category/magento/)
+* [WebMeridian](https://webmeridian.net/category/magento/)
 * [Yireo Blog](https://www.yireo.com/blog)
 
 ### French
@@ -629,6 +633,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) - Docker image optimized to develop on Mac, Windows, and Linux
 * [Magento 2 MEQP with Docker](https://hub.docker.com/r/wizkunde/docker-meqp) - Use docker to automatically test your extensions with MEQP, usable with CI tools like CircleCI
 * [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager running easily in just one build/run
+* [Magento 2.4 environment under Docker](https://github.com/bijay135/docker-magento2) - Yet another Docker-based dev env for Magento 2.
 * [Magento Cloud Docker](https://github.com/magento/magento-cloud-docker) - A collection of build configurations for Magento Cloud Docker images
 * [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) - Magento 1 & 2 support on Linux and Mac
 * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7  NGINX  MySql
