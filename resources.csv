@@ -99,6 +99,7 @@ Tools,Free,Terraform Adobe Commerce Quick Start,https://github.com/aws-ia/terraf
 Tools,Free,Magento 2 Upgrade GUI,https://github.com/elgentos/magento2-upgrade-gui,"A GUI tool to help you visually and easily spot differences in a three-way comparison between the version you upgraded from, the version you upgraded to, and your Magento preferences, plugins and overrides.",
 Tools,Free,NodeJento,https://github.com/Genaker/nodejento,NodeJS implementation of the Magento 2 ORM without using legacy PHP,
 Tools,Free,Velvet,https://github.com/danslo/velvet,"An administration backend for Magento 2 websites built with modern web technologies such as React, Typescript, GraphQL, and MUI. Requires the Magento 2 Velvet extension to work within Magento.",
+Tools,Free,Gitlab CI/CD pipeline with AWS integration for Magento 2 deployment,https://github.com/bijay135/gitlab-aws-magento2-deploy,"A CI/CD pipeline inspired by the Magento Cloud pipeline with zero downtime, provided at least two nodes are available.",
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3,
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2,
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically,
