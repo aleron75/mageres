@@ -240,6 +240,7 @@ Extensions,,Align MSI reservation logic,https://github.com/comwrap/msi-reservati
 Extensions,,Magento 2 Quicklink Module,https://github.com/rafaelstz/magento2-quicklink,An extension that attempts to make navigations to to subsequent pages faster through prefetching in-viewport links during idle time.,
 Extensions,,Magento 2 Velvet,https://github.com/danslo/magento2-module-velvet,The metapackage that bundles all the different GraphQL modules required for Velvet.,
 Extensions,,Mage2 Module Experius WysiwygDownloads,https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads,This extension makes it possible to upload different filetypes inside the WYSIWYG-editor.,
+Extensions,,System Configuration Toolkit,https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit,"A Magento 2 extension that shows sort order of system configuration's tabs, sections, groups, and fields.",
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
