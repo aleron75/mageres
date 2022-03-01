@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![503 resources](https://img.shields.io/badge/resources-503-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![507 resources](https://img.shields.io/badge/resources-507-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -175,6 +175,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Security
 
+* [Adobe Security Notification Service](https://www.adobe.com/subscription/adbeSecurityNotifications.html) - A free e-mail notification service that Adobe uses to send information to customers about the security of Adobe products.
 * [InvalidateAdminPasswords Extension](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords) - A tool by SomethingDigital to invalidate all Magento admin user passwords
 * [mage2_ext_csp](https://github.com/flancer32/mage2_ext_csp) - The main goal of this extension is to remove CSP errors from JS console and use it to collect reports and generate rules to automatically lock not-allowed content.
 * [MageDef](https://www.magedef.com/) - Free resources to build more reliable and defensible eCommerce platforms and software.
@@ -234,6 +235,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Integer_Net GlobalCustomLayout](https://github.com/integer-net/magento2-global-custom-layout) - Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id.
 * [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
 * [Lightspeed for Lighthouse optimizations](https://github.com/elgentos/magento2-lightspeed) - This module defines several sections where you can define common feedback from Google Lighthouse.
+* [Mage2 Module Experius WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads) - This extension makes it possible to upload different filetypes inside the WYSIWYG-editor.
 * [MageKey AdcPopup](https://github.com/magekey/module-adc-popup) - Add to cart popup with upsell products
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) - This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
 * [Magenizr ResetUiBookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting
@@ -296,6 +298,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Siment_HttpHeaderThemeSwitch](https://github.com/siment/magento2-http-header-theme-switch) - Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
 * [Siteation - Magento 2 Module Store Info](https://github.com/Siteation/magento2-module-storeinfo) - An (Hyva compatible) extension to add the option to get the store info with ease in your own block.
 * [Siteation - Magento 2 Module Store Info Extra](https://github.com/Siteation/magento2-module-storeinfo-extra) - An (Hyva compatible) extension to add the option to show social buttons or more extras with ease.
+* [System Configuration Toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) - A Magento 2 extension that shows sort order of system configuration's tabs, sections, groups, and fields.
 * [UMC CRUD for Magento 2](https://github.com/UltimateModuleCreator/umc-crud) - A module intended to reduce the boilerplate code when creating a CRUD extension.
 * [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.
 * [Yireo AutoFlushCache](https://github.com/yireo/Yireo_AutoFlushCache) - Automatically flush the cache whenever you save something in the System Configuration.
@@ -482,6 +485,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
 * [Magento 2 Supported Versions](https://github.com/navarr/magento2-supported-versions) - This repository is an up-to-date table of the versions of various software that various versions of Magento support.
 * [Magento 2 Tutorials](https://www.mag-manager.com/magento-2-tutorials/) - Easy to follow guides that will help you dive into Magento 2 specifics and familiarize yourself with basic concepts.
+* [Magento 2 zero-downtime deployment GitHub actions](https://github.com/marketplace/actions/magento-2-actions) - Do a Magento 2 zero-downtime deployment using GitHub actions.
 * [Magento 2.3.x - List of all dispatched events](https://cyrillschumacher.com/magento-2.3-list-of-all-dispatched-events/) - A cheat sheet that lists all dispatched events in Magento 2.3.
 * [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Cheat Sheets](https://cheatography.com/tag/magento/) - A collection of cheat sheets for Magento 2
