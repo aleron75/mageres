@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![507 resources](https://img.shields.io/badge/resources-507-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![506 resources](https://img.shields.io/badge/resources-506-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -433,13 +433,12 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Talesh Seeparsan](https://www.seeparsan.net/magento-blog/)
 * [Tigren](https://www.tigren.com/magento-blog/)
 * [Timon de Groot](https://blog.timpack.org/)
-* [Visiture](https://www.visiture.com/blog/category/magento/)
 * [WebMeridian](https://webmeridian.net/category/magento/)
 * [Yireo Blog](https://www.yireo.com/blog)
 
 ### French
 
-* [Agence DnD](https://www.dnd.fr/categorie/blog/magento-2/)
+* [Agence DnD](https://www.dnd.fr/blog/)
 
 ### German
 
