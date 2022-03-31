@@ -461,7 +461,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 ### Portuguese
 
 * [Mageflix](https://mageflix.com/)
-* [Magenteiro](https://www.magenteiro.com/blog/)
+* [Magenteiro](https://www.magenteiro.com/blog/) - Weekly articles and Magento courses in Portuguese
 * [Tiago Sampaio](https://tiagosampaio.com/)
 
 ### Spanish
