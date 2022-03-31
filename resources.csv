@@ -270,6 +270,7 @@ PWA,,PWA Studio Roadmap,https://github.com/magento/pwa-studio/wiki/Roadmap,The o
 PWA,,Magento PWA Documentation,https://magento.github.io/pwa-studio/,Everything you need to build a Magento PWA.,
 PWA,,Monsoon PWA,https://github.com/monsoonconsulting/magento2-pwa,"Adds icons, a web manifest file and a service-worker file to make magento 2 a PWA.",
 PWA,,Daffodil,https://next.daff.io/,A multi-platform frontend toolkit that intends to improve developer workflow when writing a frontend for online stores.,
+PWA,,GraphCommerce,https://www.graphcommerce.org/,An open-source front-end framework used for building Magento 2 PWA storefronts in React and Next.js.,
 Blogs,English,Magenable,https://magenable.com.au/category/magento-ecommerce/page/1/,,
 Blogs,English,Magento Fox Blog,https://adammoss.co.uk/magentofox/,,
 Blogs,English,Aheadworks Blog,https://aheadworks.com/blog/magento-2-extensions,,
