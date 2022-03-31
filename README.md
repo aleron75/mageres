@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![506 resources](https://img.shields.io/badge/resources-506-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![509 resources](https://img.shields.io/badge/resources-509-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -203,6 +203,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Amazon Personalize for Magento 2](https://github.com/Imagination-Media/aws-personalize-magento2) - This extension integrates with Amazon Personalize recommendation service.
 * [Automatic Persisted Queries](https://github.com/danslo/magento2-module-automatic-persisted-queries) - Apollo-compatible automatic persisted queries, to improve GraphQL network performance.
 * [AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
+* [AvS_ScopeHint for Magento 2](https://github.com/avstudnitz/AvS_ScopeHint2) - This extension displays a hint when a configuration value is overwritten on a lower scope (website or store view).
 * [BitExpert_ForceCustomerLogin](https://github.com/bitExpert/magento2-force-login) - Magento 2 module that forces customer login to see website pages.
 * [Braintree Payments](https://github.com/genecommerce/module-braintree-magento2) - Implements integration with the Braintree payment system, overwriting the original Magento module, to provide additional features and bug fixes.
 * [CheckoutTester module for Magento 2](https://github.com/yireo/Yireo_CheckoutTester2) - A simple extension to preview the checkout success-page at any time.
@@ -329,6 +330,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Additional GraphQL endpoints for Magento 2](https://github.com/yireo/Yireo_AdditionalEndpointsGraphQl) - Additional endpoints for loading information through GraphQL.
 * [Daffodil](https://next.daff.io/) - A multi-platform frontend toolkit that intends to improve developer workflow when writing a frontend for online stores.
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio (deprecated)
+* [GraphCommerce](https://www.graphcommerce.org/) - An open-source front-end framework used for building Magento 2 PWA storefronts in React and Next.js.
 * [GravDept’s PWA Studio Manuals](https://manuals.gravitydept.com/frameworks/magento-pwa-studio)
 * [Integer_Net ReactApp](https://github.com/integer-net/magento2-reactapp) - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
 * [Magento PWA Documentation](https://magento.github.io/pwa-studio/) - Everything you need to build a Magento PWA.
@@ -395,6 +397,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Lars Roettig](https://larsroettig.dev/)
 * [LexiConn](https://www.lexiconn.com/blog/category/magento/)
 * [M.academy](https://m.academy/blog/)
+* [Mage-OS](https://mage-os.org/)
 * [MageComp Magento Blog](https://magecomp.com/blog/)
 * [Magenable](https://magenable.com.au/category/magento-ecommerce/page/1/)
 * [Magenticians](https://magenticians.com/)
