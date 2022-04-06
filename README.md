@@ -434,7 +434,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Space48 Blog](https://www.space48.com/blog/)
 * [SwiftOtter](https://swiftotter.com/technical)
 * [Talesh Seeparsan](https://www.seeparsan.net/magento-blog/)
-* [Tigren](https://www.tigren.com/magento-blog/)
+* [Tigren](https://www.tigren.com/blog/category/magento/)
 * [Timon de Groot](https://blog.timpack.org/)
 * [WebMeridian](https://webmeridian.net/category/magento/)
 * [Yireo Blog](https://www.yireo.com/blog)
