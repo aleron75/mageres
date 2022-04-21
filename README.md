@@ -187,7 +187,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Magento Security Scan Tool](https://account.magento.com/scanner/) - Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account).
 * [Magento Vulnerability Database](https://github.com/sansecio/magevulndb) - List of Magento 1 and 2 integrations with known security issues
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
-* [Official Magento Security Center](https://magento.com/security) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
+* [Official Magento Security Center](https://helpx.adobe.com/security.html) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
 * [Sansec eComscan](https://sansec.io/ecomscan) - A professional and advanced malware scanner for Magento 1 and 2 that detects hacks and vulnerabilities.
 * [Security.txt](https://github.com/kalpmehta/securitytxt) - Security.txt for Magento 2 websites
 
