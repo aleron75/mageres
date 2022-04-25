@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![509 resources](https://img.shields.io/badge/resources-509-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![507 resources](https://img.shields.io/badge/resources-507-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -359,7 +359,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Amasty Blog](https://amasty.com/blog/)
 * [Andrew Smart](https://www.smartiehastheanswer.co.uk/)
 * [Anna Völkl](https://anna.voelkl.at/)
-* [Ashley Schroder](http://www.aschroder.com/category/magento/)
 * [Atwix blog](https://www.atwix.com/blog/)
 * [Belvg](https://belvg.com/magento-development)
 * [Ben Marks](http://bhmarks.com/blog/)
@@ -389,7 +388,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Ibnab Blog](https://www.ibnab.com/en/blog/magento-2)
 * [Inchoo](https://inchoo.net/magento/)
 * [integer_net Blog](https://www.integer-net.com/blog/)
-* [InteractOne Blog](https://www.interactone.com/category/magento-news/)
+* [InteractOne Blog](https://www.interactone.com/category/adobe-magento-news/)
 * [Inviqa](https://inviqa.com/blog)
 * [JetRails](https://jetrails.com/blog/)
 * [Kalpesh Mehta](http://ka.lpe.sh/)
@@ -476,7 +475,6 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](https://fishpig.co.uk/magento/tutorials/)
 * [M.academy snippets](https://mdotacademy.snippets.cc/collection/magento-2) - A collection of useful Magento 2 code snippets
-* [m2.tips](https://m2.tips/) - Lukasz Bajsarowicz’s space focused on Magento 2 contribution and code review.
 * [Mage2DB.com](https://mage2db.com/) - Magento 2.x Learning & Knowledge & Troubleshooting
 * [Magentip](https://magentip.com/) - Magento 2 tutorials, reviews, and fixes.
 * [Magento 2 / PHP versions Matrix](https://gist.github.com/fooman/b1d70ca2954c05c3e11a7a9db04a8a10)
