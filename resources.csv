@@ -244,6 +244,7 @@ Extensions,,Magento 2 Velvet,https://github.com/danslo/magento2-module-velvet,Th
 Extensions,,Mage2 Module Experius WysiwygDownloads,https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads,This extension makes it possible to upload different filetypes inside the WYSIWYG-editor.,
 Extensions,,System Configuration Toolkit,https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit,"A Magento 2 extension that shows sort order of system configuration's tabs, sections, groups, and fields.",
 Extensions,,AvS_ScopeHint for Magento 2,https://github.com/avstudnitz/AvS_ScopeHint2,This extension displays a hint when a configuration value is overwritten on a lower scope (website or store view).,
+Extensions,,Cloudinary Image Product Option,https://github.com/develodesign/magento-extension-cloudinary-option,"This module adds a new product option for Cloudinary image uploads, site visitors can upload images to Cloudinary storage, or select images from a range of Social networks.",
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
