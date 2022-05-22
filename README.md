@@ -363,7 +363,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 * [Belvg](https://belvg.com/magento-development)
 * [Ben Marks](http://bhmarks.com/blog/)
 * [Bitbull](https://www.bitbull.it/en/categories/magento-2/)
-* [bitExpert AG](https://blog.bitexpert.de/blog/tag/magento)
+* [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
 * [C3Media Blog](https://c3.agency/insights)
 * [Cadence Labs](https://www.cadence-labs.com/category/magento/magento-2/)
 * [Chirag Dodia](https://www.codextblog.com)
