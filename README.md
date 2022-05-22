@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![507 resources](https://img.shields.io/badge/resources-507-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![511 resources](https://img.shields.io/badge/resources-511-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -65,6 +65,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2/) - A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 * [Community Resources](https://devdocs.magento.com/community/resources/resources.html) - Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics.
+* [ExtDN Resources](https://extdn.org/resources/) - Resources that help improve the ecosystem of Magento extensions.
 * [Fooman Magento Mirror](https://repo-magento-mirror.fooman.co.nz/) - An alternative authentication free Magento 2 mirror
 * [GravDept’s Magento 2 Manuals](https://manuals.gravitydept.com/frameworks/magento-2)
 * [Mage Mastery](https://magemastery.net/) - Learning resources for Magento 2 developers
@@ -214,6 +215,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [CheckoutTester module for Magento 2](https://github.com/yireo/Yireo_CheckoutTester2) - A simple extension to preview the checkout success-page at any time.
 * [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merge all 3rd party extensions menu items in a common menu item
 * [CLI Plugin List for Magento 2](https://github.com/magento-hackathon/cli-plugin-list) - Get a good overview of plugins installed and be aware of their influence on your Magento 2 instance.
+* [Cloudinary Image Product Option](https://github.com/develodesign/magento-extension-cloudinary-option) - This module adds a new product option for Cloudinary image uploads, site visitors can upload images to Cloudinary storage, or select images from a range of Social networks.
 * [Content Fuzzyfyr Module for Magento 2](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) - Restricts payment methods to specific customer groups in Magento 2.
 * [CustomGento_CliTaxEditor](https://github.com/customgento/module-cli-tax-editor-m2) - Magento 2 module, which provides new console commands to edit the tax configuration.
@@ -322,6 +324,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [bitexpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
 * [Elgentos Magento 2 Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite) - A community-driven Cypress testing suite for Magento 2.
+* [ExtDN PHP_CodeSniffer rules for Magento 2](https://github.com/extdn/extdn-phpcs) - Advanced PHP CodeSniffer rules to aid in Magento 2 development.
 * [GitHub Actions for Magento 2 Extensions](https://github.com/extdn/github-actions-m2) - A repository that provides a set of open-sourced GitHub actions to write better tested Magento 2 extensions.
 * [Magento 2 Docker images for extension testing](https://github.com/michielgerritsen/magento2-extension-integration-test) - Docker images that can be used to run Magento unit/integration/browser tests for your Magento 2 extensions.
 * [Magento 2 integration testing helper](https://github.com/yireo/Yireo_IntegrationTestHelper) - This module adds various utilities to aid in creating integration tests for Magento 2.
@@ -423,6 +426,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Michiel Gerritsen](https://www.michiel-gerritsen.com/)
 * [Mobecls](https://mobecls.com/e-commerce-tips/)
 * [Nexcess Blog](https://www.nexcess.net/blog/category/magento/)
+* [OneStepCheckout](https://blog.onestepcheckout.com/tag/magento-2/)
 * [Onilab](https://onilab.com/blog/)
 * [ParadoxLabs](https://www.paradoxlabs.com/blog/)
 * [Phuc Vo](http://thienphucvx.com/)
