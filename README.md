@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![511 resources](https://img.shields.io/badge/resources-511-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![510 resources](https://img.shields.io/badge/resources-510-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -412,7 +412,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento Fox Blog](https://adammoss.co.uk/magentofox/)
 * [MagePsycho](https://blog.magepsycho.com/)
 * [Magestore](https://blog.magestore.com/)
-* [Magetraining Blog](https://mage.training/blog/)
 * [MageVision](https://www.magevision.com/blog)
 * [MageWorx on Magento 2](https://www.mageworx.com/blog/magento-2/)
 * [Marcel Hauri](https://magento.marcelhauri.ch/blog/)
