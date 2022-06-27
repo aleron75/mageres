@@ -427,7 +427,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Nexcess Blog](https://www.nexcess.net/blog/category/magento/)
 * [OneStepCheckout](https://blog.onestepcheckout.com/tag/magento-2/)
 * [Onilab](https://onilab.com/blog/)
-* [ParadoxLabs](https://www.paradoxlabs.com/blog/)
+* [ParadoxLabs](https://paradoxlabs.com/blog/)
 * [Phuc Vo](http://thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/blog.html)
 * [Pinpoint](https://www.pinpointdesigns.co.uk/insights/)
