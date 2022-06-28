@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![510 resources](https://img.shields.io/badge/resources-510-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![518 resources](https://img.shields.io/badge/resources-518-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -48,6 +48,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ## Official Resources
 
 * [Adobe Commerce Documentation](https://experienceleague.adobe.com/docs/commerce.html) - Adobe Commerce product and technical documentation home page.
+* [Adobe Commerce Performance Best Practices](https://experienceleague.adobe.com/docs/commerce-operations/performance-best-practices/overview.html) - Recommendations and instructions for optimizing the performance of your production deployment.
 * [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) - All you have to know to start contributing to Magento.
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
 * [Magento 2.x User Guide](https://docs.magento.com/user-guide/) - Merchant-focused documentation for both Magento Commerce and Magento Open Source
@@ -81,6 +82,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento Certification Integration FAQ](https://express.adobe.com/page/XQ6iZmLsFsHhi/)
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 * [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
+* [SwiftOtter’s Training Environment](https://github.com/swiftotter-certifications/training-environment) - A course to embed super-problem-solving strategies into your workflow: turning you into a super developer.
 * [The SwiftOtter Certification Challenge](https://swiftotter.com/challenge) - A certification study group, because together it’s better!
 
 ## Books
@@ -204,6 +206,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Admin Activity](https://github.com/kiwicommerce/magento2-admin-activity) - Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them.
 * [Admin Notification Blocker](https://github.com/redchamps/admin-notification-blocker) - A Magento 2 extension that allows us to block admin notification based on Severities/Categories.
 * [Aimes Checkout Designs](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group
+* [Aimes_AddressAttributesSortOrder](https://github.com/robaimes/module-address-attributes-sort-order) - Allows reordering of the customer address attributes via the backend form using the 'Sort Order' input.
 * [Aimes_CheckoutDesigns](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group.
 * [Align MSI reservation logic](https://github.com/comwrap/msi-reservation) - This extension allows avoid ingissues with MSI’s reservations when stocks are managed by external systems.
 * [Amazon Personalize for Magento 2](https://github.com/Imagination-Media/aws-personalize-magento2) - This extension integrates with Amazon Personalize recommendation service.
@@ -231,6 +234,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [elgentos Large Config Products](https://github.com/elgentos/LargeConfigProducts) - Workaround extension to work with extremely large configurable products (5000+ skus)
 * [elgentos Prismic.io](https://github.com/elgentos/magento2-prismicio) - Extension to integrate headless CMS Prismic.io into Magento 2
 * [Elgento’s Regenerate Catalog URLs](https://github.com/elgentos/magento2-regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
+* [EmailTester 2 by Yireo](https://github.com/yireo/Yireo_EmailTester2) - Preview any transactional email in your Magento 2 backend.
 * [Extension Dashboard](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions.
 * [Extension for Cookie SameSite attribute](https://github.com/Veriteworks/CookieFix) - This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
@@ -239,6 +243,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Google Tag Manager with Advance Data Layer](https://github.com/magepal/magento2-google-tag-manager) - The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
 * [Hyva Sales Grids](https://github.com/redmonks/magento2-module-hyva-admin-sales-grids) - An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.
 * [Hyvä Admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.
+* [IntegerNet_EnableSwagger Magento Module](https://github.com/integer-net/magento2-enable-swagger) - Adds the option to re-enable Swagger via configuration. It's disabled in production mode since Magento 2.4.4.
 * [IntegerNet_RewriteMap Magento Module](https://github.com/integer-net/magento2-rewritemap) - Generate RewriteMap files for Apache from custom Magento URL rewrites (redirects).
 * [Integer_Net GlobalCustomLayout](https://github.com/integer-net/magento2-global-custom-layout) - Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id.
 * [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
@@ -327,6 +332,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [ExtDN PHP_CodeSniffer rules for Magento 2](https://github.com/extdn/extdn-phpcs) - Advanced PHP CodeSniffer rules to aid in Magento 2 development.
 * [GitHub Actions for Magento 2 Extensions](https://github.com/extdn/github-actions-m2) - A repository that provides a set of open-sourced GitHub actions to write better tested Magento 2 extensions.
 * [Magento 2 Docker images for extension testing](https://github.com/michielgerritsen/magento2-extension-integration-test) - Docker images that can be used to run Magento unit/integration/browser tests for your Magento 2 extensions.
+* [Magento 2 GitHub Actions](https://github.com/graycoreio/github-actions-magento2) - Opinionated Github Actions and Workflows to make building, testing, and maintaining Magento 2 Modules easier.
 * [Magento 2 integration testing helper](https://github.com/yireo/Yireo_IntegrationTestHelper) - This module adds various utilities to aid in creating integration tests for Magento 2.
 * [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) - Boots up the integration test framework in less than 300ms when caches are primed.
 * [Tdd Wizard Repository](https://github.com/tddwizard) - A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
@@ -565,6 +571,10 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [MugAr](https://www.mugar.io) - Magento Users Group Argentina
 
+### India
+
+* [Magento Meetup – Nagpur](https://www.meetup.com/it-IT/Magento-Meetup-Nagpur/) - The official Magento Meetup Group for Nagpur, India.
+
 ### Italy
 
 * [Magentiamo](https://www.magentiamo.it/) - A community of Magento enthusiasts in Italy
@@ -659,6 +669,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Other
 
+* [magento2gitpod](https://github.com/nemke82/magento2gitpod) - Magento 2 optimized setup for https://gitpod.io workspace.
 * [MDOQ](https://www.mdoq.io/) - Effortlessly replicate, configure, develop, review and deploy your Magento site.
 * [Valet+](https://github.com/weprovide/valet-plus) - A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file. Refer to this article by Dave Macaulay for an easy installation on macOS: https://davemacaulay.com/the-easiest-way-to-install-magento-2-on-macos-using-valet-plus/
 * [Warden](https://warden.dev/) - A CLI utility for working with docker-compose environments.
