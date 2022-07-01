@@ -250,6 +250,7 @@ Extensions,,Cloudinary Image Product Option,https://github.com/develodesign/mage
 Extensions,,EmailTester 2 by Yireo,https://github.com/yireo/Yireo_EmailTester2,Preview any transactional email in your Magento 2 backend.,
 Extensions,,IntegerNet_EnableSwagger Magento Module,https://github.com/integer-net/magento2-enable-swagger,Adds the option to re-enable Swagger via configuration. It's disabled in production mode since Magento 2.4.4.,
 Extensions,,Aimes_AddressAttributesSortOrder,https://github.com/robaimes/module-address-attributes-sort-order,Allows reordering of the customer address attributes via the backend form using the 'Sort Order' input.,
+Extensions,,MagePal_GuestToCustomer,https://github.com/magepal/magento2-guest-to-customer,Quickly and easily convert existing guest checkout customers to registered customers.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
