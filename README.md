@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![519 resources](https://img.shields.io/badge/resources-519-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![526 resources](https://img.shields.io/badge/resources-526-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -138,6 +138,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Gitlab CI/CD pipeline with AWS integration for Magento 2 deployment](https://github.com/bijay135/gitlab-aws-magento2-deploy) - A CI/CD pipeline inspired by the Magento Cloud pipeline with zero downtime, provided at least two nodes are available.
 * [integer_net Magento 2 Module Template](https://github.com/integer-net/magento2-module-template) - A template to easily get started with Magento open source module development.
 * [Laragento](https://github.com/Genaker/laragento) - A collection of Model classes that allows you to get data directly from a Magento 2 database using Laravel’s Eloquent ORM.
+* [M2 PHP version compatibility check](https://github.com/willtran/magento2-php-8-compatibility-check) - This tool can be used to check all modules in an M2 application for PHP8 compatibility
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
 * [Magento 2 - composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB) - Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
 * [Magento 2 Changelog](https://github.com/tdgroot/magento2-changelog) - A simple bash tool to easily get insight into what has changed between Magento releases.
@@ -231,6 +232,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Dutchento VAT Fallback](https://github.com/dutchento/m2-vatfallback) - Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
 * [EAV Cleaner Console Command](https://github.com/magento-hackathon/EAVCleaner/tree/magento2) - Provides cleanup commands to check for different flaws that can occur due to EAV
 * [ElasticSuite for Magento 2](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
+* [elgentos/magento2-algolia-performance](https://github.com/elgentos/magento2-algolia-performance) - A Magento 2 module that makes it possible to set a debounce and a minimum character amount for Algolia Autocomplete
 * [elgentos Large Config Products](https://github.com/elgentos/LargeConfigProducts) - Workaround extension to work with extremely large configurable products (5000+ skus)
 * [elgentos Prismic.io](https://github.com/elgentos/magento2-prismicio) - Extension to integrate headless CMS Prismic.io into Magento 2
 * [Elgento’s Regenerate Catalog URLs](https://github.com/elgentos/magento2-regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
@@ -241,6 +243,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Fooman Email Attachments](https://github.com/fooman/emailattachments-m2) - This module allows you to automatically attach transactional PDF documents to Magento 2 sales emails
 * [Galactic Labs - Customer Group Payment Filters](https://github.com/galacticlabs/customer-group-payment-filters) - Magento 2 extension to exclude payment methods for selected customer groups.
 * [Google Tag Manager with Advance Data Layer](https://github.com/magepal/magento2-google-tag-manager) - The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
+* [Goomento Page Builder](https://github.com/Goomento/PageBuilder) - A free Magento Page Builder extension that allows you to efficiently set up your website by simply dragging and dropping manipulation
 * [Hyva Sales Grids](https://github.com/redmonks/magento2-module-hyva-admin-sales-grids) - An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.
 * [Hyvä Admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.
 * [IntegerNet_EnableSwagger Magento Module](https://github.com/integer-net/magento2-enable-swagger) - Adds the option to re-enable Swagger via configuration. It's disabled in production mode since Magento 2.4.4.
@@ -292,6 +295,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Magewire](https://github.com/magewirephp/magewire) - A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.
 * [Magewire Examples](https://github.com/magewirephp/magewire-examples) - A Magewire showcase to give easy insights on where Magewire could possibly fit in our project.
+* [Mailchimp for Magento 2](https://github.com/mailchimp/mc-magento2) - The official Mailchimp for Magento 2 extension
 * [Marketplace](https://github.com/swissup/module-marketplace) - Magento modules and themes CLI/GUI downloader and installer
 * [MarkShust_DisableTwoFactorAuth](https://github.com/markshust/magento2-module-disabletwofactorauth) - Adds the missing toggle to turn 2FA on or off from the admin.
 * [MarkShust_ExtraBodyClasses](https://github.com/markshust/magento2-module-extrabodyclasses) - Adds the website and store codes to the body class attribute.
@@ -308,6 +312,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [N98_Guillotine](https://github.com/netz98/headless-guillotine) - A simple but useful module to disable frontend requests to implement a headless approach.
 * [Phoenix Media Storage Sync](https://github.com/PHOENIX-MEDIA/magento2-mediastoragesync) - An easy way to retrieve files in media from an origin server to a local development environment.
 * [Product Data Pre-Loader](https://github.com/EcomDev/magento2-product-preloader) - This extension provides an easy way to pre-load data for product collections like prices, stock data, and many more by using different types of load types.
+* [Proof of Concept: using PHP attributes in Magento 2](https://github.com/renttek/magento2-attributes-experiment) - A proof of concept for implementing some Magento 2 configuration using PHP attributes.
 * [Serve Side Analytics for Magento 2](https://github.com/elgentos/magento2-serversideanalytics) - This extension aims to solve the problem of discrepancies between Magento revenue reports and the revenue reports in Google Analytics.
 * [Siment_HttpHeaderThemeSwitch](https://github.com/siment/magento2-http-header-theme-switch) - Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
 * [Siteation - Magento 2 Module Store Info](https://github.com/Siteation/magento2-module-storeinfo) - An (Hyva compatible) extension to add the option to get the store info with ease in your own block.
@@ -392,6 +397,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [David Alger](https://davidalger.com/tags/magento/)
 * [DCKAP Blog](https://www.dckap.com/blog/)
 * [Dev98](https://dev98.de/)
+* [Develo](https://www.develodesign.co.uk/blog)
 * [Dev Hooks](https://devhooks.in/blog/category/magento-2)
 * [Elogic](https://elogic.co/blog/)
 * [Elogic Commerce](https://elogic.co/blog/)
@@ -534,6 +540,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Atwix MageNews](https://www.atwix.com/tag/magenews/) - A selection of the most interesting and important topics that popped up in Magento Community
 * [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?filter=location&q=%23MagentoMonday%7C%23MagentoTuesday&advanced=true&location=forum-board:newsannouncements&sort_by=-topicPostDate&collapse_discussion=true&search_type=thread) - #MagentoMonday (sometimes #MagentoTuesday) Community Digest by [@sherrierohde](https://twitter.com/sherrierohde). You can submit your content here: https://docs.google.com/forms/d/e/1FAIpQLSfXNbNQ0WZ5pK-zPA0Uw9SC3uRQv3SRFZIdunPKqd27CznVGQ/viewform
 * [Magento Ecosystem](https://t.me/magentoecosystem) - Telegram channel by Firebear Studio. Best content from Magento world, curated materials from trusted blogs, Twitter, Reddit and more! Everything you need to know about Magento ecosystem as developer, SI or merchant.
+* [Magento Weekly Highlights](https://www.getrevue.co/profile/MagentoWeeklyHighlights) - A compilation of the week's most important news from the Magento community, curated by Gabriel Guarino.
 * [Mageres](https://mailchi.mp/6a498018d9ef/mageres) - A hand-curated monthly newsletter collecting useful Magento resources.
 * [Magezine](https://magezine.co/) - A professional paper journal for Magento community
 * [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko
