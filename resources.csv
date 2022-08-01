@@ -253,6 +253,7 @@ Extensions,,Aimes_AddressAttributesSortOrder,https://github.com/robaimes/module-
 Extensions,,MagePal_GuestToCustomer,https://github.com/magepal/magento2-guest-to-customer,Quickly and easily convert existing guest checkout customers to registered customers.,
 Extensions,,elgentos/magento2-algolia-performance,https://github.com/elgentos/magento2-algolia-performance,A Magento 2 module that makes it possible to set a debounce and a minimum character amount for Algolia Autocomplete,
 Extensions,,Proof of Concept: using PHP attributes in Magento 2,https://github.com/renttek/magento2-attributes-experiment,A proof of concept for implementing some Magento 2 configuration using PHP attributes.,
+Extensions,,Goomento Page Builder,https://github.com/Goomento/PageBuilder,A free Magento Page Builder extension that allows you to efficiently set up your website by simply dragging and dropping manipulation,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
