@@ -392,6 +392,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Commerce CO-OP by Magento Association](https://www.magentoassociation.org/commerce-co-op)
 * [Creare Blog](https://www.creare.co.uk/blog/magento)
 * [Customer Paradigm](https://www.customerparadigm.com/blog/)
+* [CustomGento](https://www.customgento.com/blog/)
 * [Cyrill Schumacher](https://cyrillschumacher.com/)
 * [Dave Macaulay](https://davemacaulay.com/blog/)
 * [David Alger](https://davidalger.com/tags/magento/)
