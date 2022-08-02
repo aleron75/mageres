@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![526 resources](https://img.shields.io/badge/resources-526-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![527 resources](https://img.shields.io/badge/resources-527-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -392,6 +392,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Commerce CO-OP by Magento Association](https://www.magentoassociation.org/commerce-co-op)
 * [Creare Blog](https://www.creare.co.uk/blog/magento)
 * [Customer Paradigm](https://www.customerparadigm.com/blog/)
+* [CustomGento](https://www.customgento.com/en/blog/)
 * [Cyrill Schumacher](https://cyrillschumacher.com/)
 * [Dave Macaulay](https://davemacaulay.com/blog/)
 * [David Alger](https://davidalger.com/tags/magento/)
