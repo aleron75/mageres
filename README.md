@@ -380,7 +380,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Andrew Smart](https://www.smartiehastheanswer.co.uk/)
 * [Anna Völkl](https://anna.voelkl.at/)
 * [Atwix blog](https://www.atwix.com/blog/)
-* [Belvg](https://belvg.com/magento-development)
+* [Belvg](https://belvg.com/blog/)
 * [Ben Marks](http://bhmarks.com/blog/)
 * [Bitbull](https://www.bitbull.it/en/categories/magento-2/)
 * [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
