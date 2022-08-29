@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![526 resources](https://img.shields.io/badge/resources-526-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![531 resources](https://img.shields.io/badge/resources-531-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -137,6 +137,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [ExtDN Installer for Magento 2 modules](https://github.com/extdn/installer-m2) - Universal extension installer for Magento 2
 * [Gitlab CI/CD pipeline with AWS integration for Magento 2 deployment](https://github.com/bijay135/gitlab-aws-magento2-deploy) - A CI/CD pipeline inspired by the Magento Cloud pipeline with zero downtime, provided at least two nodes are available.
 * [integer_net Magento 2 Module Template](https://github.com/integer-net/magento2-module-template) - A template to easily get started with Magento open source module development.
+* [JS Layout Parser](https://github.dev/pragmatic-modules/jslayout-parser) - A lightweight standalone PHP library that was created to make work with $jsLayout in Magento 2 less spaghetti, and more object-oriented.
 * [Laragento](https://github.com/Genaker/laragento) - A collection of Model classes that allows you to get data directly from a Magento 2 database using Laravel’s Eloquent ORM.
 * [M2 PHP version compatibility check](https://github.com/willtran/magento2-php-8-compatibility-check) - This tool can be used to check all modules in an M2 application for PHP8 compatibility
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
@@ -185,6 +186,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ## Security
 
 * [Adobe Security Notification Service](https://www.adobe.com/subscription/adbeSecurityNotifications.html) - A free e-mail notification service that Adobe uses to send information to customers about the security of Adobe products.
+* [Adobe Vulnerability Disclosure Program and Magento Bug Bounty Program](https://hackerone.com/adobe?type=team) - The place where you can report new vulnerabilities and get rewards.
 * [InvalidateAdminPasswords Extension](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords) - A tool by SomethingDigital to invalidate all Magento admin user passwords
 * [mage2_ext_csp](https://github.com/flancer32/mage2_ext_csp) - The main goal of this extension is to remove CSP errors from JS console and use it to collect reports and generate rules to automatically lock not-allowed content.
 * [MageDef](https://www.magedef.com/) - Free resources to build more reliable and defensible eCommerce platforms and software.
@@ -276,6 +278,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 extension for Imgix](https://github.com/elgentos/magento2-imgix) - An extension to automatically processes product images with Imgix service.
 * [Magento2 Flysystem](https://github.com/flagbit/Magento2-Flysystem) - Integrate Flysystem for local and remote filesystems into Magento2.
 * [Magento 2 Frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js
+* [Magento 2 GraphQL Introspection Cache](https://github.com/graycoreio/magento2-graphql-introspection-cache) - This module allows you to use the same mechanism that is used for caching regular GraphQL resolvers, for introspection queries. This helps minimize the number of times Magento is bootstrapped.
 * [Magento 2 Grid Colors](https://github.com/shkoliar/magento-grid-colors) - Adds extra coloring features to admin grids
 * [Magento 2 Interceptor classes generator](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 * [Magento 2 Menu](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2.
@@ -291,6 +294,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 – Cloudflare](https://github.com/jetrails/magento2-cloudflare) - Interact with popular Cloudflare features through Magento 2's backend portal.
 * [MagePal_GuestToCustomer](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest checkout customers to registered customers.
 * [MageQuest LiteYouTube](https://github.com/MageQuest/magento2-module-lite-youtube) - A Magento 2 module that adds performant YouTube embeds with no user experience impact.
+* [MageQuest_PpcLandingPages](https://github.com/MageQuest/magento2-module-ppc-landing-pages) - Customise your PDP (Product Detail Pages) for PPC (Pay Per Click) visitors.
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Magewire](https://github.com/magewirephp/magewire) - A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.
@@ -320,6 +324,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [System Configuration Toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) - A Magento 2 extension that shows sort order of system configuration's tabs, sections, groups, and fields.
 * [UMC CRUD for Magento 2](https://github.com/UltimateModuleCreator/umc-crud) - A module intended to reduce the boilerplate code when creating a CRUD extension.
 * [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.
+* [Wagento Prune Customer](https://bitbucket.org/wagento-global/prune-customer-accounts/) - An extension that adds CLI commands to prune SPAM customers.
 * [Yireo AutoFlushCache](https://github.com/yireo/Yireo_AutoFlushCache) - Automatically flush the cache whenever you save something in the System Configuration.
 * [Yireo DevHacks](https://github.com/yireo/Yireo_DevHacks) - Magento 2 module with various hacks and solutions for custom development
 * [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker) - Magento 2 module to check upon the code of Magento 2 modules from the CLI
