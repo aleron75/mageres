@@ -104,7 +104,7 @@ Tools,Free,NodeJento,https://github.com/Genaker/nodejento,NodeJS implementation 
 Tools,Free,Velvet,https://github.com/danslo/velvet,"An administration backend for Magento 2 websites built with modern web technologies such as React, Typescript, GraphQL, and MUI. Requires the Magento 2 Velvet extension to work within Magento.",
 Tools,Free,Gitlab CI/CD pipeline with AWS integration for Magento 2 deployment,https://github.com/bijay135/gitlab-aws-magento2-deploy,"A CI/CD pipeline inspired by the Magento Cloud pipeline with zero downtime, provided at least two nodes are available.",
 Tools,Free,M2 PHP version compatibility check,https://github.com/willtran/magento2-php-8-compatibility-check,This tool can be used to check all modules in an M2 application for PHP8 compatibility,
-Tools,Free,JS Layout Parser,https://github.dev/pragmatic-modules/jslayout-parser,"A lightweight standalone PHP library that was created to make work with $jsLayout in Magento 2 less spaghetti, and more object-oriented.",
+Tools,Free,JS Layout Parser,https://github.com/pragmatic-modules/jslayout-parser,"A lightweight standalone PHP library that was created to make work with $jsLayout in Magento 2 less spaghetti, and more object-oriented.",
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3,
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/products/commerce-bug-3,Magento debugging extension for both Magento 1 and 2,
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically,
