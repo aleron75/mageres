@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![531 resources](https://img.shields.io/badge/resources-531-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![533 resources](https://img.shields.io/badge/resources-533-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -317,6 +317,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Phoenix Media Storage Sync](https://github.com/PHOENIX-MEDIA/magento2-mediastoragesync) - An easy way to retrieve files in media from an origin server to a local development environment.
 * [Product Data Pre-Loader](https://github.com/EcomDev/magento2-product-preloader) - This extension provides an easy way to pre-load data for product collections like prices, stock data, and many more by using different types of load types.
 * [Proof of Concept: using PHP attributes in Magento 2](https://github.com/renttek/magento2-attributes-experiment) - A proof of concept for implementing some Magento 2 configuration using PHP attributes.
+* [Rixxo IntroJS](https://bitbucket.org/rxmodules-development/rixxo-introjs/src/master/) - Add Google IntroJS to Magento2
 * [Serve Side Analytics for Magento 2](https://github.com/elgentos/magento2-serversideanalytics) - This extension aims to solve the problem of discrepancies between Magento revenue reports and the revenue reports in Google Analytics.
 * [Siment_HttpHeaderThemeSwitch](https://github.com/siment/magento2-http-header-theme-switch) - Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
 * [Siteation - Magento 2 Module Store Info](https://github.com/Siteation/magento2-module-storeinfo) - An (Hyva compatible) extension to add the option to get the store info with ease in your own block.
@@ -453,6 +454,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Qaisar Satti](https://blog.qaisarsatti.com/)
 * [Rakesh Jesadiya](https://www.rakeshjesadiya.com/)
 * [Revampix](https://www.revampix.com/)
+* [Rixxo](https://www.rixxo.com/blog/)
 * [Rocket Web](https://rocketweb.com/blog)
 * [Rohan Hapani](https://www.rohanhapani.com/category/magento/magento-2/)
 * [Shero Blog](https://sherocommerce.com/blog/)
