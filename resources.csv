@@ -264,6 +264,7 @@ Extensions,,MageQuest_PpcLandingPages,https://github.com/MageQuest/magento2-modu
 Extensions,,Wagento Prune Customer,https://bitbucket.org/wagento-global/prune-customer-accounts/,An extension that adds CLI commands to prune SPAM customers.,
 Extensions,,Elgentos Kiyoh for Magento 2,https://github.com/elgentos/magento2-kiyoh,Fetches site review scores from Kiyoh NL and stores them in the Magento database.,
 Extensions,,Kiyoh Magento 2 Extension by Dutchwebdesign,https://github.com/dutchwebdesign/magento2-kiyoh,Integrates with KiyohNL's product and shop reviews.,
+Extensions,,Aimes_PageBuilderCodeBlock,https://github.com/robaimes/module-pagebuilder-code-block,"An extension tat adds a new PageBuilder content type to display code snippets nicely, using highlight.js.",
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
