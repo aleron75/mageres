@@ -492,8 +492,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Christian Münch](https://muench.dev/)
 * [E-CONOMIX](https://www.e-conomix.at/blog)
-* [Macluster](https://maxcluster.de/blog/category:Magento)
 * [Matthias Zeis](https://www.matthias-zeis.com/magento-2)
+* [Maxcluster](https://maxcluster.de/blog/category:Magento)
 * [NeoShops](http://neoshops.de/category/magento-blog/)
 
 ### Italian
