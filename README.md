@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![552 resources](https://img.shields.io/badge/resources-552-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![554 resources](https://img.shields.io/badge/resources-554-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -271,6 +271,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magenizr ResetUiBookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting
 * [Magento2 - Edit Order Email Address](https://github.com/magepal/magento2-edit-order-email) - This extension allows us to edit the customer email on the order admin page.
 * [Magento 2 - Inventory Log](https://github.com/elgentos/magento2-inventory-log) - This extension allows to keep the log of product inventory for every single transaction.
+* [Magento 2 Admin Locale Switcher](https://github.com/enanobots/admin-locale-switcher) - A simple module that allows you to switch locale in Magento 2 Admin Panel.
 * [Magento 2 Admin Order Status Color](https://github.com/mateussantin/magento2-admin-order-status-color) - An extension to change the color of the order status column in the UI grid, based on the current status of the order.
 * [Magento 2 Attribute Options Pagination](https://github.com/enanobots/m2-attribute-pagination) - A simple Magento 2 extension that adds pagination to attribute options in the Admin Panel.
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
@@ -300,6 +301,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 module for Whoops](https://github.com/yireo/Yireo_Whoops) - Magento 2 module integrating Whoops error handling.
 * [Magento 2 Nostalgia Admin Theme](https://github.com/magespices/mage2nostalgia) - A brand new, compact and eye friendly admin theme, inspired by Magento 1.
 * [Magento 2 Private Packagist Integration](https://packagist.org/packages/wizkunde/magento2-packagist) - Connect your Magento 2 webshop to private packagist and distribute extensions to your customer smarter
+* [Magento 2 Product Discount Label](https://github.com/MagePsycho/magento2-product-discount-label) - This extension allows displaying custom discount labels with calculated savings on catalog and cart pages.
 * [Magento 2 Quicklink Module](https://github.com/rafaelstz/magento2-quicklink) - An extension that attempts to make navigations to to subsequent pages faster through prefetching in-viewport links during idle time.
 * [Magento 2 removal of all optional modules](https://github.com/yireo/magento2-replace-all) - A composer meta-package that removes numerous Magento 2 modules
 * [Magento 2 SMTP by MagePal](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send email using custom SMTP server, Gmail, Amazon SES, Office365 and other
