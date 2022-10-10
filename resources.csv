@@ -279,6 +279,8 @@ Extensions,,Custom Flat Fee Shipping Rates,https://github.com/magepal/magento2-c
 Extensions,,Catalog Images Lazy Load,https://github.com/magepal/magento2-catalog-lazy-load,Improves page loading time and Google Page Ranking by only loading product images as the user scrolls. ,
 Extensions,,Magento2 GeoIp Extension,https://github.com/magepal/magento2-geoip,Automatically detect visitor country code based on their IP address.,
 Extensions,,Preview Order Confirmation Page,https://github.com/magepal/magento2-preview-checkout-success-page,Easily preview and make changes to the success page without placing a new order or modifying Magento's core code.,
+Extensions,,Magento 2 Product Discount Label,https://github.com/MagePsycho/magento2-product-discount-label,This extension allows displaying custom discount labels with calculated savings on catalog and cart pages.,
+Extensions,,Magento 2 Admin Locale Switcher,https://github.com/enanobots/admin-locale-switcher,A simple module that allows you to switch locale in Magento 2 Admin Panel.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
