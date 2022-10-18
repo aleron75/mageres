@@ -224,7 +224,6 @@ Extensions,,Product Data Pre-Loader,https://github.com/EcomDev/magento2-product-
 Extensions,,Serve Side Analytics for Magento 2,https://github.com/elgentos/magento2-serversideanalytics,This extension aims to solve the problem of discrepancies between Magento revenue reports and the revenue reports in Google Analytics.,
 Extensions,,Magento 2 - Inventory Log,https://github.com/elgentos/magento2-inventory-log,This extension allows to keep the log of product inventory for every single transaction.,
 Extensions,,Magento 2 Configurable Options,https://github.com/Beraa995/configurable-product-options,This module provides functionality for preselecting configurable product options and updating attribute values from selected simple product.,
-Extensions,,Aimes_CheckoutDesigns,https://github.com/robaimes/module-checkout-designs,This module provides the ability to change checkout page designs/layout per store and customer group.,
 Extensions,,Hyva Sales Grids,https://github.com/redmonks/magento2-module-hyva-admin-sales-grids,"An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.",
 Extensions,,Phoenix Media Storage Sync,https://github.com/PHOENIX-MEDIA/magento2-mediastoragesync,An easy way to retrieve files in media from an origin server to a local development environment.,
 Extensions,,Magento 2 Attribute Options Pagination,https://github.com/enanobots/m2-attribute-pagination,A simple Magento 2 extension that adds pagination to attribute options in the Admin Panel.,
