@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![555 resources](https://img.shields.io/badge/resources-555-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![554 resources](https://img.shields.io/badge/resources-554-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -211,7 +211,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Admin Notification Blocker](https://github.com/redchamps/admin-notification-blocker) - A Magento 2 extension that allows us to block admin notification based on Severities/Categories.
 * [Aimes Checkout Designs](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group
 * [Aimes_AddressAttributesSortOrder](https://github.com/robaimes/module-address-attributes-sort-order) - Allows reordering of the customer address attributes via the backend form using the 'Sort Order' input.
-* [Aimes_CheckoutDesigns](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group.
 * [Aimes_PageBuilderCodeBlock](https://github.com/robaimes/module-pagebuilder-code-block) - An extension tat adds a new PageBuilder content type to display code snippets nicely, using highlight.js.
 * [Ajax Newsletter Subscription for Magento 2](https://github.com/magepal/magento2-ajax-newsletter-subscribe) - This extension makes it easy to add an AJAX subscription to the Magento newsletter.
 * [Align MSI reservation logic](https://github.com/comwrap/msi-reservation) - This extension allows avoid ingissues with MSI’s reservations when stocks are managed by external systems.
