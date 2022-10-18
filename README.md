@@ -90,7 +90,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Learning Magento 2 Administration](https://www.packtpub.com/product/learning-magento-2-administration/9781783288250) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
 * [Magento 2 Beginners Guide](https://www.packtpub.com/product/magento-2-beginners-guide/9781785880766) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
 * [Magento 2 Cookbook](https://www.packtpub.com/product/magento-2-cookbook/9781785887062) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
-* [Magento 2 Developer's Guide](https://www.packtpub.com/product/magento-2-developer-s-guide/9781785886584) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
+* [Magento 2 Developer's Guide](https://www.packtpub.com/product/magento-2-developers-guide/9781785886584) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
 * [Magento 2 Development Cookbook](https://www.packtpub.com/product/magento-2-development-cookbook/9781785882197) - Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015
 * [Magento 2 Development Essentials](https://www.packtpub.com/product/magento-2-development-essentials/9781785289897) - A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016
 * [Magento 2 Development Quick Start Guide](https://www.packtpub.com/product/magento-2-development-quick-start-guide/9781789343441) - This book guides you through Magento development; by Branko Ajzele, September 2018
@@ -103,7 +103,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ## Performance
 
 * [Blackfire.io](https://www.blackfire.io/) - Commercial code profiler (free tier available) which provides Magento-specific metrics and recommendations
-* [Mage.coach](https://mage.coach/) - Your Magento Performance Coach
+* [Mage.coach](https://magecoach.raybogman.com/) - Your Magento Performance Coach
 * [Magento2 performance fixes](https://github.com/maritos/magento2-performance-fixes) - A set of patches to prevent useless concurrent cache building.
 * [Magento default MySql settings](https://github.com/magenx/Magento-mysql) - Default/startup settings for MySql database.
 * [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
@@ -395,7 +395,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### English
 
-* [121eCommerce](https://www.121ecommerce.com/resources/blog/)
+* [121eCommerce](https://121ecommerce.com/resources/blog/)
 * [Adobe Experience Cloud Blog](https://business.adobe.com/blog/tags/commerce)
 * [Aheadworks Blog](https://aheadworks.com/blog/magento-2-extensions)
 * [Alan Kent](https://alankent.me/)
@@ -618,7 +618,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Online
 
-* [Campus](https://campus.m.academy/home) - The community for like-minded Magento folks by M.academy.
+* [Campus](https://campus.m.academy/) - The community for like-minded Magento folks by M.academy.
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
 * [MageChat](https://www.magechat.club/) - A private, invite-only community for eCommerce professionals.
 * [MageFounders](https://magefounders.com/) - A colection of stories by people from the Magento community to inspire and encourage others.
