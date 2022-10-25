@@ -114,7 +114,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ### Commercial with freemium/trial
 
 * [Beeline](https://m.academy/beeline-magento-2-phpstorm/) - This PhpStorm plugin allows us to create entire files, classes & blocks with just a few keystrokes.
-* [Commerce Bug](https://store.pulsestorm.net/products/commerce-bug-3) - Magento debugging extension for both Magento 1 and 2
+* [Commerce Bug](https://store.pulsestorm.net/l/commerce-bug-three) - Magento debugging extension for both Magento 1 and 2
 * [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 * [MageCloud](https://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
 * [Magerror](https://www.magerror.com) - All your Magento reports in one place
@@ -625,7 +625,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Online
 
-* [Campus](https://campus.m.academy/) - The community for like-minded Magento folks by M.academy.
+* [Campus](https://sso.teachable.com/secure/320358/identity/login/password) - The community for like-minded Magento folks by M.academy.
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
 * [MageChat](https://www.magechat.club/) - A private, invite-only community for eCommerce professionals.
 * [MageFounders](https://magefounders.com/) - A colection of stories by people from the Magento community to inspire and encourage others.
