@@ -225,7 +225,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merge all 3rd party extensions menu items in a common menu item
 * [CLI Plugin List for Magento 2](https://github.com/magento-hackathon/cli-plugin-list) - Get a good overview of plugins installed and be aware of their influence on your Magento 2 instance.
 * [Cloudinary Image Product Option](https://github.com/develodesign/magento-extension-cloudinary-option) - This module adds a new product option for Cloudinary image uploads, site visitors can upload images to Cloudinary storage, or select images from a range of Social networks.
-* [CmsImportExport](An extension for Magento 2 allowing users to import/export CMS pages or blocks.)
+* [CmsImportExport](https://github.com/magespecialist/m2-MSP_CmsImportExport) - An extension for Magento 2 allowing users to import/export CMS pages or blocks.
 * [ConfigImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - This extension provides CLI commands for Magento 2 to import/export system configuration data.
 * [Content Fuzzyfyr Module for Magento 2](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.
 * [Customer Account Links Manager for Magento2](https://github.com/magepal/magento2-customer-account-links-manager) - Allows you to quickly and easily remove unwanted links from your customer navigation dashboard sidebar in Magento.
