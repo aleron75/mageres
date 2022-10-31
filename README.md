@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![561 resources](https://img.shields.io/badge/resources-561-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![563 resources](https://img.shields.io/badge/resources-563-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -546,6 +546,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento Quickies](https://alanstorm.com/category/programming-quickies/)
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
 * [Magento Tweetorials](https://tweetorials.tumblr.com/)
+* [Patch Elastic Suite without MSI](https://gist.github.com/peterjaap/978122fa6dd3afa7fc3ce4d1cc78fb2b) - A useful Gist by Peter Jaap Blaakmeer to remove Elastic Suite dependency on MSI modules 
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
 * [The Ultimate Magento Launch Checklist for Adobe Commerce & Magento Open Source](https://www.rixxo.com/the-ultimate-magento-launch-checklist/) - A collection of over 500 checkpoints to be tested before launching an e-commerce site.
 * [Tjitse Efdé’s public gists](https://gist.github.com/Tjitse-E) - A collection of useful gists from Tjitse Efdé
@@ -714,6 +715,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Other
 
+* [Den](https://github.com/swiftotter/den) - Den is a fork of Warden with AMD64 support, smaller image sizes, and a quicker update schedule.
 * [Magento 2 Gitpod Cloud Development Environment](https://github.com/develodesign/magento-gitpod) - This repository contains a Gitpod configuration for a Magento 2 cloud development environment.
 * [magento2gitpod](https://github.com/nemke82/magento2gitpod) - Magento 2 optimized setup for https://gitpod.io workspace.
 * [MDOQ](https://www.mdoq.io/) - Effortlessly replicate, configure, develop, review and deploy your Magento site.
