@@ -555,6 +555,7 @@ Dev boxes,Vagrant,Vagrant for Magento 2 CE,https://github.com/paliarush/magento2
 Dev boxes,Vagrant,Vagrant Magento 2 Fast VM,https://github.com/zepgram/magento2-fast-vm,"Developer box for Magento2: supporting Linux, Windows and Mac. Also providing full support for PHP version compatible with Magento2",
 Dev boxes,Other,Valet+,https://github.com/weprovide/valet-plus,"A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file. Refer to this article by Dave Macaulay for an easy installation on macOS: https://davemacaulay.com/the-easiest-way-to-install-magento-2-on-macos-using-valet-plus/",
 Dev boxes,Other,Warden,https://warden.dev/,A CLI utility for working with docker-compose environments.,
+Dev boxes,Other,Den,https://github.com/swiftotter/den,"Den is a fork of Warden with AMD64 support, smaller image sizes, and a quicker update schedule.",
 Dev boxes,Other,MDOQ,https://www.mdoq.io/,"Effortlessly replicate, configure, develop, review and deploy your Magento site.",
 Dev boxes,Other,magento2gitpod,https://github.com/nemke82/magento2gitpod,Magento 2 optimized setup for https://gitpod.io workspace.,
 Dev boxes,Other,Magento 2 Gitpod Cloud Development Environment,https://github.com/develodesign/magento-gitpod,This repository contains a Gitpod configuration for a Magento 2 cloud development environment.,
