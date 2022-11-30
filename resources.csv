@@ -295,6 +295,7 @@ Extensions,,Magento 2 Sentry Logger,https://github.com/justbetter/magento2-sentr
 Extensions,,Magento 2 SMTP,https://github.com/mageplaza/magento-2-smtp,This extension allows custom SMTP server configuration to transmit email messages.,
 Extensions,,Indexer Deploy Config,https://github.com/pykettk/module-indexer-deploy-config,An extension that allows developers to lock indexer modes via deployment config.,
 Extensions,,Magento 2 Package Integrity checker,https://github.com/run-as-root/Magento-2-Dependency-Checker,This tool allows to run static analysis on Magento 2 Module Packages to provide an integrity check.,
+Extensions,,Magento 2 Auto Proxy to CLI class arguments,https://github.com/run-as-root/magento-cli-auto-proxy,This component automatically injects proxy for any argument defined in CLI command class constructor to speed up the php bin/magento command execution and eliminate .flag table not found installation issues.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
