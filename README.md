@@ -199,7 +199,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento Vulnerability Database](https://github.com/sansecio/magevulndb) - List of Magento 1 and 2 integrations with known security issues
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Official Magento Security Center](https://helpx.adobe.com/security.html) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
-* [Release & Hotfix matrix for Magento 2 / Adobe Commerce ](https://docs.google.com/spreadsheets/d/17w2TxP0Vw-ik45yNwVTW8orfoIKOXCtvBpIFvbEKiTY) - A handy sheet by Sansec summarizing Magento 2 / Adobe Commerce release management.
+* [Release & Hotfix matrix for Magento 2 / Adobe Commerce ](https://docs.google.com/spreadsheets/d/17w2TxP0Vw-ik45yNwVTW8orfoIKOXCtvBpIFvbEKiTY/) - A handy sheet by Sansec summarizing Magento 2 / Adobe Commerce release management.
 * [Sansec eComscan](https://sansec.io/ecomscan) - A professional and advanced malware scanner for Magento 1 and 2 that detects hacks and vulnerabilities.
 * [Security.txt](https://github.com/kalpmehta/securitytxt) - Security.txt for Magento 2 websites
 
