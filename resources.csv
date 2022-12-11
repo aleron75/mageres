@@ -128,7 +128,7 @@ Security,,mage2_ext_csp,https://github.com/flancer32/mage2_ext_csp,The main goal
 Security,,Sansec eComscan,https://sansec.io/ecomscan,A professional and advanced malware scanner for Magento 1 and 2 that detects hacks and vulnerabilities.,
 Security,,Adobe Security Notification Service,https://www.adobe.com/subscription/adbeSecurityNotifications.html,A free e-mail notification service that Adobe uses to send information to customers about the security of Adobe products.,
 Security,,Adobe Vulnerability Disclosure Program and Magento Bug Bounty Program,https://hackerone.com/adobe?type=team,The place where you can report new vulnerabilities and get rewards.,
-Security,,Release & Hotfix matrix for Magento 2 / Adobe Commerce ,https://docs.google.com/spreadsheets/d/17w2TxP0Vw-ik45yNwVTW8orfoIKOXCtvBpIFvbEKiTY/,A handy sheet by Sansec summarizing Magento 2 / Adobe Commerce release management.,
+Security,,Release & Hotfix matrix for Magento 2 / Adobe Commerce,https://docs.google.com/spreadsheets/d/17w2TxP0Vw-ik45yNwVTW8orfoIKOXCtvBpIFvbEKiTY/edit,A handy sheet by Sansec summarizing Magento 2 / Adobe Commerce release management.,
 Security,,End-of-life dates of Magento 2,https://endoflife.date/magento,"End-of-life dates, and support lifecycles of Magento 2",
 Extensions,,Magento 2 – Cloudflare,https://github.com/jetrails/magento2-cloudflare,Interact with popular Cloudflare features through Magento 2's backend portal.,
 Extensions,,Rixxo IntroJS,https://bitbucket.org/rxmodules-development/rixxo-introjs/src/master/,Add Google IntroJS to Magento2,
