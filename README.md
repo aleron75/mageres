@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![576 resources](https://img.shields.io/badge/resources-576-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![575 resources](https://img.shields.io/badge/resources-575-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -117,7 +117,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 * [MageCloud](https://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
 * [Magerror](https://www.magerror.com) - All your Magento reports in one place
-* [Magicento](https://magicento.com/) - PHPStorm plugin for both Magento 1 and Magento 2 developers
 * [RESP.app](https://resp.app/) - Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
 * [Tinkerwell](https://tinkerwell.app/) - A desktop application that allows you to run PHP code; it includes Magento drivers.
 
