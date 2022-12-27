@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![575 resources](https://img.shields.io/badge/resources-575-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![574 resources](https://img.shields.io/badge/resources-574-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -81,7 +81,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento Certification](https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce) - Adobe Magento Commerce certifications
 * [Magento Certification Integration FAQ](https://express.adobe.com/page/XQ6iZmLsFsHhi/)
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
-* [SwiftOtter Certification Resources](https://swiftotter.com/certifications) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
+* [SwiftOtter Certification Resources](https://swiftotter.com/shop/training) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
 * [SwiftOtter’s Training Environment](https://github.com/swiftotter-certifications/training-environment) - A course to embed super-problem-solving strategies into your workflow: turning you into a super developer.
 
 ## Books
@@ -637,7 +637,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Online
 
-* [Campus](https://sso.teachable.com/secure/320358/identity/login/password) - The community for like-minded Magento folks by M.academy.
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
 * [MageChat](https://www.magechat.club/) - A private, invite-only community for eCommerce professionals.
 * [MageFounders](https://magefounders.com/) - A colection of stories by people from the Magento community to inspire and encourage others.
