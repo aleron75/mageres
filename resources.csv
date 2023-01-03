@@ -299,6 +299,7 @@ Extensions,,Magento 2 Auto Proxy to CLI class arguments,https://github.com/run-a
 Extensions,,Magento 2 CloudFlare Cache Cleaner,https://github.com/enanobots/m2-cloudflare-cache-cleaner,An extension that allows clearing CloudFlare cache from CLI.,
 Extensions,,Magento 2 Store View Pricing,https://github.com/MagePsycho/magento2-store-view-pricing,This extension helps store owners to set up different product prices per store view.,
 Extensions,,Ctasca MageBundle,https://github.com/ctasca/mage-bundle,This extension allows the creation of Magento2/AdobeCommerce PHP/XML/JS files from a set of templates via the command line.,
+Extensions,,MarkShust_SpecialRouter,https://github.com/markshust/magento2-module-specialrouter,This extension provides the ability to use special characters in controller or action names.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
