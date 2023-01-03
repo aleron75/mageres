@@ -301,6 +301,7 @@ Extensions,,Magento 2 Store View Pricing,https://github.com/MagePsycho/magento2-
 Extensions,,Ctasca MageBundle,https://github.com/ctasca/mage-bundle,This extension allows the creation of Magento2/AdobeCommerce PHP/XML/JS files from a set of templates via the command line.,
 Extensions,,MarkShust_SpecialRouter,https://github.com/markshust/magento2-module-specialrouter,This extension provides the ability to use special characters in controller or action names.,
 Extensions,,Preload Images via HTTP Link response header,https://github.com/friends-of-hyva/magento2-preload-images,This extension improves the user experience by loading images that are guaranteed to be displayed above the fold earlier.,
+Extensions,,Magento 2 Lazy Loading extension,https://github.com/mageplaza/magento-2-lazy-loading,This extension allows speeding up the site load by showing the image only at the demanding time.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
