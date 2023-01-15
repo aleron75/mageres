@@ -474,7 +474,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MageVision](https://www.magevision.com/blog)
 * [MageWorx on Magento 2](https://www.mageworx.com/blog/magento-2/)
 * [Marcel Hauri](https://magento.marcelhauri.ch/blog/)
-* [Mark Shust](https://markshust.com/tags/magento/)
+* [Mark Shust](https://markshust.com/blog/)
 * [Max Chadwick](https://maxchadwick.xyz/blog/)
 * [Maxime Huran on Magento 2](https://www.maximehuran.fr/en/category/magento-two/)
 * [Max Pronko](https://www.maxpronko.com/)
@@ -702,7 +702,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ### Docker
 
 * [Alan Kent's Docker image](https://hub.docker.com/r/alankent/gsd/) - Docker image for use with the book series "Getting Stuff Done with Magento 2"
-* [Bitnami Docker Image for Magento](https://github.com/bitnami/bitnami-docker-magento) - Bitnami closely tracks upstream source changes and promptly publishes new versions of this image
+* [Bitnami Docker Image for Magento](https://github.com/bitnami/containers/tree/main/bitnami/magento) - Bitnami closely tracks upstream source changes and promptly publishes new versions of this image
 * [DDEV-Local](https://github.com/drud/ddev) - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
 * [Docker Configuration for Magento 2](https://github.com/magenx/Magento-2-docker-configuration)
 * [Docker Devbox](https://github.com/giuseppemorelli/docker-devbox/) - A Docker dev box based on Devilbox
