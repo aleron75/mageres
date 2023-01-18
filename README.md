@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![581 resources](https://img.shields.io/badge/resources-581-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![582 resources](https://img.shields.io/badge/resources-582-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -262,6 +262,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Galactic Labs - Customer Group Payment Filters](https://github.com/galacticlabs/customer-group-payment-filters) - Magento 2 extension to exclude payment methods for selected customer groups.
 * [Google Tag Manager with Advance Data Layer](https://github.com/magepal/magento2-google-tag-manager) - The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
 * [Goomento Page Builder](https://github.com/Goomento/PageBuilder) - A free Magento Page Builder extension that allows you to efficiently set up your website by simply dragging and dropping manipulation
+* [Green Flying Panda Sales Automation,https://github.com/licentia/panda,A sales automation suite for Magento. Includes]( among other features: Customer Segments) -  Product Recommendations
 * [Hyva Sales Grids](https://github.com/redmonks/magento2-module-hyva-admin-sales-grids) - An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.
 * [Hyvä Admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.
 * [Indexer Deploy Config](https://github.com/pykettk/module-indexer-deploy-config) - An extension that allows developers to lock indexer modes via deployment config.
