@@ -15,5 +15,5 @@ What type of content is appreciated:
 
 Notes:
 
-* try to avoid to add commercial extensions; limit to very useful and popular (possibly free) tools/extensions;
-* if you think a reorganization of contents/categories is needed, let's discuss it together
+* try to avoid to add commercial extensions; limit to very useful and popular (possibly free) tools/extensions that are (also) available on public source control systems like GitHub;
+* if you think a reorganization of contents/categories is needed, let's discuss it together.
