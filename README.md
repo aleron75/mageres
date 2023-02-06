@@ -81,13 +81,13 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento Certification](https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce) - Adobe Magento Commerce certifications
 * [Magento Certification Integration FAQ](https://express.adobe.com/page/XQ6iZmLsFsHhi/)
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
-* [SwiftOtter Certification Resources](https://swiftotter.com/training-home) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
+* [SwiftOtter Certification Resources](https://swiftotter.com/training) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
 * [SwiftOtter’s Training Environment](https://github.com/swiftotter-certifications/training-environment) - A course to embed super-problem-solving strategies into your workflow: turning you into a super developer.
 
 ## Books
 
 * [Learning Magento 2 Administration](https://www.packtpub.com/product/learning-magento-2-administration/9781783288250) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
-* [Magento 2 Beginners Guide](https://www.packtpub.com/product/magento-2-beginners-guide/9781785880766) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
+* [Magento 2 Beginners Guide](https://www.packtpub.com/product/not-set/9781785880766) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
 * [Magento 2 Cookbook](https://www.packtpub.com/product/magento-2-cookbook/9781785887062) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
 * [Magento 2 Developer's Guide](https://www.packtpub.com/product/magento-2-developers-guide/9781785886584) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
 * [Magento 2 Development Cookbook](https://www.packtpub.com/product/magento-2-development-cookbook/9781785882197) - Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015
@@ -96,7 +96,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
 * [Magento 2 Extensions Development](https://www.packtpub.com/product/magento-extensions-development/9781783286775) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
 * [Magento 2 Guida allo sviluppo](https://www.goodreads.com/book/show/52703436-magento-2) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
-* [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/product/magento-2-theme-design-second-edition/9781785888229) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
+* [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/product/not-set/9781785888229) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
 * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/product/mastering-magento-2-second-edition/9781785882364) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
 
 ## Performance
@@ -670,7 +670,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [ExtDN](https://extdn.org/) - A network of leading Magento extension developers
 * [Firegento](https://firegento.com/) - A group of Magento enthusiasts developing open source modules and organizing Hackathons and other events
 * [Mage-OS Association](https://mage-os.org/) - The Magento Open Source Community Alliance’s initiative to ensure the accessibility, longevity, and success of the Magento platform and ecosystem.
-* [Magento Association](https://www.magentoassociation.org/) - The open and powerful Magento ecosystem
+* [Magento Association](https://www.magentoassociation.org/home) - The open and powerful Magento ecosystem
 * [OpenGento](https://opengento.fr/) - The Magento community in France
 
 ## Events
