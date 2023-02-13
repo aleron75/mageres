@@ -87,7 +87,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ## Books
 
 * [Learning Magento 2 Administration](https://www.packtpub.com/product/learning-magento-2-administration/9781783288250) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
-* [Magento 2 Beginners Guide](https://www.packtpub.com/product/not-set/9781785880766) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
+* [Magento 2 Beginners Guide](https://www.packtpub.com/product/magento-2-beginners-guide/9781785880766) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
 * [Magento 2 Cookbook](https://www.packtpub.com/product/magento-2-cookbook/9781785887062) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
 * [Magento 2 Developer's Guide](https://www.packtpub.com/product/magento-2-developers-guide/9781785886584) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
 * [Magento 2 Development Cookbook](https://www.packtpub.com/product/magento-2-development-cookbook/9781785882197) - Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015
@@ -96,7 +96,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
 * [Magento 2 Extensions Development](https://www.packtpub.com/product/magento-extensions-development/9781783286775) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
 * [Magento 2 Guida allo sviluppo](https://www.goodreads.com/book/show/52703436-magento-2) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
-* [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/product/not-set/9781785888229) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
+* [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/product/magento-2-theme-design-second-edition/9781785888229) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
 * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/product/mastering-magento-2-second-edition/9781785882364) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
 
 ## Performance
@@ -105,7 +105,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Mage.coach](https://magecoach.raybogman.com/) - Your Magento Performance Coach
 * [Magento2 performance fixes](https://github.com/maritos/magento2-performance-fixes) - A set of patches to prevent useless concurrent cache building.
 * [Magento default MySql settings](https://github.com/magenx/Magento-mysql) - Default/startup settings for MySql database.
-* [Magento Speed Test](http://www.magespeedtest.com/) - Magento Speed Test with Siege
+* [Magento Speed Test](https://www.magespeedtest.com/) - Magento Speed Test with Siege
 * [Magepack](https://github.com/magesuite/magepack) - Easy-to-use tool for making Magento 2 frontend as fast as never before.
 
 ## Tools
