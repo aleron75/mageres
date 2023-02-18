@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![582 resources](https://img.shields.io/badge/resources-582-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![596 resources](https://img.shields.io/badge/resources-596-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -123,6 +123,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Free
 
+* [Aligent Magento Integration and API Functional Testing Pipe](https://github.com/aligent/magento-integration-test-pipe) - A bitbucket pipe for running Magento integration and API functional tests; designed to be run parallelly so you can leverage bitbucket parallel steps.
 * [Ampersand Magento2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper scripts to aid upgrading Magento 2 websites by detecting overrides
 * [baler](https://github.com/magento/baler) - AMD module bundler and preloader for Magento 2 stores
 * [Butter - Smooth Magento 2 Versions Installer](https://github.com/redchamps/butter) - A specialized tool to install a Magento version with just a single command.
@@ -148,6 +149,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Database Backup Manager](https://github.com/Space48/magedbm2) - A database backup manager for Magento 2 written with developers in mind.
 * [Magento 2 DevTools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 * [Magento 2 DI Lookup](https://m2-dependency-injection-lookup.pulsestorm.net/) - A dependency injection reference that lets you statically search for any reference to a particular type/symbol.
+* [Magento 2 Model Generator](https://github.com/michielgerritsen/magento2-model-generator) - With this app, you can create models for Magento 2 very fast. Ready-to-use on https://www.model-generator.com/
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magento 2 Simplistic Installer](https://github.com/MagePsycho/magento2-installer-bash-script) - A simplistic tool to install Magento 2 from different sources like tar & composer
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
@@ -208,7 +210,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Add an order comments field in the default checkout for Magento 2](https://github.com/boldcommerce/magento2-ordercomments) - Add an order comments field in the default checkout for Magento 2.
 * [Additional Payment Checks](https://github.com/smaex/additional-payment-checks) - Enables additional checks for payment methods in Magento 2.
 * [Add Miscellaneous HTML and Scripts to Magento2 Checkout Success Page](https://github.com/magepal/magento2-checkout-success-misc-script) - This extension makes it easy to add miscellaneous HTML and scripts to the checkout success page. 
-* [Admin Activity](https://github.com/kiwicommerce/magento2-admin-activity) - Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them.
 * [Admin Notification Blocker](https://github.com/redchamps/admin-notification-blocker) - A Magento 2 extension that allows us to block admin notification based on Severities/Categories.
 * [Aimes Checkout Designs](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group
 * [Aimes_AddressAttributesSortOrder](https://github.com/robaimes/module-address-attributes-sort-order) - Allows reordering of the customer address attributes via the backend form using the 'Sort Order' input.
@@ -222,6 +223,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [AvS_ScopeHint for Magento 2](https://github.com/avstudnitz/AvS_ScopeHint2) - This extension displays a hint when a configuration value is overwritten on a lower scope (website or store view).
 * [BitExpert_ForceCustomerLogin](https://github.com/bitExpert/magento2-force-login) - Magento 2 module that forces customer login to see website pages.
 * [Braintree Payments](https://github.com/genecommerce/module-braintree-magento2) - Implements integration with the Braintree payment system, overwriting the original Magento module, to provide additional features and bug fixes.
+* [Breeze](https://github.com/breezefront/module-breeze) - A Magento 2 extension that replaces Luma's js stack with its own implementation.
 * [Catalog Images Lazy Load](https://github.com/magepal/magento2-catalog-lazy-load) - Improves page loading time and Google Page Ranking by only loading product images as the user scrolls. 
 * [Change Customer Password In Admin](https://github.com/tuyennn/magento2-change-customer-password) - This extension allows the admin to change the customer's password directly, like old-fashion way Magento 1.
 * [CheckoutTester module for Magento 2](https://github.com/yireo/Yireo_CheckoutTester2) - A simple extension to preview the checkout success-page at any time.
@@ -262,7 +264,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Galactic Labs - Customer Group Payment Filters](https://github.com/galacticlabs/customer-group-payment-filters) - Magento 2 extension to exclude payment methods for selected customer groups.
 * [Google Tag Manager with Advance Data Layer](https://github.com/magepal/magento2-google-tag-manager) - The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
 * [Goomento Page Builder](https://github.com/Goomento/PageBuilder) - A free Magento Page Builder extension that allows you to efficiently set up your website by simply dragging and dropping manipulation
-* [Green Flying Panda Sales Automation](https://github.com/licentia/panda) - A sales automation suite for Magento. Includes, among other features: Customer Segments, Product Recommendations, Email & SMS Marketing, Equity, Lifetime Value and Dynamic Pricing, Reports, Info Windows, Two-Factor Authentication, Forms, Customer KPI's
+* [Green Flying Panda Sales Automation](https://github.com/licentia/panda) - A sales automation suite for Magento. Includes, among other features: Customer Segments, Product Recommendations, Email & SMS Marketing, Equity, Lifetime Value and Dynamic Pricing, Reports, Info Windows, Two-Factor Authentication, Forms, Customer KPIs
 * [Hyva Sales Grids](https://github.com/redmonks/magento2-module-hyva-admin-sales-grids) - An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.
 * [Hyvä Admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.
 * [Indexer Deploy Config](https://github.com/pykettk/module-indexer-deploy-config) - An extension that allows developers to lock indexer modes via deployment config.
@@ -271,16 +273,21 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Integer_Net GlobalCustomLayout](https://github.com/integer-net/magento2-global-custom-layout) - Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id.
 * [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
 * [Kiyoh Magento 2 Extension by Dutchwebdesign](https://github.com/dutchwebdesign/magento2-kiyoh) - Integrates with KiyohNL's product and shop reviews.
+* [Legacy Mysql Search](https://github.com/swissup/module-search-mysql-legacy) - MySQL is no longer supported for search since Magento 2.4. This extension brings back the usage of the MySQL search engine on Magento 2.
 * [Lightspeed for Lighthouse optimizations](https://github.com/elgentos/magento2-lightspeed) - This module defines several sections where you can define common feedback from Google Lighthouse.
 * [Limit Guest Checkout Coupon Code](https://github.com/magepal/magento2-coupon-limit-guest-checkout) - This extension restricts the maximum use of coupons for guest checkout.
 * [Mage2 Module Experius WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads) - This extension makes it possible to upload different filetypes inside the WYSIWYG-editor.
+* [Magehook](https://github.com/wpoortman/magehook) - This extension adds an abstraction layer to create and dispatch custom webhooks for Magento 2.
 * [MageKey AdcPopup](https://github.com/magekey/module-adc-popup) - Add to cart popup with upsell products
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) - This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
 * [Magenizr ResetUiBookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting
+* [Magento 2 - Admin Activity by Catgento](https://github.com/catgento/magento2-admin-activity) - Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them.
+* [Magento 2 - Admin Activity by Itonomy](https://github.com/Itonomy/magento2-admin-activity) - Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them.
 * [Magento2 - Edit Order Email Address](https://github.com/magepal/magento2-edit-order-email) - This extension allows us to edit the customer email on the order admin page.
 * [Magento 2 - Inventory Log](https://github.com/elgentos/magento2-inventory-log) - This extension allows to keep the log of product inventory for every single transaction.
 * [Magento 2 Admin Locale Switcher](https://github.com/enanobots/admin-locale-switcher) - A simple module that allows you to switch locale in Magento 2 Admin Panel.
 * [Magento 2 Admin Order Status Color](https://github.com/mateussantin/magento2-admin-order-status-color) - An extension to change the color of the order status column in the UI grid, based on the current status of the order.
+* [Magento 2 Admin UI](https://github.com/graschik/magento-2-admin-ui/) - This extension allows using UI components in widgets and adds new Admin UI components.
 * [Magento 2 Attribute Options Pagination](https://github.com/enanobots/m2-attribute-pagination) - A simple Magento 2 extension that adds pagination to attribute options in the Admin Panel.
 * [Magento 2 Auto Proxy to CLI class arguments](https://github.com/run-as-root/magento-cli-auto-proxy) - This component automatically injects proxy for any argument defined in CLI command class constructor to speed up the php bin/magento command execution and eliminate .flag table not found installation issues.
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
@@ -302,6 +309,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 extension for Imgix](https://github.com/elgentos/magento2-imgix) - An extension to automatically processes product images with Imgix service.
 * [Magento 2 FAQ extension](https://github.com/landofcoder/module-faq) - The extension will help you to set up nice informative & SEO-friendly magento 2 FAQ page.
 * [Magento2 Flysystem](https://github.com/flagbit/Magento2-Flysystem) - Integrate Flysystem for local and remote filesystems into Magento2.
+* [Magento 2 FREE SEO Suite](https://github.com/MagePsycho/magento2-seo-suite) - This extension optimizes SEO strategies for your e-commerce store.
 * [Magento 2 Frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js
 * [Magento2 GeoIp Extension](https://github.com/magepal/magento2-geoip) - Automatically detect visitor country code based on their IP address.
 * [Magento 2 Google Shopping Feed](https://github.com/run-as-root/Magento-2-Google-Shopping-Feed) - An extension to generate a Google Shopping feed with product data.
@@ -328,6 +336,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Velvet](https://github.com/danslo/magento2-module-velvet) - The metapackage that bundles all the different GraphQL modules required for Velvet.
 * [Magento 2 Verbose Log Request](https://github.com/AmpersandHQ/magento2-verbose-log-request) - An extension that allows to dynamically change the log level per request to DEBUG, enabling database, debug log, and verbose logging for a specifically defined request.
 * [Magento 2 – Cloudflare](https://github.com/jetrails/magento2-cloudflare) - Interact with popular Cloudflare features through Magento 2's backend portal.
+* [Magento Asynchronous Events](https://github.com/aligent/magento-async-events) - This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.
 * [MagePal Magento 2 System.xml Color Picker](https://github.com/magepal/magento2-color-picker) - This extension adds a color picker frontend model to be used in system configuration fields.
 * [MagePal_GuestToCustomer](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest checkout customers to registered customers.
 * [MageQuest LiteYouTube](https://github.com/MageQuest/magento2-module-lite-youtube) - A Magento 2 module that adds performant YouTube embeds with no user experience impact.
@@ -356,10 +365,12 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Phoenix Media Storage Sync](https://github.com/PHOENIX-MEDIA/magento2-mediastoragesync) - An easy way to retrieve files in media from an origin server to a local development environment.
 * [Preload Images via HTTP Link response header](https://github.com/friends-of-hyva/magento2-preload-images) - This extension improves the user experience by loading images that are guaranteed to be displayed above the fold earlier.
 * [Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page) - Easily preview and make changes to the success page without placing a new order or modifying Magento's core code.
+* [Product Collective Packages Module for Magento 2 / Adobe Commerce](https://github.com/enanobots/m2-product-pack) - This (Hyva-compatible) extension enhances the functionality of Magento 2 by providing a new feature for product collective packages.
 * [Product Data Pre-Loader](https://github.com/EcomDev/magento2-product-preloader) - This extension provides an easy way to pre-load data for product collections like prices, stock data, and many more by using different types of load types.
 * [Proof of Concept: using PHP attributes in Magento 2](https://github.com/renttek/magento2-attributes-experiment) - A proof of concept for implementing some Magento 2 configuration using PHP attributes.
 * [Reindex from Admin](https://github.com/magepal/magento2-reindex) - To quickly and easily update individual or all indexes from within your Magento admin.
 * [Rixxo IntroJS](https://bitbucket.org/rxmodules-development/rixxo-introjs/src/master/) - Add Google IntroJS to Magento2
+* [SamueleMartini_GPT3 module](https://github.com/SamueleMartini/Magento-GPT-3-integration/) - This extension integrates some Open AI GPT-3 features into Magento 2 to generate product and category descriptions from the admin panel automatically.
 * [Serve Side Analytics for Magento 2](https://github.com/elgentos/magento2-serversideanalytics) - This extension aims to solve the problem of discrepancies between Magento revenue reports and the revenue reports in Google Analytics.
 * [Siment_HttpHeaderThemeSwitch](https://github.com/siment/magento2-http-header-theme-switch) - Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
 * [Siteation - Magento 2 Module Store Info](https://github.com/Siteation/magento2-module-storeinfo) - An (Hyva compatible) extension to add the option to get the store info with ease in your own block.
@@ -390,6 +401,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 integration testing helper](https://github.com/yireo/Yireo_IntegrationTestHelper) - This module adds various utilities to aid in creating integration tests for Magento 2.
 * [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) - Boots up the integration test framework in less than 300ms when caches are primed.
 * [Tdd Wizard Repository](https://github.com/tddwizard) - A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
+* [Testing in Magento 2](https://gist.github.com/ProcessEight/fb7141d120ce05fa837ff4457ca6a747) - Special notes by Simon Frost on setting up PHPUnit and writing/troubleshooting tests in Magento 2.
 * [Ultimate Unit Test Generator (UUTG)](https://github.com/UltimateModuleCreator/uutg) - A standalone application for generating the boilerplate for unit tests for PHP unit.
 * [Yireo Codeception utilities for Magento 2](https://github.com/yireo/magento2-codeception-utilities) - A package containing utilities for using Codeception in Magento 2.
 
@@ -565,6 +577,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento Quickies](https://alanstorm.com/category/programming-quickies/)
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
 * [Magento Tweetorials](https://tweetorials.tumblr.com/)
+* [NGINX – Magento 2 Static files optimization](https://gist.github.com/JeroenBoersma/6ece510192ce4292c79d010284544c56) - An Nginx configuration of Magento that optimizes the handling of static files with Varnish.
 * [Patch Elastic Suite without MSI](https://gist.github.com/peterjaap/978122fa6dd3afa7fc3ce4d1cc78fb2b) - A useful Gist by Peter Jaap Blaakmeer to remove Elastic Suite dependency on MSI modules 
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
 * [The Ultimate Magento Launch Checklist for Adobe Commerce & Magento Open Source](https://www.rixxo.com/the-ultimate-magento-launch-checklist/) - A collection of over 500 checkpoints to be tested before launching an e-commerce site.
@@ -738,6 +751,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ### Other
 
 * [Den](https://github.com/swiftotter/den) - Den is a fork of Warden with AMD64 support, smaller image sizes, and a quicker update schedule.
+* [Mage-OS Magento 2 Gitpod Cloud Development Environment](https://github.com/mage-os/magento-gitpod) - A Gitpod configuration for a Magento 2 cloud development environment using Mage-OS as the composer repository.
 * [Magento 2 Gitpod Cloud Development Environment](https://github.com/develodesign/magento-gitpod) - This repository contains a Gitpod configuration for a Magento 2 cloud development environment.
 * [magento2gitpod](https://github.com/nemke82/magento2gitpod) - Magento 2 optimized setup for https://gitpod.io workspace.
 * [MDOQ](https://www.mdoq.io/) - Effortlessly replicate, configure, develop, review and deploy your Magento site.
