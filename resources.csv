@@ -312,6 +312,7 @@ Extensions,,Magento 2 - Admin Activity by Itonomy,https://github.com/Itonomy/mag
 Extensions,,Magento 2 Admin UI,https://github.com/graschik/magento-2-admin-ui/,This extension allows using UI components in widgets and adds new Admin UI components.,
 Extensions,,Legacy Mysql Search,https://github.com/swissup/module-search-mysql-legacy,MySQL is no longer supported for search since Magento 2.4. This extension brings back the usage of the MySQL search engine on Magento 2.,
 Extensions,,SamueleMartini_GPT3 module,https://github.com/SamueleMartini/Magento-GPT-3-integration/,This extension integrates some Open AI GPT-3 features into Magento 2 to generate product and category descriptions from the admin panel automatically.,
+Extensions,,Magehook,https://github.com/wpoortman/magehook,This extension adds an abstraction layer to create and dispatch custom webhooks for Magento 2.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
