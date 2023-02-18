@@ -477,6 +477,7 @@ Quickies & Tutorials,,Deployer recipe for Magento 2,https://github.com/deployphp
 Quickies & Tutorials,,The Ultimate Magento Launch Checklist for Adobe Commerce & Magento Open Source,https://www.rixxo.com/the-ultimate-magento-launch-checklist/,A collection of over 500 checkpoints to be tested before launching an e-commerce site.,
 Quickies & Tutorials,,Patch Elastic Suite without MSI,https://gist.github.com/peterjaap/978122fa6dd3afa7fc3ce4d1cc78fb2b,A useful Gist by Peter Jaap Blaakmeer to remove Elastic Suite dependency on MSI modules ,
 Quickies & Tutorials,,Fix the order item list in customized order/invoice email templates,https://gist.github.com/peterjaap/6dc68f12a9ce38f6d826ada89747fa3f,A set of queries that fix the order item list in customized order/invoice email templates.,
+Quickies & Tutorials,,NGINX – Magento 2 Static files optimization,https://gist.github.com/JeroenBoersma/6ece510192ce4292c79d010284544c56,An Nginx configuration of Magento that optimizes the handling of static files with Varnish.,
 Podcasts,English,The JetRails Podcast,https://jetrails.com/podcast/,The JetRails Podcast for the Ecommerce Community,
 Podcasts,English,MageTalk,https://magetalk.com/,A Magento Podcast,
 Podcasts,English,Actionable Insights,https://actionableinsights.fm/,Practical insights by SwiftOtter,
