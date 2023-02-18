@@ -325,6 +325,7 @@ Testing,,Magento 2 integration testing helper,https://github.com/yireo/Yireo_Int
 Testing,,Elgentos Magento 2 Cypress Testing Suite,https://github.com/elgentos/magento2-cypress-testing-suite,A community-driven Cypress testing suite for Magento 2.,
 Testing,,ExtDN PHP_CodeSniffer rules for Magento 2,https://github.com/extdn/extdn-phpcs,Advanced PHP CodeSniffer rules to aid in Magento 2 development.,
 Testing,,Magento 2 GitHub Actions,https://github.com/graycoreio/github-actions-magento2,"Opinionated Github Actions and Workflows to make building, testing, and maintaining Magento 2 Modules easier.",
+Testing,,Testing in Magento 2,https://gist.github.com/ProcessEight/fb7141d120ce05fa837ff4457ca6a747,Special notes by Simon Frost on setting up PHPUnit and writing/troubleshooting tests in Magento 2.,
 PWA,,PWA Studio,https://github.com/magento/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.,
 PWA,,Vue Storefront,https://github.com/vuestorefront/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.",
 PWA,,Venia UI Override Resolver,https://github.com/fooman/venia-ui-override-resolver,A Magento PWA Studio extension that enables extending Venia & Peregrine,
