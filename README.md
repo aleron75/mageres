@@ -247,7 +247,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [DisableLog2 for Magento 2](https://github.com/yireo/Yireo_DisableLog2) - This module disables various log attempts of the Magento core, improving performance slightly.
 * [DisableServiceWorkerInAdmin for Magento 2](https://github.com/yireo/Yireo_DisableServiceWorkerInAdmin) - Module used to unregister any ServiceWorkers when entering the backend.
 * [Dutchento VAT Fallback](https://github.com/dutchento/m2-vatfallback) - Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
-* [EAV Cleaner Console Command](https://github.com/magento-hackathon/EAVCleaner/tree/magento2) - Provides cleanup commands to check for different flaws that can occur due to EAV
+* [EAV Cleaner Console Command](https://github.com/magento-hackathon/EAVCleaner) - Provides cleanup commands to check for different flaws that can occur due to EAV
 * [ElasticSuite for Magento 2](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
 * [Elgentos' EU Tax Rates Importer](https://github.com/elgentos/magento2-eu-tax-rates) - A module that makes it possible to import a CSV file containing all the tax rates for all countries in the EU.
 * [elgentos/magento2-algolia-performance](https://github.com/elgentos/magento2-algolia-performance) - A Magento 2 module that makes it possible to set a debounce and a minimum character amount for Algolia Autocomplete
