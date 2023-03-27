@@ -214,7 +214,7 @@ Extensions,,Magento 2 Menu,https://github.com/SnowdogApps/magento2-menu,Provides
 Extensions,,IntegerNet_RewriteMap Magento Module,https://github.com/integer-net/magento2-rewritemap,Generate RewriteMap files for Apache from custom Magento URL rewrites (redirects).,
 Extensions,,Magento 2 Composer Quality Patches,https://github.com/elgentos/magento2-composer-quality-patches,This extension adds a command to generate a composer.quality-patches.json file to use with the vaimo/composer-patches package.,
 Extensions,,Hyvä Admin,https://github.com/hyva-themes/magento2-hyva-admin,"This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.",
-Extensions,,EAV Cleaner Console Command,https://github.com/magento-hackathon/EAVCleaner/tree/magento2,Provides cleanup commands to check for different flaws that can occur due to EAV,
+Extensions,,EAV Cleaner Console Command,https://github.com/magento-hackathon/EAVCleaner,Provides cleanup commands to check for different flaws that can occur due to EAV,
 Extensions,,Braintree Payments,https://github.com/genecommerce/module-braintree-magento2,"Implements integration with the Braintree payment system, overwriting the original Magento module, to provide additional features and bug fixes.",
 Extensions,,Aimes Checkout Designs,https://github.com/robaimes/module-checkout-designs,This module provides the ability to change checkout page designs/layout per store and customer group,
 Extensions,,Fooman Email Attachments,https://github.com/fooman/emailattachments-m2,This module allows you to automatically attach transactional PDF documents to Magento 2 sales emails,
