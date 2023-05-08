@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![603 resources](https://img.shields.io/badge/resources-603-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![608 resources](https://img.shields.io/badge/resources-608-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -141,6 +141,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [JS Layout Parser](https://github.com/pragmatic-modules/jslayout-parser) - A lightweight standalone PHP library that was created to make work with $jsLayout in Magento 2 less spaghetti, and more object-oriented.
 * [Laragento](https://github.com/Genaker/laragento) - A collection of Model classes that allows you to get data directly from a Magento 2 database using Laravel’s Eloquent ORM.
 * [M2 PHP version compatibility check](https://github.com/willtran/magento2-php-8-compatibility-check) - This tool can be used to check all modules in an M2 application for PHP8 compatibility
+* [Mage-OS Database Changelog Generator](https://github.com/EcomDev/mage-os-database-changelog) - A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
 * [Magento 2 - composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB) - Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
 * [Magento 2 Changelog](https://github.com/tdgroot/magento2-changelog) - A simple bash tool to easily get insight into what has changed between Magento releases.
@@ -204,6 +205,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Official Magento Security Center](https://helpx.adobe.com/security.html) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
 * [Release & Hotfix matrix for Magento 2 / Adobe Commerce](https://docs.google.com/spreadsheets/d/17w2TxP0Vw-ik45yNwVTW8orfoIKOXCtvBpIFvbEKiTY/edit) - A handy sheet by Sansec summarizing Magento 2 / Adobe Commerce release management.
+* [Sansec Composer Integrity Checker](https://github.com/element119/module-sansec-composer-integrity-checker) - This extension performs Composer packages integrity checks based on the Sansec Composer integrity plugin.
 * [Sansec eComscan](https://sansec.io/ecomscan) - A professional and advanced malware scanner for Magento 1 and 2 that detects hacks and vulnerabilities.
 * [Security.txt](https://github.com/kalpmehta/securitytxt) - Security.txt for Magento 2 websites
 
@@ -321,6 +323,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Interceptor classes generator](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 * [Magento 2 Lazy Loading extension](https://github.com/mageplaza/magento-2-lazy-loading) - This extension allows speeding up the site load by showing the image only at the demanding time.
 * [Magento 2 Menu](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2.
+* [Magento 2 Message Queue Retry](https://github.com/run-as-root/magento2-message-queue-retry) - An extension that allows processing the same queue message more than once, utilizing RabbitMQ's dead letter exchange feature.
 * [Magento 2 module for NextGenImages](https://github.com/yireo/Yireo_NextGenImages) - Magento 2 module to add next-gen image support to Magento 2.
 * [Magento 2 Module for showing Landofcoder FAQs on the Hyvä category page](https://github.com/develodesign/magento-2-category-faq-extension-hyva) - Displays a FAQ accordian at the bottom of the Magento Category page from a linked FAQ category. Hyvä compatible.
 * [Magento 2 module for WebP](https://github.com/yireo/Yireo_Webp2) - This extension adds WebP support to Magento 2.
@@ -564,6 +567,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](https://fishpig.co.uk/magento/tutorials/)
 * [Fix the order item list in customized order/invoice email templates](https://gist.github.com/peterjaap/6dc68f12a9ce38f6d826ada89747fa3f) - A set of queries that fix the order item list in customized order/invoice email templates.
+* [How to Deploy a Magento 2 Project](https://deployer.org/docs/7.x/recipe/magento2) - A Deployer 7.x recipe for deploying a Magento 2 project.
 * [M.academy snippets](https://mdotacademy.snippets.cc/collection/magento-2) - A collection of useful Magento 2 code snippets
 * [Mage2DB.com](https://mage2db.com/) - Magento 2.x Learning & Knowledge & Troubleshooting
 * [Magentip](https://magentip.com/) - Magento 2 tutorials, reviews, and fixes.
@@ -724,6 +728,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Alan Kent's Docker image](https://hub.docker.com/r/alankent/gsd/) - Docker image for use with the book series "Getting Stuff Done with Magento 2"
 * [Bitnami Docker Image for Magento](https://github.com/bitnami/containers/tree/main/bitnami/magento) - Bitnami closely tracks upstream source changes and promptly publishes new versions of this image
+* [Colin Tickle’s Docker Stack](https://github.com/cmtickle/docker-stack) - A dockerized system to run LEMP stack applications; primarily developed to run Magento 2.
 * [DDEV-Local](https://github.com/drud/ddev) - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
 * [Docker Configuration for Magento 2](https://github.com/magenx/Magento-2-docker-configuration)
 * [Docker Devbox](https://github.com/giuseppemorelli/docker-devbox/) - A Docker dev box based on Devilbox
