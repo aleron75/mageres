@@ -108,6 +108,7 @@ Tools,Free,JS Layout Parser,https://github.com/pragmatic-modules/jslayout-parser
 Tools,Free,Aligent Magento Integration and API Functional Testing Pipe,https://github.com/aligent/magento-integration-test-pipe,A bitbucket pipe for running Magento integration and API functional tests; designed to be run parallelly so you can leverage bitbucket parallel steps.,
 Tools,Free,Magento 2 Model Generator,https://github.com/michielgerritsen/magento2-model-generator,"With this app, you can create models for Magento 2 very fast. Ready-to-use on https://www.model-generator.com/",
 Tools,Free,MagentoApiClient,https://github.com/rantalainen/magento-api-client,A third-party Magento API client for Node.js and TypeScript.,
+Tools,Free,Mage-OS Database Changelog Generator,https://github.com/EcomDev/mage-os-database-changelog,A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.,
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3,
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/l/commerce-bug-three,Magento debugging extension for both Magento 1 and 2,
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically,
