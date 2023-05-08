@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![596 resources](https://img.shields.io/badge/resources-596-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![603 resources](https://img.shields.io/badge/resources-603-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -80,6 +80,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Certified Professional Developer notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
 * [Magento Certification](https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce) - Adobe Magento Commerce certifications
 * [Magento Certification Integration FAQ](https://express.adobe.com/page/XQ6iZmLsFsHhi/)
+* [Magento Certified Developer - Cost, Benefits & Steps](https://m.academy/blog/magento-certified-developer/) - Explore the benefits and costs of becoming a Magento-certified developer, including the steps to get an Adobe Commerce certification.
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
 * [SwiftOtter Certification Resources](https://swiftotter.com/training) - Courses, Study Guides and Practice Tests for Magento 2 Certifications
 * [SwiftOtter’s Training Environment](https://github.com/swiftotter-certifications/training-environment) - A course to embed super-problem-solving strategies into your workflow: turning you into a super developer.
@@ -155,6 +156,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
 * [Magento 2 Upgrade GUI](https://github.com/elgentos/magento2-upgrade-gui) - A GUI tool to help you visually and easily spot differences in a three-way comparison between the version you upgraded from, the version you upgraded to, and your Magento preferences, plugins and overrides.
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
+* [MagentoApiClient](https://github.com/rantalainen/magento-api-client) - A third-party Magento API client for Node.js and TypeScript.
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 * [Magento Semantic Version Checker](https://github.com/magento/magento-semver) - A tool to determine semantic versioning changes and backward incompatible changes between two sources.
@@ -248,6 +250,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [DisableServiceWorkerInAdmin for Magento 2](https://github.com/yireo/Yireo_DisableServiceWorkerInAdmin) - Module used to unregister any ServiceWorkers when entering the backend.
 * [Dutchento VAT Fallback](https://github.com/dutchento/m2-vatfallback) - Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
 * [EAV Cleaner Console Command](https://github.com/magento-hackathon/EAVCleaner) - Provides cleanup commands to check for different flaws that can occur due to EAV
+* [Elastic APM Integration for Magento 2](https://github.com/cmtickle/elastic-apm-magento/) - Elastic Application Performance Management (APM) Integration for Magento 2 to diagnose application performance problems.
 * [ElasticSuite for Magento 2](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
 * [Elgentos' EU Tax Rates Importer](https://github.com/elgentos/magento2-eu-tax-rates) - A module that makes it possible to import a CSV file containing all the tax rates for all countries in the EU.
 * [elgentos/magento2-algolia-performance](https://github.com/elgentos/magento2-algolia-performance) - A Magento 2 module that makes it possible to set a debounce and a minimum character amount for Algolia Autocomplete
@@ -324,6 +327,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 module for Whoops](https://github.com/yireo/Yireo_Whoops) - Magento 2 module integrating Whoops error handling.
 * [Magento 2 Nostalgia Admin Theme](https://github.com/magespices/mage2nostalgia) - A brand new, compact and eye friendly admin theme, inspired by Magento 1.
 * [Magento 2 Package Integrity checker](https://github.com/run-as-root/Magento-2-Dependency-Checker) - This tool allows to run static analysis on Magento 2 Module Packages to provide an integrity check.
+* [Magento 2 Price Decimal Precision](https://github.com/lillik/magento2-price-decimal) - This extension allows customizing decimal precision visualization for the prices and other currency values (discounts, taxes, sales amounts, etc.) both for the frontend and the backend areas.
 * [Magento 2 Private Packagist Integration](https://packagist.org/packages/wizkunde/magento2-packagist) - Connect your Magento 2 webshop to private packagist and distribute extensions to your customer smarter
 * [Magento 2 Product Discount Label](https://github.com/MagePsycho/magento2-product-discount-label) - This extension allows displaying custom discount labels with calculated savings on catalog and cart pages.
 * [Magento 2 Quicklink Module](https://github.com/rafaelstz/magento2-quicklink) - An extension that attempts to make navigations to to subsequent pages faster through prefetching in-viewport links during idle time.
@@ -359,6 +363,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MarkShust_Twilio](https://github.com/markshust/magento2-module-twilio) - Sends SMS messages in response to Magento events.
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) - A dev toolbar that shows all important information for performance optimization and Magento development.
 * [MSP_SMTP](https://github.com/magespecialist/m2-MSP_SMTP) - MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
+* [Multi-Threading for Magento 2](https://github.com/zepgram/module-multi-threading) - This extension allows processing large data collections in parallel using multiple child processes, improving performance and reducing processing time.
 * [MX Phinx Migrations](https://github.com/inviqa/MX_PhinxMigrations) - Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments.
 * [N98_Guillotine](https://github.com/netz98/headless-guillotine) - A simple but useful module to disable frontend requests to implement a headless approach.
 * [Performance Dashboard Extension for Magento 2](https://github.com/magehost/performance-dashboard) - An extension that adds a screen to the Admin Panel to get a clear overview of areas where the performance of your Magento 2 can be improved.
@@ -371,6 +376,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Reindex from Admin](https://github.com/magepal/magento2-reindex) - To quickly and easily update individual or all indexes from within your Magento admin.
 * [Rixxo IntroJS](https://bitbucket.org/rxmodules-development/rixxo-introjs/src/master/) - Add Google IntroJS to Magento2
 * [SamueleMartini_GPT3 module](https://github.com/SamueleMartini/Magento-GPT-3-integration/) - This extension integrates some Open AI GPT-3 features into Magento 2 to generate product and category descriptions from the admin panel automatically.
+* [Serverless Framework for Magento 2](https://github.com/Imagination-Media/magento-serverless) - An extension to implement data validation, add custom functionality, and much more using serverless functions that aren't part of the codebase.
 * [Serve Side Analytics for Magento 2](https://github.com/elgentos/magento2-serversideanalytics) - This extension aims to solve the problem of discrepancies between Magento revenue reports and the revenue reports in Google Analytics.
 * [Siment_HttpHeaderThemeSwitch](https://github.com/siment/magento2-http-header-theme-switch) - Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
 * [Siteation - Magento 2 Module Store Info](https://github.com/Siteation/magento2-module-storeinfo) - An (Hyva compatible) extension to add the option to get the store info with ease in your own block.
@@ -553,6 +559,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## Quickies & Tutorials
 
+* [DDEV configuration for Magento 2](https://github.com/jellesiderius/ddev-magento2-setup) - A step-by-step guide for setting up DDEV for Magento 2.
 * [Deployer recipe for Magento 2](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Michał Giza’s Deployer recipe for Magento 2.
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](https://fishpig.co.uk/magento/tutorials/)
