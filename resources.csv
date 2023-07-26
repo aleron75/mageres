@@ -326,6 +326,7 @@ Extensions,,Multi-Threading for Magento 2,https://github.com/zepgram/module-mult
 Extensions,,Magento 2 Message Queue Retry,https://github.com/run-as-root/magento2-message-queue-retry,"An extension that allows processing the same queue message more than once, utilizing RabbitMQ's dead letter exchange feature.",
 Extensions,,Magento 2 Micro Features Module,https://github.com/Lingaro/magento2-module-micro-features,A collection of useful micro-features packed into the same extension.,
 Extensions,,CyberSource for Magento 2,https://github.com/ParadoxLabs-Inc/cybersource,This extension brings CyberSource’s enterprise payment services to Magento 2.,
+Extensions,,Authorize.net's Customer Information Manager for Magento 2,https://github.com/ParadoxLabs-Inc/authnetcim,,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
