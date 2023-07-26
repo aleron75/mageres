@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![608 resources](https://img.shields.io/badge/resources-608-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![612 resources](https://img.shields.io/badge/resources-612-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -222,6 +222,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Akeneo Connector for Magento 2](https://github.com/akeneo/magento2-connector-community) - A module that allows you to export your catalog data and structure from Akeneo PIM Community Edition to Magento 2 through API calls.
 * [Align MSI reservation logic](https://github.com/comwrap/msi-reservation) - This extension allows avoid ingissues with MSI’s reservations when stocks are managed by external systems.
 * [Amazon Personalize for Magento 2](https://github.com/Imagination-Media/aws-personalize-magento2) - This extension integrates with Amazon Personalize recommendation service.
+* [Authorize.net's Customer Information Manager for Magento 2](https://github.com/ParadoxLabs-Inc/authnetcim)
 * [Automatic Persisted Queries](https://github.com/danslo/magento2-module-automatic-persisted-queries) - Apollo-compatible automatic persisted queries, to improve GraphQL network performance.
 * [AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
 * [AvS_ScopeHint for Magento 2](https://github.com/avstudnitz/AvS_ScopeHint2) - This extension displays a hint when a configuration value is overwritten on a lower scope (website or store view).
@@ -244,6 +245,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Custom Flat Fee Shipping Rates](https://github.com/magepal/magento2-custom-shipping-rate) - This extension adds custom flat fee shipping rates to admin order creation or displays a simple list of flat rates to customers.
 * [CustomGento_CliTaxEditor](https://github.com/customgento/module-cli-tax-editor-m2) - Magento 2 module, which provides new console commands to edit the tax configuration.
 * [Custom Product Relation Sample Extension](https://github.com/magepal/magento2-link-product) - This extension creates a new product accessory relationship in addition to the default ones.
+* [CyberSource for Magento 2](https://github.com/ParadoxLabs-Inc/cybersource) - This extension brings CyberSource’s enterprise payment services to Magento 2.
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
 * [Dark Mode for Admin Panel](https://github.com/enanobots/m2-admin-darkmode) - A dark mode theme for Magento Admin Panel.
 * [Data Faker For Magento 2](https://github.com/experius/Magento-2-Module-Experius-FakeMyData) - Replaces existing customer data for fake/anonymous data.
@@ -324,6 +326,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Lazy Loading extension](https://github.com/mageplaza/magento-2-lazy-loading) - This extension allows speeding up the site load by showing the image only at the demanding time.
 * [Magento 2 Menu](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2.
 * [Magento 2 Message Queue Retry](https://github.com/run-as-root/magento2-message-queue-retry) - An extension that allows processing the same queue message more than once, utilizing RabbitMQ's dead letter exchange feature.
+* [Magento 2 Micro Features Module](https://github.com/Lingaro/magento2-module-micro-features) - A collection of useful micro-features packed into the same extension.
 * [Magento 2 module for NextGenImages](https://github.com/yireo/Yireo_NextGenImages) - Magento 2 module to add next-gen image support to Magento 2.
 * [Magento 2 Module for showing Landofcoder FAQs on the Hyvä category page](https://github.com/develodesign/magento-2-category-faq-extension-hyva) - Displays a FAQ accordian at the bottom of the Magento Category page from a linked FAQ category. Hyvä compatible.
 * [Magento 2 module for WebP](https://github.com/yireo/Yireo_Webp2) - This extension adds WebP support to Magento 2.
@@ -753,6 +756,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) - Magento 1 & 2 support on Linux and Mac
 * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7  NGINX  MySql
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
+* [OrbStack](https://orbstack.dev/) - Seamless and efficient Docker Desktop alternative for Mac
 * [Skywire Docker](https://github.com/skywire/skywire-docker) - The Skyware team development environment.
 * [The Devilbox](https://github.com/cytopia/devilbox) - A modern dockerized LAMP and MEAN stack alternative to XAMPP
 
