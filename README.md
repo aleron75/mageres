@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![613 resources](https://img.shields.io/badge/resources-613-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![617 resources](https://img.shields.io/badge/resources-617-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -140,6 +140,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [integer_net Magento 2 Module Template](https://github.com/integer-net/magento2-module-template) - A template to easily get started with Magento open source module development.
 * [JS Layout Parser](https://github.com/pragmatic-modules/jslayout-parser) - A lightweight standalone PHP library that was created to make work with $jsLayout in Magento 2 less spaghetti, and more object-oriented.
 * [Laragento](https://github.com/Genaker/laragento) - A collection of Model classes that allows you to get data directly from a Magento 2 database using Laravel’s Eloquent ORM.
+* [List PHP Class Dependencies](https://github.com/mage-os/php-dependency-list) - A simple tool to list PHP classes referenced in a given set of files
 * [M2 PHP version compatibility check](https://github.com/willtran/magento2-php-8-compatibility-check) - This tool can be used to check all modules in an M2 application for PHP8 compatibility
 * [Mage-OS Database Changelog Generator](https://github.com/EcomDev/mage-os-database-changelog) - A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
@@ -159,6 +160,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
 * [MagentoApiClient](https://github.com/rantalainen/magento-api-client) - A third-party Magento API client for Node.js and TypeScript.
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
+* [Magento Composer Replacement Tool](https://github.com/yireo/magento2-replace-tools) - A repository that offers a composer plugin to help you manage composer replacements in your root composer.json.
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 * [Magento Semantic Version Checker](https://github.com/magento/magento-semver) - A tool to determine semantic versioning changes and backward incompatible changes between two sources.
 * [Magento utilities Tap for Homebrew](https://github.com/fballiano/homebrew-mageutils)
@@ -238,7 +240,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [CmsImportExport](https://github.com/magespecialist/m2-MSP_CmsImportExport) - An extension for Magento 2 allowing users to import/export CMS pages or blocks.
 * [ConfigImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - This extension provides CLI commands for Magento 2 to import/export system configuration data.
 * [Content Fuzzyfyr Module for Magento 2](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.
-* [Ctasca MageBundle](https://github.com/ctasca/mage-bundle) - This extension allows the creation of Magento2/AdobeCommerce PHP/XML/JS files from a set of templates via the command line.
 * [Customer Account Links Manager for Magento2](https://github.com/magepal/magento2-customer-account-links-manager) - Allows you to quickly and easily remove unwanted links from your customer navigation dashboard sidebar in Magento.
 * [Customer and Address Form Fields Manager for Magento2](https://github.com/magepal/magento2-form-field-manager) - This extension allows us to quickly and easily remove unwanted form fields from admin order creation and customer account.
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) - Restricts payment methods to specific customer groups in Magento 2.
@@ -293,6 +294,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 - Admin Activity by Itonomy](https://github.com/Itonomy/magento2-admin-activity) - Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them.
 * [Magento2 - Edit Order Email Address](https://github.com/magepal/magento2-edit-order-email) - This extension allows us to edit the customer email on the order admin page.
 * [Magento 2 - Inventory Log](https://github.com/elgentos/magento2-inventory-log) - This extension allows to keep the log of product inventory for every single transaction.
+* [Magento 2 - Magento 1 Migration Tool](https://github.com/enanobots/m2-m1migration) - A module to export data from Magento 1 to Magento 2 based on database comparison of both EAV and custom entity tables.
 * [Magento 2 Admin Locale Switcher](https://github.com/enanobots/admin-locale-switcher) - A simple module that allows you to switch locale in Magento 2 Admin Panel.
 * [Magento 2 Admin Order Status Color](https://github.com/mateussantin/magento2-admin-order-status-color) - An extension to change the color of the order status column in the UI grid, based on the current status of the order.
 * [Magento 2 Admin UI](https://github.com/graschik/magento-2-admin-ui/) - This extension allows using UI components in widgets and adds new Admin UI components.
@@ -397,6 +399,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker) - Magento 2 module to check upon the code of Magento 2 modules from the CLI
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
+* [Yireo ThemeCommands](https://github.com/yireo/Yireo_ThemeCommands) - CLI commands to manage themes from the command-line
+* [Yireo ThemeOverrideChecker](https://github.com/yireo/Yireo_ThemeOverrideChecker) - Magento module to find all files of a given Magento theme (for example Magento/luma), compare the found files with the parent theme (and/or modules) and return whether there are differences or not.
 * [Yireo’s Common ViewModels](https://github.com/yireo/Yireo_CommonViewModels) - Common ViewModels for usage in Magento 2.2.1+ frontends.
 * [Zepgram DisableSearchEngine](https://github.com/zepgram/module-disable-search-engine) - This Magento 2 module allow you to disable entirely Elasticsearch service: useful when research and categories are not used.
 * [Zepgram JsonSchema](https://github.com/zepgram/module-json-schema) - Magento 2 module to validate JSON Structures against a given Schema.
