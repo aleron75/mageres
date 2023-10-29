@@ -332,6 +332,7 @@ Extensions,,MageBundle,https://github.com/ctasca/mage-bundle,Easily create Magen
 Extensions,,Magento 2 - Magento 1 Migration Tool,https://github.com/enanobots/m2-m1migration,A module to export data from Magento 1 to Magento 2 based on database comparison of both EAV and custom entity tables.,
 Extensions,,Yireo ThemeCommands,https://github.com/yireo/Yireo_ThemeCommands,CLI commands to manage themes from the command-line,
 Extensions,,Yireo ThemeOverrideChecker,https://github.com/yireo/Yireo_ThemeOverrideChecker,"Magento module to find all files of a given Magento theme (for example Magento/luma), compare the found files with the parent theme (and/or modules) and return whether there are differences or not.",
+Extensions,,Yireo AdditionalBlockTemplate,https://github.com/yireo/Yireo_AdditionalBlockTemplate,"A Magento 2 module to allow for additional templates to be rendered, besides the original template.",
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
