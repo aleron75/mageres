@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![617 resources](https://img.shields.io/badge/resources-617-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![621 resources](https://img.shields.io/badge/resources-621-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -69,6 +69,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [ExtDN Resources](https://extdn.org/resources/) - Resources that help improve the ecosystem of Magento extensions.
 * [Fooman Magento Mirror](https://repo-magento-mirror.fooman.co.nz/) - An alternative authentication free Magento 2 mirror
 * [GravDept’s Magento 2 Manuals](https://manuals.gravitydept.com/frameworks/magento-2)
+* [Mage-OS DevDocs](https://devdocs.mage-os.org/) - Mage-OS Developer Guide
 * [Mage Mastery](https://magemastery.net/) - Learning resources for Magento 2 developers
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 * [The Magento Guidebook](https://jetrails.com/blog/the-magento-terms-glossary-guide/) - A Glossary of Magento Terms and Phrases
@@ -394,6 +395,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [UMC CRUD for Magento 2](https://github.com/UltimateModuleCreator/umc-crud) - A module intended to reduce the boilerplate code when creating a CRUD extension.
 * [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.
 * [Wagento Prune Customer](https://bitbucket.org/wagento-global/prune-customer-accounts/) - An extension that adds CLI commands to prune SPAM customers.
+* [Yireo AdditionalBlockTemplate](https://github.com/yireo/Yireo_AdditionalBlockTemplate) - A Magento 2 module to allow for additional templates to be rendered, besides the original template.
 * [Yireo AutoFlushCache](https://github.com/yireo/Yireo_AutoFlushCache) - Automatically flush the cache whenever you save something in the System Configuration.
 * [Yireo DevHacks](https://github.com/yireo/Yireo_DevHacks) - Magento 2 module with various hacks and solutions for custom development
 * [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker) - Magento 2 module to check upon the code of Magento 2 modules from the CLI
@@ -640,6 +642,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Codilar](https://www.youtube.com/channel/UCH5SxO6vPM7il7_8q2GINOA) - A channel full of videos by a Magento development company in India. The topics are numerous, both for beginners and more experienced developers.
 * [Digital Startup](https://www.youtube.com/c/DigitalstartupUk/videos) - Magento tutorials for beginners
 * [Ecommerce Aholic](https://www.youtube.com/channel/UCSH4_56yf5khLwTK9q71IGw) - Discussions about Magento eCommerce platform by TJ Gamble
+* [Gitpod for Magento & Adobe Commerce Development](https://develo.teachable.com/p/mastering-gitpod-for-magento-2-development) - Gain the knowledge needed to start using a Cloud Development Environment on Gitpod.
 * [Hyvä Themes](https://www.youtube.com/channel/UCEyLeHSxRdjaF70X76RF8GA) - The YouTube channel dedicated to making the development of Magento frontend (and backend) great again!
 * [IWD Agency](https://www.youtube.com/c/Interiorwebdesign) - A channel providing a variety of topics on e-commerce, not only related to the Magento platform.
 * [JetRails](https://www.youtube.com/channel/UCKeHrJ2U0aKdZJdwLqnv1Gg) - YouTube Channel by JetRails
@@ -710,6 +713,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Contribution Day Organizer's Handbook](https://opensource.magento.com/contribution-day-handbook) - This handbook aims to answer any questions you have on the matter.
 * [Magento Community Engineering](https://calendar.google.com/calendar/embed?src=sn3me3pduhd92hhk9s7frkn57o@group.calendar.google.com) - A publicly available Google calendar with Magento Community Engineering’s schedule
 * [Magento Event Listing](https://www.adobe.com/events.html) - List of Adobe Events
+* [Magento Events Calendar by Mage-OS](https://mage-os.org/community/magento-events/) - A list of Magento related events that are coming up. Curated by Mage-OS.
 * [Magento Events Google Calendar](https://calendar.google.com/calendar/embed?src=9ns1e12ucfd84tpnsehekkc6g0@group.calendar.google.com) - A publicly available Google calendar with almost all Magento events around the world
 
 ### Conferences
