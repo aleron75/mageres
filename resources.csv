@@ -112,6 +112,7 @@ Tools,Free,MagentoApiClient,https://github.com/rantalainen/magento-api-client,A 
 Tools,Free,Mage-OS Database Changelog Generator,https://github.com/EcomDev/mage-os-database-changelog,A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.,
 Tools,Free,List PHP Class Dependencies,https://github.com/mage-os/php-dependency-list,A simple tool to list PHP classes referenced in a given set of files,
 Tools,Free,Magento Composer Replacement Tool,https://github.com/yireo/magento2-replace-tools,A repository that offers a composer plugin to help you manage composer replacements in your root composer.json.,
+Tools,Free,GdprDump,https://github.com/Smile-SA/gdpr-dump,"A tool that provides a command that creates anonymized dumps of a MySQL database, in order to comply with GDPR regulations.",
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3,
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/l/commerce-bug-three,Magento debugging extension for both Magento 1 and 2,
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically,
