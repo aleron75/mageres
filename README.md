@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![621 resources](https://img.shields.io/badge/resources-621-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![628 resources](https://img.shields.io/badge/resources-628-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -137,6 +137,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Divante Anonymizer](https://github.com/DivanteLtd/anonymizer) - Universal tool to create anonymized DBs
 * [DotEnv](https://github.com/zepgram/magento-dotenv) - Magento 2 component implementing Symfony dotenv to create environment variables
 * [ExtDN Installer for Magento 2 modules](https://github.com/extdn/installer-m2) - Universal extension installer for Magento 2
+* [GdprDump](https://github.com/Smile-SA/gdpr-dump) - A tool that provides a command that creates anonymized dumps of a MySQL database, in order to comply with GDPR regulations.
 * [Gitlab CI/CD pipeline with AWS integration for Magento 2 deployment](https://github.com/bijay135/gitlab-aws-magento2-deploy) - A CI/CD pipeline inspired by the Magento Cloud pipeline with zero downtime, provided at least two nodes are available.
 * [integer_net Magento 2 Module Template](https://github.com/integer-net/magento2-module-template) - A template to easily get started with Magento open source module development.
 * [JS Layout Parser](https://github.com/pragmatic-modules/jslayout-parser) - A lightweight standalone PHP library that was created to make work with $jsLayout in Magento 2 less spaghetti, and more object-oriented.
@@ -218,6 +219,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Additional Payment Checks](https://github.com/smaex/additional-payment-checks) - Enables additional checks for payment methods in Magento 2.
 * [Add Miscellaneous HTML and Scripts to Magento2 Checkout Success Page](https://github.com/magepal/magento2-checkout-success-misc-script) - This extension makes it easy to add miscellaneous HTML and scripts to the checkout success page. 
 * [Admin Notification Blocker](https://github.com/redchamps/admin-notification-blocker) - A Magento 2 extension that allows us to block admin notification based on Severities/Categories.
+* [Admin Redis Report](https://github.com/element119/module-admin-redis-report) - A module that allows to visualise historic Redis health statistics in the Admin Panel.
 * [Aimes Checkout Designs](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group
 * [Aimes_AddressAttributesSortOrder](https://github.com/robaimes/module-address-attributes-sort-order) - Allows reordering of the customer address attributes via the backend form using the 'Sort Order' input.
 * [Aimes_PageBuilderCodeBlock](https://github.com/robaimes/module-pagebuilder-code-block) - An extension tat adds a new PageBuilder content type to display code snippets nicely, using highlight.js.
@@ -266,6 +268,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Elgento’s Regenerate Catalog URLs](https://github.com/elgentos/magento2-regenerate-catalog-urls) - Set of console commands to regenerate catalog URLs.
 * [EmailTester 2 by Yireo](https://github.com/yireo/Yireo_EmailTester2) - Preview any transactional email in your Magento 2 backend.
 * [Enable/Disable Newsletter Signup Email](https://github.com/magepal/magento2-newsletter-signup-email) - To quickly disable unwanted newsletter signup and unsubscribe emails.
+* [Event Thing for Magento 2](https://github.com/cmtickle/module-event-thing) - A module that enables the logic/integration touch points of Magento Plugins & Observers to be handled outside the core Magento application.
 * [Extension Dashboard](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions.
 * [Extension for Cookie SameSite attribute](https://github.com/Veriteworks/CookieFix) - This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
@@ -358,6 +361,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Magewire](https://github.com/magewirephp/magewire) - A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.
+* [MageWire Backend module for Magento 2](https://github.com/michielgerritsen/magewire-backend) - A module that supplies Magewire compatibility for the Magento Admin Panel. Built on top of the Magewire core (with RequireJS support).
 * [Magewire Examples](https://github.com/magewirephp/magewire-examples) - A Magewire showcase to give easy insights on where Magewire could possibly fit in our project.
 * [Mailchimp for Magento 2](https://github.com/mailchimp/mc-magento2) - The official Mailchimp for Magento 2 extension
 * [Marketplace](https://github.com/swissup/module-marketplace) - Magento modules and themes CLI/GUI downloader and installer
@@ -400,6 +404,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Yireo DevHacks](https://github.com/yireo/Yireo_DevHacks) - Magento 2 module with various hacks and solutions for custom development
 * [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker) - Magento 2 module to check upon the code of Magento 2 modules from the CLI
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
+* [Yireo HyvaCheckoutPostcodeValidator](https://github.com/yireo/Yireo_HyvaCheckoutPostcodeValidator) - A Magento 2 module that adds postcode validation based upon the Magento core zip_codes.xml mechanism to the Hyva Checkout (aka MageWire Checkout)
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
 * [Yireo ThemeCommands](https://github.com/yireo/Yireo_ThemeCommands) - CLI commands to manage themes from the command-line
 * [Yireo ThemeOverrideChecker](https://github.com/yireo/Yireo_ThemeOverrideChecker) - Magento module to find all files of a given Magento theme (for example Magento/luma), compare the found files with the parent theme (and/or modules) and return whether there are differences or not.
@@ -418,6 +423,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Docker images for extension testing](https://github.com/michielgerritsen/magento2-extension-integration-test) - Docker images that can be used to run Magento unit/integration/browser tests for your Magento 2 extensions.
 * [Magento 2 GitHub Actions](https://github.com/graycoreio/github-actions-magento2) - Opinionated Github Actions and Workflows to make building, testing, and maintaining Magento 2 Modules easier.
 * [Magento 2 integration testing helper](https://github.com/yireo/Yireo_IntegrationTestHelper) - This module adds various utilities to aid in creating integration tests for Magento 2.
+* [Magento 2 module unit tests generator](https://github.com/olmer/magento-unit-tests-generator) - A package intended to simplify magento2 unit tests creation.
 * [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) - Boots up the integration test framework in less than 300ms when caches are primed.
 * [Tdd Wizard Repository](https://github.com/tddwizard) - A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 * [Testing in Magento 2](https://gist.github.com/ProcessEight/fb7141d120ce05fa837ff4457ca6a747) - Special notes by Simon Frost on setting up PHPUnit and writing/troubleshooting tests in Magento 2.
@@ -577,6 +583,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](https://fishpig.co.uk/magento/tutorials/)
 * [Fix the order item list in customized order/invoice email templates](https://gist.github.com/peterjaap/6dc68f12a9ce38f6d826ada89747fa3f) - A set of queries that fix the order item list in customized order/invoice email templates.
+* [Getting started with the Mage-OS distribution](https://www.yireo.com/blog/2023-11-24-getting-started-with-mage-os) - A quick guide of how to start using Mage-OS distribution.
 * [How to Deploy a Magento 2 Project](https://deployer.org/docs/7.x/recipe/magento2) - A Deployer 7.x recipe for deploying a Magento 2 project.
 * [M.academy snippets](https://mdotacademy.snippets.cc/collection/magento-2) - A collection of useful Magento 2 code snippets
 * [Mage2DB.com](https://mage2db.com/) - Magento 2.x Learning & Knowledge & Troubleshooting
