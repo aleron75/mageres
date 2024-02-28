@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![628 resources](https://img.shields.io/badge/resources-628-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![633 resources](https://img.shields.io/badge/resources-633-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -121,11 +121,11 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magerror](https://www.magerror.com) - All your Magento reports in one place
 * [PhpStorm Plugin by Atwix](https://stormplugin.atwix.com/) - This tool is meant to help software engineers build and efficiently maintain software solutions in Magento projects with both free and paid features.
 * [RESP.app](https://resp.app/) - Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
-* [Tinkerwell](https://tinkerwell.app/) - A desktop application that allows you to run PHP code; it includes Magento drivers.
+* [Tinkerwell](https://tinkerwell.app/) - A desktop application that allows you to run PHP code
 
 ### Free
 
-* [Aligent Magento Integration and API Functional Testing Pipe](https://github.com/aligent/magento-integration-test-pipe) - A bitbucket pipe for running Magento integration and API functional tests; designed to be run parallelly so you can leverage bitbucket parallel steps.
+* [Aligent Magento Integration and API Functional Testing Pipe](https://github.com/aligent/magento-integration-test-pipe) - A bitbucket pipe for running Magento integration and API functional tests
 * [Ampersand Magento2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper scripts to aid upgrading Magento 2 websites by detecting overrides
 * [baler](https://github.com/magento/baler) - AMD module bundler and preloader for Magento 2 stores
 * [Butter - Smooth Magento 2 Versions Installer](https://github.com/redchamps/butter) - A specialized tool to install a Magento version with just a single command.
@@ -145,6 +145,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [List PHP Class Dependencies](https://github.com/mage-os/php-dependency-list) - A simple tool to list PHP classes referenced in a given set of files
 * [M2 PHP version compatibility check](https://github.com/willtran/magento2-php-8-compatibility-check) - This tool can be used to check all modules in an M2 application for PHP8 compatibility
 * [Mage-OS Database Changelog Generator](https://github.com/EcomDev/mage-os-database-changelog) - A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.
+* [Mage-OS Module Template](https://github.com/mage-os-lab/mageos-module-template) - A template from Mage-OS labs that can be used when developing a new extension.
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
 * [Magento 2 - composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB) - Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
 * [Magento 2 Changelog](https://github.com/tdgroot/magento2-changelog) - A simple bash tool to easily get insight into what has changed between Magento releases.
@@ -234,6 +235,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [BitExpert_ForceCustomerLogin](https://github.com/bitExpert/magento2-force-login) - Magento 2 module that forces customer login to see website pages.
 * [Braintree Payments](https://github.com/genecommerce/module-braintree-magento2) - Implements integration with the Braintree payment system, overwriting the original Magento module, to provide additional features and bug fixes.
 * [Breeze](https://github.com/breezefront/module-breeze) - A Magento 2 extension that replaces Luma's js stack with its own implementation.
+* [Catalog Data AI](https://github.com/mage-os-lab/module-catalog-data-ai) - Generate product descriptions and similar content with the help of AI.
 * [Catalog Images Lazy Load](https://github.com/magepal/magento2-catalog-lazy-load) - Improves page loading time and Google Page Ranking by only loading product images as the user scrolls. 
 * [Change Customer Password In Admin](https://github.com/tuyennn/magento2-change-customer-password) - This extension allows the admin to change the customer's password directly, like old-fashion way Magento 1.
 * [CheckoutTester module for Magento 2](https://github.com/yireo/Yireo_CheckoutTester2) - A simple extension to preview the checkout success-page at any time.
@@ -279,6 +281,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Green Flying Panda Sales Automation](https://github.com/licentia/panda) - A sales automation suite for Magento. Includes, among other features: Customer Segments, Product Recommendations, Email & SMS Marketing, Equity, Lifetime Value and Dynamic Pricing, Reports, Info Windows, Two-Factor Authentication, Forms, Customer KPIs
 * [Hyva Sales Grids](https://github.com/redmonks/magento2-module-hyva-admin-sales-grids) - An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.
 * [Hyvä Admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.
+* [Image Cleanup module for Magento 2](https://github.com/baldwin-agency/magento2-module-image-cleanup) - This extension gives options to delete unused product images from the disk to recover some space.
 * [Indexer Deploy Config](https://github.com/pykettk/module-indexer-deploy-config) - An extension that allows developers to lock indexer modes via deployment config.
 * [IntegerNet_EnableSwagger Magento Module](https://github.com/integer-net/magento2-enable-swagger) - Adds the option to re-enable Swagger via configuration. It's disabled in production mode since Magento 2.4.4.
 * [IntegerNet_RewriteMap Magento Module](https://github.com/integer-net/magento2-rewritemap) - Generate RewriteMap files for Apache from custom Magento URL rewrites (redirects).
@@ -288,6 +291,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Legacy Mysql Search](https://github.com/swissup/module-search-mysql-legacy) - MySQL is no longer supported for search since Magento 2.4. This extension brings back the usage of the MySQL search engine on Magento 2.
 * [Lightspeed for Lighthouse optimizations](https://github.com/elgentos/magento2-lightspeed) - This module defines several sections where you can define common feedback from Google Lighthouse.
 * [Limit Guest Checkout Coupon Code](https://github.com/magepal/magento2-coupon-limit-guest-checkout) - This extension restricts the maximum use of coupons for guest checkout.
+* [M2 Magewire with Breeze theme Module](https://github.com/olivertar/magewire-breeze) - An extension that allows you to use Magewire with Breeze theme.
 * [Mage2 Module Experius WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads) - This extension makes it possible to upload different filetypes inside the WYSIWYG-editor.
 * [MageBundle](https://github.com/ctasca/mage-bundle) - Easily create Magento2/AdobeCommerce PHP/XML/JS module's files from a set of templates via the bin/magento command and allows you to create and use your own templates.
 * [Magehook](https://github.com/wpoortman/magehook) - This extension adds an abstraction layer to create and dispatch custom webhooks for Magento 2.
@@ -592,6 +596,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
 * [Magento 2 Delete Test Data](https://gist.github.com/leek/f7fd2c41668b0f8a0a5f6e5209fe8f4e) - A set of Magento 2 scripts to delete test data.
 * [Magento 2 JavaScript CheatSheet](https://jason.codes/2019/08/magento-2-javascript-cheatsheet/) - A quick go-to reference to see the different ways of handling JavaScript.
+* [Magento 2 Less Diagram](https://github.com/adexandros/magento2-less-diagram) - A diagram by Andrea D’Urso to help understand how Magento less import and compilation work.
 * [Magento 2 Quick Tips ebook](https://resources.fooman.com/ebooks/Magento-2-Quick-Tips-ebook-by-Fooman.pdf) - Quick tips from Fooman to easier Magento 2 development.
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
 * [Magento 2 Supported Versions](https://github.com/navarr/magento2-supported-versions) - This repository is an up-to-date table of the versions of various software that various versions of Magento support.
@@ -747,7 +752,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Alan Kent's Docker image](https://hub.docker.com/r/alankent/gsd/) - Docker image for use with the book series "Getting Stuff Done with Magento 2"
 * [Bitnami Docker Image for Magento](https://github.com/bitnami/containers/tree/main/bitnami/magento) - Bitnami closely tracks upstream source changes and promptly publishes new versions of this image
-* [Colin Tickle’s Docker Stack](https://github.com/cmtickle/docker-stack) - A dockerized system to run LEMP stack applications; primarily developed to run Magento 2.
+* [Colin Tickle’s Docker Stack](https://github.com/cmtickle/docker-stack) - A dockerized system to run LEMP stack applications
 * [DDEV-Local](https://github.com/drud/ddev) - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
 * [Docker Configuration for Magento 2](https://github.com/magenx/Magento-2-docker-configuration)
 * [Docker Devbox](https://github.com/giuseppemorelli/docker-devbox/) - A Docker dev box based on Devilbox
