@@ -342,6 +342,7 @@ Extensions,,Admin Redis Report,https://github.com/element119/module-admin-redis-
 Extensions,,Event Thing for Magento 2,https://github.com/cmtickle/module-event-thing,A module that enables the logic/integration touch points of Magento Plugins & Observers to be handled outside the core Magento application.,
 Extensions,,Catalog Data AI,https://github.com/mage-os-lab/module-catalog-data-ai,Generate product descriptions and similar content with the help of AI.,
 Extensions,,Image Cleanup module for Magento 2,https://github.com/baldwin-agency/magento2-module-image-cleanup,This extension gives options to delete unused product images from the disk to recover some space.,
+Extensions,,M2 Magewire with Breeze theme Module,https://github.com/olivertar/magewire-breeze,An extension that allows you to use Magewire with Breeze theme.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
