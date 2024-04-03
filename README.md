@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![635 resources](https://img.shields.io/badge/resources-635-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![624 resources](https://img.shields.io/badge/resources-624-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -154,7 +154,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Code Generator Tool](https://github.com/staempfli/magento2-code-generator/) - Code generator for Magento 2
 * [Magento 2 Database Backup Manager](https://github.com/Space48/magedbm2) - A database backup manager for Magento 2 written with developers in mind.
 * [Magento 2 DevTools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
-* [Magento 2 DI Lookup](https://m2-dependency-injection-lookup.pulsestorm.net/) - A dependency injection reference that lets you statically search for any reference to a particular type/symbol.
 * [Magento 2 Model Generator](https://github.com/michielgerritsen/magento2-model-generator) - With this app, you can create models for Magento 2 very fast. Ready-to-use on https://www.model-generator.com/
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magento 2 Simplistic Installer](https://github.com/MagePsycho/magento2-installer-bash-script) - A simplistic tool to install Magento 2 from different sources like tar & composer
@@ -175,7 +174,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [NodeJento](https://github.com/Genaker/nodejento) - NodeJS implementation of the Magento 2 ORM without using legacy PHP
 * [Oh My ZSH Plugin - Magento 2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) - Magento 2 autocomplete plugin for oh-my-zsh
 * [Optimize Composer for Magento 2 projects](https://github.com/fooman/composer-magento2-optimizations) - A composer-plugin that contains a set of improvements that makes running heavy-duty composer commands (i.e. composer update or composer require) much faster.
-* [Pacemaker](https://pacemaker.techdivision.com/en) - Import and process management tool for Magento
+* [Pacemaker](https://pacemaker.techdivision.com/en/) - Import and process management tool for Magento
 * [Pestle by Alan Storm](https://github.com/astorm/pestle) - A collection of command line scripts for Magento 2 code generation
 * [PHPStorm Live Templates for Magento 2 by Mark Shust](https://github.com/markshust/phpstorm-magento-live-templates) - Magento 2 live templates for PHPStorm that help speed up the development process.
 * [PHPStorm Live Templates for Magento 2 by Nathan McBride](https://github.com/brideo/phpstorm-live-templates-magento-2) - A bunch of Magento 2 Live Templates for PHPStorm
@@ -287,7 +286,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [IntegerNet_RewriteMap Magento Module](https://github.com/integer-net/magento2-rewritemap) - Generate RewriteMap files for Apache from custom Magento URL rewrites (redirects).
 * [Integer_Net GlobalCustomLayout](https://github.com/integer-net/magento2-global-custom-layout) - Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id.
 * [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
-* [Kiyoh Magento 2 Extension by Dutchwebdesign](https://github.com/dutchwebdesign/magento2-kiyoh) - Integrates with KiyohNL's product and shop reviews.
 * [Legacy Mysql Search](https://github.com/swissup/module-search-mysql-legacy) - MySQL is no longer supported for search since Magento 2.4. This extension brings back the usage of the MySQL search engine on Magento 2.
 * [Lightspeed for Lighthouse optimizations](https://github.com/elgentos/magento2-lightspeed) - This module defines several sections where you can define common feedback from Google Lighthouse.
 * [Limit Guest Checkout Coupon Code](https://github.com/magepal/magento2-coupon-limit-guest-checkout) - This extension restricts the maximum use of coupons for guest checkout.
@@ -497,7 +495,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Firebear Studio Blog](https://firebearstudio.com/blog/)
 * [Fooman](https://fooman.com/blog)
 * [Giel Berkers](https://gielberkers.com/)
-* [Ibnab Blog](https://www.ibnab.com/en/blog/magento-2)
 * [Inchoo](https://inchoo.net/magento/)
 * [integer_net Blog](https://www.integer-net.com/blog/)
 * [InteractOne Blog](https://www.interactone.com/category/adobe-magento-news/)
@@ -528,7 +525,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Michiel Gerritsen](https://www.michiel-gerritsen.com/)
 * [Mobecls](https://mobecls.com/e-commerce-tips/)
 * [Nexcess Blog](https://www.nexcess.net/blog/category/magento/)
-* [OneStepCheckout](https://blog.onestepcheckout.com/tag/magento-2/)
 * [Onilab](https://onilab.com/blog/)
 * [ParadoxLabs](https://paradoxlabs.com/blog/)
 * [Phuc Vo](http://thienphucvx.com/)
@@ -544,7 +540,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Sonassi](https://www.sonassi.com/blog)
 * [Space48 Blog](https://www.space48.com/blog/)
 * [SwiftOtter](https://swiftotter.com/technical)
-* [Talesh Seeparsan](https://www.seeparsan.net/magento-blog/)
 * [Tigren](https://www.tigren.com/blog/category/magento/)
 * [Timon de Groot](https://blog.timpack.org/)
 * [WebMeridian](https://webmeridian.net/category/magento/)
@@ -591,7 +586,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Fix the order item list in customized order/invoice email templates](https://gist.github.com/peterjaap/6dc68f12a9ce38f6d826ada89747fa3f) - A set of queries that fix the order item list in customized order/invoice email templates.
 * [Getting started with the Mage-OS distribution](https://www.yireo.com/blog/2023-11-24-getting-started-with-mage-os) - A quick guide of how to start using Mage-OS distribution.
 * [How to Deploy a Magento 2 Project](https://deployer.org/docs/7.x/recipe/magento2) - A Deployer 7.x recipe for deploying a Magento 2 project.
-* [M.academy snippets](https://mdotacademy.snippets.cc/collection/magento-2) - A collection of useful Magento 2 code snippets
 * [Mage2DB.com](https://mage2db.com/) - Magento 2.x Learning & Knowledge & Troubleshooting
 * [Magentip](https://magentip.com/) - Magento 2 tutorials, reviews, and fixes.
 * [Magento 2 / PHP versions Matrix](https://gist.github.com/fooman/b1d70ca2954c05c3e11a7a9db04a8a10)
@@ -605,7 +599,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Tutorials](https://www.mag-manager.com/magento-2-tutorials/) - Easy to follow guides that will help you dive into Magento 2 specifics and familiarize yourself with basic concepts.
 * [Magento 2 zero-downtime deployment GitHub actions](https://github.com/marketplace/actions/magento-2-actions) - Do a Magento 2 zero-downtime deployment using GitHub actions.
 * [Magento 2.3.x - List of all dispatched events](https://cyrillschumacher.com/magento-2.3-list-of-all-dispatched-events/) - A cheat sheet that lists all dispatched events in Magento 2.3.
-* [Magento: The Right Way](https://magentotherightway.com/)
 * [Magento Cheat Sheets](https://cheatography.com/tag/magento/) - A collection of cheat sheets for Magento 2
 * [Magento Module LarsRoettig_GraphQLStorePickup](https://github.com/larsroettig-dev/module-graphqlstorepickup) - Example of how to create a GraphQL Endpoint for Magento 2.3
 * [Magento Postman repository](https://github.com/nuzil/magento-postman/) - A storage of Postman collections for Magento
@@ -626,7 +619,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### English
 
-* [Actionable Insights](https://actionableinsights.fm/) - Practical insights by SwiftOtter
 * [Core of Commerce](https://twitter.com/CoreOfCommerce) - Core of Commerce equips you with cutting-edge knowledge to help you achieve and exceed your digital commerce goals
 * [MageRoundTable](https://mageroundtable.com/) - A developer-focussed podcast hosted by James Cowie
 * [MageTalk](https://magetalk.com/) - A Magento Podcast
@@ -697,9 +689,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Online
 
-* [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
 * [MageChat](https://www.magechat.club/) - A private, invite-only community for eCommerce professionals.
-* [MageFounders](https://magefounders.com/) - A colection of stories by people from the Magento community to inspire and encourage others.
 * [Magento Community Portal](https://developer.adobe.com/open/magento) - Join thousands of community developers working on different projects
 * [Magento Forum](https://community.magento.com/) - The "brand new" Magento forum
 * [Magento Stack Exchange](https://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
@@ -733,7 +723,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ### Conferences
 
 * [Adobe Summit](https://business.adobe.com/summit/adobe-summit.html) - Where Magento Imagine happens!
-* [MageCONF](https://www.mageconf.com.ua/) - The main Magento event in Ukraine
 * [MageTestFest](https://magetestfest.com/) - Magento. Software Testing. Party.
 * [Mage Titans](http://www.magetitans.com/) - A non-profit event for Magento developers in NL
 * [Mage Unconference](https://www.mageunconference.org/) - A unique Magento community event
