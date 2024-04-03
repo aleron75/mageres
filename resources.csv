@@ -344,6 +344,8 @@ Extensions,,Image Cleanup module for Magento 2,https://github.com/baldwin-agency
 Extensions,,M2 Magewire with Breeze theme Module,https://github.com/olivertar/magewire-breeze,An extension that allows you to use Magewire with Breeze theme.,
 Extensions,,"CustomGento_Cookiebot
 ",https://github.com/customgento/module-cookiebot-m2,A Magento 2 module that integrates Cookiebot into your store.,
+Extensions,,"Magento 2 Data GridsJS
+",https://github.com/Genaker/magento_gridjs,A Magento 2 extension for GridJS and DataTable integration with Magento 2.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
