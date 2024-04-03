@@ -273,7 +273,6 @@ Extensions,,Magento 2 GraphQL Introspection Cache,https://github.com/graycoreio/
 Extensions,,MageQuest_PpcLandingPages,https://github.com/MageQuest/magento2-module-ppc-landing-pages,Customise your PDP (Product Detail Pages) for PPC (Pay Per Click) visitors.,
 Extensions,,Wagento Prune Customer,https://bitbucket.org/wagento-global/prune-customer-accounts/,An extension that adds CLI commands to prune SPAM customers.,
 Extensions,,Elgentos Kiyoh for Magento 2,https://github.com/elgentos/magento2-kiyoh,Fetches site review scores from Kiyoh NL and stores them in the Magento database.,
-Extensions,,Kiyoh Magento 2 Extension by Dutchwebdesign,https://github.com/dutchwebdesign/magento2-kiyoh,Integrates with KiyohNL's product and shop reviews.,
 Extensions,,Aimes_PageBuilderCodeBlock,https://github.com/robaimes/module-pagebuilder-code-block,"An extension tat adds a new PageBuilder content type to display code snippets nicely, using highlight.js.",
 Extensions,,MagePal Magento 2 System.xml Color Picker,https://github.com/magepal/magento2-color-picker,This extension adds a color picker frontend model to be used in system configuration fields.,
 Extensions,,Ajax Newsletter Subscription for Magento 2,https://github.com/magepal/magento2-ajax-newsletter-subscribe,This extension makes it easy to add an AJAX subscription to the Magento newsletter.,
