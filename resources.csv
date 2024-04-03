@@ -355,6 +355,7 @@ Testing,,ExtDN PHP_CodeSniffer rules for Magento 2,https://github.com/extdn/extd
 Testing,,Magento 2 GitHub Actions,https://github.com/graycoreio/github-actions-magento2,"Opinionated Github Actions and Workflows to make building, testing, and maintaining Magento 2 Modules easier.",
 Testing,,Testing in Magento 2,https://gist.github.com/ProcessEight/fb7141d120ce05fa837ff4457ca6a747,Special notes by Simon Frost on setting up PHPUnit and writing/troubleshooting tests in Magento 2.,
 Testing,,Magento 2 module unit tests generator,https://github.com/olmer/magento-unit-tests-generator,A package intended to simplify magento2 unit tests creation.,
+Testing,,Mage2-Behave,https://github.com/ctasca/mage2-behave,A project that leverages Python for Behavior-Driven Development (BDD) development in Magento 2 projects,
 PWA,,PWA Studio,https://github.com/magento/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.,
 PWA,,Vue Storefront,https://github.com/vuestorefront/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.",
 PWA,,Venia UI Override Resolver,https://github.com/fooman/venia-ui-override-resolver,A Magento PWA Studio extension that enables extending Venia & Peregrine,
