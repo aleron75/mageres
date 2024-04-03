@@ -99,7 +99,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Extensions Development](https://www.packtpub.com/product/magento-extensions-development/9781783286775) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
 * [Magento 2 Guida allo sviluppo](https://www.goodreads.com/book/show/52703436-magento-2) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
 * [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/product/magento-2-theme-design-second-edition/9781785888229) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
-* [Mastering Adobe Commerce Frontend](https://www.packtpub.com/product/mastering-adobe-commerce-frontend/9781837637072) - The book is ideal for storefront developers proficient in frontend technologies such as HTML, CSS, and JavaScript, aiming to broaden their knowledge of Adobe Commerce and Magento Open Source applications.
+* [Mastering Adobe Commerce Frontend](https://www.packtpub.com/product/mastering-adobe-commerce-frontend/9781837637072) - The book is ideal for storefront developers proficient in frontend technologies such as HTML, CSS, and JavaScript, aiming to broaden their knowledge of Adobe Commerce and Magento Open Source applications. By Jakub Winkler, March 2024.
 * [Mastering Magento 2 - Second Edition](https://www.packtpub.com/product/mastering-magento-2-second-edition/9781785882364) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
 
 ## Performance
