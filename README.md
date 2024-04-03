@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![624 resources](https://img.shields.io/badge/resources-624-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![627 resources](https://img.shields.io/badge/resources-627-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -249,6 +249,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) - Restricts payment methods to specific customer groups in Magento 2.
 * [Custom Flat Fee Shipping Rates](https://github.com/magepal/magento2-custom-shipping-rate) - This extension adds custom flat fee shipping rates to admin order creation or displays a simple list of flat rates to customers.
 * [CustomGento_CliTaxEditor](https://github.com/customgento/module-cli-tax-editor-m2) - Magento 2 module, which provides new console commands to edit the tax configuration.
+* [CustomGento_Cookiebot
+](https://github.com/customgento/module-cookiebot-m2) - A Magento 2 module that integrates Cookiebot into your store.
 * [Custom Product Relation Sample Extension](https://github.com/magepal/magento2-link-product) - This extension creates a new product accessory relationship in addition to the default ones.
 * [CyberSource for Magento 2](https://github.com/ParadoxLabs-Inc/cybersource) - This extension brings CyberSource’s enterprise payment services to Magento 2.
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
@@ -257,6 +259,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Developer Toolbar by vpietri](https://github.com/vpietri/magento2-developer-quickdevbar) - The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running.
 * [DisableLog2 for Magento 2](https://github.com/yireo/Yireo_DisableLog2) - This module disables various log attempts of the Magento core, improving performance slightly.
 * [DisableServiceWorkerInAdmin for Magento 2](https://github.com/yireo/Yireo_DisableServiceWorkerInAdmin) - Module used to unregister any ServiceWorkers when entering the backend.
+* [Discorgento Migrations](https://github.com/discorgento/module-migrations) - A dev-friendly approach to keep track of database changes in Magento 2.
 * [Dutchento VAT Fallback](https://github.com/dutchento/m2-vatfallback) - Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
 * [EAV Cleaner Console Command](https://github.com/magento-hackathon/EAVCleaner) - Provides cleanup commands to check for different flaws that can occur due to EAV
 * [Elastic APM Integration for Magento 2](https://github.com/cmtickle/elastic-apm-magento/) - Elastic Application Performance Management (APM) Integration for Magento 2 to diagnose application performance problems.
@@ -316,6 +319,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 CORS](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on GraphQL and REST APIs
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
 * [Magento 2 Cron Schedule extension Free](https://github.com/mageplaza/magento-2-cron-schedule) - Helps you to execute tasks with no effort from the Admin Panel. 
+* [Magento 2 Data GridsJS
+](https://github.com/Genaker/magento_gridjs) - A Magento 2 extension for GridJS and DataTable integration with Magento 2.
 * [Magento 2 DataPatchCreator](https://github.com/enanobots/m2-datapatchcreator) - Allows us to create PHP Data Patch Files in Magento 2 Admin panel and export them to PHP files which we can add to our code repositories.
 * [Magento 2 DataPatchCreator - Compatibility for MarkShust SimpleData](https://github.com/enanobots/m2-datapatchcreator-simpledata) - A compatibility extension to use with Magento 2 DataPatchCreator and MarkShust_SimpleData extensions.
 * [Magento 2 Debug Helper](https://github.com/shkoliar/magento-debug-helper) - Automatic breakpoints on PhpStorm based on search parameters.
@@ -423,6 +428,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Elgentos Magento 2 Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite) - A community-driven Cypress testing suite for Magento 2.
 * [ExtDN PHP_CodeSniffer rules for Magento 2](https://github.com/extdn/extdn-phpcs) - Advanced PHP CodeSniffer rules to aid in Magento 2 development.
 * [GitHub Actions for Magento 2 Extensions](https://github.com/extdn/github-actions-m2) - A repository that provides a set of open-sourced GitHub actions to write better tested Magento 2 extensions.
+* [Mage2-Behave](https://github.com/ctasca/mage2-behave) - A project that leverages Python for Behavior-Driven Development (BDD) development in Magento 2 projects
 * [Magento 2 Docker images for extension testing](https://github.com/michielgerritsen/magento2-extension-integration-test) - Docker images that can be used to run Magento unit/integration/browser tests for your Magento 2 extensions.
 * [Magento 2 GitHub Actions](https://github.com/graycoreio/github-actions-magento2) - Opinionated Github Actions and Workflows to make building, testing, and maintaining Magento 2 Modules easier.
 * [Magento 2 integration testing helper](https://github.com/yireo/Yireo_IntegrationTestHelper) - This module adds various utilities to aid in creating integration tests for Magento 2.
@@ -534,7 +540,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Rakesh Jesadiya](https://www.rakeshjesadiya.com/)
 * [Revampix](https://www.revampix.com/)
 * [Rixxo](https://www.rixxo.com/blog/)
-* [Rocket Web](https://rocketweb.com/blog)
 * [Rohan Hapani](https://www.rohanhapani.com/category/magento/magento-2/)
 * [Shero Blog](https://sherocommerce.com/blog/)
 * [Sonassi](https://www.sonassi.com/blog)
