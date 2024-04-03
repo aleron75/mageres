@@ -89,7 +89,6 @@ Tools,Free,Simple Import / Export tool,https://github.com/EcomDev/sync-magento-2
 Tools,Free,integer_net Magento 2 Module Template,https://github.com/integer-net/magento2-module-template,A template to easily get started with Magento open source module development.,
 Tools,Free,Pestle by Alan Storm,https://github.com/astorm/pestle,A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts.
 Tools,Free,Magento 2 Changelog,https://github.com/tdgroot/magento2-changelog,A simple bash tool to easily get insight into what has changed between Magento releases.,
-Tools,Free,Magento 2 DI Lookup,https://m2-dependency-injection-lookup.pulsestorm.net/,A dependency injection reference that lets you statically search for any reference to a particular type/symbol.,
 Tools,Free,MRM Commerce Magento 2 Coding Standard,https://github.com/mrm-commerce/magento-coding-standard-phpcs,A set of PHP Code Sniffer rules meant to ensure or increase the code quality of Magento 2 projects.,
 Tools,Free,ConvertM1M2,https://github.com/unirgy/convertm1m2,A script to automate as much as possible the conversion of a Magento 1 extension to Magento 2.,
 Tools,Free,Rest client for Magento 2,https://github.com/springimport/magento2-api-v1,A wrapper over Guzzle for Magento 2 REST API.,
