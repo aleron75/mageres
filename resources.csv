@@ -53,7 +53,7 @@ Tools,Free,netz98 magerun CLI tools for Magento 2,https://github.com/netz98/n98-
 Tools,Free,Magento 2 PHPStorm Preferences,https://github.com/staempfli/magento2-phpstorm-templates,PHPStorm Live template preferences for Magento 2 Projects,
 Tools,Free,Magento administrative tool,https://github.com/magento-architects/magento-tool,Used to perform administrative tasks on Magento instances remotely.,
 Tools,Free,Oh My ZSH Plugin - Magento 2,https://github.com/dambrogia/oh-my-zsh-plugin-magento-2,Magento 2 autocomplete plugin for oh-my-zsh,
-Tools,Free,Pacemaker,https://pacemaker.techdivision.com/en,Import and process management tool for Magento,
+Tools,Free,Pacemaker,https://pacemaker.techdivision.com/en/,Import and process management tool for Magento,
 Tools,Free,Magento 2 Ultimate Module Creator,https://github.com/UltimateModuleCreator/umc,A standalone application for creating Magento 2 CRUD modules,
 Tools,Free,Magento 2 Code + DB Backup,https://github.com/MagePsycho/magento2-db-code-backup-bash-script,An utility SSH script to backup the code + database of Magento 2,
 Tools,Free,Magento 2 Simplistic Installer,https://github.com/MagePsycho/magento2-installer-bash-script,A simplistic tool to install Magento 2 from different sources like tar & composer,
