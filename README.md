@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![627 resources](https://img.shields.io/badge/resources-627-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![632 resources](https://img.shields.io/badge/resources-632-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/workflows/Check%20Links%20Health/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -72,6 +72,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Mage-OS DevDocs](https://devdocs.mage-os.org/) - Mage-OS Developer Guide
 * [Mage Mastery](https://magemastery.net/) - Learning resources for Magento 2 developers
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
+* [PackageMaven – Magento Modules](Explore. Discover. Elevate. #magento) - https://package-maven.com/
 * [The Magento Guidebook](https://jetrails.com/blog/the-magento-terms-glossary-guide/) - A Glossary of Magento Terms and Phrases
 
 ## Certification
@@ -164,6 +165,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MagentoApiClient](https://github.com/rantalainen/magento-api-client) - A third-party Magento API client for Node.js and TypeScript.
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
 * [Magento Composer Replacement Tool](https://github.com/yireo/magento2-replace-tools) - A repository that offers a composer plugin to help you manage composer replacements in your root composer.json.
+* [MagentoGPT](https://chat.openai.com/g/g-2jh24mY9U-magento-gpt) - Magento AI expert designed to help you with module, theme, and CLI in Magento and Adobe Commerce
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 * [Magento Semantic Version Checker](https://github.com/magento/magento-semver) - A tool to determine semantic versioning changes and backward incompatible changes between two sources.
 * [Magento utilities Tap for Homebrew](https://github.com/fballiano/homebrew-mageutils)
@@ -320,6 +322,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 CORS](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on GraphQL and REST APIs
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
 * [Magento 2 Cron Schedule extension Free](https://github.com/mageplaza/magento-2-cron-schedule) - Helps you to execute tasks with no effort from the Admin Panel. 
+* [Magento 2 Customer Session Timeout Popup
+](https://github.com/enanobots/m2-customer-timeout-popup) - This module displays a popup to the customer indicating the number of seconds remaining until they are automatically logged out of the system.
 * [Magento 2 Data GridsJS
 ](https://github.com/Genaker/magento_gridjs) - A Magento 2 extension for GridJS and DataTable integration with Magento 2.
 * [Magento 2 DataPatchCreator](https://github.com/enanobots/m2-datapatchcreator) - Allows us to create PHP Data Patch Files in Magento 2 Admin panel and export them to PHP files which we can add to our code repositories.
@@ -395,6 +399,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Product Collective Packages Module for Magento 2 / Adobe Commerce](https://github.com/enanobots/m2-product-pack) - This (Hyva-compatible) extension enhances the functionality of Magento 2 by providing a new feature for product collective packages.
 * [Product Data Pre-Loader](https://github.com/EcomDev/magento2-product-preloader) - This extension provides an easy way to pre-load data for product collections like prices, stock data, and many more by using different types of load types.
 * [Proof of Concept: using PHP attributes in Magento 2](https://github.com/renttek/magento2-attributes-experiment) - A proof of concept for implementing some Magento 2 configuration using PHP attributes.
+* [Regenerate URL rewrites extension](https://github.com/olegkoval/magento2-regenerate_url_rewrites) - This extension adds a CLI command that allows the regeneration of URL rewrites of products and categories in all stores or a specific store.
 * [Reindex from Admin](https://github.com/magepal/magento2-reindex) - To quickly and easily update individual or all indexes from within your Magento admin.
 * [Rixxo IntroJS](https://bitbucket.org/rxmodules-development/rixxo-introjs/src/master/) - Add Google IntroJS to Magento2
 * [SamueleMartini_GPT3 module](https://github.com/SamueleMartini/Magento-GPT-3-integration/) - This extension integrates some Open AI GPT-3 features into Magento 2 to generate product and category descriptions from the admin panel automatically.
@@ -408,6 +413,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [UMC CRUD for Magento 2](https://github.com/UltimateModuleCreator/umc-crud) - A module intended to reduce the boilerplate code when creating a CRUD extension.
 * [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.
 * [Wagento Prune Customer](https://bitbucket.org/wagento-global/prune-customer-accounts/) - An extension that adds CLI commands to prune SPAM customers.
+* [Yireo - Magento 2 Category Extended
+](https://github.com/yireo/Yireo_CategoryExtended) - This module seamlessly integrates CMS pages and custom URLs into your Magento 2 category structure, allowing you to create a more versatile and informative menu for your customers. 
 * [Yireo AdditionalBlockTemplate](https://github.com/yireo/Yireo_AdditionalBlockTemplate) - A Magento 2 module to allow for additional templates to be rendered, besides the original template.
 * [Yireo AutoFlushCache](https://github.com/yireo/Yireo_AutoFlushCache) - Automatically flush the cache whenever you save something in the System Configuration.
 * [Yireo DevHacks](https://github.com/yireo/Yireo_DevHacks) - Magento 2 module with various hacks and solutions for custom development
