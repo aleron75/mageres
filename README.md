@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![631 resources](https://img.shields.io/badge/resources-631-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![630 resources](https://img.shields.io/badge/resources-630-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -483,7 +483,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Anna Völkl](https://anna.voelkl.at/)
 * [Atwix blog](https://www.atwix.com/blog/)
 * [Belvg](https://belvg.com/blog/)
-* [Ben Marks](http://bhmarks.com/blog/)
 * [Bitbull](https://www.bitbull.it/en/categories/magento-2/)
 * [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
 * [C3Media Blog](https://c3.agency/insights)
