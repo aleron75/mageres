@@ -354,6 +354,9 @@ Extensions,,"Yireo - Magento 2 Category Extended
 Extensions,,"Magento 2 Customer Session Timeout Popup
 ",https://github.com/enanobots/m2-customer-timeout-popup,This module displays a popup to the customer indicating the number of seconds remaining until they are automatically logged out of the system.,
 Extensions,,Regenerate URL rewrites extension,https://github.com/olegkoval/magento2-regenerate_url_rewrites,This extension adds a CLI command that allows the regeneration of URL rewrites of products and categories in all stores or a specific store.,
+Extensions,,"Module for integrating BuilderIO/partytown library into Magento 2
+",https://github.com/rostilos/perspective-partytown,"Module for integrating BuilderIO/partytown library into Magento 2
+Partytown is a lazy-loaded library to help relocate resource-intensive scripts into a web worker and off of the main thread. This module allows using the BuilderIO/partytown in a Magento 2 project.",
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
