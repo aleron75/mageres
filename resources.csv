@@ -373,6 +373,7 @@ Extensions,Hyvä,Geissweb EU VAT compatibility module for Hyvä Checkout,https:/
 Extensions,,Magento 2 QuickLink Extension,https://github.com/collabpl/magento2-module-quicklink,The Collab_QuickLink module allows the embedding and configuring of Quicklink in a Magento 2 store.,
 Extensions,,Elgentos CategoryTiling,https://github.com/elgentos/CategoryTiling,The extension adds tiling display options to categories 'Display Mode' to show sub-categories as tiles.,
 Extensions,,International Address API module for Magento 2,https://github.com/postcode-nl/PostcodeNl_Api_Magento2,This extension adds address autocompletion to the checkout page. Multiple countries are supported using official postal data via the Postcode.eu API.,
+Extensions,Hyvä,Trinos - Postcode.nl Magento 2 module,https://github.com/trinos-nl/magento2-postcode-nl,This extension adds Postcode.nl integration for Hyvä Checkout.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
