@@ -360,6 +360,7 @@ Extensions,,Magento 2 Tweakwise,https://github.com/EmicoEcommerce/Magento2Tweakw
 Extensions,Hyvä,Tweakwise Hyvä,https://github.com/EmicoEcommerce/Magento2TweakwiseHyva,Hyvä Themes Compatibility module for Magento 2 Tweakwise extension,
 Extensions,Hyvä,Adyen Payment - Integration with Hyva Checkout,https://github.com/Adyen/adyen-magento2-hyva/,This module supports Adyen payments via the Hyvä Checkout implementation for Magento 2.,
 Extensions,,Ideal-Postcodes UK Address Search and Validation,https://github.com/ideal-postcodes/magento,This extension enables Ideal-Postcodes.co.uk address validation for UK addresses on a Magento store.,
+Extensions,,Magento 2 fraud protection extension by Riskified,https://github.com/Riskified/magento2new,This extension allows for automatic and/or manual submission of purchase orders to Riskified for fraud review and guarantee.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
