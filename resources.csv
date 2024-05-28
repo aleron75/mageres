@@ -354,8 +354,7 @@ Extensions,,"Yireo - Magento 2 Category Extended
 Extensions,,"Magento 2 Customer Session Timeout Popup
 ",https://github.com/enanobots/m2-customer-timeout-popup,This module displays a popup to the customer indicating the number of seconds remaining until they are automatically logged out of the system.,
 Extensions,,Regenerate URL rewrites extension,https://github.com/olegkoval/magento2-regenerate_url_rewrites,This extension adds a CLI command that allows the regeneration of URL rewrites of products and categories in all stores or a specific store.,
-Extensions,,"Module for integrating BuilderIO/partytown library into Magento 2
-",https://github.com/rostilos/perspective-partytown,"Module for integrating BuilderIO/partytown library into Magento 2
+Extensions,,Module for integrating BuilderIO/partytown library into Magento 2,https://github.com/rostilos/perspective-partytown,"Module for integrating BuilderIO/partytown library into Magento 2
 Partytown is a lazy-loaded library to help relocate resource-intensive scripts into a web worker and off of the main thread. This module allows using the BuilderIO/partytown in a Magento 2 project.",
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
@@ -519,6 +518,7 @@ Quickies & Tutorials,,DDEV configuration for Magento 2,https://github.com/jelles
 Quickies & Tutorials,,How to Deploy a Magento 2 Project,https://deployer.org/docs/7.x/recipe/magento2,A Deployer 7.x recipe for deploying a Magento 2 project.,
 Quickies & Tutorials,,Getting started with the Mage-OS distribution,https://www.yireo.com/blog/2023-11-24-getting-started-with-mage-os,A quick guide of how to start using Mage-OS distribution.,
 Quickies & Tutorials,,Magento 2 Less Diagram,https://github.com/adexandros/magento2-less-diagram,A diagram by Andrea D’Urso to help understand how Magento less import and compilation work.,
+Quickies & Tutorials,,Magento Kubernetes - A complete guide,https://clickandmortar.github.io/magento-kubernetes/,A getting started guide to easily deploy Magento / Adobe Commerce on Kubernetes,
 Podcasts,English,The JetRails Podcast,https://jetrails.com/podcast/,The JetRails Podcast for the Ecommerce Community,
 Podcasts,English,MageTalk,https://magetalk.com/,A Magento Podcast,
 Podcasts,English,Core of Commerce,https://twitter.com/CoreOfCommerce,Core of Commerce equips you with cutting-edge knowledge to help you achieve and exceed your digital commerce goals,
