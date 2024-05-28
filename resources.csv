@@ -362,7 +362,7 @@ Extensions,Hyvä,Adyen Payment - Integration with Hyva Checkout,https://github.c
 Extensions,,Ideal-Postcodes UK Address Search and Validation,https://github.com/ideal-postcodes/magento,This extension enables Ideal-Postcodes.co.uk address validation for UK addresses on a Magento store.,
 Extensions,,Magento 2 fraud protection extension by Riskified,https://github.com/Riskified/magento2new,This extension allows for automatic and/or manual submission of purchase orders to Riskified for fraud review and guarantee.,
 Extensions,Hyvä,Vendic Hyvä Checkout Hide Business Fields,https://github.com/Vendic/hyva-checkout-hide-business-fields,"This module adds a customer type field to the checkout and hides the business fields when the customer type is set to ""consumer"". Business fields can be configured via di.xml.",
-Extensions,Hyvä,Consent Mode V2,https://github.com/elgentos/magento2-consentmode-v2,,
+Extensions,Hyvä,Consent Mode V2,https://github.com/elgentos/magento2-consentmode-v2,This extension is based on the Hyvä default cookie bar. All the features of that extension are also in this one.,
 Extensions,,SEO module for Magento 2,https://github.com/28software/module-seo,SEO module for Magento 2 that adds page visibility for search engines on the product level.,
 Extensions,,Mollie for Magento 2,https://github.com/mollie/magento2-hyva-checkout,The Mollie Magento 2 extension quickly integrates all major payment methods ready-made into your Magento webshop.,
 Extensions,Hyvä,Hyvä Checkout support for Mollie,https://github.com/mollie/magento2-hyva-checkout,This module adds support for the Mollie payment methods to the Hyvä Checkout module. This module has a dependency on the Mollie Magento 2 module.,
