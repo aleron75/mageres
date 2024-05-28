@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![630 resources](https://img.shields.io/badge/resources-630-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![629 resources](https://img.shields.io/badge/resources-629-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -284,8 +284,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Google Tag Manager with Advance Data Layer](https://github.com/magepal/magento2-google-tag-manager) - The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
 * [Goomento Page Builder](https://github.com/Goomento/PageBuilder) - A free Magento Page Builder extension that allows you to efficiently set up your website by simply dragging and dropping manipulation
 * [Green Flying Panda Sales Automation](https://github.com/licentia/panda) - A sales automation suite for Magento. Includes, among other features: Customer Segments, Product Recommendations, Email & SMS Marketing, Equity, Lifetime Value and Dynamic Pricing, Reports, Info Windows, Two-Factor Authentication, Forms, Customer KPIs
-* [Hyva Sales Grids](https://github.com/redmonks/magento2-module-hyva-admin-sales-grids) - An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.
-* [Hyvä Admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.
 * [Image Cleanup module for Magento 2](https://github.com/baldwin-agency/magento2-module-image-cleanup) - This extension gives options to delete unused product images from the disk to recover some space.
 * [Indexer Deploy Config](https://github.com/pykettk/module-indexer-deploy-config) - An extension that allows developers to lock indexer modes via deployment config.
 * [IntegerNet_EnableSwagger Magento Module](https://github.com/integer-net/magento2-enable-swagger) - Adds the option to re-enable Swagger via configuration. It's disabled in production mode since Magento 2.4.4.
@@ -347,7 +345,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Message Queue Retry](https://github.com/run-as-root/magento2-message-queue-retry) - An extension that allows processing the same queue message more than once, utilizing RabbitMQ's dead letter exchange feature.
 * [Magento 2 Micro Features Module](https://github.com/Lingaro/magento2-module-micro-features) - A collection of useful micro-features packed into the same extension.
 * [Magento 2 module for NextGenImages](https://github.com/yireo/Yireo_NextGenImages) - Magento 2 module to add next-gen image support to Magento 2.
-* [Magento 2 Module for showing Landofcoder FAQs on the Hyvä category page](https://github.com/develodesign/magento-2-category-faq-extension-hyva) - Displays a FAQ accordian at the bottom of the Magento Category page from a linked FAQ category. Hyvä compatible.
 * [Magento 2 module for WebP](https://github.com/yireo/Yireo_Webp2) - This extension adds WebP support to Magento 2.
 * [Magento 2 module for Whoops](https://github.com/yireo/Yireo_Whoops) - Magento 2 module integrating Whoops error handling.
 * [Magento 2 Nostalgia Admin Theme](https://github.com/magespices/mage2nostalgia) - A brand new, compact and eye friendly admin theme, inspired by Magento 1.
@@ -372,7 +369,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MageQuest_PpcLandingPages](https://github.com/MageQuest/magento2-module-ppc-landing-pages) - Customise your PDP (Product Detail Pages) for PPC (Pay Per Click) visitors.
 * [MageSpecialist CodeMonkey](https://github.com/magespecialist/m2-MSP_CodeMonkey) - Magento 2 code generator
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
-* [Magewire](https://github.com/magewirephp/magewire) - A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.
 * [MageWire Backend module for Magento 2](https://github.com/michielgerritsen/magewire-backend) - A module that supplies Magewire compatibility for the Magento Admin Panel. Built on top of the Magewire core (with RequireJS support).
 * [Magewire Examples](https://github.com/magewirephp/magewire-examples) - A Magewire showcase to give easy insights on where Magewire could possibly fit in our project.
 * [Mailchimp for Magento 2](https://github.com/mailchimp/mc-magento2) - The official Mailchimp for Magento 2 extension
@@ -394,9 +390,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [N98_Guillotine](https://github.com/netz98/headless-guillotine) - A simple but useful module to disable frontend requests to implement a headless approach.
 * [Performance Dashboard Extension for Magento 2](https://github.com/magehost/performance-dashboard) - An extension that adds a screen to the Admin Panel to get a clear overview of areas where the performance of your Magento 2 can be improved.
 * [Phoenix Media Storage Sync](https://github.com/PHOENIX-MEDIA/magento2-mediastoragesync) - An easy way to retrieve files in media from an origin server to a local development environment.
-* [Preload Images via HTTP Link response header](https://github.com/friends-of-hyva/magento2-preload-images) - This extension improves the user experience by loading images that are guaranteed to be displayed above the fold earlier.
 * [Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page) - Easily preview and make changes to the success page without placing a new order or modifying Magento's core code.
-* [Product Collective Packages Module for Magento 2 / Adobe Commerce](https://github.com/enanobots/m2-product-pack) - This (Hyva-compatible) extension enhances the functionality of Magento 2 by providing a new feature for product collective packages.
 * [Product Data Pre-Loader](https://github.com/EcomDev/magento2-product-preloader) - This extension provides an easy way to pre-load data for product collections like prices, stock data, and many more by using different types of load types.
 * [Proof of Concept: using PHP attributes in Magento 2](https://github.com/renttek/magento2-attributes-experiment) - A proof of concept for implementing some Magento 2 configuration using PHP attributes.
 * [Regenerate URL rewrites extension](https://github.com/olegkoval/magento2-regenerate_url_rewrites) - This extension adds a CLI command that allows the regeneration of URL rewrites of products and categories in all stores or a specific store.
@@ -406,9 +400,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Serverless Framework for Magento 2](https://github.com/Imagination-Media/magento-serverless) - An extension to implement data validation, add custom functionality, and much more using serverless functions that aren't part of the codebase.
 * [Serve Side Analytics for Magento 2](https://github.com/elgentos/magento2-serversideanalytics) - This extension aims to solve the problem of discrepancies between Magento revenue reports and the revenue reports in Google Analytics.
 * [Siment_HttpHeaderThemeSwitch](https://github.com/siment/magento2-http-header-theme-switch) - Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
-* [Siteation - Magento 2 Module StoreInfo](https://github.com/Siteation/magento2-storeinfo) - An (Hyva compatible) extension that streamlines the process of integrating essential store information into your Magento 2 website.
-* [Siteation - Magento 2 Module StoreInfo Menus](https://github.com/Siteation/magento2-storeinfo-menus) - An (Hyva compatible) extension that lets you add menus to your Magento 2 frontend.
-* [Siteation - Magento 2 Module StoreInfo Usps](https://github.com/Siteation/magento2-storeinfo-usps) - An (Hyva compatible) extension that lets you add Usps to your Magento 2 frontend.
 * [System Configuration Toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) - A Magento 2 extension that shows sort order of system configuration's tabs, sections, groups, and fields.
 * [UMC CRUD for Magento 2](https://github.com/UltimateModuleCreator/umc-crud) - A module intended to reduce the boilerplate code when creating a CRUD extension.
 * [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.
@@ -420,7 +411,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Yireo DevHacks](https://github.com/yireo/Yireo_DevHacks) - Magento 2 module with various hacks and solutions for custom development
 * [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker) - Magento 2 module to check upon the code of Magento 2 modules from the CLI
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
-* [Yireo HyvaCheckoutPostcodeValidator](https://github.com/yireo/Yireo_HyvaCheckoutPostcodeValidator) - A Magento 2 module that adds postcode validation based upon the Magento core zip_codes.xml mechanism to the Hyva Checkout (aka MageWire Checkout)
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
 * [Yireo ThemeCommands](https://github.com/yireo/Yireo_ThemeCommands) - CLI commands to manage themes from the command-line
 * [Yireo ThemeOverrideChecker](https://github.com/yireo/Yireo_ThemeOverrideChecker) - Magento module to find all files of a given Magento theme (for example Magento/luma), compare the found files with the parent theme (and/or modules) and return whether there are differences or not.
@@ -429,6 +419,18 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Zepgram JsonSchema](https://github.com/zepgram/module-json-schema) - Magento 2 module to validate JSON Structures against a given Schema.
 * [Zepgram Rest](https://github.com/zepgram/module-rest) - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
 * [Zepgram ZeroDownTimeDeployment](https://github.com/zepgram/module-zero-downtime-deployment) - Disable native change detection from Magento 2 to allow implementation of Zero Downtime Deployment Strategy (ZDD).
+
+### Hyvä
+
+* [Hyva Sales Grids](https://github.com/redmonks/magento2-module-hyva-admin-sales-grids) - An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.
+* [Hyvä Admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.
+* [Magento 2 Module for showing Landofcoder FAQs on the Hyvä category page](https://github.com/develodesign/magento-2-category-faq-extension-hyva) - Displays a FAQ accordian at the bottom of the Magento Category page from a linked FAQ category. Hyvä compatible.
+* [Magewire](https://github.com/magewirephp/magewire) - A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.
+* [Preload Images via HTTP Link response header](https://github.com/friends-of-hyva/magento2-preload-images) - This extension improves the user experience by loading images that are guaranteed to be displayed above the fold earlier.
+* [Product Collective Packages Module for Magento 2 / Adobe Commerce](https://github.com/enanobots/m2-product-pack) - This (Hyva-compatible) extension enhances the functionality of Magento 2 by providing a new feature for product collective packages.
+* [Siteation - Magento 2 Module StoreInfo](https://github.com/Siteation/magento2-storeinfo) - An (Hyva compatible) extension that streamlines the process of integrating essential store information into your Magento 2 website.
+* [Siteation - Magento 2 Module StoreInfo Usps](https://github.com/Siteation/magento2-storeinfo-usps) - An (Hyva compatible) extension that lets you add Usps to your Magento 2 frontend.
+* [Yireo HyvaCheckoutPostcodeValidator](https://github.com/yireo/Yireo_HyvaCheckoutPostcodeValidator) - A Magento 2 module that adds postcode validation based upon the Magento core zip_codes.xml mechanism to the Hyva Checkout (aka MageWire Checkout)
 
 ## Testing
 
