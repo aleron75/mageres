@@ -432,7 +432,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 ### Hyvä
 
 * [Adyen Payment - Integration with Hyva Checkout](https://github.com/Adyen/adyen-magento2-hyva/) - This module supports Adyen payments via the Hyvä Checkout implementation for Magento 2.
-* [Consent Mode V2](https://github.com/elgentos/magento2-consentmode-v2)
+* [Consent Mode V2](https://github.com/elgentos/magento2-consentmode-v2) - This extension is based on the Hyvä default cookie bar. All the features of that extension are also in this one.
 * [elgentos Magento 2 Vurbis extension](https://github.com/elgentos/magento2-vurbis-punchout) - An unofficial version of the original Magento 2 Vurbis extension that contains some bug fixes, some new features, and a lot of refactoring. Comes with a Hyvä compatibility configuration option.
 * [Geissweb EU VAT compatibility module for Hyvä Checkout](https://github.com/Vendic/hyva-checkout-geissweb-euvat) - This module adds EU VIES VAT number validation to Hyvä Checkout. It needs a valid license for Geissweb EUVAT and Hyvä Checkout to work.
 * [Hyva Sales Grids](https://github.com/redmonks/magento2-module-hyva-admin-sales-grids) - An extension that implements sales grids (order, invoice, shipment, credit memo) using Hyva Admin.
