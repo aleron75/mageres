@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![671 resources](https://img.shields.io/badge/resources-671-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![669 resources](https://img.shields.io/badge/resources-669-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -550,7 +550,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
 * [Firebear Studio Blog](https://firebearstudio.com/blog/)
 * [Fooman](https://fooman.com/blog)
-* [Giel Berkers](https://gielberkers.com/)
 * [Inchoo](https://inchoo.net/magento/)
 * [integer_net Blog](https://www.integer-net.com/blog/)
 * [InteractOne Blog](https://www.interactone.com/category/adobe-magento-news/)
@@ -558,7 +557,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [JetRails](https://jetrails.com/blog/)
 * [Jigar Karangiya](https://jigarkarangiya.com/category/magento-2/)
 * [Konstantin Gerasimov](https://www.goivvy.com/blog)
-* [Lars Roettig](https://larsroettig.dev/)
 * [LexiConn](https://www.lexiconn.com/blog/category/magento/)
 * [M.academy](https://m.academy/blog/)
 * [MageComp Magento Blog](https://magecomp.com/blog/)
