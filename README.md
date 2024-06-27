@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![669 resources](https://img.shields.io/badge/resources-669-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![668 resources](https://img.shields.io/badge/resources-668-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -149,7 +149,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Mage-OS Database Changelog Generator](https://github.com/EcomDev/mage-os-database-changelog) - A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.
 * [Mage-OS Module Template](https://github.com/mage-os-lab/mageos-module-template) - A template from Mage-OS labs that can be used when developing a new extension.
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
-* [Magento 2 - composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad?hl=en-GB) - Chrome Extension to create copy/pastable composer patch definition for vaimo/composer-patches.
 * [Magento 2 Changelog](https://github.com/tdgroot/magento2-changelog) - A simple bash tool to easily get insight into what has changed between Magento releases.
 * [Magento 2 Code + DB Backup](https://github.com/MagePsycho/magento2-db-code-backup-bash-script) - An utility SSH script to backup the code + database of Magento 2
 * [Magento 2 Code Generator](https://github.com/ORBA/magento2-codegen) - A tool to automatize the generation of high-quality boilerplate code that can be merged with existing code.
@@ -716,7 +715,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Matheus Gontijo](https://www.youtube.com/channel/UCnxvjCccLZQuSpYsotH5uWQ) - Matheus Gontijo’s YouTube channel
 * [Oleksandr (Alex) Lyzun’s YouTube channel](https://www.youtube.com/@nuzil) - In his videos, Alex explores the ins and outs of building robust e-commerce platforms, sharing challenges, solutions, and inspiring stories along the way.
 * [SwiftOtter](https://www.youtube.com/channel/UCD4FUoiuDt2UWhyOKiZm6rQ) - YouTube Channel by SwiftOtter
-* [Yireo On-Demand training](https://www.yireo.com/education/on-demand) - Magento 2 Developer video on-demand training
+* [Yireo On-Demand training](https://www.yireo.com/education/ondemand) - Magento 2 Developer video on-demand training
 
 ### Russian
 
