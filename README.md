@@ -418,7 +418,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Regenerate URL rewrites extension](https://github.com/olegkoval/magento2-regenerate_url_rewrites) - This extension adds a CLI command that allows the regeneration of URL rewrites of products and categories in all stores or a specific store.
 * [Reindex from Admin](https://github.com/magepal/magento2-reindex) - To quickly and easily update individual or all indexes from within your Magento admin.
 * [Rixxo IntroJS](https://bitbucket.org/rxmodules-development/rixxo-introjs/src/master/) - Add Google IntroJS to Magento2
-* [SamueleMartini_GPT3 module](https://github.com/SamueleMartini/Magento-GPT-3-integration/) - This extension integrates some Open AI GPT-3 features into Magento 2 to generate product and category descriptions from the admin panel automatically.
+* [SamueleMartini_GPT3 module](https://github.com/SamueleMartini/Magento-GPT-integration) - This extension integrates some Open AI GPT-3 features into Magento 2 to generate product and category descriptions from the admin panel automatically.
 * [SEO module for Magento 2](https://github.com/28software/module-seo) - SEO module for Magento 2 that adds page visibility for search engines on the product level.
 * [Serverless Framework for Magento 2](https://github.com/Imagination-Media/magento-serverless) - An extension to implement data validation, add custom functionality, and much more using serverless functions that aren't part of the codebase.
 * [Serve Side Analytics for Magento 2](https://github.com/elgentos/magento2-serversideanalytics) - This extension aims to solve the problem of discrepancies between Magento revenue reports and the revenue reports in Google Analytics.
