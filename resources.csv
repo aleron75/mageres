@@ -401,6 +401,7 @@ Extensions,,Siteation Magento2 Storeinfo Menus,https://github.com/Siteation/mage
 Extensions,,Magento 2 Selective Cache,https://github.com/mcspronko/selective-cache,"This extension adds a Refresh Invalidated Cache button. Upon clicking the button, the extension cleans all Cache Types marked as invalid. You can also configure and run a cronjob to refresh invalidated cache types.",
 Extensions,,LiqPay Extension for Magento 2,https://github.com/mcspronko/liqpay-magento2,This extension adds LiqPay payment integration to Magento 2.,
 Extensions,,CMS Page Status,https://github.com/mcspronko/cms-page-edit-status,"The extension adds a new ""Document Status"" column on the Pages Listing page and shows a message when any admin user is editing a page.",
+Extensions,,Magento 2 Clean Media,https://github.com/sivaschenko/magento2-clean-media,This extension provides a command for retrieving information about catalog media files. It also allows the cleaning of the filesystem and DB.,
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
