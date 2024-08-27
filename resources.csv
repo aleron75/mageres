@@ -557,6 +557,7 @@ Quickies & Tutorials,,How to Deploy a Magento 2 Project,https://deployer.org/doc
 Quickies & Tutorials,,Getting started with the Mage-OS distribution,https://www.yireo.com/blog/2023-11-24-getting-started-with-mage-os,A quick guide of how to start using Mage-OS distribution.,
 Quickies & Tutorials,,Magento 2 Less Diagram,https://github.com/adexandros/magento2-less-diagram,A diagram by Andrea D’Urso to help understand how Magento less import and compilation work.,
 Quickies & Tutorials,,Magento Kubernetes - A complete guide,https://clickandmortar.github.io/magento-kubernetes/,A getting started guide to easily deploy Magento / Adobe Commerce on Kubernetes,
+Quickies & Tutorials,,Automatically create Magento's csp_whitelist.xml file,https://www.linkedin.com/pulse/automatically-create-magentos-cspwhitelistxml-file-kieckbusch-stlqc/,Henrique Kieckbusch's recipe will help you easily create Magento's csp_whitelist.xml.,
 Podcasts,English,The JetRails Podcast,https://jetrails.com/podcast/,The JetRails Podcast for the Ecommerce Community,
 Podcasts,English,MageTalk,https://magetalk.com/,A Magento Podcast,
 Podcasts,English,Core of Commerce,https://twitter.com/CoreOfCommerce,Core of Commerce equips you with cutting-edge knowledge to help you achieve and exceed your digital commerce goals,
