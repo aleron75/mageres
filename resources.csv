@@ -660,6 +660,7 @@ Dev boxes,Docker,Magento 2.4 environment under Docker,https://github.com/bijay13
 Dev boxes,Docker,Magento Open Source - ddev setup,https://github.com/ivancukns/magento2-ddev,"This repository is meant for quickly starting Magento Open Source software locally, with the help of ddev.",
 Dev boxes,Docker,Colin Tickle’s Docker Stack,https://github.com/cmtickle/docker-stack,A dockerized system to run LEMP stack applications, primarily developed to run Magento 2.
 Dev boxes,Docker,OrbStack,https://orbstack.dev/,Seamless and efficient Docker Desktop alternative for Mac,
+Dev boxes,Docker,Madock,https://github.com/faradey/madock,A local Docker-based PHP environment that supports Magento2 other than custom projects.,
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications,
 Dev boxes,Vagrant,Development Environment,https://github.com/davidalger/devenv,Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts,
 Dev boxes,Vagrant,Fast Hypernode Vagrant Box,https://github.com/ecomdev/fast-hypernode/,The fastest Magento Vagrant VM Fast Byte Hypernode Box,
