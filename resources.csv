@@ -21,7 +21,7 @@ Other Resources,,Mage Mastery,https://magemastery.net/,Learning resources for Ma
 Other Resources,,The Magento Guidebook,https://jetrails.com/blog/the-magento-terms-glossary-guide/,A Glossary of Magento Terms and Phrases,
 Other Resources,,ExtDN Resources,https://extdn.org/resources/,Resources that help improve the ecosystem of Magento extensions.,
 Other Resources,,Mage-OS DevDocs,https://devdocs.mage-os.org/,Mage-OS Developer Guide,
-Other Resources,,PackageMaven – Magento Modules,Explore. Discover. Elevate. #magento,https://package-maven.com/,"A platform that offers a collection of Magento modules, allowing users to explore their installation statistics, latest release information, and open issues. The site includes test results for each extension with Magento and opportunities for users to contribute to developing these modules."
+Other Resources,,PackageMaven – Magento Modules,https://package-maven.com/,"A platform that offers a collection of Magento modules, allowing users to explore their installation statistics, latest release information, and open issues. The site includes test results for each extension with Magento and opportunities for users to contribute to developing these modules.",
 Certification,,Magento Certification,https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce,Adobe Magento Commerce certifications,
 Certification,,M2 Certification Study Guides,https://github.com/df2k2/m2cert,Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics,
 Certification,,Magento 2 Certified Professional Developer notes,https://github.com/magento-notes/magento2-exam-notes,Preparation notes for Magento 2 Certified Professional Developer exam,
@@ -88,7 +88,7 @@ Tools,Free,Butter - Smooth Magento 2 Versions Installer,https://github.com/redch
 Tools,Free,Magento Semantic Version Checker,https://github.com/magento/magento-semver,A tool to determine semantic versioning changes and backward incompatible changes between two sources.,
 Tools,Free,Simple Import / Export tool,https://github.com/EcomDev/sync-magento-2-migration,A tool that allows to quickly export data from Magento 1 and Magento 2 store and import it back into Magento 2. ,
 Tools,Free,integer_net Magento 2 Module Template,https://github.com/integer-net/magento2-module-template,A template to easily get started with Magento open source module development.,
-Tools,Free,Pestle by Alan Storm,https://github.com/astorm/pestle,A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts.
+Tools,Free,Pestle by Alan Storm,https://github.com/astorm/pestle,A collection of command line scripts for Magento 2 code generation  and a PHP module system for organizing command line scripts.,
 Tools,Free,Magento 2 Changelog,https://github.com/tdgroot/magento2-changelog,A simple bash tool to easily get insight into what has changed between Magento releases.,
 Tools,Free,MRM Commerce Magento 2 Coding Standard,https://github.com/mrm-commerce/magento-coding-standard-phpcs,A set of PHP Code Sniffer rules meant to ensure or increase the code quality of Magento 2 projects.,
 Tools,Free,ConvertM1M2,https://github.com/unirgy/convertm1m2,A script to automate as much as possible the conversion of a Magento 1 extension to Magento 2.,
@@ -106,7 +106,7 @@ Tools,Free,Velvet,https://github.com/danslo/velvet,"An administration backend fo
 Tools,Free,Gitlab CI/CD pipeline with AWS integration for Magento 2 deployment,https://github.com/bijay135/gitlab-aws-magento2-deploy,"A CI/CD pipeline inspired by the Magento Cloud pipeline with zero downtime, provided at least two nodes are available.",
 Tools,Free,M2 PHP version compatibility check,https://github.com/willtran/magento2-php-8-compatibility-check,This tool can be used to check all modules in an M2 application for PHP8 compatibility,
 Tools,Free,JS Layout Parser,https://github.com/pragmatic-modules/jslayout-parser,"A lightweight standalone PHP library that was created to make work with $jsLayout in Magento 2 less spaghetti, and more object-oriented.",
-Tools,Free,Aligent Magento Integration and API Functional Testing Pipe,https://github.com/aligent/magento-integration-test-pipe,A bitbucket pipe for running Magento integration and API functional tests, designed to be run parallelly so you can leverage bitbucket parallel steps.
+Tools,Free,Aligent Magento Integration and API Functional Testing Pipe,https://github.com/aligent/magento-integration-test-pipe,A bitbucket pipe for running Magento integration and API functional tests  designed to be run parallelly so you can leverage bitbucket parallel steps.,
 Tools,Free,Magento 2 Model Generator,https://github.com/michielgerritsen/magento2-model-generator,"With this app, you can create models for Magento 2 very fast. Ready-to-use on https://www.model-generator.com/",
 Tools,Free,MagentoApiClient,https://github.com/rantalainen/magento-api-client,A third-party Magento API client for Node.js and TypeScript.,
 Tools,Free,Mage-OS Database Changelog Generator,https://github.com/EcomDev/mage-os-database-changelog,A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.,
@@ -120,7 +120,7 @@ Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/l
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically,
 Tools,Commercial with freemium/trial,Magerror,https://www.magerror.com,All your Magento reports in one place,
 Tools,Commercial with freemium/trial,Beeline,https://m.academy/beeline-magento-2-phpstorm/,"This PhpStorm plugin allows us to create entire files, classes & blocks with just a few keystrokes.",
-Tools,Commercial with freemium/trial,Tinkerwell,https://tinkerwell.app/,A desktop application that allows you to run PHP code, it includes Magento drivers.
+Tools,Commercial with freemium/trial,Tinkerwell,https://tinkerwell.app/,A desktop application that allows you to run PHP code.  it includes Magento drivers.,
 Tools,Commercial with freemium/trial,RESP.app,https://resp.app/,Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.,
 Tools,Commercial with freemium/trial,PhpStorm Plugin by Atwix,https://stormplugin.atwix.com/,This tool is meant to help software engineers build and efficiently maintain software solutions in Magento projects with both free and paid features.,
 Security,,Official Magento Security Center,https://helpx.adobe.com/security.html,"The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes",
