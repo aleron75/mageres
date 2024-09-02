@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![682 resources](https://img.shields.io/badge/resources-682-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![664 resources](https://img.shields.io/badge/resources-664-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -53,12 +53,9 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
 * [Magento 2.x User Guide](https://docs.magento.com/user-guide/) - Merchant-focused documentation for both Magento Commerce and Magento Open Source
 * [Magento Blog](https://business.adobe.com/blog/tags/commerce) - Get the latest news, tips and advice for maximizing your online store.
-* [Magento Commerce Tips & Tricks Video Series](https://business.adobe.com/resources/main.html?Products+%26+Services=Commerce) - Adobe video resource center, filterred by Commerce technology
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
 * [Magento Glossary](https://glossary.magento.com/) - The place where all the terminology for Magento products lives.
-* [Magento Open Source Roadmap](https://devdocs.magento.com/release/roadmap.html)
 * [Magento Translation Projects](https://github.com/magento-l10n/i18n) - This is a home repository for all activities related to translation of Magento itself including all available editions and extensions developed by Magento, an Adobe Company and 3rd party Magento components.
-* [Magento U Videos](https://www.youtube.com/playlist?list=PLZur_lHjB8biFVdYncLbvFg_vKPUqio40) - Samples of Magento U instructor-led and On-Demand courses.
 * [README template for Magento modules](https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3)
 * [Support Tools](https://support.magento.com/hc/en-us/categories/360004245632-Support-Tools) - An official list of support tools by Magento Help Center
 
@@ -107,7 +104,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ## Performance
 
 * [Blackfire.io](https://www.blackfire.io/) - Commercial code profiler (free tier available) which provides Magento-specific metrics and recommendations
-* [Mage.coach](https://magecoach.raybogman.com/) - Your Magento Performance Coach
 * [Magento2 performance fixes](https://github.com/maritos/magento2-performance-fixes) - A set of patches to prevent useless concurrent cache building.
 * [Magento default MySql settings](https://github.com/magenx/Magento-mysql) - Default/startup settings for MySql database.
 * [Magento Speed Test](https://www.magespeedtest.com/) - Magento Speed Test with Siege
@@ -155,7 +151,9 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Code Generator](https://github.com/ORBA/magento2-codegen) - A tool to automatize the generation of high-quality boilerplate code that can be merged with existing code.
 * [Magento 2 Code Generator Tool](https://github.com/staempfli/magento2-code-generator/) - Code generator for Magento 2
 * [Magento 2 Database Backup Manager](https://github.com/Space48/magedbm2) - A database backup manager for Magento 2 written with developers in mind.
+* [Magento 2 Db Schema Generator](https://theshreyas.github.io/db-schema-generator/) - Generate magento db_schema.xml within seconds
 * [Magento 2 DevTools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
+* [Magento 2 GraphQL Order Tester](https://github.com/theshreyas/magento-2-quickies/tree/main/GraphQLTester) - Interactive PHP script to test graphql order flow quickly
 * [Magento 2 Model Generator](https://github.com/michielgerritsen/magento2-model-generator) - With this app, you can create models for Magento 2 very fast. Ready-to-use on https://www.model-generator.com/
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magento 2 Simplistic Installer](https://github.com/MagePsycho/magento2-installer-bash-script) - A simplistic tool to install Magento 2 from different sources like tar & composer
@@ -201,9 +199,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [End-of-life dates of Magento 2](https://endoflife.date/magento) - End-of-life dates, and support lifecycles of Magento 2
 * [InvalidateAdminPasswords Extension](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords) - A tool by SomethingDigital to invalidate all Magento admin user passwords
 * [mage2_ext_csp](https://github.com/flancer32/mage2_ext_csp) - The main goal of this extension is to remove CSP errors from JS console and use it to collect reports and generate rules to automatically lock not-allowed content.
-* [MageDef](https://www.magedef.com/) - Free resources to build more reliable and defensible eCommerce platforms and software.
 * [Magento Malware Scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest Magento malware collection on earth
-* [Magento Patches](https://github.com/brentwpeterson/magento-patches) - As many Magento patches as Brent Peterson can find!
 * [Magento Security Checklist](https://github.com/talesh/magento-security-checklist) - A Magento community-sourced security pre-flight checklist.
 * [Magento Security Guide](https://elogic.co/blog/magento-security-guide-how-to-protect-your-website-from-hackers/) - A useful guide full of Magento security best practices.
 * [Magento Security Resources](https://github.com/gwillem/magento-security-resources) - Crowd-sourced resources to help merchants mitigate and prevent Magento security incidents.
@@ -650,25 +646,22 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Fix the order item list in customized order/invoice email templates](https://gist.github.com/peterjaap/6dc68f12a9ce38f6d826ada89747fa3f) - A set of queries that fix the order item list in customized order/invoice email templates.
 * [Getting started with the Mage-OS distribution](https://www.yireo.com/blog/2023-11-24-getting-started-with-mage-os) - A quick guide of how to start using Mage-OS distribution.
 * [How to Deploy a Magento 2 Project](https://deployer.org/docs/7.x/recipe/magento2) - A Deployer 7.x recipe for deploying a Magento 2 project.
+* [List of all dispatched events](https://cyrillschumacher.com/magento-2.4-list-of-all-dispatched-events/) - A cheat sheet that lists all dispatched events in Magento 2.4.
 * [Mage2DB.com](https://mage2db.com/) - Magento 2.x Learning & Knowledge & Troubleshooting
 * [Magentip](https://magentip.com/) - Magento 2 tutorials, reviews, and fixes.
-* [Magento 2 / PHP versions Matrix](https://gist.github.com/fooman/b1d70ca2954c05c3e11a7a9db04a8a10)
 * [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
 * [Magento 2 Delete Test Data](https://gist.github.com/leek/f7fd2c41668b0f8a0a5f6e5209fe8f4e) - A set of Magento 2 scripts to delete test data.
 * [Magento 2 Less Diagram](https://github.com/adexandros/magento2-less-diagram) - A diagram by Andrea D’Urso to help understand how Magento less import and compilation work.
 * [Magento 2 Quick Tips ebook](https://resources.fooman.com/ebooks/Magento-2-Quick-Tips-ebook-by-Fooman.pdf) - Quick tips from Fooman to easier Magento 2 development.
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
-* [Magento 2 Supported Versions](https://github.com/navarr/magento2-supported-versions) - This repository is an up-to-date table of the versions of various software that various versions of Magento support.
 * [Magento 2 Tutorials](https://www.mag-manager.com/magento-2-tutorials/) - Easy to follow guides that will help you dive into Magento 2 specifics and familiarize yourself with basic concepts.
 * [Magento 2 zero-downtime deployment GitHub actions](https://github.com/marketplace/actions/magento-2-actions) - Do a Magento 2 zero-downtime deployment using GitHub actions.
-* [Magento 2.3.x - List of all dispatched events](https://cyrillschumacher.com/magento-2.3-list-of-all-dispatched-events/) - A cheat sheet that lists all dispatched events in Magento 2.3.
 * [Magento Cheat Sheets](https://cheatography.com/tag/magento/) - A collection of cheat sheets for Magento 2
 * [Magento Kubernetes - A complete guide](https://clickandmortar.github.io/magento-kubernetes/) - A getting started guide to easily deploy Magento / Adobe Commerce on Kubernetes
 * [Magento Module LarsRoettig_GraphQLStorePickup](https://github.com/larsroettig-dev/module-graphqlstorepickup) - Example of how to create a GraphQL Endpoint for Magento 2.3
 * [Magento Postman repository](https://github.com/nuzil/magento-postman/) - A storage of Postman collections for Magento
 * [Magento Quickies](https://alanstorm.com/category/programming-quickies/)
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
-* [Magento Tweetorials](https://tweetorials.tumblr.com/)
 * [NGINX – Magento 2 Static files optimization](https://gist.github.com/JeroenBoersma/6ece510192ce4292c79d010284544c56) - An Nginx configuration of Magento that optimizes the handling of static files with Varnish.
 * [Patch Elastic Suite without MSI](https://gist.github.com/peterjaap/978122fa6dd3afa7fc3ce4d1cc78fb2b) - A useful Gist by Peter Jaap Blaakmeer to remove Elastic Suite dependency on MSI modules 
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
@@ -805,33 +798,25 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 
 ### Docker
 
-* [Alan Kent's Docker image](https://hub.docker.com/r/alankent/gsd/) - Docker image for use with the book series "Getting Stuff Done with Magento 2"
 * [Bitnami Docker Image for Magento](https://github.com/bitnami/containers/tree/main/bitnami/magento) - Bitnami closely tracks upstream source changes and promptly publishes new versions of this image
 * [Colin Tickle’s Docker Stack](https://github.com/cmtickle/docker-stack) - A dockerized system to run LEMP stack applications
 * [DDEV-Local](https://github.com/drud/ddev) - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
 * [Docker Configuration for Magento 2](https://github.com/magenx/Magento-2-docker-configuration)
 * [Docker Devbox](https://github.com/giuseppemorelli/docker-devbox/) - A Docker dev box based on Devilbox
 * [Docker for Magento2](https://github.com/EmakinaFR/docker-magento2) - Environment for a Magento2 application using Docker.
-* [Docker Hub by Mage Inferno](https://hub.docker.com/u/mageinferno/) - Magento 2 Docker containers by Mage Inferno
-* [Dockerize Magento 2](https://github.com/tddwizard/magento2-dockerized) - Composer package for Docker test environment
+* [Dockerize Magento 2](https://github.com/andreaskoch/dockerize-magento2) - A composer package for dockerizing Magento 2
 * [Fabrizio Balliano's Magento2](https://github.com/fballiano/docker-magento2) - Varnish  PHP7  Redis cluster ready docker-compose infrastructure
-* [Karen Baker's Magento 2 simple docker build](https://github.com/wsakaren/m2SimpleDocker) - A simple and “get things done” Magento 2 local docker build
 * [Madock](https://github.com/faradey/madock) - A local Docker-based PHP environment that supports Magento2 other than custom projects.
 * [Mage2click Docker Magento](https://github.com/mage2click/m2c) - Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 * [Mage2Docker](https://github.com/graycoreio/mage2docker) - An opinionated, performant, replicable, and production-like Magento 2 local development environment that leverages Docker.
-* [Magedev](https://github.com/teamneusta/php-cli-magedev) - A shell tool for local Magento 1 & 2 development.
-* [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Official Magento 2 DevBox repository
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) - A collection of Docker images for running Magento 2 through nginx and on the command line
 * [Magento 2 Dockergento](https://github.com/ModestCoders/magento2-dockergento) - Magento 2 docker setup for development optimized for Mac
-* [Magento 2 Docker image](https://hub.docker.com/r/chadrien/magento2)
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) - Docker image optimized to develop on Mac, Windows, and Linux
 * [Magento 2 MEQP with Docker](https://hub.docker.com/r/wizkunde/docker-meqp) - Use docker to automatically test your extensions with MEQP, usable with CI tools like CircleCI
-* [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager running easily in just one build/run
 * [Magento 2.4 environment under Docker](https://github.com/bijay135/docker-magento2) - Yet another Docker-based dev env for Magento 2.
 * [Magento Cloud Docker](https://github.com/magento/magento-cloud-docker) - A collection of build configurations for Magento Cloud Docker images
 * [Magento Open Source - ddev setup](https://github.com/ivancukns/magento2-ddev) - This repository is meant for quickly starting Magento Open Source software locally, with the help of ddev.
 * [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) - Magento 1 & 2 support on Linux and Mac
-* [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7  NGINX  MySql
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
 * [OrbStack](https://orbstack.dev/) - Seamless and efficient Docker Desktop alternative for Mac
 * [Skywire Docker](https://github.com/skywire/skywire-docker) - The Skyware team development environment.
@@ -854,7 +839,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 
 ### Vagrant
 
-* [Chef Devbox](https://github.com/AOEpeople/chef-devbox) - Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 * [Development Environment](https://github.com/davidalger/devenv) - Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
 * [Fast Hypernode Vagrant Box](https://github.com/ecomdev/fast-hypernode/) - The fastest Magento Vagrant VM Fast Byte Hypernode Box
 * [Magento 2 SE box](https://github.com/studioemma/vagrant-mage2) - A box coming with two flavors (PHP 7.0 and PHP 7.1)
@@ -862,6 +846,5 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [MageScotch Box (PHP 5)](https://github.com/joshuaswarren/magescotch5) - The (deprecated) PHP 5-based version of Magescotch
 * [MageScotch Box (PHP 7)](https://github.com/joshuaswarren/magescotch) - The PHP 7-based version of Magescotch
 * [Vagrant for Magento 2 CE](https://github.com/paliarush/magento2-vagrant-for-developers) - Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)
-* [Vagrant  Magento (1.9.2.2)  PHP-7.0.0](https://github.com/roman204/vagrant-magento-php7) - This Vagrantbox will build a Virtual Server for Virtualbox based on Ubuntu 14.04
 * [Vagrant Magento 2 Demo](https://github.com/davidalger/m2demo) - A complete demo environment powered by Vagrant using either Digital Ocean or Virtual Box as a provider
 * [Vagrant Magento 2 Fast VM](https://github.com/zepgram/magento2-fast-vm) - Developer box for Magento2: supporting Linux, Windows and Mac. Also providing full support for PHP version compatible with Magento2
