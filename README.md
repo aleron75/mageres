@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![664 resources](https://img.shields.io/badge/resources-664-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![663 resources](https://img.shields.io/badge/resources-663-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -771,7 +771,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 
 ## Events
 
-* [Contribution Day Organizer's Handbook](https://opensource.magento.com/contribution-day-handbook) - This handbook aims to answer any questions you have on the matter.
 * [Magento Community Engineering](https://calendar.google.com/calendar/embed?src=sn3me3pduhd92hhk9s7frkn57o@group.calendar.google.com) - A publicly available Google calendar with Magento Community Engineering’s schedule
 * [Magento Event Listing](https://www.adobe.com/events.html) - List of Adobe Events
 * [Magento Events Calendar by Mage-OS](https://mage-os.org/community/magento-events/) - A list of Magento related events that are coming up. Curated by Mage-OS.
@@ -792,7 +791,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 ## Module Repositories & Marketplaces
 
 * [Firegento Composer Repository](https://packages.firegento.com/) - Magento Module Composer Repository
-* [Magento Marketplace](https://marketplace.magento.com) - The new Magento extension marketplace
+* [Magento Marketplace](https://commercemarketplace.adobe.com/) - The Magento extension marketplace
 
 ## Dev boxes
 
