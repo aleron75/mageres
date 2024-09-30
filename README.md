@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![662 resources](https://img.shields.io/badge/resources-662-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![672 resources](https://img.shields.io/badge/resources-672-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -163,6 +163,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MagentoApiClient](https://github.com/rantalainen/magento-api-client) - A third-party Magento API client for Node.js and TypeScript.
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
 * [Magento Composer Replacement Tool](https://github.com/yireo/magento2-replace-tools) - A repository that offers a composer plugin to help you manage composer replacements in your root composer.json.
+* [Magento CSP Whitelist Generator](https://github.com/macademy/magento-csp-whitelist-generator) - A Google Chrome Plugin that makes it easy to automatically create csp_whitelist.xml files for Magento
 * [MagentoGPT](https://chat.openai.com/g/g-2jh24mY9U-magento-gpt) - Magento AI expert designed to help you with module, theme, and CLI in Magento and Adobe Commerce
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 * [Magento Semantic Version Checker](https://github.com/magento/magento-semver) - A tool to determine semantic versioning changes and backward incompatible changes between two sources.
@@ -219,6 +220,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Additional Payment Checks](https://github.com/smaex/additional-payment-checks) - Enables additional checks for payment methods in Magento 2.
 * [Add Miscellaneous HTML and Scripts to Magento2 Checkout Success Page](https://github.com/magepal/magento2-checkout-success-misc-script) - This extension makes it easy to add miscellaneous HTML and scripts to the checkout success page. 
 * [Admin Notification Blocker](https://github.com/redchamps/admin-notification-blocker) - A Magento 2 extension that allows us to block admin notification based on Severities/Categories.
+* [Admin OpCache Report](https://github.com/element119/module-admin-opcache-report) - This extension provides a current health check of the PHP OpCache, allowing it to be flushed from the Admin Panel. 
 * [Admin Redis Report](https://github.com/element119/module-admin-redis-report) - A module that allows to visualise historic Redis health statistics in the Admin Panel.
 * [Advanced Shipping Module for Magento 2](https://github.com/owebia/magento2-module-advanced-shipping) - This extension helps configure the shipping fees in a very flexible manner. It uses almost all available variables: destination, weight, price, quantity, categories, product attributes, item options, customer group, customer attributes, coupon code, Magento custom variables, date, and more.
 * [Aimes Checkout Designs](https://github.com/robaimes/module-checkout-designs) - This module provides the ability to change checkout page designs/layout per store and customer group
@@ -248,6 +250,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [ConfigImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - This extension provides CLI commands for Magento 2 to import/export system configuration data.
 * [Content Fuzzyfyr Module for Magento 2](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.
 * [Cookie domain cleaner](https://github.com/blackbird-agency/cookie-domain-cleaner) - This extension will gradually clean cookies from parent domains while navigating a site on a subdomain. This allows the hosting of several site environments on the same domain name while avoiding cookie conflicts with subdomains.
+* [Csp Split Header ](https://github.com/basecom/magento2-csp-split-header) - This extension separates headers for each CSP directive, each of which should no longer exceed the web server's maximum permitted length.
 * [Customer Account Links Manager for Magento2](https://github.com/magepal/magento2-customer-account-links-manager) - Allows you to quickly and easily remove unwanted links from your customer navigation dashboard sidebar in Magento.
 * [Customer and Address Form Fields Manager for Magento2](https://github.com/magepal/magento2-form-field-manager) - This extension allows us to quickly and easily remove unwanted form fields from admin order creation and customer account.
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) - Restricts payment methods to specific customer groups in Magento 2.
@@ -289,6 +292,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Google Tag Manager with Advance Data Layer](https://github.com/magepal/magento2-google-tag-manager) - The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
 * [Goomento Page Builder](https://github.com/Goomento/PageBuilder) - A free Magento Page Builder extension that allows you to efficiently set up your website by simply dragging and dropping manipulation
 * [Green Flying Panda Sales Automation](https://github.com/licentia/panda) - A sales automation suite for Magento. Includes, among other features: Customer Segments, Product Recommendations, Email & SMS Marketing, Equity, Lifetime Value and Dynamic Pricing, Reports, Info Windows, Two-Factor Authentication, Forms, Customer KPIs
+* [Humans.txt for Magento 2](https://github.com/magegang/m2-humanstxt) - This extension enables you to add a humans.txt to your Magento 2 and manage its content through the Admin Panel.
 * [Ideal-Postcodes UK Address Search and Validation](https://github.com/ideal-postcodes/magento) - This extension enables Ideal-Postcodes.co.uk address validation for UK addresses on a Magento store.
 * [Image Cleanup module for Magento 2](https://github.com/baldwin-agency/magento2-module-image-cleanup) - This extension gives options to delete unused product images from the disk to recover some space.
 * [IMI FriendlyCaptcha](https://github.com/iMi-digital/magento2-friendly-captcha) - This extension adds a Friendly Captcha widget to Login, Register, Contact form, Forgot password, Send to Friend, Newsletter signup, Product Reviews.
@@ -298,6 +302,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Integer_Net GlobalCustomLayout](https://github.com/integer-net/magento2-global-custom-layout) - Module for Magento 2 that allows you to add global layout update files to be selected from admin, by using '0' instead of an entity_id.
 * [Integer_Net Session Unblocker](https://github.com/integer-net/magento2-session-unblocker) - Module for Magento 2 that prevents session blocking between concurrent AJAX requests
 * [International Address API module for Magento 2](https://github.com/postcode-nl/PostcodeNl_Api_Magento2) - This extension adds address autocompletion to the checkout page. Multiple countries are supported using official postal data via the Postcode.eu API.
+* [Layout Bricks for Magento](https://github.com/element119/module-product-type-attribute-manager) - This package allows the rendering of blocks without hassle in phtml files.
 * [Legacy Mysql Search](https://github.com/swissup/module-search-mysql-legacy) - MySQL is no longer supported for search since Magento 2.4. This extension brings back the usage of the MySQL search engine on Magento 2.
 * [Lightspeed for Lighthouse optimizations](https://github.com/elgentos/magento2-lightspeed) - This module defines several sections where you can define common feedback from Google Lighthouse.
 * [Limit Guest Checkout Coupon Code](https://github.com/magepal/magento2-coupon-limit-guest-checkout) - This extension restricts the maximum use of coupons for guest checkout.
@@ -420,6 +425,8 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Phoenix Media Storage Sync](https://github.com/PHOENIX-MEDIA/magento2-mediastoragesync) - An easy way to retrieve files in media from an origin server to a local development environment.
 * [Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page) - Easily preview and make changes to the success page without placing a new order or modifying Magento's core code.
 * [Product Data Pre-Loader](https://github.com/EcomDev/magento2-product-preloader) - This extension provides an easy way to pre-load data for product collections like prices, stock data, and many more by using different types of load types.
+* [Product Last Order](https://github.com/discorgento/module-product-last-order) - An extension developed by Discorgento that generates a personalized message to the customer when they access a product that has been previously purchased. It displays the date of the product purchase and an "Order Details" link to redirect the customer to the Order Details page.
+* [Product Type Attribute Manager](https://github.com/element119/module-product-type-attribute-manager) - This extension allows store admins to control which product types a user-defined attribute can be assigned to.
 * [Proof of Concept: using PHP attributes in Magento 2](https://github.com/renttek/magento2-attributes-experiment) - A proof of concept for implementing some Magento 2 configuration using PHP attributes.
 * [Regenerate URL rewrites extension](https://github.com/olegkoval/magento2-regenerate_url_rewrites) - This extension adds a CLI command that allows the regeneration of URL rewrites of products and categories in all stores or a specific store.
 * [Reindex from Admin](https://github.com/magepal/magento2-reindex) - To quickly and easily update individual or all indexes from within your Magento admin.
@@ -431,7 +438,9 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [ShipperHQ Shipping Tracker](https://github.com/shipperhq/module-shipping-tracker) - This extension allows you to enter custom shipment tracking URLs. Customers will see a clickable shipping tracking link in the new shipment email and when viewing their order in Magento.
 * [Siment_HttpHeaderThemeSwitch](https://github.com/siment/magento2-http-header-theme-switch) - Magento 2 module that enables automatic theme switching based on the X-UA-Device HTTP header. (Or any other header).
 * [Siteation Magento2 Storeinfo Menus](https://github.com/Siteation/magento2-storeinfo-menus) - This extension lets you add static links to your Magento 2 footer. It includes pre-populated "About Us," "Services," and "Legal" menus, along with two customizable options.
+* [Store Entity Creator](https://github.com/element119/module-store-entity-creator) - An extension that adds a CLI command to quickly create store entities (websites, stores, and store views).
 * [Structured Data Module for Magento 2](https://github.com/outeredge/magento-structured-data-module) - This extension lets you quickly add structured data markup (Rich Snippets) to any Magento 2 store by setting a few configuration options.
+* [System Config: Who Did This Logger](https://github.com/ronangr1/M2-SystemConfigWhoDidThisLogger) - This extension allows you to record any changes made to the configuration of your Magento 2.
 * [System Configuration Toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) - A Magento 2 extension that shows sort order of system configuration's tabs, sections, groups, and fields.
 * [UMC CRUD for Magento 2](https://github.com/UltimateModuleCreator/umc-crud) - A module intended to reduce the boilerplate code when creating a CRUD extension.
 * [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.
@@ -693,6 +702,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Magento Ecosystem](https://t.me/magentoecosystem) - Telegram channel by Firebear Studio. Best content from Magento world, curated materials from trusted blogs, Twitter, Reddit and more! Everything you need to know about Magento ecosystem as developer, SI or merchant.
 * [Mageres](https://mailchi.mp/6a498018d9ef/mageres) - A hand-curated monthly newsletter collecting useful Magento resources.
 * [Magezine](https://magezine.co/) - A professional paper journal for Magento community
+* [Segment Newsletter](https://m.academy/newsletter/) - A free monthly newsletter dedicated to Magento.
 * [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko
 
 ## Screencasts
