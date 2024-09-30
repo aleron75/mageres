@@ -406,6 +406,7 @@ Extensions,,Admin OpCache Report,https://github.com/element119/module-admin-opca
 Extensions,,Store Entity Creator,https://github.com/element119/module-store-entity-creator,"An extension that adds a CLI command to quickly create store entities (websites, stores, and store views).",
 Extensions,,System Config: Who Did This Logger,https://github.com/ronangr1/M2-SystemConfigWhoDidThisLogger,This extension allows you to record any changes made to the configuration of your Magento 2.,
 Extensions,,Humans.txt for Magento 2,https://github.com/magegang/m2-humanstxt,This extension enables you to add a humans.txt to your Magento 2 and manage its content through the Admin Panel.,
+Extensions,,Csp Split Header ,https://github.com/basecom/magento2-csp-split-header,"This extension separates headers for each CSP directive, each of which should no longer exceed the web server's maximum permitted length.",
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler,
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.,
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.,
