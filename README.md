@@ -389,7 +389,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Visual Search Module](https://github.com/annysmolyan/visual-search-module-magento) - This extension enables image-based search functionality. It leverages cutting-edge image recognition technology and Convolutional Neural Networks (CNN) to allow users to search for products using images instead of text. 
 * [Magento 2 Vurbis extension](https://gitlab.com/vurbis/vurbis-interactive-magento-2-punch-out-extension) - The official Magento 2 Vurbis extension.
 * [Magento 2 – Cloudflare](https://github.com/jetrails/magento2-cloudflare) - Interact with popular Cloudflare features through Magento 2's backend portal.
-* [Magento Asynchronous Events](https://github.com/aligent/magento-async-events) - This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.
+* [Magento Asynchronous Events](https://github.com/mage-os/mageos-async-events) - This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.
 * [Magento Cloudflare Turnstile](https://github.com/Pixel-Open/magento-cloudflare-turnstile) - The module allows Turnstile (Cloudflare's smart CAPTCHA alternative) to protect your Magento OpenSource or Adobe Commerce forms.
 * [MagePal Magento 2 System.xml Color Picker](https://github.com/magepal/magento2-color-picker) - This extension adds a color picker frontend model to be used in system configuration fields.
 * [MagePal_GuestToCustomer](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest checkout customers to registered customers.
