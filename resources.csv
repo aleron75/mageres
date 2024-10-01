@@ -320,7 +320,7 @@ Extensions,,Magento 2 Admin UI,https://github.com/graschik/magento-2-admin-ui/,T
 Extensions,,Legacy Mysql Search,https://github.com/swissup/module-search-mysql-legacy,MySQL is no longer supported for search since Magento 2.4. This extension brings back the usage of the MySQL search engine on Magento 2.,
 Extensions,,SamueleMartini_GPT3 module,https://github.com/SamueleMartini/Magento-GPT-integration,This extension integrates some Open AI GPT-3 features into Magento 2 to generate product and category descriptions from the admin panel automatically.,
 Extensions,,Magehook,https://github.com/wpoortman/magehook,This extension adds an abstraction layer to create and dispatch custom webhooks for Magento 2.,
-Extensions,,Magento Asynchronous Events,https://github.com/aligent/magento-async-events,This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.,
+Extensions,,Magento Asynchronous Events,https://github.com/mage-os/mageos-async-events,This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.,
 Extensions,,Breeze,https://github.com/breezefront/module-breeze,A Magento 2 extension that replaces Luma's js stack with its own implementation.,
 Extensions,,Serverless Framework for Magento 2,https://github.com/Imagination-Media/magento-serverless,"An extension to implement data validation, add custom functionality, and much more using serverless functions that aren't part of the codebase.",
 Extensions,,Elastic APM Integration for Magento 2,https://github.com/cmtickle/elastic-apm-magento/,Elastic Application Performance Management (APM) Integration for Magento 2 to diagnose application performance problems.,
