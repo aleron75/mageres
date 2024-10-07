@@ -628,7 +628,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 ### Italian
 
 * [Bitbull](https://www.bitbull.it/categories/magento-2/)
-* [Magentiamo](https://www.magentiamo.it/blog)
+* [Magentiamo](https://www.magentiamo.it/blog-magento-italia/)
 * [MageSpecialist](https://www.magespecialist.it/blog/)
 
 ### Japanese
