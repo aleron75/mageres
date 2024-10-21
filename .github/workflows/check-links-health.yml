@@ -20,7 +20,7 @@ jobs:
     - name: Run awesome_bot
       run: |
            gem install awesome_bot
-           awesome_bot README.md --request-delay 1 --allow-dupe --allow-ssl --allow-redirect --white-list https://commercemarketplace.adobe.com/,https://www.reddit.com/r/Magento/,https://business.adobe.com/summit/adobe-summit.html,https://support.magento.com/hc/en-us/categories/360004245632-Support-Tools,https://business.adobe.com/resources/main.html?Products+%26+Services=Commerce,https://business.adobe.com/blog/tags/commerce,https://helpx.adobe.com/security.html,https://www.goodreads.com/book/show/52703436-magento-2,https://belvg.com/blog/,https://www.linkedin.com/pulse/automatically-create-magentos-cspwhitelistxml-file-kieckbusch-stlqc/
+           awesome_bot README.md --request-delay 1 --allow-dupe --allow-ssl --allow-redirect --white-list https://commercemarketplace.adobe.com/,https://www.reddit.com/r/Magento/,https://business.adobe.com/summit/adobe-summit.html,https://support.magento.com/hc/en-us/categories/360004245632-Support-Tools,https://business.adobe.com/resources/main.html?Products+%26+Services=Commerce,https://business.adobe.com/blog/tags/commerce,https://helpx.adobe.com/security.html,https://www.goodreads.com/book/show/52703436-magento-2,https://belvg.com/blog/,https://www.linkedin.com/pulse/automatically-create-magentos-cspwhitelistxml-file-kieckbusch-stlqc/,https://aheadworks.com/blog/magento-2-extensions,https://www.cadence-labs.com/category/magento/magento-2/,https://www.cloudways.com/blog/magento/,https://www.tigren.com/blog/category/magento/,https://www.magentiamo.it/blog-magento-italia/,https://www.magentiamo.it/,https://tiagosampaio.com/
     - name: Create issue on awesome_bot fail            
       if: ${{ failure() }}   
       env:
