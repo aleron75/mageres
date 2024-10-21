@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![674 resources](https://img.shields.io/badge/resources-674-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![675 resources](https://img.shields.io/badge/resources-675-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -362,6 +362,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Hoodoor](https://github.com/opengento/magento2-hoodoor) - This extension provides top-notch security for your customers' accounts by adopting a passwordless approach. It effectively removes the vulnerability of weak passwords from your database, instilling a sense of confidence and reliability in your platform among your customers.
 * [Magento 2 Interceptor classes generator](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 * [Magento 2 Lazy Loading extension](https://github.com/mageplaza/magento-2-lazy-loading) - This extension allows speeding up the site load by showing the image only at the demanding time.
+* [Magento 2 Logo Config](https://github.com/magegang/m2-logo-config) - This extension lets you schedule your store logo changes by uploading new logos and defining their activation start and end dates. 
 * [Magento 2 Menu](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2.
 * [Magento 2 Message Queue Retry](https://github.com/run-as-root/magento2-message-queue-retry) - An extension that allows processing the same queue message more than once, utilizing RabbitMQ's dead letter exchange feature.
 * [Magento 2 Micro Features Module](https://github.com/Lingaro/magento2-module-micro-features) - A collection of useful micro-features packed into the same extension.
