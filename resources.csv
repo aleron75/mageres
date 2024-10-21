@@ -115,6 +115,7 @@ Tools,Free,GdprDump,https://github.com/Smile-SA/gdpr-dump,"A tool that provides 
 Tools,Free,Mage-OS Module Template,https://github.com/mage-os-lab/mageos-module-template,A template from Mage-OS labs that can be used when developing a new extension.,
 Tools,Free,MagentoGPT,https://chat.openai.com/g/g-2jh24mY9U-magento-gpt,"Magento AI expert designed to help you with module, theme, and CLI in Magento and Adobe Commerce",
 Tools,Free,Magento CSP Whitelist Generator,https://github.com/macademy/magento-csp-whitelist-generator,A Google Chrome Plugin that makes it easy to automatically create csp_whitelist.xml files for Magento,
+Tools,Free,Hyva Compatibility Checker,https://github.com/rossmc/hyva-compatibility-checker,"This tool scans your Magento project and gives you a list of modules that require Hyva compatibility, indicating how many frontend files need attention. It provides both JSON and CSV reports, which can be used to plan your Hyva frontend development.",
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3,
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/l/commerce-bug-three,Magento debugging extension for both Magento 1 and 2,
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically,
