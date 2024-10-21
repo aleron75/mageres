@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![672 resources](https://img.shields.io/badge/resources-672-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![673 resources](https://img.shields.io/badge/resources-673-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -138,6 +138,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [ExtDN Installer for Magento 2 modules](https://github.com/extdn/installer-m2) - Universal extension installer for Magento 2
 * [GdprDump](https://github.com/Smile-SA/gdpr-dump) - A tool that provides a command that creates anonymized dumps of a MySQL database, in order to comply with GDPR regulations.
 * [Gitlab CI/CD pipeline with AWS integration for Magento 2 deployment](https://github.com/bijay135/gitlab-aws-magento2-deploy) - A CI/CD pipeline inspired by the Magento Cloud pipeline with zero downtime, provided at least two nodes are available.
+* [Hyva Compatibility Checker](https://github.com/rossmc/hyva-compatibility-checker) - This tool scans your Magento project and gives you a list of modules that require Hyva compatibility, indicating how many frontend files need attention. It provides both JSON and CSV reports, which can be used to plan your Hyva frontend development.
 * [integer_net Magento 2 Module Template](https://github.com/integer-net/magento2-module-template) - A template to easily get started with Magento open source module development.
 * [JS Layout Parser](https://github.com/pragmatic-modules/jslayout-parser) - A lightweight standalone PHP library that was created to make work with $jsLayout in Magento 2 less spaghetti, and more object-oriented.
 * [Laragento](https://github.com/Genaker/laragento) - A collection of Model classes that allows you to get data directly from a Magento 2 database using Laravel’s Eloquent ORM.
