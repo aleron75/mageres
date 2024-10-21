@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![676 resources](https://img.shields.io/badge/resources-676-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![677 resources](https://img.shields.io/badge/resources-677-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -212,6 +212,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Release & Hotfix matrix for Magento 2 / Adobe Commerce](https://docs.google.com/spreadsheets/d/17w2TxP0Vw-ik45yNwVTW8orfoIKOXCtvBpIFvbEKiTY/edit) - A handy sheet by Sansec summarizing Magento 2 / Adobe Commerce release management.
 * [Sansec Composer Integrity Checker](https://github.com/element119/module-sansec-composer-integrity-checker) - This extension performs Composer packages integrity checks based on the Sansec Composer integrity plugin.
 * [Sansec eComscan](https://sansec.io/ecomscan) - A professional and advanced malware scanner for Magento 1 and 2 that detects hacks and vulnerabilities.
+* [Sansec Watch](https://sansec.io/watch) - This free PCI-DSS-compliant tool detects third-party activity to complement your existing CSP ruleset. CSP changes are automatically synchronized, so you don't need to redeploy your store.
 * [Security.txt](https://github.com/kalpmehta/securitytxt) - Security.txt for Magento 2 websites
 * [Yireo CspWhitelistInlineJs](https://github.com/yireo/Yireo_CspWhitelistInlineJs) - When, in Magento 2, the CSP policy to disallow inline scripts is enabled, any script requires either a hash or a nonce (or something similar). This module scans any PHTML template for scripts on the fly and adds a nonce where needed.
 
