@@ -571,7 +571,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Fabian Schmengler](http://www.schmengler-se.de/en/blog/)
 * [Firebear Studio Blog](https://firebearstudio.com/blog/)
 * [Fooman](https://fooman.com/blog)
-* [Inchoo](https://inchoo.net/magento/)
+* [Inchoo](https://inchoo.net/magento-2/)
 * [integer_net Blog](https://www.integer-net.com/blog/)
 * [InteractOne Blog](https://www.interactone.com/category/adobe-magento-news/)
 * [Inviqa](https://inviqa.com/blog)
