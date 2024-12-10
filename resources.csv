@@ -257,7 +257,7 @@ Extensions,,Zepgram DisableSearchEngine,https://github.com/zepgram/module-disabl
 Extensions,,Zepgram JsonSchema,https://github.com/zepgram/module-json-schema,Magento 2 module to validate JSON Structures against a given Schema.,
 Extensions,,Zepgram Rest,https://github.com/zepgram/module-rest,"Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.",
 Extensions,,Zepgram ZeroDownTimeDeployment,https://github.com/zepgram/module-zero-downtime-deployment,Disable native change detection from Magento 2 to allow implementation of Zero Downtime Deployment Strategy (ZDD).,
-Extensions,,Align MSI reservation logic,https://github.com/comwrap/msi-reservation,This extension allows avoid ingissues with MSI’s reservations when stocks are managed by external systems.,
+Extensions,,Align MSI reservation logic,https://github.com/comwrap/msi-reservation,This extension allows avoiding issues with MSI’s reservations when stocks are managed by external systems.,
 Extensions,,Magento 2 Quicklink Module,https://github.com/rafaelstz/magento2-quicklink,An extension that attempts to make navigations to to subsequent pages faster through prefetching in-viewport links during idle time.,
 Extensions,,Magento 2 Velvet,https://github.com/danslo/magento2-module-velvet,The metapackage that bundles all the different GraphQL modules required for Velvet.,
 Extensions,,Mage2 Module Experius WysiwygDownloads,https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads,This extension makes it possible to upload different filetypes inside the WYSIWYG-editor.,
