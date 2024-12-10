@@ -232,7 +232,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Aimes_PageBuilderCodeBlock](https://github.com/robaimes/module-pagebuilder-code-block) - An extension tat adds a new PageBuilder content type to display code snippets nicely, using highlight.js.
 * [Ajax Newsletter Subscription for Magento 2](https://github.com/magepal/magento2-ajax-newsletter-subscribe) - This extension makes it easy to add an AJAX subscription to the Magento newsletter.
 * [Akeneo Connector for Magento 2](https://github.com/akeneo/magento2-connector-community) - A module that allows you to export your catalog data and structure from Akeneo PIM Community Edition to Magento 2 through API calls.
-* [Align MSI reservation logic](https://github.com/comwrap/msi-reservation) - This extension allows avoid ingissues with MSI’s reservations when stocks are managed by external systems.
+* [Align MSI reservation logic](https://github.com/comwrap/msi-reservation) - This extension allows avoiding issues with MSI’s reservations when stocks are managed by external systems.
 * [Amazon Personalize for Magento 2](https://github.com/Imagination-Media/aws-personalize-magento2) - This extension integrates with Amazon Personalize recommendation service.
 * [Authorize.net's Customer Information Manager for Magento 2](https://github.com/ParadoxLabs-Inc/authnetcim)
 * [Authorize.net CIM for Magento 2](https://github.com/ParadoxLabs-Inc/authnetcim) - This extension brings Authorize.net's Customer Information Manager (CIM) service to Magento 2.
