@@ -609,7 +609,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Mobecls](https://mobecls.com/e-commerce-tips/)
 * [Nexcess Blog](https://www.nexcess.net/blog/category/magento/)
 * [Onilab](https://onilab.com/blog/)
-* [ParadoxLabs](https://paradoxlabs.com/blog/)
+* [ParadoxLabs](https://paradoxlabs.com/blog)
 * [Phuc Vo](http://thienphucvx.com/)
 * [Pierre Fay](https://www.pierrefay.com/blog.html)
 * [Pinpoint](https://www.pinpointdesigns.co.uk/insights/)
