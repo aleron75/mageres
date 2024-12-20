@@ -823,7 +823,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 
 ### Docker
 
-* [Colin Tickle’s Docker Stack](https://github.com/cmtickle/docker-stack) - A dockerized system to run LEMP stack applications
+* [Colin Tickle’s Docker Stack](https://github.com/cmtickle/docker-stack) - A dockerized system to run LEMP stack applications primarily developed to run Magento 2.
 * [DDEV-Local](https://github.com/drud/ddev) - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
 * [Docker Configuration for Magento 2](https://github.com/magenx/Magento-2-docker-configuration)
 * [Docker Devbox](https://github.com/giuseppemorelli/docker-devbox/) - A Docker dev box based on Devilbox
