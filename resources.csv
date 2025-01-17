@@ -453,6 +453,7 @@ Testing,,Testing in Magento 2,https://gist.github.com/ProcessEight/fb7141d120ce0
 Testing,,Magento 2 module unit tests generator,https://github.com/olmer/magento-unit-tests-generator,A package intended to simplify magento2 unit tests creation.
 Testing,,Mage2-Behave,https://github.com/ctasca/mage2-behave,A project that leverages Python for Behavior-Driven Development (BDD) development in Magento 2 projects
 Testing,,Magento 2 Hyvä playwright tests,https://github.com/ProxiBlue/m2-hyva-playwright,The goal of this project is to create an extensible Playwright testing environment for Magento 2 + Hyvä projects. 
+Testing,,EcomDev’s Essentials for testing Magento 2 modules,https://github.com/EcomDev/magento2-test-essentials,This library by EcomDev provides fake objects and an ObjectManagerInterface implementation to facilitate the testing of Magento 2 modules. Reducing reliance on mocking frameworks helps create more stable and maintainable test suites.
 PWA,,PWA Studio,https://github.com/magento/pwa-studio,A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 PWA,,Vue Storefront,https://github.com/vuestorefront/vue-storefront,"A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API."
 PWA,,Venia UI Override Resolver,https://github.com/fooman/venia-ui-override-resolver,A Magento PWA Studio extension that enables extending Venia & Peregrine
