@@ -727,7 +727,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Magento Ecosystem](https://t.me/magentoecosystem) - Telegram channel by Firebear Studio. Best content from Magento world, curated materials from trusted blogs, Twitter, Reddit and more! Everything you need to know about Magento ecosystem as developer, SI or merchant.
 * [Mageres](https://mailchi.mp/6a498018d9ef/mageres) - A hand-curated monthly newsletter collecting useful Magento resources.
 * [Magezine](https://magezine.co/) - A professional paper journal for Magento community
-* [Segment Newsletter](https://m.academy/newsletter/) - A free monthly newsletter dedicated to Magento.
+* [M Bytes Newsletter](https://m.academy/newsletter/) - A weekly developer newsletter from M.academy that delivers three free video lessons every Thursday. It offers fresh, concise content to enhance your development skills.
 * [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko
 
 ## Screencasts
