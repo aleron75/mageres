@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![712 resources](https://img.shields.io/badge/resources-712-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![713 resources](https://img.shields.io/badge/resources-713-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -473,6 +473,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [UMC CRUD for Magento 2](https://github.com/UltimateModuleCreator/umc-crud) - A module intended to reduce the boilerplate code when creating a CRUD extension.
 * [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - An extension to give store owners some insights into what URL-related problems they have in their products, categories and URL rewrites.
 * [Wagento Prune Customer](https://bitbucket.org/wagento-global/prune-customer-accounts/) - An extension that adds CLI commands to prune SPAM customers.
+* [Well-Known Change Password for Magento 2](https://github.com/jbrada/module-well-known-change-password) - This extension implements the .well-known/change-password W3C specification, facilitating seamless redirection to the customer password change page. This integration enhances compatibility with password managers, enabling them to automatically locate the password reset URL, thereby improving user experience and security.
 * [Yireo - Magento 2 Category Extended
 ](https://github.com/yireo/Yireo_CategoryExtended) - This module seamlessly integrates CMS pages and custom URLs into your Magento 2 category structure, allowing you to create a more versatile and informative menu for your customers. 
 * [Yireo AdditionalBlockTemplate](https://github.com/yireo/Yireo_AdditionalBlockTemplate) - A Magento 2 module to allow for additional templates to be rendered, besides the original template.
