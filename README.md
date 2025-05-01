@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![727 resources](https://img.shields.io/badge/resources-727-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![733 resources](https://img.shields.io/badge/resources-733-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -175,6 +175,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MagentoGPT](https://chat.openai.com/g/g-2jh24mY9U-magento-gpt) - Magento AI expert designed to help you with module, theme, and CLI in Magento and Adobe Commerce
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 * [Magento Semantic Version Checker](https://github.com/magento/magento-semver) - A tool to determine semantic versioning changes and backward incompatible changes between two sources.
+* [Magento Toolbox](https://github.com/magebitcom/magento-toolbox) - A developer-focused extension for Visual Studio Code and Cursor, that offers a suite of tools for code generation, inspection, and utility functions, enhancing productivity and code quality.​
 * [Magento utilities Tap for Homebrew](https://github.com/fballiano/homebrew-mageutils)
 * [MageSuite](https://magesuite.io/) - A collection of OpenSource modules that enhance several Magento 2 capabilities (CMS, Performance, Security, Search, Marketin, UX)
 * [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker/anonymizer tool
@@ -272,6 +273,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Customer Account Links Manager for Magento2](https://github.com/magepal/magento2-customer-account-links-manager) - Allows you to quickly and easily remove unwanted links from your customer navigation dashboard sidebar in Magento.
 * [Customer and Address Form Fields Manager for Magento2](https://github.com/magepal/magento2-form-field-manager) - This extension allows us to quickly and easily remove unwanted form fields from admin order creation and customer account.
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) - Restricts payment methods to specific customer groups in Magento 2.
+* [Custom Fees for Magento 2](https://github.com/JosephLeedy/magento2-module-custom-fees) - This extension allows the addition of fixed or percentage-based checkout fees, which can be applied globally or to specific products, categories, or customer groups. This functionality can be handy for charging for gift wrapping, handling, or other services.​
 * [Custom Flat Fee Shipping Rates](https://github.com/magepal/magento2-custom-shipping-rate) - This extension adds custom flat fee shipping rates to admin order creation or displays a simple list of flat rates to customers.
 * [CustomGento_CliTaxEditor](https://github.com/customgento/module-cli-tax-editor-m2) - Magento 2 module, which provides new console commands to edit the tax configuration.
 * [CustomGento_Cookiebot
@@ -308,6 +310,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Extension Dashboard](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions.
 * [Extension for Cookie SameSite attribute](https://github.com/Veriteworks/CookieFix) - This extension is adjusting the Cookie SameSite attribute issue since Chrome 80.
 * [Faker extension](https://github.com/DominicWatts/Faker) - This is a Magento 2 extension designed to generate fake data for testing purposes. It allows developers to create dummy customers, products, categories, orders, and reviews. This is achieved through console commands specifying parameters like website, store, or quantity limits, making it versatile for testing scenarios. The module utilizes the fzaninotto/faker library to populate realistic-looking data, helping to streamline development and testing workflows without needing actual customer or product information.
+* [Falcon Media - Merge Attribute Options]() - This module allows for identifying and merging redundant attribute options into a single, unified option. It provides CLI commands to list and filter product attributes, display attribute options, and merge duplicates to maintain a clean and organised attribute system.
 * [Fathom Analytics integration for Magento 2](https://github.com/controlaltdelete-nl/magento2-fathom-analytics) - This extension integrates Fathom Analytics into Magento 2 stores, enabling privacy-focused website analytics. It supports multi-store setups with individual tracking IDs and complies with GDPR and other privacy regulations.
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
 * [Fooman Email Attachments](https://github.com/fooman/emailattachments-m2) - This module allows you to automatically attach transactional PDF documents to Magento 2 sales emails
@@ -346,6 +349,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 - Magento 1 Migration Tool](https://github.com/enanobots/m2-m1migration) - A module to export data from Magento 1 to Magento 2 based on database comparison of both EAV and custom entity tables.
 * [Magento 2 Admin Locale Switcher](https://github.com/enanobots/admin-locale-switcher) - A simple module that allows you to switch locale in Magento 2 Admin Panel.
 * [Magento 2 Admin Order Status Color](https://github.com/mateussantin/magento2-admin-order-status-color) - An extension to change the color of the order status column in the UI grid, based on the current status of the order.
+* [Magento 2 Admin Restriction](https://github.com/Vendic/magento2-adminrestriction) - This extension enhances backend security by restricting Admin Panel access based on IP addresses. It integrates seamlessly with Magento's Two-Factor Authentication (2FA).
 * [Magento 2 Admin UI](https://github.com/graschik/magento-2-admin-ui/) - This extension allows using UI components in widgets and adds new Admin UI components.
 * [Magento2 Always Login As Customer](https://github.com/fruitcake/magento2-alwaysloginascustomer) - This module enables the 'Login as Customer' feature, regardless of the 'Allow remote shopping assistance' Customer setting.
 * [Magento 2 Attribute Landing](https://github.com/EmicoEcommerce/Magento2AttributeLanding) - This extension lets you create landing pages based on predefined filters and categories. You can assign them a custom URL and rich text descriptions for SEO purposes. The landing pages will also be published in the sitemap.
@@ -461,6 +465,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Multi-Threading for Magento 2](https://github.com/zepgram/module-multi-threading) - This extension allows processing large data collections in parallel using multiple child processes, improving performance and reducing processing time.
 * [MX Phinx Migrations](https://github.com/inviqa/MX_PhinxMigrations) - Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments.
 * [N98_Guillotine](https://github.com/netz98/headless-guillotine) - A simple but useful module to disable frontend requests to implement a headless approach.
+* [OAuth Security Plus for Magento 2](https://github.com/Hawksama/module-oauth-security-plus) - This extension ensures that only requests originating from trusted IP addresses can create admin tokens, mitigating the risk of unauthorised API access.
 * [Performance Dashboard Extension for Magento 2](https://github.com/magehost/performance-dashboard) - An extension that adds a screen to the Admin Panel to get a clear overview of areas where the performance of your Magento 2 can be improved.
 * [Phoenix Media Storage Sync](https://github.com/PHOENIX-MEDIA/magento2-mediastoragesync) - An easy way to retrieve files in media from an origin server to a local development environment.
 * [Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page) - Easily preview and make changes to the success page without placing a new order or modifying Magento's core code.
@@ -891,6 +896,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 ### Other
 
 * [Den](https://github.com/swiftotter/den) - Den is a fork of Warden with AMD64 support, smaller image sizes, and a quicker update schedule.
+* [Devenv for Magento 2 development](https://github.com/fballiano/magento2-devenv/) - Devenv by Fabio Balliano provides a high-performance, container-free development environment for Magento 2 based on NixOS. It offers a native experience without the overhead of traditional containers or hypervisors.
 * [Mage-OS Magento 2 Gitpod Cloud Development Environment](https://github.com/mage-os/magento-gitpod) - A Gitpod configuration for a Magento 2 cloud development environment using Mage-OS as the composer repository.
 * [Magento 2 Gitpod Cloud Development Environment](https://github.com/develodesign/magento-gitpod) - This repository contains a Gitpod configuration for a Magento 2 cloud development environment.
 * [magento2gitpod](https://github.com/nemke82/magento2gitpod) - Magento 2 optimized setup for https://gitpod.io workspace.
