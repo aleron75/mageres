@@ -896,7 +896,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 ### Other
 
 * [Den](https://github.com/swiftotter/den) - Den is a fork of Warden with AMD64 support, smaller image sizes, and a quicker update schedule.
-* [Devenv for Magento 2 development](https://github.com/fballiano/magento2-devenv/) - Devenv by Fabio Balliano provides a high-performance, container-free development environment for Magento 2 based on NixOS. It offers a native experience without the overhead of traditional containers or hypervisors.
+* [Devenv for Magento 2 development](https://github.com/fballiano/magento2-devenv/) - Devenv by Fabrizio Balliano provides a high-performance, container-free development environment for Magento 2 based on NixOS. It offers a native experience without the overhead of traditional containers or hypervisors.
 * [Mage-OS Magento 2 Gitpod Cloud Development Environment](https://github.com/mage-os/magento-gitpod) - A Gitpod configuration for a Magento 2 cloud development environment using Mage-OS as the composer repository.
 * [Magento 2 Gitpod Cloud Development Environment](https://github.com/develodesign/magento-gitpod) - This repository contains a Gitpod configuration for a Magento 2 cloud development environment.
 * [magento2gitpod](https://github.com/nemke82/magento2gitpod) - Magento 2 optimized setup for https://gitpod.io workspace.
