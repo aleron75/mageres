@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![738 resources](https://img.shields.io/badge/resources-738-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![739 resources](https://img.shields.io/badge/resources-739-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -272,6 +272,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Content Fuzzyfyr Module for Magento 2](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.
 * [Cookie domain cleaner](https://github.com/blackbird-agency/cookie-domain-cleaner) - This extension will gradually clean cookies from parent domains while navigating a site on a subdomain. This allows the hosting of several site environments on the same domain name while avoiding cookie conflicts with subdomains.
 * [Csp Split Header ](https://github.com/basecom/magento2-csp-split-header) - This extension separates headers for each CSP directive, each of which should no longer exceed the web server's maximum permitted length.
+* [Custom Admin Logo](https://github.com/element119/module-custom-admin-logo) - This extension allows administrators to personalize the Magento admin panel logos for both the login screen and the admin menu
 * [Customer Account Links Manager for Magento2](https://github.com/magepal/magento2-customer-account-links-manager) - Allows you to quickly and easily remove unwanted links from your customer navigation dashboard sidebar in Magento.
 * [Customer and Address Form Fields Manager for Magento2](https://github.com/magepal/magento2-form-field-manager) - This extension allows us to quickly and easily remove unwanted form fields from admin order creation and customer account.
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) - Restricts payment methods to specific customer groups in Magento 2.
