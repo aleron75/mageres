@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![744 resources](https://img.shields.io/badge/resources-744-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![745 resources](https://img.shields.io/badge/resources-745-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -125,6 +125,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Free
 
+* [Adobe Commerce Dev MCP](https://github.com/rafaelstz/adobe-commerce-dev-mcp) - MCP server implementation for Adobe Commerce GraphQL
 * [Aligent Magento Integration and API Functional Testing Pipe](https://github.com/aligent/magento-integration-test-pipe) - A bitbucket pipe for running Magento integration and API functional tests  designed to be run parallelly so you can leverage bitbucket parallel steps.
 * [Ampersand Magento2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper scripts to aid upgrading Magento 2 websites by detecting overrides
 * [baler](https://github.com/magento/baler) - AMD module bundler and preloader for Magento 2 stores
