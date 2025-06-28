@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![746 resources](https://img.shields.io/badge/resources-746-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![751 resources](https://img.shields.io/badge/resources-751-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -69,6 +69,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Mage-OS DevDocs](https://devdocs.mage-os.org/) - Mage-OS Developer Guide
 * [Mage Mastery](https://magemastery.net/) - Learning resources for Magento 2 developers
 * [Mage Mastery’s Best Magento Extensions](https://www.magemastery.net/best-magento-extensions) - A selected list of Magento packages gathered by Mage Mastery.
+* [Magento 2 DeepWiki](https://deepwiki.com/magento/magento2) - An AI-powered knowledge base that provides an in-depth, navigable documentation of the Magento 2 codebase. Developed leveraging the Devin AI assistant to transform GitHub repositories into structured, interactive wikis.
 * [Magento 2 Developer Roadmap](https://roadmap.sh/r/magento-2-developer-401qn) - This roadmap created by Peter Jaap Blaakmeer provides a comprehensive roadmap for becoming a Magento 2 developer. It outlines the essential skills, tools, and technologies to master Magento 2 development. It offers a structured learning path for beginners and professionals seeking to enhance their expertise in this e-commerce platform.
 * [Magento 2 UI Library](https://magento2-ui-library.rafaelcg.com/) - Flexible modular Magento 2 frontend library that is designed to assist Magento theme developers
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
@@ -133,6 +134,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Butter - Smooth Magento 2 Versions Installer](https://github.com/redchamps/butter) - A specialized tool to install a Magento version with just a single command.
 * [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) - A Capistrano extension for Magento 2 deployments.
 * [Clockwork for Magento 2](https://github.com/INPVLSA/magento-clockwork) - This tool integrates the Clockwork debugging and profiling suite with Magento 2. It helps developers monitor performance, inspect database queries, track cache usage, and debug template rendering through a user-friendly interface, making diagnosing and optimizing Magento applications during development easier.
+* [Composer Patch Creator](https://github.com/MagePsycho/composer-patch-creator) - A bash utility script to streamline the process of creating and managing patches for vendor packages in Composer-based PHP projects, such as Magento, Laravel, and Symfony.
 * [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer - usage guide: https://devdocs.magento.com/guides/v2.4/comp-mgr/patching.html#custom-patches
 * [ConvertM1M2](https://github.com/unirgy/convertm1m2) - A script to automate as much as possible the conversion of a Magento 1 extension to Magento 2.
 * [Database Anonymizer](https://github.com/mpchadwick/dbanon) - A run-anywhere, dependency-less database anonymizer.
@@ -358,6 +360,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Admin Locale Switcher](https://github.com/enanobots/admin-locale-switcher) - A simple module that allows you to switch locale in Magento 2 Admin Panel.
 * [Magento 2 Admin Order Status Color](https://github.com/mateussantin/magento2-admin-order-status-color) - An extension to change the color of the order status column in the UI grid, based on the current status of the order.
 * [Magento 2 Admin Restriction](https://github.com/Vendic/magento2-adminrestriction) - This extension enhances backend security by restricting Admin Panel access based on IP addresses. It integrates seamlessly with Magento's Two-Factor Authentication (2FA).
+* [Magento 2 Admin Search Module](https://github.com/dzmitry-vasileuski/magento2-module-admin-search) - An open-source extension designed to enhance the global search functionality within the Magento 2 Admin Panel. It aims to provide a more efficient and user-friendly search experience for administrators.
 * [Magento 2 Admin UI](https://github.com/graschik/magento-2-admin-ui/) - This extension allows using UI components in widgets and adds new Admin UI components.
 * [Magento2 Always Login As Customer](https://github.com/fruitcake/magento2-alwaysloginascustomer) - This module enables the 'Login as Customer' feature, regardless of the 'Allow remote shopping assistance' Customer setting.
 * [Magento 2 Attribute Landing](https://github.com/EmicoEcommerce/Magento2AttributeLanding) - This extension lets you create landing pages based on predefined filters and categories. You can assign them a custom URL and rich text descriptions for SEO purposes. The landing pages will also be published in the sitemap.
@@ -424,6 +427,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 QuickLink Extension](https://github.com/collabpl/magento2-module-quicklink) - The Collab_QuickLink module allows the embedding and configuring of Quicklink in a Magento 2 store.
 * [Magento 2 Quicklink Module](https://github.com/rafaelstz/magento2-quicklink) - An extension that attempts to make navigations to to subsequent pages faster through prefetching in-viewport links during idle time.
 * [Magento 2 removal of all optional modules](https://github.com/yireo/magento2-replace-all) - A composer meta-package that removes numerous Magento 2 modules
+* [Magento 2 Reorder Alternatives](https://github.com/elgentos/magento2-reorder-alternatives) - This extension enhances the default reorder functionality in Magento 2 by enabling merchants to suggest alternative products when the originally ordered items are out of stock.
 * [Magento 2 Reservation Admin Grid](https://github.com/CUTTRHOAT69/module-reservation-admin-grid) - This extension introduces an admin grid for managing store reservations within the Magento 2 Admin Panel. Access control is managed via ACL settings, allowing administrators to specify who can view or delete reservations.
 * [Magento 2 Selective Cache](https://github.com/mcspronko/selective-cache) - This extension adds a Refresh Invalidated Cache button. Upon clicking the button, the extension cleans all Cache Types marked as invalid. You can also configure and run a cronjob to refresh invalidated cache types.
 * [Magento 2 Sentry Logger](https://github.com/justbetter/magento2-sentry) - This extension integrates the Sentry SDK into Magento 2 to directly send notifications and errors to Sentry.
@@ -572,6 +576,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Magento 2 Hyvä playwright tests](https://github.com/ProxiBlue/m2-hyva-playwright) - The goal of this project is to create an extensible Playwright testing environment for Magento 2 + Hyvä projects. 
 * [Magento 2 integration testing helper](https://github.com/yireo/Yireo_IntegrationTestHelper) - This module adds various utilities to aid in creating integration tests for Magento 2.
 * [Magento 2 module unit tests generator](https://github.com/olmer/magento-unit-tests-generator) - A package intended to simplify magento2 unit tests creation.
+* [Magento 2 Playwright](https://github.com/elgentos/magento2-playwright) - An open-source End-to-End testing suite built with Playwright to facilitate comprehensive testing of Magento storefronts, enhancing code reliability and reducing manual testing efforts.
 * [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) - Boots up the integration test framework in less than 300ms when caches are primed.
 * [Tdd Wizard Repository](https://github.com/tddwizard) - A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 * [Testing in Magento 2](https://gist.github.com/ProcessEight/fb7141d120ce05fa837ff4457ca6a747) - Special notes by Simon Frost on setting up PHPUnit and writing/troubleshooting tests in Magento 2.
