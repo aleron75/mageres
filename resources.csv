@@ -131,6 +131,7 @@ Tools,Free,Media Downloader Tool,https://github.com/EcomDev/download-magento-ima
 Tools,Free,Magento Toolbox,https://github.com/magebitcom/magento-toolbox,"A developer-focused extension for Visual Studio Code and Cursor, that offers a suite of tools for code generation, inspection, and utility functions, enhancing productivity and code quality.​"
 Tools,Free,SQL bin/magento,https://github.com/henriquekieckbusch/sql_bin_magento,"The sql_bin_magento tool is a MySQL-based utility designed to execute Magento 2 CLI-like commands directly within the database, bypassing the need for PHP or the Magento application layer. This approach significantly accelerates command execution and provides direct database insights."
 Tools,Free,Adobe Commerce Dev MCP,https://github.com/rafaelstz/adobe-commerce-dev-mcp,MCP server implementation for Adobe Commerce GraphQL
+Tools,Free,Composer Patch Creator,https://github.com/MagePsycho/composer-patch-creator,"A bash utility script to streamline the process of creating and managing patches for vendor packages in Composer-based PHP projects, such as Magento, Laravel, and Symfony."
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/l/commerce-bug-three,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
