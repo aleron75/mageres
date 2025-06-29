@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![750 resources](https://img.shields.io/badge/resources-750-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![752 resources](https://img.shields.io/badge/resources-752-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -152,7 +152,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [M2 PHP version compatibility check](https://github.com/willtran/magento2-php-8-compatibility-check) - This tool can be used to check all modules in an M2 application for PHP8 compatibility
 * [Mage](https://github.com/GrimLink/mage) - This tool enhances Magento 2 development by providing shortcuts and custom functions for common bin/magento commands. It introduces shorter aliases, helper commands like reindex and purge, and features such as mage open to access store views quickly. Additionally, the watch command automates cache cleaning upon file changes, streamlining the development workflow. 
 * [Mage-OS Database Changelog Generator](https://github.com/EcomDev/mage-os-database-changelog) - A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.
-* [Mage-OS Module Template](https://github.com/mage-os-lab/mageos-module-template) - A template from Mage-OS labs that can be used when developing a new extension.
 * [Mage2Gen AI](https://ai.mage2gen.com/) - An AI-powered tool designed to generate Magento 2 modules. Users can describe their desired module in plain English, and the AI will handle the code generation, streamlining the development process. The platform offers quick start templates for common module types, such as payment gateways, product bundles, shipping methods, and custom APIs. 
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
 * [Magento / Mage-OS / Adobe Commerce perfomance scanner](https://mage-scan.com/) - Qoliber's Mage Scan Mage is a performance scanner for Magento, Mage-OS, and Adobe Commerce websites. It identifies common implementation issues to help store owners, freelancers, and agencies maintain smooth operations.
@@ -207,6 +206,10 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Velvet](https://github.com/danslo/velvet) - An administration backend for Magento 2 websites built with modern web technologies such as React, Typescript, GraphQL, and MUI. Requires the Magento 2 Velvet extension to work within Magento.
 * [Visual Studio Code startup task for cache-clean.js on Magento 2.](https://gist.github.com/jrosell/f062e5be7468f620ab7c78a45ea9729e) - A useful gist to add a startup task to automate the Magento 2 Cache Clean process.
 * [Warden Aliases](https://github.com/MagePsycho/magento2-warden-aliases) - Some shell aliases to make your Warden-based development life easier
+
+### Mage-OS
+
+* [Mage-OS Module Template](https://github.com/mage-os-lab/mageos-module-template) - A template from Mage-OS labs that can be used when developing a new extension.
 
 ## Security
 
@@ -355,7 +358,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento2 - Edit Order Email Address](https://github.com/magepal/magento2-edit-order-email) - This extension allows us to edit the customer email on the order admin page.
 * [Magento 2 - Inventory Log](https://github.com/elgentos/magento2-inventory-log) - This extension allows to keep the log of product inventory for every single transaction.
 * [Magento 2 - Magento 1 Migration Tool](https://github.com/enanobots/m2-m1migration) - A module to export data from Magento 1 to Magento 2 based on database comparison of both EAV and custom entity tables.
-* [ Magento 2 Admin Activity](https://github.com/kiwicommerce/magento2-admin-activity) - This extension records activities such as adding, editing, deleting, printing, viewing, and mass updating entities like products, categories, and customers. Additionally, it tracks admin login attempts, including failed logins, capturing user information and IP addresses.
+* [Magento 2 Admin Activity](https://github.com/kiwicommerce/magento2-admin-activity) - This extension records activities such as adding, editing, deleting, printing, viewing, and mass updating entities like products, categories, and customers. Additionally, it tracks admin login attempts, including failed logins, capturing user information and IP addresses.
 * [Magento 2 Admin Locale Switcher](https://github.com/enanobots/admin-locale-switcher) - A simple module that allows you to switch locale in Magento 2 Admin Panel.
 * [Magento 2 Admin Order Status Color](https://github.com/mateussantin/magento2-admin-order-status-color) - An extension to change the color of the order status column in the UI grid, based on the current status of the order.
 * [Magento 2 Admin Restriction](https://github.com/Vendic/magento2-adminrestriction) - This extension enhances backend security by restricting Admin Panel access based on IP addresses. It integrates seamlessly with Magento's Two-Factor Authentication (2FA).
@@ -444,10 +447,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Vurbis extension](https://gitlab.com/vurbis/vurbis-interactive-magento-2-punch-out-extension) - The official Magento 2 Vurbis extension.
 * [Magento 2 – Cloudflare](https://github.com/jetrails/magento2-cloudflare) - Interact with popular Cloudflare features through Magento 2's backend portal.
 * [Magento 2 config.php validation](https://github.com/lbajsarowicz/magento2-config-validator) - A CLI tool that validates the app/etc/config.php file in Magento 2 projects. It helps detect issues like missing modules, invalid syntax, and misaligned configurations before deployment. This ensures consistency between code and configuration, improving reliability during upgrades and maintenance.
-* [Magento Asynchronous Events](https://github.com/mage-os/mageos-async-events) - This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.
 * [Magento Cloudflare Turnstile](https://github.com/Pixel-Open/magento-cloudflare-turnstile) - The module allows Turnstile (Cloudflare's smart CAPTCHA alternative) to protect your Magento OpenSource or Adobe Commerce forms.
-* [MageOS Automatic Translation Module for Magento](https://github.com/mage-os-lab/module-automatic-translation) - Developed by the Italians 🤌 from the Mage-OS community, this extension enables AI-driven automatic translation of Magento store content, including products, categories, pages, and static blocks. It integrates natively with translation engines like DeepL, OpenAI, and Google Gemini and can be extended to support additional services. This module streamlines multilingual content management, enhancing the global reach of a Magento store.
-* [MageOS PageBuilder Templates Import/Export Module for Magento](https://github.com/mage-os-lab/module-pagebuilder-template-import-export) - This extension enhances Magento's PageBuilder by enabling the import and export of templates between different instances. Administrators can manage templates via the admin panel or command-line interface, facilitating efficient content replication across environments. Additionally, the module supports integration with Dropbox, allowing templates to be imported directly from configured Dropbox repositories. This functionality streamlines content management and promotes consistency across multiple Magento installations.
 * [MagePal Magento 2 System.xml Color Picker](https://github.com/magepal/magento2-color-picker) - This extension adds a color picker frontend model to be used in system configuration fields.
 * [MagePal_GuestToCustomer](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest checkout customers to registered customers.
 * [MageQuest LiteYouTube](https://github.com/MageQuest/magento2-module-lite-youtube) - A Magento 2 module that adds performant YouTube embeds with no user experience impact.
@@ -459,6 +459,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MageWire Backend module for Magento 2](https://github.com/michielgerritsen/magewire-backend) - A module that supplies Magewire compatibility for the Magento Admin Panel. Built on top of the Magewire core (with RequireJS support).
 * [Magewire Examples](https://github.com/magewirephp/magewire-examples) - A Magewire showcase to give easy insights on where Magewire could possibly fit in our project.
 * [Mailchimp for Magento 2](https://github.com/mailchimp/mc-magento2) - The official Mailchimp for Magento 2 extension
+* [Makegento CLI](https://github.com/opengento/magento2-makegento-cli) - a Magento 2 extension developed by Opengento that streamlines the creation of boilerplate code through the command line interface, similar to the make command in other frameworks.
 * [Marketplace](https://github.com/swissup/module-marketplace) - Magento modules and themes CLI/GUI downloader and installer
 * [MarkShust_DisableTwoFactorAuth](https://github.com/markshust/magento2-module-disabletwofactorauth) - Adds the missing toggle to turn 2FA on or off from the admin.
 * [MarkShust_ExtraBodyClasses](https://github.com/markshust/magento2-module-extrabodyclasses) - Adds the website and store codes to the body class attribute.
@@ -560,6 +561,13 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Vendic Hyva Checkout Create Account](https://github.com/Vendic/hyva-checkout-create-account)
 * [Vendic Hyvä Checkout Hide Business Fields](https://github.com/Vendic/hyva-checkout-hide-business-fields) - This module adds a customer type field to the checkout and hides the business fields when the customer type is set to "consumer". Business fields can be configured via di.xml.
 * [Yireo HyvaCheckoutPostcodeValidator](https://github.com/yireo/Yireo_HyvaCheckoutPostcodeValidator) - A Magento 2 module that adds postcode validation based upon the Magento core zip_codes.xml mechanism to the Hyva Checkout (aka MageWire Checkout)
+
+### Mage-OS
+
+* [Mage-OS PageBuilder Widget ](https://github.com/mage-os-lab/module-page-builder-widget) - A Mage-OS extension that introduces a new PageBuilder component to allow inserting and configuring existing CMS widgets directly within the Page Builder.
+* [Magento Asynchronous Events](https://github.com/mage-os/mageos-async-events) - This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.
+* [MageOS Automatic Translation Module for Magento](https://github.com/mage-os-lab/module-automatic-translation) - Developed by the Italians 🤌 from the Mage-OS community, this extension enables AI-driven automatic translation of Magento store content, including products, categories, pages, and static blocks. It integrates natively with translation engines like DeepL, OpenAI, and Google Gemini and can be extended to support additional services. This module streamlines multilingual content management, enhancing the global reach of a Magento store.
+* [MageOS PageBuilder Templates Import/Export Module for Magento](https://github.com/mage-os-lab/module-pagebuilder-template-import-export) - This extension enhances Magento's PageBuilder by enabling the import and export of templates between different instances. Administrators can manage templates via the admin panel or command-line interface, facilitating efficient content replication across environments. Additionally, the module supports integration with Dropbox, allowing templates to be imported directly from configured Dropbox repositories. This functionality streamlines content management and promotes consistency across multiple Magento installations.
 
 ## Testing
 
