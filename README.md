@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![751 resources](https://img.shields.io/badge/resources-751-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![750 resources](https://img.shields.io/badge/resources-750-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -120,7 +120,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Commerce Bug](https://store.pulsestorm.net/l/commerce-bug-three) - Magento debugging extension for both Magento 1 and 2
 * [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 * [MageCloud](https://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
-* [Magerror](https://www.magerror.com) - All your Magento reports in one place
 * [PhpStorm Plugin by Atwix](https://stormplugin.atwix.com/) - This tool is meant to help software engineers build and efficiently maintain software solutions in Magento projects with both free and paid features.
 * [RESP.app](https://resp.app/) - Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
 * [Tinkerwell](https://tinkerwell.app/) - A desktop application that allows you to run PHP code.  it includes Magento drivers.
@@ -799,7 +798,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Lars Roettig](https://www.youtube.com/c/LarsRoettig) - YouTube channel with focus on Magento development and Progressive Web Application topics.
 * [Load In The Loop](https://www.youtube.com/channel/UC7mcoC5hdn2yekrBUl9h8pQ) - Magento Performance Podcast
 * [M.academy](https://m.academy/) - Learn the basics of Magento 2 programming & architecture
-* [Mage2.tv](https://www.mage2.tv/) - Magento 2 Developer Screencasts
+* [Mage2.tv](https://www.youtube.com/@hyvamage2tv) - Magento 2 Developer Screencasts by Vinai Kopp
 * [Mage2Katas](https://www.youtube.com/c/Mage2Katas) - TDD practice sessions for Magento 2 development by Vinai Kopp
 * [Mage Coverage](https://www.youtube.com/channel/UCJUD_kYYf2kioarixdsGDRw) - YouTube channel by several Magento Meetups in India
 * [Mage Engage](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ) - Video interviews of Magento people on YouTube
