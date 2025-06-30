@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![752 resources](https://img.shields.io/badge/resources-752-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![753 resources](https://img.shields.io/badge/resources-753-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -788,6 +788,10 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Mageres](https://mailchi.mp/6a498018d9ef/mageres) - A hand-curated monthly newsletter collecting useful Magento resources.
 * [M Bytes Newsletter](https://m.academy/newsletter/) - A weekly developer newsletter from M.academy that delivers three free video lessons every Thursday. It offers fresh, concise content to enhance your development skills.
 * [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko
+
+### English
+
+* [Commerce Jam](https://www.linkedin.com/newsletters/commerce-jam-7257037660106448896/) - A monthly LinkedIn newsletter curated by Gentian Shero, co-founder of Shero Commerce, focusing on digital marketing and industry insights to help eCommerce businesses grow.
 
 ## Screencasts
 
