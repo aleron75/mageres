@@ -705,7 +705,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Christian Münch](https://muench.dev/)
 * [E-CONOMIX](https://www.e-conomix.at/blog)
 * [Matthias Zeis](https://www.matthias-zeis.com/magento-2)
-* [Maxcluster](https://maxcluster.de/blog/category:Magento)
+* [Maxcluster](https://maxcluster.de/blog)
 * [NeoShops](http://neoshops.de/category/magento-blog/)
 
 ### Italian
