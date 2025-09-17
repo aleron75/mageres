@@ -26,7 +26,7 @@ $subtopic = '';
 $prevsubtopic = '';
 $resourcesNumber = 0;
 if (($handle = fopen($csv, "r")) !== false) {
-    while (($data = fgetcsv($handle, 1000, ",")) !== false) {
+    while (($data = fgetcsv($handle, 1000, ",", '"', "\\")) !== false) {
         list($topic, $subtopic, $name, $url, $description) = $data;
 
         if (!isset($contents[$topic])) {
@@ -51,14 +51,22 @@ if (($handle = fopen($csv, "r")) !== false) {
 }
 
 $toc = '';
+$subtopicsByKey = [];
 foreach ($contents as $topic => $subtopics)
 {
-  $toc .= sprintf("* [%s](#%s)", $topic, str_replace(' ', '-', preg_replace('/[^a-z ]/', '', strtolower($topic)))) . PHP_EOL;
+  $anchor = str_replace(' ', '-', preg_replace('/[^-äöüa-z ]/', '', strtolower($topic)));
+  $toc .= sprintf("* [%s](#%s)", $topic, $anchor) . PHP_EOL;
   $content .= sprintf(PHP_EOL . "## %s" . PHP_EOL, $topic);
   ksort($subtopics);
   foreach ($subtopics as $subtopic => $subtopicdata) {
+    $subtopicsByKey[$subtopic][] = true;
     $content .= PHP_EOL;
     if (NO_SUBTOPIC != $subtopic) {
+      $anchor = str_replace(' ', '-', preg_replace('/[^-äöüa-z ]/', '', strtolower($subtopic)));
+      if (count($subtopicsByKey[$subtopic]) > 1) {
+        $anchor .= '-' . (count($subtopicsByKey[$subtopic]) - 1);
+      }
+      $toc .= sprintf("\t* [%s](#%s)", $subtopic, $anchor) . PHP_EOL;
       $content .= sprintf("### %s" . PHP_EOL . PHP_EOL, $subtopic);
     }
     uksort($subtopicdata, 'strnatcasecmp');
