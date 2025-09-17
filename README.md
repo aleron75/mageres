@@ -66,7 +66,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [ExtDN Resources](https://extdn.org/resources/) - Resources that help improve the ecosystem of Magento extensions.
 * [Fooman Magento Mirror](https://repo-magento-mirror.fooman.co.nz/) - An alternative authentication free Magento 2 mirror
 * [GravDept’s Magento 2 Manuals](https://manuals.gravitydept.com/frameworks/magento-2)
-* [Mage-OS DevDocs](https://devdocs.mage-os.org/) - Mage-OS Developer Guide
 * [Mage Mastery](https://magemastery.net/) - Learning resources for Magento 2 developers
 * [Mage Mastery’s Best Magento Extensions](https://www.magemastery.net/best-magento-extensions) - A selected list of Magento packages gathered by Mage Mastery.
 * [Magento 2 Database Documentation](https://m-docs.bonlineco.com/) - A documentation that provides a comprehensive guide to the Magento 2 database structure, designed to help data analysts understand the relationships of Magento 2’s complex database schema with over 300 tables organized into different modules.
@@ -76,6 +75,10 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MageQuest](https://magequest.io/) - An online learning platform aimed at getting more developers up and running with Magento 2 via a wide variety of learning resources and challenges.
 * [PackageMaven – Magento Modules](https://package-maven.com/) - A platform that offers a collection of Magento modules, allowing users to explore their installation statistics, latest release information, and open issues. The site includes test results for each extension with Magento and opportunities for users to contribute to developing these modules.
 * [The Magento Guidebook](https://jetrails.com/blog/the-magento-terms-glossary-guide/) - A Glossary of Magento Terms and Phrases
+
+### Mage-OS
+
+* [Mage-OS DevDocs](https://devdocs.mage-os.org/) - Mage-OS Developer Guide
 
 ## Certification
 
@@ -152,10 +155,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [integer_net Magento 2 Module Template](https://github.com/integer-net/magento2-module-template) - A template to easily get started with Magento open source module development.
 * [JS Layout Parser](https://github.com/pragmatic-modules/jslayout-parser) - A lightweight standalone PHP library that was created to make work with $jsLayout in Magento 2 less spaghetti, and more object-oriented.
 * [Laragento](https://github.com/Genaker/laragento) - A collection of Model classes that allows you to get data directly from a Magento 2 database using Laravel’s Eloquent ORM.
-* [List PHP Class Dependencies](https://github.com/mage-os/php-dependency-list) - A simple tool to list PHP classes referenced in a given set of files
 * [M2 PHP version compatibility check](https://github.com/willtran/magento2-php-8-compatibility-check) - This tool can be used to check all modules in an M2 application for PHP8 compatibility
 * [Mage](https://github.com/GrimLink/mage) - This tool enhances Magento 2 development by providing shortcuts and custom functions for common bin/magento commands. It introduces shorter aliases, helper commands like reindex and purge, and features such as mage open to access store views quickly. Additionally, the watch command automates cache cleaning upon file changes, streamlining the development workflow. 
-* [Mage-OS Database Changelog Generator](https://github.com/EcomDev/mage-os-database-changelog) - A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.
 * [Mage2Gen AI](https://ai.mage2gen.com/) - An AI-powered tool designed to generate Magento 2 modules. Users can describe their desired module in plain English, and the AI will handle the code generation, streamlining the development process. The platform offers quick start templates for common module types, such as payment gateways, product bundles, shipping methods, and custom APIs. 
 * [MageDIAnalyzer](https://github.com/roma-glushko/mage-di-analyzer) - A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.
 * [Magento / Mage-OS / Adobe Commerce perfomance scanner](https://mage-scan.com/) - Qoliber's Mage Scan Mage is a performance scanner for Magento, Mage-OS, and Adobe Commerce websites. It identifies common implementation issues to help store owners, freelancers, and agencies maintain smooth operations.
@@ -214,6 +215,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Mage-OS
 
+* [List PHP Class Dependencies](https://github.com/mage-os/php-dependency-list) - A simple tool to list PHP classes referenced in a given set of files
+* [Mage-OS Database Changelog Generator](https://github.com/EcomDev/mage-os-database-changelog) - A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.
 * [Mage-OS Module Template](https://github.com/mage-os-lab/mageos-module-template) - A template from Mage-OS labs that can be used when developing a new extension.
 
 ## Security
@@ -273,7 +276,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Braintree Payments](https://github.com/genecommerce/module-braintree-magento2) - Implements integration with the Braintree payment system, overwriting the original Magento module, to provide additional features and bug fixes.
 * [Breeze](https://github.com/breezefront/module-breeze) - A Magento 2 extension that replaces Luma's js stack with its own implementation.
 * [BuilderIO Integration for Magento 2](https://github.com/DeployEcommerce/module-builderio) - A Magento 2 extension that integrates Builder.io into your Magento store, enabling you to manage CMS pages and category headings effortlessly with Builder.io's visual editor. It is compatible with Hyvä Themes without requiring additional compatibility modules.
-* [Catalog Data AI](https://github.com/mage-os-lab/module-catalog-data-ai) - Generate product descriptions and similar content with the help of AI.
 * [Catalog Images Lazy Load](https://github.com/magepal/magento2-catalog-lazy-load) - Improves page loading time and Google Page Ranking by only loading product images as the user scrolls. 
 * [Change Customer Password In Admin](https://github.com/tuyennn/magento2-change-customer-password) - This extension allows the admin to change the customer's password directly, like old-fashion way Magento 1.
 * [CheckoutTester module for Magento 2](https://github.com/yireo/Yireo_CheckoutTester2) - A simple extension to preview the checkout success-page at any time.
@@ -584,6 +586,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 
 ### Mage-OS
 
+* [Catalog Data AI](https://github.com/mage-os-lab/module-catalog-data-ai) - Generate product descriptions and similar content with the help of AI.
 * [Mage-OS PageBuilder Widget ](https://github.com/mage-os-lab/module-page-builder-widget) - A Mage-OS extension that introduces a new PageBuilder component to allow inserting and configuring existing CMS widgets directly within the Page Builder.
 * [Magento Asynchronous Events](https://github.com/mage-os/mageos-async-events) - This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.
 * [MageOS Automatic Translation Module for Magento](https://github.com/mage-os-lab/module-automatic-translation) - Developed by the Italians 🤌 from the Mage-OS community, this extension enables AI-driven automatic translation of Magento store content, including products, categories, pages, and static blocks. It integrates natively with translation engines like DeepL, OpenAI, and Google Gemini and can be extended to support additional services. This module streamlines multilingual content management, enhancing the global reach of a Magento store.
@@ -757,10 +760,8 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
 * [Fishpig's Magento Tutorials](https://fishpig.co.uk/magento/tutorials/)
 * [Fix the order item list in customized order/invoice email templates](https://gist.github.com/peterjaap/6dc68f12a9ce38f6d826ada89747fa3f) - A set of queries that fix the order item list in customized order/invoice email templates.
-* [Getting started with the Mage-OS distribution](https://www.yireo.com/blog/2023-11-24-getting-started-with-mage-os) - A quick guide of how to start using Mage-OS distribution.
 * [How to Deploy a Magento 2 Project](https://deployer.org/docs/7.x/recipe/magento2) - A Deployer 7.x recipe for deploying a Magento 2 project.
 * [List of all dispatched events](https://cyrillschumacher.com/magento-2.4-list-of-all-dispatched-events/) - A cheat sheet that lists all dispatched events in Magento 2.4.
-* [Mage-OS migration shell script](https://gist.github.com/peterjaap/35854ea3bb470c8ac03275f042496026) - This script can be used to move from Magento Community Edition to Mage-OS. It updates your composer.json file and your local patches.
 * [Mage2DB.com](https://mage2db.com/) - Magento 2.x Learning & Knowledge & Troubleshooting
 * [Magentip](https://magentip.com/) - Magento 2 tutorials, reviews, and fixes.
 * [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
@@ -781,6 +782,11 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [The Ultimate Magento 2 Tutorial](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
 * [The Ultimate Magento Launch Checklist for Adobe Commerce & Magento Open Source](https://www.rixxo.com/the-ultimate-magento-launch-checklist/) - A collection of over 500 checkpoints to be tested before launching an e-commerce site.
 * [Tjitse Efdé’s public gists](https://gist.github.com/Tjitse-E) - A collection of useful gists from Tjitse Efdé
+
+### Mage-OS
+
+* [Getting started with the Mage-OS distribution](https://www.yireo.com/blog/2023-11-24-getting-started-with-mage-os) - A quick guide of how to start using Mage-OS distribution.
+* [Mage-OS migration shell script](https://gist.github.com/peterjaap/35854ea3bb470c8ac03275f042496026) - This script can be used to move from Magento Community Edition to Mage-OS. It updates your composer.json file and your local patches.
 
 ## Podcasts
 
