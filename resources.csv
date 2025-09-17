@@ -18,7 +18,7 @@ Other Resources,,GravDept’s Magento 2 Manuals,https://manuals.gravitydept.com/
 Other Resources,,Mage Mastery,https://magemastery.net/,Learning resources for Magento 2 developers
 Other Resources,,The Magento Guidebook,https://jetrails.com/blog/the-magento-terms-glossary-guide/,A Glossary of Magento Terms and Phrases
 Other Resources,,ExtDN Resources,https://extdn.org/resources/,Resources that help improve the ecosystem of Magento extensions.
-Other Resources,,Mage-OS DevDocs,https://devdocs.mage-os.org/,Mage-OS Developer Guide
+Other Resources,Mage-OS,Mage-OS DevDocs,https://devdocs.mage-os.org/,Mage-OS Developer Guide
 Other Resources,,PackageMaven – Magento Modules,https://package-maven.com/,"A platform that offers a collection of Magento modules, allowing users to explore their installation statistics, latest release information, and open issues. The site includes test results for each extension with Magento and opportunities for users to contribute to developing these modules."
 Other Resources,,Mage Mastery’s Best Magento Extensions,https://www.magemastery.net/best-magento-extensions,A selected list of Magento packages gathered by Mage Mastery.
 Other Resources,,Magento 2 Developer Roadmap,https://roadmap.sh/r/magento-2-developer-401qn,"This roadmap created by Peter Jaap Blaakmeer provides a comprehensive roadmap for becoming a Magento 2 developer. It outlines the essential skills, tools, and technologies to master Magento 2 development. It offers a structured learning path for beginners and professionals seeking to enhance their expertise in this e-commerce platform."
@@ -113,8 +113,8 @@ Tools,Free,JS Layout Parser,https://github.com/pragmatic-modules/jslayout-parser
 Tools,Free,Aligent Magento Integration and API Functional Testing Pipe,https://github.com/aligent/magento-integration-test-pipe,A bitbucket pipe for running Magento integration and API functional tests  designed to be run parallelly so you can leverage bitbucket parallel steps.
 Tools,Free,Magento 2 Model Generator,https://github.com/michielgerritsen/magento2-model-generator,"With this app, you can create models for Magento 2 very fast. Ready-to-use on https://www.model-generator.com/"
 Tools,Free,MagentoApiClient,https://github.com/rantalainen/magento-api-client,A third-party Magento API client for Node.js and TypeScript.
-Tools,Free,Mage-OS Database Changelog Generator,https://github.com/EcomDev/mage-os-database-changelog,A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.
-Tools,Free,List PHP Class Dependencies,https://github.com/mage-os/php-dependency-list,A simple tool to list PHP classes referenced in a given set of files
+Tools,Mage-OS,Mage-OS Database Changelog Generator,https://github.com/EcomDev/mage-os-database-changelog,A tool that connects to MySQL as a replication service and aggregates updates into database tables into easy to use event aggregates.
+Tools,Mage-OS,List PHP Class Dependencies,https://github.com/mage-os/php-dependency-list,A simple tool to list PHP classes referenced in a given set of files
 Tools,Free,Magento Composer Replacement Tool,https://github.com/yireo/magento2-replace-tools,A repository that offers a composer plugin to help you manage composer replacements in your root composer.json.
 Tools,Free,GdprDump,https://github.com/Smile-SA/gdpr-dump,"A tool that provides a command that creates anonymized dumps of a MySQL database, in order to comply with GDPR regulations."
 Tools,Mage-OS,Mage-OS Module Template,https://github.com/mage-os-lab/mageos-module-template,A template from Mage-OS labs that can be used when developing a new extension.
@@ -361,7 +361,7 @@ Extensions,Hyvä,Yireo HyvaCheckoutPostcodeValidator,https://github.com/yireo/Yi
 Extensions,,MageWire Backend module for Magento 2,https://github.com/michielgerritsen/magewire-backend,A module that supplies Magewire compatibility for the Magento Admin Panel. Built on top of the Magewire core (with RequireJS support).
 Extensions,,Admin Redis Report,https://github.com/element119/module-admin-redis-report,A module that allows to visualise historic Redis health statistics in the Admin Panel.
 Extensions,,Event Thing for Magento 2,https://github.com/cmtickle/module-event-thing,A module that enables the logic/integration touch points of Magento Plugins & Observers to be handled outside the core Magento application.
-Extensions,,Catalog Data AI,https://github.com/mage-os-lab/module-catalog-data-ai,Generate product descriptions and similar content with the help of AI.
+Extensions,Mage-OS,Catalog Data AI,https://github.com/mage-os-lab/module-catalog-data-ai,Generate product descriptions and similar content with the help of AI.
 Extensions,,Image Cleanup module for Magento 2,https://github.com/baldwin-agency/magento2-module-image-cleanup,This extension gives options to delete unused product images from the disk to recover some space.
 Extensions,,M2 Magewire with Breeze theme Module,https://github.com/olivertar/magewire-breeze,An extension that allows you to use Magewire with Breeze theme.
 Extensions,,"CustomGento_Cookiebot
@@ -664,11 +664,11 @@ Quickies & Tutorials,,Fix the order item list in customized order/invoice email 
 Quickies & Tutorials,,NGINX – Magento 2 Static files optimization,https://gist.github.com/JeroenBoersma/6ece510192ce4292c79d010284544c56,An Nginx configuration of Magento that optimizes the handling of static files with Varnish.
 Quickies & Tutorials,,DDEV configuration for Magento 2,https://github.com/jellesiderius/ddev-magento2-setup,A step-by-step guide for setting up DDEV for Magento 2.
 Quickies & Tutorials,,How to Deploy a Magento 2 Project,https://deployer.org/docs/7.x/recipe/magento2,A Deployer 7.x recipe for deploying a Magento 2 project.
-Quickies & Tutorials,,Getting started with the Mage-OS distribution,https://www.yireo.com/blog/2023-11-24-getting-started-with-mage-os,A quick guide of how to start using Mage-OS distribution.
+Quickies & Tutorials,Mage-OS,Getting started with the Mage-OS distribution,https://www.yireo.com/blog/2023-11-24-getting-started-with-mage-os,A quick guide of how to start using Mage-OS distribution.
 Quickies & Tutorials,,Magento 2 Less Diagram,https://github.com/adexandros/magento2-less-diagram,A diagram by Andrea D’Urso to help understand how Magento less import and compilation work.
 Quickies & Tutorials,,Magento Kubernetes - A complete guide,https://clickandmortar.github.io/magento-kubernetes/,A getting started guide to easily deploy Magento / Adobe Commerce on Kubernetes
 Quickies & Tutorials,,Automatically create Magento's csp_whitelist.xml file,https://www.linkedin.com/pulse/automatically-create-magentos-cspwhitelistxml-file-kieckbusch-stlqc/,Henrique Kieckbusch's recipe will help you easily create Magento's csp_whitelist.xml.
-Quickies & Tutorials,,Mage-OS migration shell script,https://gist.github.com/peterjaap/35854ea3bb470c8ac03275f042496026,This script can be used to move from Magento Community Edition to Mage-OS. It updates your composer.json file and your local patches.
+Quickies & Tutorials,Mage-OS,Mage-OS migration shell script,https://gist.github.com/peterjaap/35854ea3bb470c8ac03275f042496026,This script can be used to move from Magento Community Edition to Mage-OS. It updates your composer.json file and your local patches.
 Podcasts,English,The JetRails Podcast,https://jetrails.com/podcast/,The JetRails Podcast for the Ecommerce Community
 Podcasts,English,MageTalk,https://magetalk.com/,A Magento Podcast
 Podcasts,English,Core of Commerce,https://twitter.com/CoreOfCommerce,Core of Commerce equips you with cutting-edge knowledge to help you achieve and exceed your digital commerce goals
