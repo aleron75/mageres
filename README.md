@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![775 resources](https://img.shields.io/badge/resources-775-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![783 resources](https://img.shields.io/badge/resources-783-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -55,9 +55,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 	* [English](#english-1)
 	* [Portuguese](#portuguese-1)
 * [Newsletters & Digests](#newsletters--digests)
-	* [English](#english-2)
 * [Screencasts](#screencasts)
-	* [English](#english-3)
+	* [English](#english-2)
 	* [Russian](#russian)
 * [Communities](#communities)
 	* [Argentina](#argentina)
@@ -222,6 +221,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MageSuite](https://magesuite.io/) - A collection of OpenSource modules that enhance several Magento 2 capabilities (CMS, Performance, Security, Search, Marketin, UX)
 * [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker/anonymizer tool
 * [Media Downloader Tool](https://github.com/EcomDev/download-magento-images-rs) - A Rust-based CLI utility by EcomDev that efficiently downloads product images from a Magento store. It's designed for performance and speed, making it ideal for migrating or backing up large image sets from remote Magento instances.
+* [Migration Tool for Adobe Commerce to Magento Open Source](https://github.com/opengento/magento2-downgrade-ee-ce) - A tool that helps developers convert projects based on Adobe Commerce (a.k.a Magento Enterprise Edition) to Magento Open Source (a.k.a. Community Edition) by removing Enterprise-only modules and adjusting dependencies.
 * [MRM Commerce Magento 2 Coding Standard](https://github.com/mrm-commerce/magento-coding-standard-phpcs) - A set of PHP Code Sniffer rules meant to ensure or increase the code quality of Magento 2 projects.
 * [netz98 magerun2 addons by Elgentos](https://github.com/elgentos/magerun2-addons) - Some additional commands for the excellent m98-magerun2 Magento 2 command-line tool.
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
@@ -337,6 +337,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
 * [Dark Mode for Admin Panel](https://github.com/enanobots/m2-admin-darkmode) - A dark mode theme for Magento Admin Panel.
 * [Data Faker For Magento 2](https://github.com/experius/Magento-2-Module-Experius-FakeMyData) - Replaces existing customer data for fake/anonymous data.
+* [DeployEcommerce Admin Password Restrictions](https://github.com/DeployEcommerce/module-admin-password-restrictions) - This extension adds stricter security rules to admin passwords. It enforces configurable requirements such as minimum length, character variety, and reuse restrictions to enhance backend account protection.
 * [DevAll_TableRates Module](https://github.com/developersalliance/module-table-rates) - This extension enhances the default Magento functionality for managing shipping table rates by providing a user-friendly interface for viewing and managing table rates.
 * [Devall_Wholesale](https://github.com/developersalliance/module-wholesale) - This extension allows the showcase of all simple products in a table grid view, facilitating customers' selection of all their desired items at once.
 * [DevDashboard2](https://github.com/magento-hackathon/DevDashboard2) - The DevDashboard2 project is a developer-focused dashboard for Magento 2, created during a Magento Hackathon. It provides a centralized interface to access and manage useful developer tools, logs, caches, indexes, and system information. Its goal is to streamline the developer experience by offering quick access to common Magento 2 backend functions in a user-friendly way.
@@ -370,6 +371,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in the config.
 * [Fooman Email Attachments](https://github.com/fooman/emailattachments-m2) - This module allows you to automatically attach transactional PDF documents to Magento 2 sales emails
 * [Galactic Labs - Customer Group Payment Filters](https://github.com/galacticlabs/customer-group-payment-filters) - Magento 2 extension to exclude payment methods for selected customer groups.
+* [Gene Commerce New Relic RUM Page Type](https://github.com/genecommerce/module-newrelic-rum-page-type/) - Enhances New Relic Real User Monitoring by tagging Magento pages with their specific type (e.g., product, category, checkout). This helps generate clearer performance insights and better segmentation in New Relic dashboards.
 * [Google Tag Manager with Advance Data Layer](https://github.com/magepal/magento2-google-tag-manager) - The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.
 * [Goomento Page Builder](https://github.com/Goomento/PageBuilder) - A free Magento Page Builder extension that allows you to efficiently set up your website by simply dragging and dropping manipulation
 * [Humans.txt for Magento 2](https://github.com/magegang/m2-humanstxt) - This extension enables you to add a humans.txt to your Magento 2 and manage its content through the Admin Panel.
@@ -445,6 +447,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 FAQ extension](https://github.com/landofcoder/module-faq) - The extension will help you to set up nice informative & SEO-friendly magento 2 FAQ page.
 * [Magento2 Flysystem](https://github.com/flagbit/Magento2-Flysystem) - Integrate Flysystem for local and remote filesystems into Magento2.
 * [Magento 2 fraud protection extension by Riskified](https://github.com/Riskified/magento2new) - This extension allows for automatic and/or manual submission of purchase orders to Riskified for fraud review and guarantee.
+* [Magento 2 Free Cache Warmer](https://github.com/wubinworks/magento2-free-cache-warmer) - Automatically warms up your store’s cache by visiting pages after cache flushes or invalidations. This helps ensure that customers always experience fast page loads, rather than waiting for Magento to regenerate the cache on their first visit. It improves overall site performance and user experience with minimal setup.
 * [Magento 2 FREE SEO Suite](https://github.com/MagePsycho/magento2-seo-suite) - This extension optimizes SEO strategies for your e-commerce store.
 * [Magento 2 Frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js
 * [Magento2 Generator CLI](https://github.com/MasterZydra/Magento2-Gen-CLI) - This extension introduces Laravel-like CLI commands to Magento 2, simplifying the creation of modules, controllers, blocks, commands, and helpers, reducing the need for manual configuration, and enhancing developer productivity.
@@ -523,6 +526,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MarkShust_SimpleData](https://github.com/markshust/magento2-module-simpledata) - A module that simplifies calling Magento data structures and provides a SimpleDataPatch class which simplifies writing data patch scripts.
 * [MarkShust_SpecialRouter](https://github.com/markshust/magento2-module-specialrouter) - This extension provides the ability to use special characters in controller or action names.
 * [MarkShust_Twilio](https://github.com/markshust/magento2-module-twilio) - Sends SMS messages in response to Magento events.
+* [Meilisearch / Magento 2 (Adobe Commerce)](https://github.com/walkwizus/magento2-module-meilisearch) - An extension to integrate Meilisearch, a fast and lightweight search engine. It replaces the default catalog search, enhancing search speed, relevance, and UX. The module syncs product data with Meilisearch and provides configurable settings for indexing and searching.
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) - A dev toolbar that shows all important information for performance optimization and Magento development.
 * [Module-encryption-key-manager](https://github.com/genecommerce/module-encryption-key-manager) - This extension was built to help with the CosmicSting attack, which affected many Magento/Adobe Commerce stores. It does not conflict with the Adobe hotfixes and provides additional tooling and improvements.
 * [Module for integrating BuilderIO/partytown library into Magento 2](https://github.com/rostilos/perspective-partytown) - Module for integrating BuilderIO/partytown library into Magento 2
@@ -534,6 +538,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [MX Phinx Migrations](https://github.com/inviqa/MX_PhinxMigrations) - Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments.
 * [N98_Guillotine](https://github.com/netz98/headless-guillotine) - A simple but useful module to disable frontend requests to implement a headless approach.
 * [OAuth Security Plus for Magento 2](https://github.com/Hawksama/module-oauth-security-plus) - This extension ensures that only requests originating from trusted IP addresses can create admin tokens, mitigating the risk of unauthorised API access.
+* [OpenGento Magento2 Registration Plugin](https://github.com/opengento/magento2-registration-plugin) - A Composer plugin that adds a global registration.php that replaces the default glob search performed for each request to discover the components not installed from composer.
 * [Optimize Cache Size](https://github.com/Vendic/module-optimize-cache-size) - This extension helps manage and reduce the size of cache storage to improve performance and resource usage. It provides tools to clean, trim, and optimize cache entries, preventing cache bloat and ensuring that the Magento store runs efficiently by keeping cache size under control.
 * [Performance Dashboard Extension for Magento 2](https://github.com/magehost/performance-dashboard) - An extension that adds a screen to the Admin Panel to get a clear overview of areas where the performance of your Magento 2 can be improved.
 * [Phoenix Media Storage Sync](https://github.com/PHOENIX-MEDIA/magento2-mediastoragesync) - An easy way to retrieve files in media from an origin server to a local development environment.
@@ -623,6 +628,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Catalog Data AI](https://github.com/mage-os-lab/module-catalog-data-ai) - Generate product descriptions and similar content with the help of AI.
 * [Mage-OS MaxMind GeoIP Redirect](https://github.com/mage-os-lab/module-maxmind-geoip-redirect) - This extension integrates MaxMind’s GeoIP database with Magento, allowing automatic redirection of customers to specific store views or URLs based on their geographic location.
 * [Mage-OS PageBuilder Widget ](https://github.com/mage-os-lab/module-page-builder-widget) - A Mage-OS extension that introduces a new PageBuilder component to allow inserting and configuring existing CMS widgets directly within the Page Builder.
+* [Mage-OS Theme Optimization](https://github.com/mage-os-lab/module-theme-optimization) - Streamlines Magento 2 storefront performance by removing unused layout, CSS, and JS elements. It helps reduce page size, improves load speed, and enhances Core Web Vitals for a faster, more efficient shopping experience.
 * [Magento Asynchronous Events](https://github.com/mage-os/mageos-async-events) - This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.
 * [MageOS Automatic Translation Module for Magento](https://github.com/mage-os-lab/module-automatic-translation) - Developed by the Italians 🤌 from the Mage-OS community, this extension enables AI-driven automatic translation of Magento store content, including products, categories, pages, and static blocks. It integrates natively with translation engines like DeepL, OpenAI, and Google Gemini and can be extended to support additional services. This module streamlines multilingual content management, enhancing the global reach of a Magento store.
 * [MageOS PageBuilder Templates Import/Export Module for Magento](https://github.com/mage-os-lab/module-pagebuilder-template-import-export) - This extension enhances Magento's PageBuilder by enabling the import and export of templates between different instances. Administrators can manage templates via the admin panel or command-line interface, facilitating efficient content replication across environments. Additionally, the module supports integration with Dropbox, allowing templates to be imported directly from configured Dropbox repositories. This functionality streamlines content management and promotes consistency across multiple Magento installations.
@@ -843,17 +849,15 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 ## Newsletters & Digests
 
 * [Atwix MageNews](https://www.atwix.com/tag/magenews/) - A selection of the most interesting and important topics that popped up in Magento Community
+* [Commerce Jam](https://www.linkedin.com/newsletters/commerce-jam-7257037660106448896/) - A monthly LinkedIn newsletter curated by Gentian Shero, co-founder of Shero Commerce, focusing on digital marketing and industry insights to help eCommerce businesses grow.
 * [Jigar Karangiya’s newsletter](https://jigarkarangiya.com/newsletter/) - Tips, tricks, and tutorials related to Magento 2, Cloud, and B2C customizations by Jigar Karangiya directly in your mailbox.
 * [Mage Dispatch](https://www.magedispatch.com/) - Mage Dispatch is a newsletter for and by the community. Here, you can share links you think the community should know about. The links will be included in the following newsletter.
 * [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?filter=location&q=%23MagentoMonday%7C%23MagentoTuesday&advanced=true&location=forum-board:newsannouncements&sort_by=-topicPostDate&collapse_discussion=true&search_type=thread) - #MagentoMonday (sometimes #MagentoTuesday) Community Digest by [@sherrierohde](https://twitter.com/sherrierohde). You can submit your content here: https://docs.google.com/forms/d/e/1FAIpQLSfXNbNQ0WZ5pK-zPA0Uw9SC3uRQv3SRFZIdunPKqd27CznVGQ/viewform
 * [Magento Ecosystem](https://t.me/magentoecosystem) - Telegram channel by Firebear Studio. Best content from Magento world, curated materials from trusted blogs, Twitter, Reddit and more! Everything you need to know about Magento ecosystem as developer, SI or merchant.
 * [Mageres](https://mailchi.mp/6a498018d9ef/mageres) - A hand-curated monthly newsletter collecting useful Magento resources.
 * [M Bytes Newsletter](https://m.academy/newsletter/) - A weekly developer newsletter from M.academy that delivers three free video lessons every Thursday. It offers fresh, concise content to enhance your development skills.
+* [The Agentic Commerce Guy](https://www.linkedin.com/newsletters/the-platform-independent-7343682760978460672/) - A weekly vendor-neutral LinkedIn newsletter on agentic commerce, AI agents, and autonomous e-commerce systems transforming platforms.
 * [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko
-
-### English
-
-* [Commerce Jam](https://www.linkedin.com/newsletters/commerce-jam-7257037660106448896/) - A monthly LinkedIn newsletter curated by Gentian Shero, co-founder of Shero Commerce, focusing on digital marketing and industry insights to help eCommerce businesses grow.
 
 ## Screencasts
 
