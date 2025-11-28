@@ -530,6 +530,7 @@ Extensions,,Magento 2 Read/Write Database Split Module,https://github.com/furan9
 Extensions,,Coupon Error Message,https://github.com/ambab-infotech/coupon-error-message,"A Magento 2 extension that shows specific error messages when a coupon fails, instead of the generic “Coupon code is not valid.”"
 Extensions,Hyvä,In Store Pickup Delivery - Payment Restrictions (Hyvä Checkout),https://github.com/magenable/module-pickup-payment-restriction,This module allows you to restrict payment methods for In Store Pickup Delivery on Hyva checkout page.
 Extensions,,Vendic Admin Product Grid Category Filter,,This extension adds a category filter to the product grid in the Magento 2 Admin Panel.
+Extensions,,Basecom Speculation Rules Toolbox,https://github.com/basecom/magento2-speculation-rules-toolbox,This module provides extensive functionality for utilizing the Speculation Rules API that can vastly improve the core web vitals of a website.
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
