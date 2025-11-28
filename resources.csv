@@ -141,6 +141,7 @@ Tools,Free,Magento 2 Non-Composer Registration Plugin,https://github.com/perfcom
 Tools,Free,Magento 2 UI Library,https://github.com/rafaelstz/Magento-2-UI-library,"A collection of reusable UI components, layouts, and design elements for building consistent Magento 2 admin and frontend interfaces. It serves as a visual reference and developer resource to streamline UI development, helping teams quickly design and implement Magento-styled user interfaces."
 Tools,Free,Blazingly fast mysql2jsonl,https://github.com/EcomDev/mysql-to-jsonl,A tool that provides an efficient way to export data from a MySQL database to JSONL (JSON Lines) files and to import data back into a database from these files. It is highly configurable and optimized for performance with concurrency and batching in mind!
 Tools,Free,Table Rates Generator,https://www.tableratesgenerator.com/,A web-based shipping table rates generator for Magento 2.
+Tools,Free,Create Project,https://github.com/GrimLink/create-project,A small CLI scaffolding tool that helps you spin up new projects for popular web platforms from your terminal.
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/l/commerce-bug-three,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
