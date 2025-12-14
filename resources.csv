@@ -143,7 +143,6 @@ Tools,Free,Blazingly fast mysql2jsonl,https://github.com/EcomDev/mysql-to-jsonl,
 Tools,Free,Table Rates Generator,https://www.tableratesgenerator.com/,A web-based shipping table rates generator for Magento 2.
 Tools,Free,Create Project,https://github.com/GrimLink/create-project,A small CLI scaffolding tool that helps you spin up new projects for popular web platforms from your terminal.
 Tools,Commercial with freemium/trial,Mage2Gen,https://mage2gen.com/,Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
-Tools,Commercial with freemium/trial,Commerce Bug,https://store.pulsestorm.net/l/commerce-bug-three,Magento debugging extension for both Magento 1 and 2
 Tools,Commercial with freemium/trial,MageCloud,https://www.magecloud.net/,Allows store owners and developers to deploy Magento instances automatically
 Tools,Commercial with freemium/trial,Beeline,https://m.academy/beeline-magento-2-phpstorm/,"This PhpStorm plugin allows us to create entire files, classes & blocks with just a few keystrokes."
 Tools,Commercial with freemium/trial,Tinkerwell,https://tinkerwell.app/,A desktop application that allows you to run PHP code.  it includes Magento drivers.
