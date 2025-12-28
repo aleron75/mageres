@@ -150,6 +150,7 @@ Tools,Commercial with freemium/trial,Tinkerwell,https://tinkerwell.app/,A deskto
 Tools,Commercial with freemium/trial,RESP.app,https://resp.app/,Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
 Tools,Commercial with freemium/trial,PhpStorm Plugin by Atwix,https://stormplugin.atwix.com/,This tool is meant to help software engineers build and efficiently maintain software solutions in Magento projects with both free and paid features.
 Tools,,Qoliber - Magerun,https://github.com/qoliber/magerun,A set of Magerun additional commands for DB dumping with data trimming and performance optimization.
+Tools,,Magento 2 Block HTML Hints Inspector,https://github.com/elgentos/magento2-html-hints-chrome-extension,A Chrome extension that displays Magento block information on hover without opening DevTools.
 Security,,Official Magento Security Center,https://helpx.adobe.com/security.html,"The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes"
 Security,,MageReport.com,https://www.magereport.com/,Scan your Magento shop for known security vulnerabilities
 Security,,Magento Malware Scanner,https://github.com/gwillem/magento-malware-scanner,"Scanner, signatures and the largest Magento malware collection on earth"
