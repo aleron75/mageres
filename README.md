@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![799 resources](https://img.shields.io/badge/resources-799-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![804 resources](https://img.shields.io/badge/resources-804-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -152,6 +152,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## Tools
 
+* [Magento 2 Block HTML Hints Inspector](https://github.com/elgentos/magento2-html-hints-chrome-extension) - A Chrome extension that displays Magento block information on hover without opening DevTools.
 * [Qoliber - Magerun](https://github.com/qoliber/magerun) - A set of Magerun additional commands for DB dumping with data trimming and performance optimization.
 
 ### Commercial with freemium/trial
@@ -219,6 +220,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [MagentoGPT](https://chat.openai.com/g/g-2jh24mY9U-magento-gpt) - Magento AI expert designed to help you with module, theme, and CLI in Magento and Adobe Commerce
 * [Magento Root Update Composer plugin](https://github.com/magento/composer-root-update-plugin) - A Composer plugin that resolves changes that need to be made to the root project composer.json file before updating to a new Magento product requirement.
 * [Magento Semantic Version Checker](https://github.com/magento/magento-semver) - A tool to determine semantic versioning changes and backward incompatible changes between two sources.
+* [Magento Static Content Deployer (Go)](https://github.com/elgentos/magento2-static-deploy) - An experimental high-performance static content deployment tool written in Go that significantly accelerates Magento 2 static asset deployment by leveraging true parallelisation and efficient file I/O.
 * [Magento Toolbox](https://github.com/magebitcom/magento-toolbox) - A developer-focused extension for Visual Studio Code and Cursor, that offers a suite of tools for code generation, inspection, and utility functions, enhancing productivity and code quality.​
 * [Magento utilities Tap for Homebrew](https://github.com/fballiano/homebrew-mageutils)
 * [Magerun Performance Review](https://github.com/florinel-chis/n98-magerun2-performance-review) - This is a plugin for the Magerun CLI tool that analyses a Magento 2 store’s performance. It provides detailed reports on potential bottlenecks, misconfigurations, and optimisation opportunities across areas like caching, indexing, and server setup.
@@ -410,6 +412,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Limit Guest Checkout Coupon Code](https://github.com/magepal/magento2-coupon-limit-guest-checkout) - This extension restricts the maximum use of coupons for guest checkout.
 * [LiqPay Extension for Magento 2](https://github.com/mcspronko/liqpay-magento2) - This extension adds LiqPay payment integration to Magento 2.
 * [M2 Magewire with Breeze theme Module](https://github.com/olivertar/magewire-breeze) - An extension that allows you to use Magewire with Breeze theme.
+* [Mage-OS EAV Debug Views](https://github.com/mage-os-lab/module-eav-debug-views) - A developer utility module for Magento 2.4.x that creates database views aggregating EAV entity data with attribute values in JSON format.
 * [Mage2 Module Experius WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads) - This extension makes it possible to upload different filetypes inside the WYSIWYG-editor.
 * [MageBundle](https://github.com/ctasca/mage-bundle) - Easily create Magento2/AdobeCommerce PHP/XML/JS module's files from a set of templates via the bin/magento command and allows you to create and use your own templates.
 * [Magehook](https://github.com/wpoortman/magehook) - This extension adds an abstraction layer to create and dispatch custom webhooks for Magento 2.
@@ -596,6 +599,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Yireo DumpCmsContent](https://github.com/yireo/Yireo_DumpCmsContent) - A Magento 2 module that adds a CLI bin/magento cms:dump to dump all CMS pages and CMS blocks to a folder var/cms-output.
 * [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker) - Magento 2 module to check upon the code of Magento 2 modules from the CLI
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
+* [Yireo HtmlHints](https://github.com/yireo/Yireo_HtmlHints) - A simple Magento 2 module that adds HTML hints (HTML comments <!-- -->) to a page's HTML output, providing details about the rendered block or container.
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
 * [Yireo ThemeCommands](https://github.com/yireo/Yireo_ThemeCommands) - CLI commands to manage themes from the command-line
 * [Yireo ThemeOverrideChecker](https://github.com/yireo/Yireo_ThemeOverrideChecker) - Magento module to find all files of a given Magento theme (for example Magento/luma), compare the found files with the parent theme (and/or modules) and return whether there are differences or not.
@@ -987,6 +991,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Madock](https://github.com/faradey/madock) - A local Docker-based PHP environment that supports Magento2 other than custom projects.
 * [Mage2click Docker Magento](https://github.com/mage2click/m2c) - Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 * [Mage2Docker](https://github.com/graycoreio/mage2docker) - An opinionated, performant, replicable, and production-like Magento 2 local development environment that leverages Docker.
+* [MageBox](https://magebox.dev/) - A fast, native development environment specifically designed for streamlining the setup and management of Magento development projects.
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) - A collection of Docker images for running Magento 2 through nginx and on the command line
 * [Magento 2 Dockergento](https://github.com/ModestCoders/magento2-dockergento) - Magento 2 docker setup for development optimized for Mac
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) - Docker image optimized to develop on Mac, Windows, and Linux
