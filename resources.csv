@@ -1,7 +1,6 @@
 Official Resources,,Magento Blog,https://business.adobe.com/blog/tags/commerce,"Get the latest news, tips and advice for maximizing your online store."
 Official Resources,,Adobe Commerce Documentation,https://experienceleague.adobe.com/docs/commerce.html,Adobe Commerce product and technical documentation home page.
 Official Resources,,Magento 2 code repository,https://github.com/magento/magento2,Official Magento 2 GitHub repository
-Official Resources,,Magento DevBlog,https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog,The official Magento developers blog
 Official Resources,,Magento 2.x User Guide,https://docs.magento.com/user-guide/,Merchant-focused documentation for both Magento Commerce and Magento Open Source
 Official Resources,,Beginner's Guide to Contribution,https://github.com/magento/magento2/wiki/Getting-Started,All you have to know to start contributing to Magento.
 Official Resources,,README template for Magento modules,https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3,
@@ -708,7 +707,6 @@ Podcasts,English,Talk Commerce,https://talk-commerce.com/podcasts/,Brent Peterso
 Podcasts,Dutch,Dutchento Experts Podcast,https://www.dutchento.org/podcast,E-commerce experts and retailers interviews by Dutchento. Some episodes are recorded in English.
 Podcasts,Portuguese,Discorgento,https://discorgento.com/,"Tech Community discussing Magento, JavaScript, PHP, MySQL, React, and Vue."
 Newsletters & Digests,,The Devletter,https://www.maxpronko.com/the-devletter/,Free weekly email digest by Max Pronko
-Newsletters & Digests,,Magento Community Digest,https://community.magento.com/t5/forums/searchpage/tab/message?filter=location&q=%23MagentoMonday%7C%23MagentoTuesday&advanced=true&location=forum-board:newsannouncements&sort_by=-topicPostDate&collapse_discussion=true&search_type=thread,#MagentoMonday (sometimes #MagentoTuesday) Community Digest by [@sherrierohde](https://twitter.com/sherrierohde). You can submit your content here: https://docs.google.com/forms/d/e/1FAIpQLSfXNbNQ0WZ5pK-zPA0Uw9SC3uRQv3SRFZIdunPKqd27CznVGQ/viewform
 Newsletters & Digests,,Atwix MageNews,https://www.atwix.com/tag/magenews/,A selection of the most interesting and important topics that popped up in Magento Community
 Newsletters & Digests,,Mageres,https://mailchi.mp/6a498018d9ef/mageres,A hand-curated monthly newsletter collecting useful Magento resources.
 Newsletters & Digests,,Magento Ecosystem,https://t.me/magentoecosystem,"Telegram channel by Firebear Studio. Best content from Magento world, curated materials from trusted blogs, Twitter, Reddit and more! Everything you need to know about Magento ecosystem as developer, SI or merchant."
@@ -740,7 +738,6 @@ Screencasts,English,Yireo On-Demand training,https://www.yireo.com/education/ond
 Screencasts,English,Another Magento Dev,https://www.youtube.com/channel/UC1sw8JiCquPamqlBDmFYB9w,Another Magento Dev YouTube’s Channel
 Screencasts,English,Gitpod for Magento & Adobe Commerce Development,https://develo.teachable.com/p/mastering-gitpod-for-magento-2-development,Gain the knowledge needed to start using a Cloud Development Environment on Gitpod.
 Screencasts,English,Oleksandr (Alex) Lyzun’s YouTube channel,https://www.youtube.com/@nuzil,"In his videos, Alex explores the ins and outs of building robust e-commerce platforms, sharing challenges, solutions, and inspiring stories along the way."
-Communities,Online,Magento Forum,https://community.magento.com/,"The ""brand new"" Magento forum"
 Communities,Online,Magento Stack Exchange,https://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform
 Communities,Online,Reddit,https://www.reddit.com/r/Magento/,Magento Sub-Reddit
 Communities,Online,Magento Community Portal,https://developer.adobe.com/open/magento,Join thousands of community developers working on different projects
