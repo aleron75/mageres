@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![805 resources](https://img.shields.io/badge/resources-805-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![802 resources](https://img.shields.io/badge/resources-802-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -86,7 +86,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Merchant Documentation](https://docs.magento-opensource.com/) - The main merchant documentation hub for Magento Open Source.
 * [Magento 2.x User Guide](https://docs.magento.com/user-guide/) - Merchant-focused documentation for both Magento Commerce and Magento Open Source
 * [Magento Blog](https://business.adobe.com/blog/tags/commerce) - Get the latest news, tips and advice for maximizing your online store.
-* [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
 * [Magento Translation Projects](https://github.com/magento-l10n/i18n) - This is a home repository for all activities related to translation of Magento itself including all available editions and extensions developed by Magento, an Adobe Company and 3rd party Magento components.
 * [README template for Magento modules](https://gist.github.com/magento-docbot/dfb8cc7db6519da14fc92b890d49b7d3)
 * [Support Tools](https://support.magento.com/hc/en-us/categories/360004245632-Support-Tools) - An official list of support tools by Magento Help Center
@@ -875,7 +874,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Commerce Jam](https://www.linkedin.com/newsletters/commerce-jam-7257037660106448896/) - A monthly LinkedIn newsletter curated by Gentian Shero, co-founder of Shero Commerce, focusing on digital marketing and industry insights to help eCommerce businesses grow.
 * [Jigar Karangiya’s newsletter](https://jigarkarangiya.com/newsletter/) - Tips, tricks, and tutorials related to Magento 2, Cloud, and B2C customizations by Jigar Karangiya directly in your mailbox.
 * [Mage Dispatch](https://www.magedispatch.com/) - Mage Dispatch is a newsletter for and by the community. Here, you can share links you think the community should know about. The links will be included in the following newsletter.
-* [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?filter=location&q=%23MagentoMonday%7C%23MagentoTuesday&advanced=true&location=forum-board:newsannouncements&sort_by=-topicPostDate&collapse_discussion=true&search_type=thread) - #MagentoMonday (sometimes #MagentoTuesday) Community Digest by [@sherrierohde](https://twitter.com/sherrierohde). You can submit your content here: https://docs.google.com/forms/d/e/1FAIpQLSfXNbNQ0WZ5pK-zPA0Uw9SC3uRQv3SRFZIdunPKqd27CznVGQ/viewform
 * [Magento Ecosystem](https://t.me/magentoecosystem) - Telegram channel by Firebear Studio. Best content from Magento world, curated materials from trusted blogs, Twitter, Reddit and more! Everything you need to know about Magento ecosystem as developer, SI or merchant.
 * [Mageres](https://mailchi.mp/6a498018d9ef/mageres) - A hand-curated monthly newsletter collecting useful Magento resources.
 * [M Bytes Newsletter](https://m.academy/newsletter/) - A weekly developer newsletter from M.academy that delivers three free video lessons every Thursday. It offers fresh, concise content to enhance your development skills.
@@ -935,7 +933,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 
 * [MageChat](https://www.magechat.club/) - A private, invite-only community for eCommerce professionals.
 * [Magento Community Portal](https://developer.adobe.com/open/magento) - Join thousands of community developers working on different projects
-* [Magento Forum](https://community.magento.com/) - The "brand new" Magento forum
 * [Magento Stack Exchange](https://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [Reddit](https://www.reddit.com/r/Magento/) - Magento Sub-Reddit
 
