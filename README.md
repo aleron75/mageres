@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![812 resources](https://img.shields.io/badge/resources-812-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![811 resources](https://img.shields.io/badge/resources-811-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -758,7 +758,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Magenticians](https://magenticians.com/)
 * [Magently Blog](https://magently.com/blog/)
 * [Magento Fox Blog](https://adammoss.co.uk/magentofox/)
-* [MagePsycho](https://blog.magepsycho.com/category/magento2/)
 * [Magestore](https://blog.magestore.com/)
 * [MageVision](https://www.magevision.com/blog)
 * [MageWorx on Magento 2](https://www.mageworx.com/blog/magento-2/)
