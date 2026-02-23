@@ -159,7 +159,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Beeline](https://m.academy/beeline-magento-2-phpstorm/) - This PhpStorm plugin allows us to create entire files, classes & blocks with just a few keystrokes.
 * [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 * [MageCloud](https://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
-* [PhpStorm Plugin by Atwix](https://stormplugin.atwix.com/) - This tool is meant to help software engineers build and efficiently maintain software solutions in Magento projects with both free and paid features.
+* [PhpStorm Plugin by Atwix](https://plugins.jetbrains.com/plugin/20554-magento-and-adobe-commerce-phpstorm-by-atwix) - This tool is meant to help software engineers build and efficiently maintain software solutions in Magento projects with both free and paid features.
 * [RESP.app](https://resp.app/) - Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
 * [Tinkerwell](https://tinkerwell.app/) - A desktop application that allows you to run PHP code.  it includes Magento drivers.
 
