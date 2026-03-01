@@ -551,6 +551,7 @@ Extensions,Mage-OS,Mage-OS RMA,https://github.com/mage-os-lab/module-rma,A featu
 Extensions,Mage-OS,MageOS Newsletter Coupon Generator,https://github.com/mage-os-lab/module-newsletter-coupon,Allows you to generate a unique coupon for each newsletter subscriber. The coupon will be sent to the subscriber’s email after the subscription.
 Extensions,Hyvä,ProxiBlue Hyvä Global Loading,https://github.com/ProxiBlue/HyvaGlobalLoading,Adds a global loading indicator on any AJAX request to indicate that an action is in progress.
 Extensions,,Yireo Stock Management Cli,https://github.com/yireo/Yireo_StockManagementCli,A simple Magento 2 module to allow managing a products stock via the CLI.
+Extensions,,Yireo Tablerate Commands,https://github.com/yireo/Yireo_TablerateCommands,A Magento 2 module offering CLI commands to manipulate table rates.
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
