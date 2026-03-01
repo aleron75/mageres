@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![809 resources](https://img.shields.io/badge/resources-809-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![821 resources](https://img.shields.io/badge/resources-821-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -125,6 +125,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## Books
 
+* [AI-Driven Development with Magento: Your Toolkit Reimagined](https://www.goodreads.com/book/show/229227790-ai-driven-development-with-magento) - This comprehensive guide introduces Prompt-Driven Development (PDD) methodology—a revolutionary approach that reimagines how Magento solutions are built, optimized, and maintained. By Marcin Szterling, April 2025
 * [Learning Magento 2 Administration](https://www.packtpub.com/product/learning-magento-2-administration/9781783288250) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
 * [Magento 2 Beginners Guide](https://www.packtpub.com/product/magento-2-beginners-guide/9781785880766) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
 * [Magento 2 Cookbook](https://www.packtpub.com/product/magento-2-cookbook/9781785887062) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
@@ -151,6 +152,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ## Tools
 
 * [Magento 2 Block HTML Hints Inspector](https://github.com/elgentos/magento2-html-hints-chrome-extension) - A Chrome extension that displays Magento block information on hover without opening DevTools.
+* [Magento Toolbox](https://github.com/magebitcom/magento-toolbox) - The Magento Toolbox extension aims to enhance Magento and Adobe Commerce development in VS Code compatible editors by providing code definitions, code generation, autocomplete, and other features.
 * [Qoliber - Magerun](https://github.com/qoliber/magerun) - A set of Magerun additional commands for DB dumping with data trimming and performance optimization.
 
 ### Commercial with freemium/trial
@@ -313,6 +315,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Automatic Persisted Queries](https://github.com/danslo/magento2-module-automatic-persisted-queries) - Apollo-compatible automatic persisted queries, to improve GraphQL network performance.
 * [AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
 * [AvS_ScopeHint for Magento 2](https://github.com/avstudnitz/AvS_ScopeHint2) - This extension displays a hint when a configuration value is overwritten on a lower scope (website or store view).
+* [Basecom Live Search Image Urls ](https://github.com/basecom/magento2-live-search-image-urls) - This module adds a plugin to the ImageFormatter::format() method that correctly resizes images synced to the Live Search catalogue, which would otherwise be larger than needed.
 * [Basecom Speculation Rules Toolbox](https://github.com/basecom/magento2-speculation-rules-toolbox) - This module provides extensive functionality for utilizing the Speculation Rules API that can vastly improve the core web vitals of a website.
 * [BitExpert_ForceCustomerLogin](https://github.com/bitExpert/magento2-force-login) - Magento 2 module that forces customer login to see website pages.
 * [Braintree Payments](https://github.com/genecommerce/module-braintree-magento2) - Implements integration with the Braintree payment system, overwriting the original Magento module, to provide additional features and bug fixes.
@@ -555,10 +558,12 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Mooore Wordpress Integration Cms](https://github.com/mooore-digital/magento2-module-wordpress-integration-cms) - A module for integrating WordPress pages into Magento 2 frontend.
 * [MSP_SMTP](https://github.com/magespecialist/m2-MSP_SMTP) - MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
 * [Multi-Threading for Magento 2](https://github.com/zepgram/module-multi-threading) - This extension allows processing large data collections in parallel using multiple child processes, improving performance and reducing processing time.
+* [Multiline Admin Grid](https://github.com/liquidlab-agency/magento2-multiline-grid) - A solution for displaying multiline text in admin grids, preserving line breaks in textarea custom attributes. It applies to all admin grid columns without additional configuration. The module uses a mixin approach to extend default UI functionality and convert newlines to HTML.
 * [MX Phinx Migrations](https://github.com/inviqa/MX_PhinxMigrations) - Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments.
 * [N98_Guillotine](https://github.com/netz98/headless-guillotine) - A simple but useful module to disable frontend requests to implement a headless approach.
 * [OAuth Security Plus for Magento 2](https://github.com/Hawksama/module-oauth-security-plus) - This extension ensures that only requests originating from trusted IP addresses can create admin tokens, mitigating the risk of unauthorised API access.
 * [OpenGento Magento2 Registration Plugin](https://github.com/opengento/magento2-registration-plugin) - A Composer plugin that adds a global registration.php that replaces the default glob search performed for each request to discover the components not installed from composer.
+* [OpenTelemetry Tracing for Magento 2](https://github.com/poespas/opentelemetry-tracing-magento2) - A Magento 2 module that integrates seamlessly with Magento's built-in Profiling functionality to provide detailed performance monitoring and analysis.
 * [Optimize Cache Size](https://github.com/Vendic/module-optimize-cache-size) - This extension helps manage and reduce the size of cache storage to improve performance and resource usage. It provides tools to clean, trim, and optimize cache entries, preventing cache bloat and ensuring that the Magento store runs efficiently by keeping cache size under control.
 * [Performance Dashboard Extension for Magento 2](https://github.com/magehost/performance-dashboard) - An extension that adds a screen to the Admin Panel to get a clear overview of areas where the performance of your Magento 2 can be improved.
 * [Phoenix Media Storage Sync](https://github.com/PHOENIX-MEDIA/magento2-mediastoragesync) - An easy way to retrieve files in media from an origin server to a local development environment.
@@ -606,6 +611,8 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 * [Yireo HtmlHints](https://github.com/yireo/Yireo_HtmlHints) - A simple Magento 2 module that adds HTML hints (HTML comments <!-- -->) to a page's HTML output, providing details about the rendered block or container.
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
+* [Yireo Stock Management Cli](https://github.com/yireo/Yireo_StockManagementCli) - A simple Magento 2 module to allow managing a products stock via the CLI.
+* [Yireo Tablerate Commands](https://github.com/yireo/Yireo_TablerateCommands) - A Magento 2 module offering CLI commands to manipulate table rates.
 * [Yireo ThemeCommands](https://github.com/yireo/Yireo_ThemeCommands) - CLI commands to manage themes from the command-line
 * [Yireo ThemeOverrideChecker](https://github.com/yireo/Yireo_ThemeOverrideChecker) - Magento module to find all files of a given Magento theme (for example Magento/luma), compare the found files with the parent theme (and/or modules) and return whether there are differences or not.
 * [Yireo’s Common ViewModels](https://github.com/yireo/Yireo_CommonViewModels) - Common ViewModels for usage in Magento 2.2.1+ frontends.
@@ -640,6 +647,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Musicworld Hyvä Checkout Customer Comment Module](https://github.com/friends-of-hyva/magento2-hyva-checkout-order-comment-to-email) - This extension integrates with the Hyvä Checkout to capture customer comments during checkout. These comments are saved as customer notes within the order, ensuring that any special instructions or customer messages are recorded and can be accessed by store administrators.
 * [Preload Images via HTTP Link response header](https://github.com/friends-of-hyva/magento2-preload-images) - This extension improves the user experience by loading images that are guaranteed to be displayed above the fold earlier.
 * [Product Collective Packages Module for Magento 2 / Adobe Commerce](https://github.com/enanobots/m2-product-pack) - This (Hyva-compatible) extension enhances the functionality of Magento 2 by providing a new feature for product collective packages.
+* [ProxiBlue Hyvä Global Loading](https://github.com/ProxiBlue/HyvaGlobalLoading) - Adds a global loading indicator on any AJAX request to indicate that an action is in progress.
 * [Siteation - Magento 2 Module StoreInfo](https://github.com/Siteation/magento2-storeinfo) - An (Hyva compatible) extension that streamlines the process of integrating essential store information into your Magento 2 website.
 * [Siteation - Magento 2 Module StoreInfo Usps](https://github.com/Siteation/magento2-storeinfo-usps) - An (Hyva compatible) extension that lets you add Usps to your Magento 2 frontend.
 * [Trinos - Postcode.nl Magento 2 module](https://github.com/trinos-nl/magento2-postcode-nl) - This extension adds Postcode.nl integration for Hyvä Checkout.
@@ -656,9 +664,11 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Mage-OS EAV Debug Views](https://github.com/mage-os-lab/module-eav-debug-views) - A developer utility module for Magento 2.4.x that creates database views aggregating EAV entity data with attribute values in JSON format.
 * [Mage-OS MaxMind GeoIP Redirect](https://github.com/mage-os-lab/module-maxmind-geoip-redirect) - This extension integrates MaxMind’s GeoIP database with Magento, allowing automatic redirection of customers to specific store views or URLs based on their geographic location.
 * [Mage-OS PageBuilder Widget ](https://github.com/mage-os-lab/module-page-builder-widget) - A Mage-OS extension that introduces a new PageBuilder component to allow inserting and configuring existing CMS widgets directly within the Page Builder.
+* [Mage-OS RMA](https://github.com/mage-os-lab/module-rma) - A feature-rich Return Merchandise Authorisation (RMA) extension developed by the Mage-OS community.
 * [Mage-OS Theme Optimization](https://github.com/mage-os-lab/module-theme-optimization) - Streamlines Magento 2 storefront performance by removing unused layout, CSS, and JS elements. It helps reduce page size, improves load speed, and enhances Core Web Vitals for a faster, more efficient shopping experience.
 * [Magento Asynchronous Events](https://github.com/mage-os/mageos-async-events) - This extension adds a framework for reliably handling asynchronous events with Magento and RabbitMQ.
 * [MageOS Automatic Translation Module for Magento](https://github.com/mage-os-lab/module-automatic-translation) - Developed by the Italians 🤌 from the Mage-OS community, this extension enables AI-driven automatic translation of Magento store content, including products, categories, pages, and static blocks. It integrates natively with translation engines like DeepL, OpenAI, and Google Gemini and can be extended to support additional services. This module streamlines multilingual content management, enhancing the global reach of a Magento store.
+* [MageOS Newsletter Coupon Generator](https://github.com/mage-os-lab/module-newsletter-coupon) - Allows you to generate a unique coupon for each newsletter subscriber. The coupon will be sent to the subscriber’s email after the subscription.
 * [MageOS PageBuilder Templates Import/Export Module for Magento](https://github.com/mage-os-lab/module-pagebuilder-template-import-export) - This extension enhances Magento's PageBuilder by enabling the import and export of templates between different instances. Administrators can manage templates via the admin panel or command-line interface, facilitating efficient content replication across environments. Additionally, the module supports integration with Dropbox, allowing templates to be imported directly from configured Dropbox repositories. This functionality streamlines content management and promotes consistency across multiple Magento installations.
 * [NoIndex NoFollow NoArchive Tag Extension](https://github.com/mage-os/module-meta-robots-tag) - This module lets you control the NOINDEX, NOFOLLOW, and NOARCHIVE meta-robots tags on a per-entity basis (products, categories, and CMS pages). It adds three new attributes to the SEO section of each entity in the admin. Enabling a flag sets that directive to "no" for that entity, while leaving it unchecked defaults to the store's default robots configuration in its design settings.
 
@@ -996,6 +1006,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) - A collection of Docker images for running Magento 2 through nginx and on the command line
 * [Magento 2 Dockergento](https://github.com/ModestCoders/magento2-dockergento) - Magento 2 docker setup for development optimized for Mac
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) - Docker image optimized to develop on Mac, Windows, and Linux
+* [Magento 2 Docker to Development (Apple Silicon)](https://github.com/ityetti/magento2-docker/) - A complete Docker setup for development, including Traefik, Nginx, Redis, PHP-FPM, MySQL, and more.
 * [Magento 2 MEQP with Docker](https://hub.docker.com/r/wizkunde/docker-meqp) - Use docker to automatically test your extensions with MEQP, usable with CI tools like CircleCI
 * [Magento 2.4 environment under Docker](https://github.com/bijay135/docker-magento2) - Yet another Docker-based dev env for Magento 2.
 * [Magento Cloud Docker](https://github.com/magento/magento-cloud-docker) - A collection of build configurations for Magento Cloud Docker images
@@ -1015,6 +1026,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Den](https://github.com/swiftotter/den) - Den is a fork of Warden with AMD64 support, smaller image sizes, and a quicker update schedule.
 * [Devenv for Magento 2 development](https://github.com/fballiano/magento2-devenv/) - Devenv by Fabrizio Balliano provides a high-performance, container-free development environment for Magento 2 based on NixOS. It offers a native experience without the overhead of traditional containers or hypervisors.
 * [Mage-OS Magento 2 Gitpod Cloud Development Environment](https://github.com/mage-os/magento-gitpod) - A Gitpod configuration for a Magento 2 cloud development environment using Mage-OS as the composer repository.
+* [Magento 2 Devcontainer](https://devcontainer.mappia.io/) - Run Magento 2 locally with VS Code or instantly in GitHub Codespaces
 * [Magento 2 Gitpod Cloud Development Environment](https://github.com/develodesign/magento-gitpod) - This repository contains a Gitpod configuration for a Magento 2 cloud development environment.
 * [magento2gitpod](https://github.com/nemke82/magento2gitpod) - Magento 2 optimized setup for https://gitpod.io workspace.
 * [Magenx e-commerce webstack](https://github.com/magenx/Magento-2-server-installation) - This Magento 2 Open Source web stack promises a fully pre-configured server with Magento and LEMP stack in just 10 minutes! 
