@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![822 resources](https://img.shields.io/badge/resources-822-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![823 resources](https://img.shields.io/badge/resources-823-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -254,6 +254,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Velvet](https://github.com/danslo/velvet) - An administration backend for Magento 2 websites built with modern web technologies such as React, Typescript, GraphQL, and MUI. Requires the Magento 2 Velvet extension to work within Magento.
 * [Visual Studio Code startup task for cache-clean.js on Magento 2.](https://gist.github.com/jrosell/f062e5be7468f620ab7c78a45ea9729e) - A useful gist to add a startup task to automate the Magento 2 Cache Clean process.
 * [Warden Aliases](https://github.com/MagePsycho/magento2-warden-aliases) - Some shell aliases to make your Warden-based development life easier
+* [Warden Magento MCP Server](https://github.com/run-as-root/warden-mcp-server) - A comprehensive Model Context Protocol (MCP) server that provides seamless integration between AI assistants and Warden + Magento 2 development environments. This server enables AI assistants to interact directly with your Warden-managed Magento projects, automating common development tasks and providing intelligent assistance for complex workflows.
 
 ### Mage-OS
 
