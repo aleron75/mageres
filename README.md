@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![825 resources](https://img.shields.io/badge/resources-825-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![826 resources](https://img.shields.io/badge/resources-826-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -417,6 +417,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Layout Bricks for Magento](https://github.com/element119/module-product-type-attribute-manager) - This package allows the rendering of blocks without hassle in phtml files.
 * [Legacy Mysql Search](https://github.com/swissup/module-search-mysql-legacy) - MySQL is no longer supported for search since Magento 2.4. This extension brings back the usage of the MySQL search engine on Magento 2.
 * [Limit Guest Checkout Coupon Code](https://github.com/magepal/magento2-coupon-limit-guest-checkout) - This extension restricts the maximum use of coupons for guest checkout.
+* [Linked Product](https://trello.com/c/DyfleQFK/621-sutunam-module-linked-product-magento-2-extension-linked-product) - A Magento 2 module that links products sharing similar styles while differing in attributes such as size, colour, or material.
 * [LiqPay Extension for Magento 2](https://github.com/mcspronko/liqpay-magento2) - This extension adds LiqPay payment integration to Magento 2.
 * [M2 Magewire with Breeze theme Module](https://github.com/olivertar/magewire-breeze) - An extension that allows you to use Magewire with Breeze theme.
 * [Mage2 Module Experius WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads) - This extension makes it possible to upload different filetypes inside the WYSIWYG-editor.
