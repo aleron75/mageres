@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![826 resources](https://img.shields.io/badge/resources-826-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![827 resources](https://img.shields.io/badge/resources-827-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -208,6 +208,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Db Schema Generator](https://theshreyas.github.io/db-schema-generator/) - Generate magento db_schema.xml within seconds
 * [Magento 2 DevTools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 * [Magento 2 GraphQL Order Tester](https://github.com/theshreyas/magento-2-quickies/tree/main/GraphQLTester) - Interactive PHP script to test graphql order flow quickly
+* [Magento 2 LSP](https://github.com/mage-os-lab/magento2-lsp) - Magento 2 tooling for editors and AI agents. The LSP Server works alongside Intelephense or Phpactor: it handles the Magento-specific connections that generic PHP tooling can't see. The MCP Server exposes the Magento 2 intelligence of the LSP server to AI coding agents.
 * [Magento 2 Media Cleaner (Go)](https://github.com/elgentos/magento2-media-cleaner) - A standalone Go application for analyzing and cleaning Magento 2 catalog media files with parallel file scanning and optimized memory usage.
 * [Magento 2 Model Generator](https://github.com/michielgerritsen/magento2-model-generator) - With this app, you can create models for Magento 2 very fast. Ready-to-use on https://www.model-generator.com/
 * [Magento 2 Non-Composer Registration Plugin](https://github.com/perfcom/magento2-non-composer-registration) - A tool that enables developers to register Magento 2 modules without using Composer. It simplifies setup in environments where Composer integration isn’t available or desired by allowing manual module registration through configuration files, making it useful for lightweight or custom deployment workflows.
