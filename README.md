@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![831 resources](https://img.shields.io/badge/resources-831-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![832 resources](https://img.shields.io/badge/resources-832-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -219,6 +219,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Ultimate Module Creator](https://github.com/UltimateModuleCreator/umc) - A standalone application for creating Magento 2 CRUD modules
 * [Magento administrative tool](https://github.com/magento-architects/magento-tool) - Used to perform administrative tasks on Magento instances remotely.
 * [MagentoApiClient](https://github.com/rantalainen/magento-api-client) - A third-party Magento API client for Node.js and TypeScript.
+* [Magento Claude Skills](https://github.com/magendooro/magento-claude-skills) - Store operators, merchants, and support agents who want to interact with a live Magento 2 / Adobe Commerce store through Claude Code.
 * [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - A set of Magento rules for PHP_CodeSniffer tool.
 * [Magento Composer Replacement Tool](https://github.com/yireo/magento2-replace-tools) - A repository that offers a composer plugin to help you manage composer replacements in your root composer.json.
 * [Magento CSP Whitelist Generator](https://github.com/macademy/magento-csp-whitelist-generator) - A Google Chrome Plugin that makes it easy to automatically create csp_whitelist.xml files for Magento
