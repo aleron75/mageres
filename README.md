@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![826 resources](https://img.shields.io/badge/resources-826-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![827 resources](https://img.shields.io/badge/resources-827-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -280,6 +280,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento Security Scan Tool](https://account.magento.com/scanner/) - Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account).
 * [Magento Vulnerability Database](https://github.com/sansecio/magevulndb) - List of Magento 1 and 2 integrations with known security issues
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
+* [NGINX Polyshell blocker](https://gist.github.com/JeroenBoersma/d5c33066d7b0a7c69736a3d0f67ac9b1) - NGINX configuration snippet to block the Polyshell upload exploit, including Hypernode/Maxcluster specific setup.
 * [Official Magento Security Center](https://helpx.adobe.com/security.html) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
 * [Release & Hotfix matrix for Magento 2 / Adobe Commerce](https://docs.google.com/spreadsheets/d/17w2TxP0Vw-ik45yNwVTW8orfoIKOXCtvBpIFvbEKiTY/edit) - A handy sheet by Sansec summarizing Magento 2 / Adobe Commerce release management.
 * [Sansec Composer Integrity Checker](https://github.com/element119/module-sansec-composer-integrity-checker) - This extension performs Composer packages integrity checks based on the Sansec Composer integrity plugin.
