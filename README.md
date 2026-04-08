@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![830 resources](https://img.shields.io/badge/resources-830-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![831 resources](https://img.shields.io/badge/resources-831-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -372,6 +372,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Doom for Magento](https://github.com/EduardoNiquin/doomgento) - A fun Magento 2 module that lets you play the classic video game DOOM directly inside the Magento admin panel, bringing a bit of retro gaming entertainment to developers and admins working within Magento.
 * [Dutchento VAT Fallback](https://github.com/dutchento/m2-vatfallback) - Port of the Magento 1 VAT fallback for Magento 2 -  provides an extra API based validation and a fallback offline regex validation for the unstable VIES database
 * [EasyAudit Module](https://github.com/crealoz/easy-audit-free) - This extension provides auditing capabilities to help developers and website owners identify potential issues in their codebase. It allows users to run various types of audits via the Magento CLI or the admin panel to enhance the overall quality of Magento applications.
+* [Easy PageBuilder](https://github.com/SushyDev/module-easy-page-builder) - Declarative PageBuilder widget registration for Magento 2 using PHP attributes. No XML configuration needed.
 * [EAV Cleaner Console Command](https://github.com/magento-hackathon/EAVCleaner) - Provides cleanup commands to check for different flaws that can occur due to EAV
 * [Elastic APM Integration for Magento 2](https://github.com/cmtickle/elastic-apm-magento/) - Elastic Application Performance Management (APM) Integration for Magento 2 to diagnose application performance problems.
 * [ElasticSuite for Magento 2](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
