@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![827 resources](https://img.shields.io/badge/resources-827-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![828 resources](https://img.shields.io/badge/resources-828-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -696,6 +696,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Magento 2 integration testing helper](https://github.com/yireo/Yireo_IntegrationTestHelper) - This module adds various utilities to aid in creating integration tests for Magento 2.
 * [Magento 2 module unit tests generator](https://github.com/olmer/magento-unit-tests-generator) - A package intended to simplify magento2 unit tests creation.
 * [ParallelTestsPlus](https://github.com/CleatSquad/module-parallel-tests-plus) - This extension enhances the core bin/magento dev:tests:run command so you can run Magento static, unit, integration, and integrity tests in parallel using ParaTest, reducing test execution time.
+* [Playwright ETE Test Suite Base](https://github.com/olivertar/m2_playwright) - Base configuration and template files to set up an End-to-End (ETE) testing suite using Playwright for Magento 2 projects.
 * [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) - Boots up the integration test framework in less than 300ms when caches are primed.
 * [Tdd Wizard Repository](https://github.com/tddwizard) - A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 * [Testing in Magento 2](https://gist.github.com/ProcessEight/fb7141d120ce05fa837ff4457ca6a747) - Special notes by Simon Frost on setting up PHPUnit and writing/troubleshooting tests in Magento 2.
