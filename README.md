@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![832 resources](https://img.shields.io/badge/resources-832-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![833 resources](https://img.shields.io/badge/resources-833-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -102,6 +102,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 DeepWiki](https://deepwiki.com/magento/magento2) - An AI-powered knowledge base that provides an in-depth, navigable documentation of the Magento 2 codebase. Developed leveraging the Devin AI assistant to transform GitHub repositories into structured, interactive wikis.
 * [Magento 2 Developer Roadmap](https://roadmap.sh/r/magento-2-developer-401qn) - This roadmap created by Peter Jaap Blaakmeer provides a comprehensive roadmap for becoming a Magento 2 developer. It outlines the essential skills, tools, and technologies to master Magento 2 development. It offers a structured learning path for beginners and professionals seeking to enhance their expertise in this e-commerce platform.
 * [Magento 2 UI Library](https://magento2-ui-library.rafaelcg.com/) - Flexible modular Magento 2 frontend library that is designed to assist Magento theme developers
+* [Magento Watch](https://magento.watch/) - A tracker for engineers, DevOps and BAs running Magento Open Source, Adobe Commerce or Mage-OS. Release dates, security windows, and system requirements — readable by humans and agents alike.
 * [PackageMaven – Magento Modules](https://package-maven.com/) - A platform that offers a collection of Magento modules, allowing users to explore their installation statistics, latest release information, and open issues. The site includes test results for each extension with Magento and opportunities for users to contribute to developing these modules.
 * [The Magento Guidebook](https://jetrails.com/blog/the-magento-terms-glossary-guide/) - A Glossary of Magento Terms and Phrases
 
