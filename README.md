@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![831 resources](https://img.shields.io/badge/resources-831-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![832 resources](https://img.shields.io/badge/resources-832-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -464,6 +464,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Cron Schedule extension Free](https://github.com/mageplaza/magento-2-cron-schedule) - Helps you to execute tasks with no effort from the Admin Panel. 
 * [Magento 2 Customer Session Timeout Popup
 ](https://github.com/enanobots/m2-customer-timeout-popup) - This module displays a popup to the customer indicating the number of seconds remaining until they are automatically logged out of the system.
+* [Magento 2 Database Seeder](https://github.com/run-as-root/magento-2-seeder) - Populate your dev environment with realistic products, categories, customers, orders, CMS content, reviews, cart rules, wishlists, and newsletter subscribers using a Laravel-style database seeding tool.
 * [Magento 2 Data GridsJS
 ](https://github.com/Genaker/magento_gridjs) - A Magento 2 extension for GridJS and DataTable integration with Magento 2.
 * [Magento 2 DataPatchCreator](https://github.com/qoliber/m2-datapatchcreator) - This tool simplifies the creation of Magento 2 data patches. It automates boilerplate code generation for patch classes, saving developers time and reducing errors when implementing setup data changes like attribute creation or configuration updates.
