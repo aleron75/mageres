@@ -156,6 +156,7 @@ Tools,Commercial with freemium/trial,Beeline,https://m.academy/beeline-magento-2
 Tools,Commercial with freemium/trial,Tinkerwell,https://tinkerwell.app/,A desktop application that allows you to run PHP code.  it includes Magento drivers.
 Tools,Commercial with freemium/trial,RESP.app,https://resp.app/,Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
 Tools,Commercial with freemium/trial,PhpStorm Plugin by Atwix,https://plugins.jetbrains.com/plugin/20554-magento-and-adobe-commerce-phpstorm-by-atwix,This tool is meant to help software engineers build and efficiently maintain software solutions in Magento projects with both free and paid features.
+Tools,Commercial with freemium/trial,MageSmith,https://magesmith.app/,"Scaffold modules, diff configs, audit code, document schemas, and prep for Adobe Commerce certification — all in one hosted workspace. Zero setup. Always up to date."
 Tools,,Qoliber - Magerun,https://github.com/qoliber/magerun,A set of Magerun additional commands for DB dumping with data trimming and performance optimization.
 Tools,,Magento 2 Block HTML Hints Inspector,https://github.com/elgentos/magento2-html-hints-chrome-extension,A Chrome extension that displays Magento block information on hover without opening DevTools.
 Tools,,Magento Toolbox,https://github.com/magebitcom/magento-toolbox,"The Magento Toolbox extension aims to enhance Magento and Adobe Commerce development in VS Code compatible editors by providing code definitions, code generation, autocomplete, and other features."
