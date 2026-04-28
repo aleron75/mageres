@@ -569,6 +569,7 @@ Extensions,,Magento 2 Indexer Isolation,https://github.com/furan917/Magento2-Ind
 Extensions,,Easy PageBuilder,https://github.com/SushyDev/module-easy-page-builder,Declarative PageBuilder widget registration for Magento 2 using PHP attributes. No XML configuration needed.
 Extensions,,Magento 2 Database Seeder,https://github.com/run-as-root/magento-2-seeder,"Populate your dev environment with realistic products, categories, customers, orders, CMS content, reviews, cart rules, wishlists, and newsletter subscribers using a Laravel-style database seeding tool."
 Extensions,,Yireo StoreView Commands,https://github.com/yireo/Yireo_StoreViewCommands,This extension adds a couple of CLI commands for managing (create or update) Store Views.
+Extensions,,Ignition for Magento2,https://github.com/swissup/module-ignition,A beautiful error page and error tracking service for Magento powered by Spatie Ignition.
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
