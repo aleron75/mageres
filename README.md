@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![832 resources](https://img.shields.io/badge/resources-832-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![835 resources](https://img.shields.io/badge/resources-835-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -159,6 +159,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Beeline](https://m.academy/beeline-magento-2-phpstorm/) - This PhpStorm plugin allows us to create entire files, classes & blocks with just a few keystrokes.
 * [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 * [MageCloud](https://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
+* [MageSmith](https://magesmith.app/) - Scaffold modules, diff configs, audit code, document schemas, and prep for Adobe Commerce certification — all in one hosted workspace. Zero setup. Always up to date.
 * [PhpStorm Plugin by Atwix](https://plugins.jetbrains.com/plugin/20554-magento-and-adobe-commerce-phpstorm-by-atwix) - This tool is meant to help software engineers build and efficiently maintain software solutions in Magento projects with both free and paid features.
 * [RESP.app](https://resp.app/) - Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
 * [Tinkerwell](https://tinkerwell.app/) - A desktop application that allows you to run PHP code.  it includes Magento drivers.
@@ -409,6 +410,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Hypershop Spike Performance](https://github.com/hypershopbv/Hypershop_SpikePerformance) - This extension prevents cache flushes during peak traffic periods, ensuring optimal performance. It offers an optional cron job to reindex and flush caches daily at 3:00 AM.
 * [Ideal-Postcodes UK Address Search and Validation](https://github.com/ideal-postcodes/magento) - This extension enables Ideal-Postcodes.co.uk address validation for UK addresses on a Magento store.
 * [IfConfig Layout](https://github.com/element119/module-ifconfig-layout) - An extension that allows enabling or disabling specific layout updates dynamically depending on the store’s configuration settings, without hardcoding conditions in the layout files.
+* [Ignition for Magento2](https://github.com/swissup/module-ignition) - A beautiful error page and error tracking service for Magento powered by Spatie Ignition.
 * [Image Cleanup module for Magento 2](https://github.com/baldwin-agency/magento2-module-image-cleanup) - This extension gives options to delete unused product images from the disk to recover some space.
 * [IMI FriendlyCaptcha](https://github.com/iMi-digital/magento2-friendly-captcha) - This extension adds a Friendly Captcha widget to Login, Register, Contact form, Forgot password, Send to Friend, Newsletter signup, Product Reviews.
 * [Indexer Deploy Config](https://github.com/pykettk/module-indexer-deploy-config) - An extension that allows developers to lock indexer modes via deployment config.
@@ -622,6 +624,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Yireo HtmlHints](https://github.com/yireo/Yireo_HtmlHints) - A simple Magento 2 module that adds HTML hints (HTML comments <!-- -->) to a page's HTML output, providing details about the rendered block or container.
 * [Yireo LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
 * [Yireo Stock Management Cli](https://github.com/yireo/Yireo_StockManagementCli) - A simple Magento 2 module to allow managing a products stock via the CLI.
+* [Yireo StoreView Commands](https://github.com/yireo/Yireo_StoreViewCommands) - This extension adds a couple of CLI commands for managing (create or update) Store Views.
 * [Yireo Tablerate Commands](https://github.com/yireo/Yireo_TablerateCommands) - A Magento 2 module offering CLI commands to manipulate table rates.
 * [Yireo ThemeCommands](https://github.com/yireo/Yireo_ThemeCommands) - CLI commands to manage themes from the command-line
 * [Yireo ThemeOverrideChecker](https://github.com/yireo/Yireo_ThemeOverrideChecker) - Magento module to find all files of a given Magento theme (for example Magento/luma), compare the found files with the parent theme (and/or modules) and return whether there are differences or not.
