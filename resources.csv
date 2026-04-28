@@ -572,6 +572,7 @@ Extensions,,Magento 2 Database Seeder,https://github.com/run-as-root/magento-2-s
 Extensions,,Yireo StoreView Commands,https://github.com/yireo/Yireo_StoreViewCommands,This extension adds a couple of CLI commands for managing (create or update) Store Views.
 Extensions,,Ignition for Magento2,https://github.com/swissup/module-ignition,A beautiful error page and error tracking service for Magento powered by Spatie Ignition.
 Extensions,,Ai Dashboard,https://github.com/gabrielgts/module-ai-dashboard,"AI-powered analytics dashboard for Magento 2. Replaces the stock admin dashboard with KPI cards, charts, and an embedded store assistant. All built from data computed on cron and served from cache."
+Extensions,,Hryvinskyi Email Template Editor for Magento 2,https://github.com/hryvinskyi/magento2-email-template-editor,"A professional, feature-rich email template editor for Magento 2 that replaces the default email template management with a modern, real-time editing experience."
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
