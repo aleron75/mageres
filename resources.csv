@@ -160,6 +160,8 @@ Tools,Commercial with freemium/trial,MageSmith,https://magesmith.app/,"Scaffold 
 Tools,,Qoliber - Magerun,https://github.com/qoliber/magerun,A set of Magerun additional commands for DB dumping with data trimming and performance optimization.
 Tools,,Magento 2 Block HTML Hints Inspector,https://github.com/elgentos/magento2-html-hints-chrome-extension,A Chrome extension that displays Magento block information on hover without opening DevTools.
 Tools,,Magento Toolbox,https://github.com/magebitcom/magento-toolbox,"The Magento Toolbox extension aims to enhance Magento and Adobe Commerce development in VS Code compatible editors by providing code definitions, code generation, autocomplete, and other features."
+Tools,Free,Magento 2 CSP Writer,https://github.com/DeployEcommerce/magento2-csp-writer,A simple CSP writer for Magento 2 that can be used to write a csp_whitelist.xml file given a structured array.
+Tools,Free,Magento 2 CSP Parser,https://github.com/DeployEcommerce/magento2-csp-parser,A simple CSP parser for Magento 2 that can be used to parse an existing csp_whitelist.xml file and return a structured array.
 Security,,Official Magento Security Center,https://helpx.adobe.com/security.html,"The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes"
 Security,,MageReport.com,https://www.magereport.com/,Scan your Magento shop for known security vulnerabilities
 Security,,Magento Malware Scanner,https://github.com/gwillem/magento-malware-scanner,"Scanner, signatures and the largest Magento malware collection on earth"
