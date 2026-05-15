@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![841 resources](https://img.shields.io/badge/resources-841-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![842 resources](https://img.shields.io/badge/resources-842-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -169,6 +169,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Adobe Commerce Dev MCP](https://github.com/rafaelstz/adobe-commerce-dev-mcp) - MCP server implementation for Adobe Commerce GraphQL
 * [Aligent Magento Integration and API Functional Testing Pipe](https://github.com/aligent/magento-integration-test-pipe) - A bitbucket pipe for running Magento integration and API functional tests  designed to be run parallelly so you can leverage bitbucket parallel steps.
 * [Ampersand Magento2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper scripts to aid upgrading Magento 2 websites by detecting overrides
+* [angeo/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) - CLI audit tool that checks 9 AI Engine Optimization signals (robots.txt AI bot access llms.txt Product schema AI product feed and more). Free MIT licensed.
 * [baler](https://github.com/magento/baler) - AMD module bundler and preloader for Magento 2 stores
 * [Blazingly fast mysql2jsonl](https://github.com/EcomDev/mysql-to-jsonl) - A tool that provides an efficient way to export data from a MySQL database to JSONL (JSON Lines) files and to import data back into a database from these files. It is highly configurable and optimized for performance with concurrency and batching in mind!
 * [Butter - Smooth Magento 2 Versions Installer](https://github.com/redchamps/butter) - A specialized tool to install a Magento version with just a single command.
