@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![842 resources](https://img.shields.io/badge/resources-842-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![841 resources](https://img.shields.io/badge/resources-841-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -125,19 +125,18 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ## Books
 
 * [AI-Driven Development with Magento: Your Toolkit Reimagined](https://www.goodreads.com/book/show/229227790-ai-driven-development-with-magento) - This comprehensive guide introduces Prompt-Driven Development (PDD) methodology—a revolutionary approach that reimagines how Magento solutions are built, optimized, and maintained. By Marcin Szterling, April 2025
-* [Learning Magento 2 Administration](https://www.packtpub.com/product/learning-magento-2-administration/9781783288250) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
-* [Magento 2 Beginners Guide](https://www.packtpub.com/product/magento-2-beginners-guide/9781785880766) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
-* [Magento 2 Cookbook](https://www.packtpub.com/product/magento-2-cookbook/9781785887062) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
-* [Magento 2 Developer's Guide](https://www.packtpub.com/product/magento-2-developers-guide/9781785886584) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
-* [Magento 2 Development Cookbook](https://www.packtpub.com/product/magento-2-development-cookbook/9781785882197) - Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015
-* [Magento 2 Development Essentials](https://www.packtpub.com/product/magento-2-development-essentials/9781785289897) - A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016
-* [Magento 2 Development Quick Start Guide](https://www.packtpub.com/product/magento-2-development-quick-start-guide/9781789343441) - This book guides you through Magento development; by Branko Ajzele, September 2018
+* [Learning Magento 2 Administration](https://www.packtpub.com/en-us/product/learning-magento-2-administration-9781783288250) - A step-by-step course in setting up your Magento 2 website; by Bret Williams & Cyndi Williams, May 2016
+* [Magento 2 Beginners Guide](https://www.packtpub.com/en-us/product/magento-2-beginners-guide-9781785880766) - An introductory guide on managing a Magento 2 store; by Gabriel Guarino, March 2017
+* [Magento 2 Cookbook](https://www.packtpub.com/en-us/product/magento-2-cookbook-9781785887062) - Over 50 practical recipes that will help you realize the full potential of Magento in order to build a professional online store; by Ray Bogman & Vladimir Kerkhoff, March 2016
+* [Magento 2 Developer's Guide](https://www.packtpub.com/en-us/product/magento-2-developers-guide-9781785886584) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
+* [Magento 2 Development Cookbook](https://www.packtpub.com/en-us/product/magento-2-development-cookbook-9781785882197) - Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015
+* [Magento 2 Development Essentials](https://www.packtpub.com/en-us/product/magento-2-development-essentials-9781785289897) - A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016
+* [Magento 2 Development Quick Start Guide](https://www.packtpub.com/en-us/product/magento-2-development-quick-start-guide-9781789343441) - This book guides you through Magento development; by Branko Ajzele, September 2018
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
-* [Magento 2 Extensions Development](https://www.packtpub.com/product/magento-extensions-development/9781783286775) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
+* [Magento 2 Extensions Development](https://www.packtpub.com/en-us/product/magento-extensions-development-9781783286775) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
 * [Magento 2 Guida allo sviluppo](https://www.goodreads.com/book/show/52703436-magento-2) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
-* [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/product/magento-2-theme-design-second-edition/9781785888229) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
-* [Mastering Adobe Commerce Frontend](https://www.packtpub.com/product/mastering-adobe-commerce-frontend/9781837637072) - The book is ideal for storefront developers proficient in frontend technologies such as HTML, CSS, and JavaScript, aiming to broaden their knowledge of Adobe Commerce and Magento Open Source applications. By Jakub Winkler, March 2024.
-* [Mastering Magento 2 - Second Edition](https://www.packtpub.com/product/mastering-magento-2-second-edition/9781785882364) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
+* [Magento 2 Theme Design – Second Edition](https://www.packtpub.com/en-us/product/magento-2-theme-design-second-edition-9781785888229) - A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016
+* [Mastering Magento 2 - Second Edition](https://www.packtpub.com/en-us/product/mastering-magento-2-second-edition-9781785882364) - This book offers you advanced guidance on managing a Magento 2 store; by Bret Williams & Jonathan Bownds, June 2016
 
 ## Performance
 
