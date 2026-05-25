@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![841 resources](https://img.shields.io/badge/resources-841-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![840 resources](https://img.shields.io/badge/resources-840-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -787,7 +787,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Magenticians](https://magenticians.com/)
 * [Magently Blog](https://magently.com/blog/)
 * [Magento Fox Blog](https://adammoss.co.uk/magentofox/)
-* [Magestore](https://blog.magestore.com/)
+* [Magestore](https://www.magestore.com/blog/)
 * [MageVision](https://www.magevision.com/blog)
 * [MageWorx on Magento 2](https://www.mageworx.com/blog/magento-2/)
 * [Marcel Hauri](https://magento.marcelhauri.ch/blog/)
@@ -1026,7 +1026,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Magento 2 MEQP with Docker](https://hub.docker.com/r/wizkunde/docker-meqp) - Use docker to automatically test your extensions with MEQP, usable with CI tools like CircleCI
 * [Magento 2.4 environment under Docker](https://github.com/bijay135/docker-magento2) - Yet another Docker-based dev env for Magento 2.
 * [Magento Cloud Docker](https://github.com/magento/magento-cloud-docker) - A collection of build configurations for Magento Cloud Docker images
-* [Magento Open Source - ddev setup](https://github.com/ivancukns/magento2-ddev) - This repository is meant for quickly starting Magento Open Source software locally, with the help of ddev.
 * [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) - Magento 1 & 2 support on Linux and Mac
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
 * [OrbStack](https://orbstack.dev/) - Seamless and efficient Docker Desktop alternative for Mac
