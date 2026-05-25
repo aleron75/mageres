@@ -646,7 +646,7 @@ Blogs,English,MageComp Magento Blog,https://magecomp.com/blog/,
 Blogs,English,Magenticians,https://magenticians.com/,
 Blogs,English,Magently Blog,https://magently.com/blog/,
 Blogs,English,Adobe Experience Cloud Blog,https://business.adobe.com/blog/tags/commerce,
-Blogs,English,Magestore,https://blog.magestore.com/,
+Blogs,English,Magestore,https://www.magestore.com/blog/,
 Blogs,English,MageWorx on Magento 2,https://www.mageworx.com/blog/magento-2/,
 Blogs,English,Mark Shust,https://markshust.com/blog/,
 Blogs,English,Max Pronko,https://www.maxpronko.com/,
@@ -818,7 +818,6 @@ Dev boxes,Docker,Mage2Docker,https://github.com/graycoreio/mage2docker,"An opini
 Dev boxes,Docker,Docker Devbox,https://github.com/giuseppemorelli/docker-devbox/,A Docker dev box based on Devilbox
 Dev boxes,Docker,Docker Configuration for Magento 2,https://github.com/magenx/Magento-2-docker-configuration,
 Dev boxes,Docker,Magento 2.4 environment under Docker,https://github.com/bijay135/docker-magento2,Yet another Docker-based dev env for Magento 2.
-Dev boxes,Docker,Magento Open Source - ddev setup,https://github.com/ivancukns/magento2-ddev,"This repository is meant for quickly starting Magento Open Source software locally, with the help of ddev."
 Dev boxes,Docker,Colin Tickle’s Docker Stack,https://github.com/cmtickle/docker-stack,A dockerized system to run LEMP stack applications primarily developed to run Magento 2.
 Dev boxes,Docker,OrbStack,https://orbstack.dev/,Seamless and efficient Docker Desktop alternative for Mac
 Dev boxes,Docker,Madock,https://github.com/faradey/madock,A local Docker-based PHP environment that supports Magento2 other than custom projects.
