@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![841 resources](https://img.shields.io/badge/resources-841-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![843 resources](https://img.shields.io/badge/resources-843-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -159,6 +159,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Mage2Gen](https://mage2gen.com/) - Magento 2 module creator with web interface and CLI tool for M2.2 and M2.3
 * [MageCloud](https://www.magecloud.net/) - Allows store owners and developers to deploy Magento instances automatically
 * [MageSmith](https://magesmith.app/) - Scaffold modules, diff configs, audit code, document schemas, and prep for Adobe Commerce certification — all in one hosted workspace. Zero setup. Always up to date.
+* [Open Source Ecommerce AI Starter](https://ecommerce-ai-starter.graycore.io/) - A starter kit for building a real and infinitely customizable ecommerce store without knowing how to code. Spin it up in your browser and ask Claude. Start by prototyping — production-ready once you add hosting.
 * [PhpStorm Plugin by Atwix](https://plugins.jetbrains.com/plugin/20554-magento-and-adobe-commerce-phpstorm-by-atwix) - This tool is meant to help software engineers build and efficiently maintain software solutions in Magento projects with both free and paid features.
 * [RESP.app](https://resp.app/) - Open Source GUI for Redis with automatic Magento Cache and Session decompression and decoding.
 * [Tinkerwell](https://tinkerwell.app/) - A desktop application that allows you to run PHP code.  it includes Magento drivers.
@@ -215,6 +216,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Media Cleaner (Go)](https://github.com/elgentos/magento2-media-cleaner) - A standalone Go application for analyzing and cleaning Magento 2 catalog media files with parallel file scanning and optimized memory usage.
 * [Magento 2 Model Generator](https://github.com/michielgerritsen/magento2-model-generator) - With this app, you can create models for Magento 2 very fast. Ready-to-use on https://www.model-generator.com/
 * [Magento 2 Non-Composer Registration Plugin](https://github.com/perfcom/magento2-non-composer-registration) - A tool that enables developers to register Magento 2 modules without using Composer. It simplifies setup in environments where Composer integration isn’t available or desired by allowing manual module registration through configuration files, making it useful for lightweight or custom deployment workflows.
+* [Magento 2 OpenTelemetry Instrumentation](https://github.com/mumzworld-tech/magento2-opentelemetry) - OpenTelemetry integration package for Magento 2 applications with a complete observability stack.
 * [Magento 2 PHPStorm Preferences](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 * [Magento 2 Simplistic Installer](https://github.com/MagePsycho/magento2-installer-bash-script) - A simplistic tool to install Magento 2 from different sources like tar & composer
 * [Magento 2 UI Library](https://github.com/rafaelstz/Magento-2-UI-library) - A collection of reusable UI components, layouts, and design elements for building consistent Magento 2 admin and frontend interfaces. It serves as a visual reference and developer resource to streamline UI development, helping teams quickly design and implement Magento-styled user interfaces.
