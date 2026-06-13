@@ -24,6 +24,7 @@ Other Resources,,Magento 2 Database Documentation,https://m-docs.bonlineco.com/,
 Other Resources,Mage-OS,Mage-OS Community modules directory,https://mage-os.org/community-modules-directory/,A list of extensions developed by members of the Mage-OS ecosystem to enhance the platform’s capabilities.
 Other Resources,,PackageMaven – Magento Modules,https://package-maven.com/,"A platform that offers a collection of Magento modules, allowing users to explore their installation statistics, latest release information, and open issues. The site includes test results for each extension with Magento and opportunities for users to contribute to developing these modules."
 Other Resources,,Magento Watch,https://magento.watch/,"A tracker for engineers, DevOps and BAs running Magento Open Source, Adobe Commerce or Mage-OS. Release dates, security windows, and system requirements — readable by humans and agents alike."
+Other Resources,,Towering Media,https://toweringmedia.com,"Chicago-based Magento 2 / Adobe Commerce agency, Hyvä Bronze Partner."
 Certification,,Magento Certification,https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce,Adobe Magento Commerce certifications
 Certification,,M2 Certification Study Guides,https://github.com/df2k2/m2cert,Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
 Certification,,Magento 2 Certified Professional Developer notes,https://github.com/magento-notes/magento2-exam-notes,Preparation notes for Magento 2 Certified Professional Developer exam
@@ -583,6 +584,12 @@ Extensions,,Magento 2 Selective Cache,https://github.com/mcspronko/selective-cac
 Extensions,,Magento 2 Configurator,https://github.com/ctidigital/magento2-configurator,A Magento module for creating and maintaining database variables from files. It allows you to share and collaborate on versioned configurations and split them by environment.
 Extensions,Hyvä,Siteation - Hyvä CMS Product Grid,https://github.com/Siteation/hyva-cms-product-grid,A Hyvä CMS module that offers an easy-to-use component for displaying product grids directly within your storefront's CMS pages and blocks. Requires a Hyvä Commerce license.
 Extensions,,Bold Commerce - Magento 2 Model Time Machine,https://github.com/boldcommerce/magento2-model-timemachine,This module tracks changes on models and logs these changes to a database table.
+Extensions,Hyvä,React Checkout Pro,https://toweringmedia.com/magento-2-react-checkout-pro,Headless React checkout for Magento 2 / Hyvä.
+Extensions,,Search Intelligence Core,https://toweringmedia.com/search-intelligence-core-for-magento-2,AI-powered search extension.
+Extensions,,Nora AI,https://toweringmedia.com/nora-ai-for-magento-2,AI assistant for Magento 2.
+Extensions,,FedEx REST API,https://toweringmedia.com/magento2-fedex-rest-api,FedEx OAuth 2.0 shipping.
+Extensions,,USPS OAuth Shipping,https://toweringmedia.com/magento-2-usps-oauth-shipping-extension-real-time-usps-rates-via-rest-api-v3,USPS REST API v3 shipping.
+Extensions,Hyvä,Moneris Payment Gateway,https://toweringmedia.com/moneris-payment-gateway-for-magento-2-hyva-react-checkout,Moneris for Magento 2 + Hyvä.
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
