@@ -166,6 +166,7 @@ Tools,Free,PhpStorm Booster,https://github.com/qoliber/phpstorm-booster,A PhpSto
 Tools,Free,Magento 2 OpenTelemetry Instrumentation,https://github.com/mumzworld-tech/magento2-opentelemetry,OpenTelemetry integration package for Magento 2 applications with a complete observability stack.
 Tools,Free,Mage-OS Installer,https://github.com/mage-os-lab/mage-os-installer,"Get up & running with Mage-OS in minutes. If you have DDEV or Warden installed already, this tool will automatically detect and configure them for you."
 Tools,Free,Magento Bricklayer,https://github.com/Inchoo/magento-bricklayer,"An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing."
+Tools,Free,Magento 2 Snippets for Zed,https://github.com/mage-os-lab/zed-magento2-snippets,"Magento 2 and Hyvä snippets for the Zed editor that cover the boilerplate you write every day, from phtml headers and CSP script tags to layout XML, di.xml, and system.xml."
 Security,,Official Magento Security Center,https://helpx.adobe.com/security.html,"The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes"
 Security,,MageReport.com,https://www.magereport.com/,Scan your Magento shop for known security vulnerabilities
 Security,,Magento Malware Scanner,https://github.com/gwillem/magento-malware-scanner,"Scanner, signatures and the largest Magento malware collection on earth"
