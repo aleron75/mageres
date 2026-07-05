@@ -582,6 +582,7 @@ Extensions,,Magento 2 Selective Cache,https://github.com/mcspronko/selective-cac
 Extensions,,Magento 2 Configurator,https://github.com/ctidigital/magento2-configurator,A Magento module for creating and maintaining database variables from files. It allows you to share and collaborate on versioned configurations and split them by environment.
 Extensions,Hyvä,Siteation - Hyvä CMS Product Grid,https://github.com/Siteation/hyva-cms-product-grid,A Hyvä CMS module that offers an easy-to-use component for displaying product grids directly within your storefront's CMS pages and blocks. Requires a Hyvä Commerce license.
 Extensions,,Bold Commerce - Magento 2 Model Time Machine,https://github.com/boldcommerce/magento2-model-timemachine,This module tracks changes on models and logs these changes to a database table.
+Extensions,Mage-OS,MageOS Admin User Time Zone Module for Magento 2,https://github.com/mage-os-lab/module-admin-user-time-zone,Per-user timezone support for Magento 2 Admin Panel.
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
