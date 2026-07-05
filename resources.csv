@@ -585,6 +585,7 @@ Extensions,Hyvä,Siteation - Hyvä CMS Product Grid,https://github.com/Siteation
 Extensions,,Bold Commerce - Magento 2 Model Time Machine,https://github.com/boldcommerce/magento2-model-timemachine,This module tracks changes on models and logs these changes to a database table.
 Extensions,Mage-OS,MageOS Admin User Time Zone Module for Magento 2,https://github.com/mage-os-lab/module-admin-user-time-zone,Per-user timezone support for Magento 2 Admin Panel.
 Extensions,Mage-OS,MageOS PageBuilder Suite,https://mage-os-lab.github.io/pagebuilder-suite-doc/,A collection of Magento 2 modules designed to extend and enhance the native PageBuilder and widget experience.
+Extensions,,Orangecat B2B Suite,https://github.com/olivertar/m2_b2bsdk,"A comprehensive B2B suite providing company accounts, custom pricing, credit payments, purchase approvals, quick ordering, RMAs, sales reps, and customer-specific catalog, shipping, and payment rules."
 Testing,,Tdd Wizard Repository,https://github.com/tddwizard,A collection of libraries and exercises for the Test Driven Development Magento course by Fabian Schmengler
 Testing,,ReachDigital Magento 2 Performance tuned integration tests,https://github.com/ho-nl/magento2-ReachDigital_TestFramework,Boots up the integration test framework in less than 300ms when caches are primed.
 Testing,,Yireo Codeception utilities for Magento 2,https://github.com/yireo/magento2-codeception-utilities,A package containing utilities for using Codeception in Magento 2.
