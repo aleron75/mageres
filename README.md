@@ -873,13 +873,13 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [How to Deploy a Magento 2 Project](https://deployer.org/docs/7.x/recipe/magento2) - A Deployer 7.x recipe for deploying a Magento 2 project.
 * [List of all dispatched events](https://cyrillschumacher.com/magento-2.4-list-of-all-dispatched-events/) - A cheat sheet that lists all dispatched events in Magento 2.4.
 * [Mage2DB.com](https://mage2db.com/) - Magento 2.x Learning & Knowledge & Troubleshooting
+* [Magento 2 Articles](https://www.mag-manager.com/useful-articles/) - Useful Articles will provide you with important details on how to set-up and manage your Magento store more effectively.
 * [Magento 2 BFCache Patches](https://github.com/GrimLink/magento-patch-bfcache) - A repository providing a collection of patches to enable and optimise Back/Forward Cache (BFCache) support in Magento 2. The patches are based on the work from Magento 2 PR #40750.
 * [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
 * [Magento 2 Delete Test Data](https://gist.github.com/leek/f7fd2c41668b0f8a0a5f6e5209fe8f4e) - A set of Magento 2 scripts to delete test data.
 * [Magento 2 Less Diagram](https://github.com/adexandros/magento2-less-diagram) - A diagram by Andrea D’Urso to help understand how Magento less import and compilation work.
 * [Magento 2 Quick Tips ebook](https://resources.fooman.com/ebooks/Magento-2-Quick-Tips-ebook-by-Fooman.pdf) - Quick tips from Fooman to easier Magento 2 development.
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) - Example on how Magento 2 project should look like in a repository
-* [Magento 2 Tutorials](https://www.mag-manager.com/magento-2-tutorials/) - Easy to follow guides that will help you dive into Magento 2 specifics and familiarize yourself with basic concepts.
 * [Magento 2 zero-downtime deployment GitHub actions](https://github.com/marketplace/actions/magento-2-actions) - Do a Magento 2 zero-downtime deployment using GitHub actions.
 * [Magento Cheat Sheets](https://cheatography.com/tag/magento/) - A collection of cheat sheets for Magento 2
 * [Magento Kubernetes - A complete guide](https://clickandmortar.github.io/magento-kubernetes/) - A getting started guide to easily deploy Magento / Adobe Commerce on Kubernetes
