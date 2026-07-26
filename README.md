@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![851 resources](https://img.shields.io/badge/resources-851-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![850 resources](https://img.shields.io/badge/resources-850-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -115,7 +115,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [M2 Certification Study Guides](https://github.com/df2k2/m2cert) - Magento2 Study Guides in MD syntax for note-taking while researching and studying each of the exam topics
 * [Magento 2 Associate Developer Exam notes](https://docs.google.com/document/d/1t61AugL-wE2B7uBzw5ak_ZQTo3Yju_sjb42ecjnWkpc/edit) - A collection of notes about Magento 2 Associate Developer Exam.
 * [Magento 2 Certified Professional Developer notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
-* [Magento Certification](https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce) - Adobe Magento Commerce certifications
 * [Magento Certification Integration FAQ](https://express.adobe.com/page/XQ6iZmLsFsHhi/)
 * [Magento Certified Developer - Cost, Benefits & Steps](https://m.academy/blog/magento-certified-developer/) - Explore the benefits and costs of becoming a Magento-certified developer, including the steps to get an Adobe Commerce certification.
 * [Resources for the Magento 2 Certified Professional Front End Developer exam](https://github.com/fisheye-academy/m2cpfed-training) - Slide decks used internally at Fisheye to help them prepare for taking the Magento 2 front end certification
