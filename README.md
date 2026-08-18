@@ -870,7 +870,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Fix the order item list in customized order/invoice email templates](https://gist.github.com/peterjaap/6dc68f12a9ce38f6d826ada89747fa3f) - A set of queries that fix the order item list in customized order/invoice email templates.
 * [How to Deploy a Magento 2 Project](https://deployer.org/docs/7.x/recipe/magento2) - A Deployer 7.x recipe for deploying a Magento 2 project.
 * [List of all dispatched events](https://cyrillschumacher.com/magento-2.4-list-of-all-dispatched-events/) - A cheat sheet that lists all dispatched events in Magento 2.4.
-* [Mage2DB.com](https://mage2db.com/) - Magento 2.x Learning & Knowledge & Troubleshooting
+* [Mage2DB.com](https://mage2db.com/db/) - Magento 2.x Learning & Knowledge & Troubleshooting
 * [Magento 2 Articles](https://www.mag-manager.com/useful-articles/) - Useful Articles will provide you with important details on how to set-up and manage your Magento store more effectively.
 * [Magento 2 BFCache Patches](https://github.com/GrimLink/magento-patch-bfcache) - A repository providing a collection of patches to enable and optimise Back/Forward Cache (BFCache) support in Magento 2. The patches are based on the work from Magento 2 PR #40750.
 * [Magento 2 Cache Cheat Sheet](https://gist.github.com/scottsb/ed3058501520aa092675f763e2b93f9b)
