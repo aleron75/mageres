@@ -366,8 +366,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Custom Fees for Magento 2](https://github.com/JosephLeedy/magento2-module-custom-fees) - This extension allows the addition of fixed or percentage-based checkout fees, which can be applied globally or to specific products, categories, or customer groups. This functionality can be handy for charging for gift wrapping, handling, or other services.​
 * [Custom Flat Fee Shipping Rates](https://github.com/magepal/magento2-custom-shipping-rate) - This extension adds custom flat fee shipping rates to admin order creation or displays a simple list of flat rates to customers.
 * [CustomGento_CliTaxEditor](https://github.com/customgento/module-cli-tax-editor-m2) - Magento 2 module, which provides new console commands to edit the tax configuration.
-* [CustomGento_Cookiebot
-](https://github.com/customgento/module-cookiebot-m2) - A Magento 2 module that integrates Cookiebot into your store.
+* [CustomGento_Cookiebot](https://github.com/customgento/module-cookiebot-m2) - A Magento 2 module that integrates Cookiebot into your store.
 * [Custom Product Relation Sample Extension](https://github.com/magepal/magento2-link-product) - This extension creates a new product accessory relationship in addition to the default ones.
 * [CyberSource for Magento 2](https://github.com/ParadoxLabs-Inc/cybersource) - This extension brings CyberSource’s enterprise payment services to Magento 2.
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
@@ -377,7 +376,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [DevAll_TableRates Module](https://github.com/developersalliance/module-table-rates) - This extension enhances the default Magento functionality for managing shipping table rates by providing a user-friendly interface for viewing and managing table rates.
 * [Devall_Wholesale](https://github.com/developersalliance/module-wholesale) - This extension allows the showcase of all simple products in a table grid view, facilitating customers' selection of all their desired items at once.
 * [DevDashboard2](https://github.com/magento-hackathon/DevDashboard2) - The DevDashboard2 project is a developer-focused dashboard for Magento 2, created during a Magento Hackathon. It provides a centralized interface to access and manage useful developer tools, logs, caches, indexes, and system information. Its goal is to streamline the developer experience by offering quick access to common Magento 2 backend functions in a user-friendly way.
-
 * [Developer Toolbar by vpietri](https://github.com/vpietri/magento2-developer-quickdevbar) - The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running.
 * [Disable Change Email Extension for Magento 2](https://github.com/wubinworks/disable-change-email) - This extension enhances account security by preventing customers from changing their registered email addresses through the storefront. It removes or disables the email change option in the customer account area, helping merchants maintain consistent user identification and reduce potential fraud or account misuse.
 * [DisableLog2 for Magento 2](https://github.com/yireo/Yireo_DisableLog2) - This module disables various log attempts of the Magento core, improving performance slightly.
@@ -479,11 +477,9 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 CORS](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on GraphQL and REST APIs
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) - A Cron Job Manager Module by Ethan Yehuda
 * [Magento 2 Cron Schedule extension Free](https://github.com/mageplaza/magento-2-cron-schedule) - Helps you to execute tasks with no effort from the Admin Panel. 
-* [Magento 2 Customer Session Timeout Popup
-](https://github.com/enanobots/m2-customer-timeout-popup) - This module displays a popup to the customer indicating the number of seconds remaining until they are automatically logged out of the system.
+* [Magento 2 Customer Session Timeout Popup](https://github.com/enanobots/m2-customer-timeout-popup) - This module displays a popup to the customer indicating the number of seconds remaining until they are automatically logged out of the system.
 * [Magento 2 Database Seeder](https://github.com/run-as-root/magento-2-seeder) - Populate your dev environment with realistic products, categories, customers, orders, CMS content, reviews, cart rules, wishlists, and newsletter subscribers using a Laravel-style database seeding tool.
-* [Magento 2 Data GridsJS
-](https://github.com/Genaker/magento_gridjs) - A Magento 2 extension for GridJS and DataTable integration with Magento 2.
+* [Magento 2 Data GridsJS](https://github.com/Genaker/magento_gridjs) - A Magento 2 extension for GridJS and DataTable integration with Magento 2.
 * [Magento 2 DataPatchCreator](https://github.com/qoliber/m2-datapatchcreator) - This tool simplifies the creation of Magento 2 data patches. It automates boilerplate code generation for patch classes, saving developers time and reducing errors when implementing setup data changes like attribute creation or configuration updates.
 * [Magento 2 DataPatchCreator - Compatibility for MarkShust SimpleData](https://github.com/enanobots/m2-datapatchcreator-simpledata) - A compatibility extension to use with Magento 2 DataPatchCreator and MarkShust_SimpleData extensions.
 * [Magento 2 Debug Helper](https://github.com/shkoliar/magento-debug-helper) - Automatic breakpoints on PhpStorm based on search parameters.
@@ -633,8 +629,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Wagento Prune Customer](https://bitbucket.org/wagento-global/prune-customer-accounts/) - An extension that adds CLI commands to prune SPAM customers.
 * [WebAPI Logs](https://github.com/ghostunicorns/module-webapi-logs) - This extension helps developers and administrators monitor, debug, and analyze API interactions by capturing and logging comprehensive data such as request payloads, response content, timestamps, and error details.
 * [Well-Known Change Password for Magento 2](https://github.com/jbrada/module-well-known-change-password) - This extension implements the .well-known/change-password W3C specification, facilitating seamless redirection to the customer password change page. This integration enhances compatibility with password managers, enabling them to automatically locate the password reset URL, thereby improving user experience and security.
-* [Yireo - Magento 2 Category Extended
-](https://github.com/yireo/Yireo_CategoryExtended) - This module seamlessly integrates CMS pages and custom URLs into your Magento 2 category structure, allowing you to create a more versatile and informative menu for your customers. 
+* [Yireo - Magento 2 Category Extended](https://github.com/yireo/Yireo_CategoryExtended) - This module seamlessly integrates CMS pages and custom URLs into your Magento 2 category structure, allowing you to create a more versatile and informative menu for your customers. 
 * [Yireo AdditionalBlockTemplate](https://github.com/yireo/Yireo_AdditionalBlockTemplate) - A Magento 2 module to allow for additional templates to be rendered, besides the original template.
 * [Yireo AutoFlushCache](https://github.com/yireo/Yireo_AutoFlushCache) - Automatically flush the cache whenever you save something in the System Configuration.
 * [Yireo DevHacks](https://github.com/yireo/Yireo_DevHacks) - Magento 2 module with various hacks and solutions for custom development
@@ -828,7 +823,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Rakesh Jesadiya](https://www.rakeshjesadiya.com/)
 * [Revampix](https://www.revampix.com/)
 * [Rixxo](https://www.rixxo.com/blog/)
-* [Rohan Hapani](https://www.rohanhapani.com/category/magento/magento-2/)
+* [Rohan Hapani](https://www.rohanhapani.com/category/magento-2)
 * [Shero Blog](https://sherocommerce.com/blog/)
 * [Space48 Blog](https://www.space48.com/blog/)
 * [SwiftOtter](https://swiftotter.com/technical)
