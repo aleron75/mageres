@@ -3,8 +3,10 @@ name: Check Links Health
 on:
   workflow_dispatch:
   push:
-    branches:
-      - master
+    paths:
+      - 'README.md'
+  #  branches:
+  #    - master
   schedule:
     - cron:  '0 1 * * 0' # * is a special character in YAML so you have to quote this string
 
