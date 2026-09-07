@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![860 resources](https://img.shields.io/badge/resources-860-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![859 resources](https://img.shields.io/badge/resources-859-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -871,7 +871,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [DDEV configuration for Magento 2](https://github.com/jellesiderius/ddev-magento2-setup) - A step-by-step guide for setting up DDEV for Magento 2.
 * [Deployer recipe for Magento 2](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Michał Giza’s Deployer recipe for Magento 2.
 * [E-commerce Gorilla](http://www.ecommercegorilla.com/category/magento-e-commerce-platform/)
-* [Fishpig's Magento Tutorials](https://fishpig.co.uk/magento/tutorials/)
 * [Fix the order item list in customized order/invoice email templates](https://gist.github.com/peterjaap/6dc68f12a9ce38f6d826ada89747fa3f) - A set of queries that fix the order item list in customized order/invoice email templates.
 * [How to Deploy a Magento 2 Project](https://deployer.org/docs/7.x/recipe/magento2) - A Deployer 7.x recipe for deploying a Magento 2 project.
 * [List of all dispatched events](https://cyrillschumacher.com/magento-2.4-list-of-all-dispatched-events/) - A cheat sheet that lists all dispatched events in Magento 2.4.
