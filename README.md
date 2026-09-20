@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![859 resources](https://img.shields.io/badge/resources-859-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![858 resources](https://img.shields.io/badge/resources-858-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -278,7 +278,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ## Security
 
 * [Adobe Security Notification Service](https://www.adobe.com/subscription/adbeSecurityNotifications.html) - A free e-mail notification service that Adobe uses to send information to customers about the security of Adobe products.
-* [Adobe Vulnerability Disclosure Program and Magento Bug Bounty Program](https://hackerone.com/adobe?type=team) - The place where you can report new vulnerabilities and get rewards.
 * [End-of-life dates of Magento 2](https://endoflife.date/magento) - End-of-life dates, and support lifecycles of Magento 2
 * [IntegerNet SansecWatch Module](https://github.com/integer-net/magento2-sansec-watch) - This extension by IntegerNet integrates Sansec Watch's Content Security Policy (CSP) rules into Magento 2. It allows Magento to fetch and apply CSP policies from Sansec Watch without manual file modifications or redeployment. The extension retrieves policies via the Sansec Watch API, stores them in a database table, and incorporates them into Magento's existing CSP framework. It also includes features like policy updates through cron jobs, manual updates via the backend or command line, and options to manage the Full Page Cache upon policy changes.
 * [InvalidateAdminPasswords Extension](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords) - A tool by SomethingDigital to invalidate all Magento admin user passwords
