@@ -108,7 +108,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Mage-OS
 
-* [Mage-OS Community modules directory](https://mage-os.org/community-modules-directory/) - A list of extensions developed by members of the Mage-OS ecosystem to enhance the platform’s capabilities.
+* [Mage-OS Community modules directory](https://directory.mage-os.org/) - A list of extensions developed by members of the Mage-OS ecosystem to enhance the platform’s capabilities.
 * [Mage-OS DevDocs](https://devdocs.mage-os.org/) - Mage-OS Developer Guide
 * [Mage-OS Roadmap](https://mage-os.org/product/roadmap/) - See what the community is working on, what's planned, and how you can influence the direction of Mage-OS.
 
