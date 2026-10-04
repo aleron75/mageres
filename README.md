@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![869 resources](https://img.shields.io/badge/resources-869-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![868 resources](https://img.shields.io/badge/resources-868-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -63,7 +63,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 	* [Italy](#italy)
 	* [Netherlands](#netherlands)
 	* [Online](#online)
-	* [Russia](#russia)
 * [Associations](#associations)
 * [Events](#events)
 	* [Conferences](#conferences)
@@ -990,10 +989,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Magento Community Portal](https://developer.adobe.com/open/magento) - Join thousands of community developers working on different projects
 * [Magento Stack Exchange](https://magento.stackexchange.com/) - Q&A site for users of Magento e-Commerce platform
 * [Reddit](https://www.reddit.com/r/Magento/) - Magento Sub-Reddit
-
-### Russia
-
-* [PRO Magento](https://promagento.org) - A community of Russian Magento developers with monthly meetups and Telegram chat
 
 ## Associations
 
