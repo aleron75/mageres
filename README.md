@@ -1,4 +1,4 @@
-# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![867 resources](https://img.shields.io/badge/resources-867-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
+# Magento 2 Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) [![866 resources](https://img.shields.io/badge/resources-866-orange.svg?style=flat)](#table-of-contents) [![Links Health Status](https://github.com/aleron75/mageres/actions/workflows/check-links-health.yml/badge.svg)](https://github.com/aleron75/mageres/actions?query=workflow%3A%22Check+Links+Health%22)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aleron75/mageres/master/media/mageres.png" alt="mageres logo"/>
@@ -764,7 +764,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Adobe Experience Cloud Blog](https://business.adobe.com/blog/tags/commerce)
 * [Aheadworks Blog](https://aheadworks.com/blog/magento-2-extensions)
 * [Alan Kent](https://alankent.me/)
-* [Alan Storm](https://alanstorm.com/category/magento/)
+* [Alan Storm](https://alanastorm.com/category/magento/)
 * [Alexander Turiak](https://zifius.github.io/)
 * [Amasty Blog](https://amasty.com/blog/)
 * [Andrew Smart](https://www.smartiehastheanswer.co.uk/)
@@ -828,7 +828,6 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Pierre Fay](https://www.pierrefay.com/blog.html)
 * [Pinpoint](https://www.pinpointdesigns.co.uk/insights/)
 * [Qaisar Satti](https://blog.qaisarsatti.com/)
-* [Rakesh Jesadiya](https://www.rakeshjesadiya.com/)
 * [Revampix](https://www.revampix.com/)
 * [Rixxo](https://www.rixxo.com/blog/)
 * [Rohan Hapani](https://www.rohanhapani.com/category/magento-2)
@@ -895,7 +894,7 @@ Partytown is a lazy-loaded library to help relocate resource-intensive scripts i
 * [Magento Kubernetes - A complete guide](https://clickandmortar.github.io/magento-kubernetes/) - A getting started guide to easily deploy Magento / Adobe Commerce on Kubernetes
 * [Magento Module LarsRoettig_GraphQLStorePickup](https://github.com/larsroettig-dev/module-graphqlstorepickup) - Example of how to create a GraphQL Endpoint for Magento 2.3
 * [Magento Postman repository](https://github.com/nuzil/magento-postman/) - A storage of Postman collections for Magento
-* [Magento Quickies](https://alanstorm.com/category/programming-quickies/)
+* [Magento Quickies](https://alanastorm.com/category/programming-quickies/)
 * [Magento Snippets and Code Samples](https://makandracards.com/magento)
 * [NGINX – Magento 2 Static files optimization](https://gist.github.com/JeroenBoersma/6ece510192ce4292c79d010284544c56) - An Nginx configuration of Magento that optimizes the handling of static files with Varnish.
 * [Patch Elastic Suite without MSI](https://gist.github.com/peterjaap/978122fa6dd3afa7fc3ce4d1cc78fb2b) - A useful Gist by Peter Jaap Blaakmeer to remove Elastic Suite dependency on MSI modules 
